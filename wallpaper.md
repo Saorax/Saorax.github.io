@@ -60,19 +60,9 @@ layout: wallpaper-layout
 
 <img align="left" src="./nin-wall/feb-cal-kirby/thumbnail.jpg" width="300" height="300" />
 
-### Landscape
+###   Landscape
 
-<a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="AwesomeImage.png">1280x1024</a>
-
-words
-
-words
-
-words
-
-words
-
-words
+<a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="February Kirby Calendar - 1280x1024.png">  1280x1024</a>
 
 
 ## The Super NES Classic Edition
