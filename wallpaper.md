@@ -119,12 +119,6 @@ The wait is finally over. The Super NES Classic Edition system is now available!
 
 <br />
 
-<br />
-
-<br />
-
-<br />
-
 ---
 
 ### Landscape (PC/Tablet)
@@ -147,20 +141,8 @@ The wait is finally over. The Super NES Classic Edition system is now available!
 
 ### About
 
-[DRAGON BALL Xenoverse 2](http://www.nintendo.com/games/detail/dragon-ball-xenoverse-2-switch) arrives on Nintendo Switch™ with all-new functionality!
-
-◆What is [DRAGON BALL Xenoverse 2](http://www.nintendo.com/games/detail/dragon-ball-xenoverse-2-switch)?
+What is [DRAGON BALL Xenoverse 2](http://www.nintendo.com/games/detail/dragon-ball-xenoverse-2-switch)?
 The wait is over. It's time to fight! Become a Time Patroller in order to preserve DRAGON BALL’s history in this unprecedented experience. You are the protagonist! Stand with Goku and his friends as you battle a new enemy that has been warping DRAGON BALL’s history. Fight alongside famous fighters from Z, Super, GT, and more, including movie-only characters like Turles, Broly, and Janemba, the mysterious Masked Saiyan, and many others.
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
 
 ---
 
@@ -177,6 +159,31 @@ The wait is over. It's time to fight! Become a Time Patroller in order to preser
 ---
 
 ---
+## ARMS - Black Theme
+
+<img align="left" src="./nin-wall/arms-black/thumbnail.jpg" width="300" height="300" />
+
+### About ARMS
+
+Fighting superstars from around the world share one thing in common: extendable arms! So fight as never before: equip each arm of each fighter with a super-powered weapon to create a slew of unprecedented combinations. Then use simple motion or button controls to dish out highly strategic beatdowns in 1-on-1, or even 2-on-2 battles!* For more information about the game, visit the [Official Site](http://arms.nintendo.com/).
+
+<br />
+
+---
+
+### Landscape (PC/Tablet)
+
+<a href="./nin-wall/arms-black/Landscape/1280x1024.jpg" download="ARMS - Black Theme (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/arms-black/Landscape/1366x768.jpg" download="ARMS - Black Theme (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/arms-black/Landscape/1920x1080.jpg" download="ARMS - Black Theme (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/arms-black/Landscape/2560x1440.jpg" download="ARMS - Black Theme (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/arms-black/Landscape/3840x2160.jpg" download="ARMS - Black Theme (Landscape) - 3840x2160.png">3840x2160</a>
+
+---
+
+### Portrait (Mobile)
+
+<a href="./nin-wall/arms-black/Portrait/640x1136.jpg" download="ARMS - Black Theme (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/arms-black/Portrait/720x1280.jpg" download="ARMS - Black Theme (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/arms-black/Portrait/750x1334.jpg" download="ARMS - Black Theme (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/arms-black/Portrait/1080x1920.jpg" download="ARMS - Black Theme (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/arms-black/Portrait/1242x2208.jpg" download="ARMS - Black Theme (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/arms-black/Portrait/1440x2560.jpg" download="ARMS - Black Theme (Portrait) - 1440x2560.png">1440x2560</a>
+
+---
+
+---
 
 ## ARMS - Min Min
 
@@ -185,14 +192,6 @@ The wait is over. It's time to fight! Become a Time Patroller in order to preser
 ### About ARMS
 
 Fighting superstars from around the world share one thing in common: extendable arms! So fight as never before: equip each arm of each fighter with a super-powered weapon to create a slew of unprecedented combinations. Then use simple motion or button controls to dish out highly strategic beatdowns in 1-on-1, or even 2-on-2 battles!* For more information about the game, visit the [Official Site](http://arms.nintendo.com/).
-
-<br />
-
-<br />
-
-<br />
-
-<br />
 
 <br />
 
@@ -222,14 +221,6 @@ Fighting superstars from around the world share one thing in common: extendable 
 
 <br />
 
-<br />
-
-<br />
-
-<br />
-
-<br />
-
 ---
 
 ### Landscape (PC/Tablet)
@@ -256,17 +247,9 @@ Extend your unforgettable adventure in Hyrule with The Legend of Zelda: Breath o
 
 The Champions' Ballad DLC Pack 2 contains a new dungeon, an original story, and more challenges. __Now Available__!
 
+<br />
+
 *Full version of game required to use DLC. For more info, please visit the [official site](http://www.zelda.com/breath-of-the-wild/expansion-pass/). 
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
 
 ---
 
@@ -294,17 +277,9 @@ Extend your unforgettable adventure in Hyrule with The Legend of Zelda: Breath o
 
 The Champions' Ballad DLC Pack 2 contains a new dungeon, an original story, and more challenges. __Now Available__!
 
+<br />
+
 *Full version of game required to use DLC. For more info, please visit the [official site](http://www.zelda.com/breath-of-the-wild/expansion-pass/). 
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
 
 ---
 
@@ -332,21 +307,15 @@ Lead Rex, Pyra, and the world to refuge
 
 As the giant beasts march toward death, the last hope is a scavenger named Rex—and Pyra, a living weapon known as a Blade. Can you find the fabled paradise she calls home? Command a group of Blades and lead them to countless strategic victories before the world ends.
 
+<br />
+
+<br />
+
 Each Titan hosts its own distinct cultures, wildlife, and diverse regions to explore. Search the vast open areas and labyrinthine corridors for treasure, secret paths, and creatures to battle and index.
 
 During these escapades you'll get to know a large cast of eclectic characters, including the weaponized life forms known as Blades. Gather these allies, bond with them to increase their power, and utilize their special ARTS to devastate enemies. But to save the world of Alrest, you must first demystify its cloudy past.
 
 For more info, please visit the [official site](https://xenobladechronicles2.nintendo.com/).
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
 
 ---
 
@@ -374,21 +343,15 @@ Lead Rex, Pyra, and the world to refuge
 
 As the giant beasts march toward death, the last hope is a scavenger named Rex—and Pyra, a living weapon known as a Blade. Can you find the fabled paradise she calls home? Command a group of Blades and lead them to countless strategic victories before the world ends.
 
+<br />
+
+<br />
+
 Each Titan hosts its own distinct cultures, wildlife, and diverse regions to explore. Search the vast open areas and labyrinthine corridors for treasure, secret paths, and creatures to battle and index.
 
 During these escapades you'll get to know a large cast of eclectic characters, including the weaponized life forms known as Blades. Gather these allies, bond with them to increase their power, and utilize their special ARTS to devastate enemies. But to save the world of Alrest, you must first demystify its cloudy past.
 
 For more info, please visit the [official site](https://xenobladechronicles2.nintendo.com/).
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
 
 ---
 
@@ -413,18 +376,7 @@ For more info, please visit the [official site](https://xenobladechronicles2.nin
 ### About
 
 A classic Metroid adventure returns, rebuilt from the ground up!
-
-Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in this masterful reimagining of her 1991 Game Boy™ adventure. Samus Aran's arsenal has been enhanced with new moves and abilities that are sure to help her face the deadly surprises that await. This intense, side-scrolling action platformer is a great entry point into the Metroid franchise and perfect for returning fans as well, and it's available only on the Nintendo 3DS family of systems. 
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
+Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in this masterful reimagining of her 1991 Game Boy™ adventure. Samus Aran's arsenal has been enhanced with new moves and abilities that are sure to help her face the deadly surprises that await. This intense, side-scrolling action platformer is a great entry point into the Metroid franchise and perfect for returning fans as well, and it's available only on the Nintendo 3DS family of systems.
 
 ---
 
@@ -449,18 +401,7 @@ Brave the hostile terrain of an alien planet teeming with vicious life forms as 
 ### About
 
 A classic Metroid adventure returns, rebuilt from the ground up!
-
-Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in this masterful reimagining of her 1991 Game Boy™ adventure. Samus Aran's arsenal has been enhanced with new moves and abilities that are sure to help her face the deadly surprises that await. This intense, side-scrolling action platformer is a great entry point into the Metroid franchise and perfect for returning fans as well, and it's available only on the Nintendo 3DS family of systems. 
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
+Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in this masterful reimagining of her 1991 Game Boy™ adventure. Samus Aran's arsenal has been enhanced with new moves and abilities that are sure to help her face the deadly surprises that await. This intense, side-scrolling action platformer is a great entry point into the Metroid franchise and perfect for returning fans as well, and it's available only on the Nintendo 3DS family of systems.
 
 ---
 
@@ -487,16 +428,6 @@ Brave the hostile terrain of an alien planet teeming with vicious life forms as 
 Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! [Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
 Enjoying the song? Download a short, free version of Jump Up, Super Star! [here](http://supermario.com)!
 
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
 ---
 
 ### Landscape (PC/Tablet)
@@ -521,16 +452,6 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 
 Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! [Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
 Enjoying the song? Download a short, free version of Jump Up, Super Star! [here](http://supermario.com)!
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
 
 ---
 
@@ -557,16 +478,6 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! [Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
 Enjoying the song? Download a short, free version of Jump Up, Super Star! [here](http://supermario.com)!
 
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
 ---
 
 ### Landscape (PC/Tablet)
@@ -590,10 +501,6 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 ### About
 
 The wait is finally over. The Super NES Classic Edition system is now available! Play 20 classic Super NES games, plus the never-before-released Star Fox™ 2 game. For more information about the game, visit [official site](https://www.nintendo.com/super-nes-classic).
-
-<br />
-
-<br />
 
 <br />
 
@@ -630,12 +537,6 @@ From the team that brought you Sonic Colors and Generations, comes the next exci
 
 <br />
 
-<br />
-
-<br />
-
-<br />
-
 ---
 
 ### Landscape (PC/Tablet)
@@ -663,21 +564,18 @@ From the team that brought you Sonic Colors and Generations, comes the next exci
 ### About
 
 Pokémon Crystal is back and brimming with new features on Jan. 26, 2018 Originally released for the Game Boy™ Color system in 2000, the Pokémon™ Crystal game added several new features to the Pokémon franchise. For the first time, players could choose a female or male character, Pokémon battles featured animation, and more. And now, this Virtual Console release invites you to explore the Johto region again—or for the first time.
+
 • Experience an adventure through Johto based on the Pokémon Gold and Pokémon Silver games, but with updated features and added story elements.
+
 • Get the chance to encounter the Mythical Pokémon Celebi in an event after completing the main adventure.
+
 • Meet the mysterious character Eusine and find out how he’s linked to the Legendary Pokémon Suicune.
+
 • Battle and trade with friends using local wireless.*
+
 • With the paid service Pokémon Bank, you’ll be able to bring Pokémon you have caught in Pokémon Crystal into the Pokémon Sun, Pokémon Moon, Pokémon Ultra Sun, and Pokémon Ultra Moon games!
+
 For more info, please visit the [Game Store](https://www.nintendo.com/games/detail/pokemon-crystal-version-3ds). 
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
 
 ---
 
@@ -705,18 +603,10 @@ A new light shines on the Alola region!
 
 Take on the role of a Pokémon™ Trainer and unravel the mystery of the Legendary Pokémon Necrozma's new forms: Dusk Mane Necrozma in the Pokémon Ultra Sun game and Dawn Wings Necrozma in the Pokémon Ultra Moon game. You can encounter and battle 400+ Pokémon, including new forms. A brand-new showdown awaits!
 
+<br />
+
 Discover the Legendary Pokémon Solgaleo and Lunala's new Z-Moves and their mysterious connection to the Legendary Pokémon Necrozma. Then venture into Ultra Wormholes to explore the Ultra Beasts' home world, encounter every Legendary Pokémon, and uncover Ultra Megalopolis, a dark world where Necrozma has stolen the light. On the bright side, the Alola region has new activities, and fresh landscapes to explore with some assistance from your powered-up Rotom Dex. You'll need all the help you can get if you're going to stop Giovanni, Ghetsis, and the rest of Team Rainbow Rocket from taking over the Alola region!
 For more info, please visit the [official site](https://www.pokemon-sunmoon.com/ultra/en-us/). 
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
 
 ---
 
@@ -741,17 +631,14 @@ For more info, please visit the [official site](https://www.pokemon-sunmoon.com/
 ### About
 
 Heroes from across the Fire Emblem universe collide!
-Clash with legions of soldiers and fierce monsters as Marth, Xander, Corrin, and other Fire Emblem heroes unleashing over-the-top-powerful Dynasty Warriors-style moves. Take direct control of known and original Fire Emblem characters, issue them strategic commands in the midst of battle, pair up heroes to unleash stunning attacks, and more. Unlock new playable heroes, each with their own unique moves, special attacks, weapon types, and voiced dialogue in this large-scale action game from the Hyrule Warriors team. Fight massive battles as your favorite heroes, anywhere. Fire Emblem Warriors on Nintendo Switch now available.
 
-<br />
+Clash with legions of soldiers and fierce monsters as Marth, Xander, Corrin, and other Fire Emblem heroes unleashing over-the-top-powerful Dynasty Warriors-style moves. 
 
-<br />
+Take direct control of known and original Fire Emblem characters, issue them strategic commands in the midst of battle, pair up heroes to unleash stunning attacks, and more. 
 
-<br />
+Unlock new playable heroes, each with their own unique moves, special attacks, weapon types, and voiced dialogue in this large-scale action game from the Hyrule Warriors team.
 
-<br />
-
-<br />
+Fight massive battles as your favorite heroes, anywhere. Fire Emblem Warriors on Nintendo Switch now available.
 
 ---
 
@@ -775,18 +662,16 @@ Clash with legions of soldiers and fierce monsters as Marth, Xander, Corrin, and
 
 ### About
 
+
 Heroes from across the Fire Emblem universe collide!
-Clash with legions of soldiers and fierce monsters as Marth, Xander, Corrin, and other Fire Emblem heroes unleashing over-the-top-powerful Dynasty Warriors-style moves. Take direct control of known and original Fire Emblem characters, issue them strategic commands in the midst of battle, pair up heroes to unleash stunning attacks, and more. Unlock new playable heroes, each with their own unique moves, special attacks, weapon types, and voiced dialogue in this large-scale action game from the Hyrule Warriors team. Fight massive battles as your favorite heroes, anywhere. Fire Emblem Warriors on Nintendo Switch now available.
 
-<br />
+Clash with legions of soldiers and fierce monsters as Marth, Xander, Corrin, and other Fire Emblem heroes unleashing over-the-top-powerful Dynasty Warriors-style moves. 
 
-<br />
+Take direct control of known and original Fire Emblem characters, issue them strategic commands in the midst of battle, pair up heroes to unleash stunning attacks, and more. 
 
-<br />
+Unlock new playable heroes, each with their own unique moves, special attacks, weapon types, and voiced dialogue in this large-scale action game from the Hyrule Warriors team.
 
-<br />
-
-<br />
+Fight massive battles as your favorite heroes, anywhere. Fire Emblem Warriors on Nintendo Switch now available.
 
 ---
 
