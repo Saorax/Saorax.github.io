@@ -43,7 +43,6 @@ Portrait
 1440x2560
 -->
 # Table of Contents
-<span style="color:white;">
 - [February Calender - Kirby](#february-calender---kirby)
 - ARMS
   - [Black Theme](#arms---black-theme)
@@ -72,7 +71,6 @@ Portrait
 - Fire Emblem Warriors
   - [Shield of Flames](#fire-emblem-warriors--shield-of-flames)
   - [Worlds Unite](#fire-emblem-warriors--worlds-unite)
-</span>
 
 ---
 
