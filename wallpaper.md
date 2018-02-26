@@ -58,12 +58,20 @@ layout: wallpaper-layout
 
 ## February Calender - Kirby
 
-<img align="left" src="./nin-wall/feb-cal-kirby/thumbnail.jpg" width="200" height="200" /> text goes here
+<img align="left" src="./nin-wall/feb-cal-kirby/thumbnail.jpg" width="300" height="300" />
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
-
+words
+words
+words
+words
+words
+words
+words
+words
+words
 ## The Super NES Classic Edition
 
 ## DRAGON BALL Xenoverse 2
