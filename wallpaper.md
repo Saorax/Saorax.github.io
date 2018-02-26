@@ -32,7 +32,6 @@ layout: wallpaper-layout
   - [Worlds Unite](#fire-emblem-warriors--worlds-unite)
   
 ---
----
 
 ## February Calender - Kirby
 
