@@ -57,7 +57,8 @@ layout: wallpaper-layout
 ---
 
 ## February Calender - Kirby
-![](./nin-wall/feb-cal-kirby/thumbnail.jpg) > This is a blockquote following a header.
+<img src="./nin-wall/feb-cal-kirby/thumbnail.jpg" style="width:50px;height=50px"/>
+> This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
