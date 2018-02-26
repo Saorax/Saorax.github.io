@@ -31,7 +31,7 @@ layout: wallpaper-layout
   - [Shield of Flames](#fire-emblem-warriors--shield-of-flames)
   – [Worlds Unite](#fire-emblem-warriors--worlds-unite)
   
----
+--
 
 ## February Calender - Kirby
 
