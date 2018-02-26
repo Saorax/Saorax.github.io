@@ -1,30 +1,38 @@
 ---
 layout: wallpaper-layout
 ---
-
-## [](#header-2)The Super NES Classic Edition
-## [](#header-2)The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2
-## [](#header-2)The Legend of Zelda: Breath of the Wild – The Master Cycle Zero
-## [](#header-2)Xenoblade Chronicles 2 – Kingdom of Uraya
-## [](#header-2)Xenoblade Chronicles 2 - Argentum Trade Guild
-## [](#header-2)[Wallpaper D] Metroid: Samus Returns
-## [](#header-2)[Wallpaper C] Metroid: Damus Returns
-## [](#header-2)Super Mario Odyssey (white)
-## [](#header-2)Super Mario Odyssey (red)
-## [](#header-2)Super Mario Odyssey (Pixel Mario)
-## [](#header-2)Star Fox™ 2
-## [](#header-2)Sonic Forces
-## [](#header-2)Pokémon Ultra Sun™ and Pokémon Ultra Moon™
-## [](#header-2)Pokémon Crystal
-## [](#header-2)Fire Emblem Warriors – Worlds Unite
-## [](#header-2)Fire Emblem Warriors – Shield of Flames
-## [](#header-2)DRAGON BALL Xenoverse 2
-## [](#header-2)ARMS (Spring Man)
-## [](#header-2)ARMS (Min Min)
-## [](#header-2)ARMS (black)
 ## [](#header-2)February Calendar - Kirby
-## [](#header-2)
-## [](#header-2)
+
+## [arms-black](#header-2)ARMS (Black)
+## [arms-minmin](#header-2)ARMS (Min Min)
+## [arms-springman](#header-2)ARMS (Spring Man)
+
+## [snes-classic](#header-2)The Super NES Classic Edition
+
+## [dbx2](#header-2)DRAGON BALL Xenoverse 2
+
+## [tloz-1](#header-2)The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2
+## [tloz-2](#header-2)The Legend of Zelda: Breath of the Wild – The Master Cycle Zero
+
+## [xc2-1](#header-2)Xenoblade Chronicles 2 - Argentum Trade Guild
+## [xc2-2](#header-2)Xenoblade Chronicles 2 – Kingdom of Uraya
+
+## [metroid-c](#header-2)[Wallpaper C] Metroid: Samus Returns
+## [metroid-d](#header-2)[Wallpaper D] Metroid: Samus Returns
+
+## [smo-1](#header-2)Super Mario Odyssey (red)
+## [smo-2](#header-2)Super Mario Odyssey (white)
+## [smo-3](#header-2)Super Mario Odyssey (Pixel Mario)
+
+## [star-fox-2](#header-2)Star Fox™ 2
+
+## [sonic-forces](#header-2)Sonic Forces
+
+## [pkmn-crystal](#header-2)Pokémon Crystal
+## [pkmn-usum](#header-2)Pokémon Ultra Sun™ and Pokémon Ultra Moon™
+
+## [few-1](#header-2)Fire Emblem Warriors – Shield of Flames
+## [few-2](#header-2)Fire Emblem Warriors – Worlds Unite
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 > This is a blockquote following a header.
