@@ -65,14 +65,23 @@ layout: wallpaper-layout
 > When something is important enough, you do it even if the odds are not in your favor.
 
 words
+
 words
+
 words
+
 words
+
 words
+
 words
+
 words
+
 words
+
 words
+
 ## The Super NES Classic Edition
 
 ## DRAGON BALL Xenoverse 2
