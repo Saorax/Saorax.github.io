@@ -79,14 +79,14 @@ Portrait
 
 ###   Landscape
 
-| <a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="February Kirby Calendar - 1280x1024.png">
-1280x1024</a>           | good swedish fish | nice  |
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| <a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="February Kirby Calendar - 1280x1024.png">1280x1024</a>           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-<a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="February Kirby Calendar - 1280x1024.png">
-1280x1024</a>
+<a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="February Kirby Calendar - 1280x1024.png">1280x1024</a>
  | 
 <a href="./nin-wall/feb-cal-kirby/Landscape/1366x768.jpg" download="February Kirby Calendar - 1366x768.png">1366x768</a>
  | 
