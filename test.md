@@ -1,5 +1,5 @@
 ---
-layout: ./_layouts/wallpaper-layout.html
+layout: wallpaper-layout
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
