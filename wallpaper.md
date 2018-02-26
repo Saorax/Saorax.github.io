@@ -79,10 +79,8 @@ Portrait
 
 ### About
 N/A
-
 ### Landscape (PC/Tablet)
 <a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="February Kirby Calendar (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/feb-cal-kirby/Landscape/1366x768.jpg" download="February Kirby Calendar (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/feb-cal-kirby/Landscape/1920x1080.jpg" download="February Kirby Calendar (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/feb-cal-kirby/Landscape/2560x1440.jpg" download="February Kirby Calendar (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/feb-cal-kirby/Landscape/3840x2160.jpg" download="February Kirby Calendar (Landscape) - 3840x2160.png">3840x2160</a>
-
 ### Portrait (Mobile)
 <a href="./nin-wall/feb-cal-kirby/Portrait/640x1136.jpg" download="February Kirby Calendar (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/feb-cal-kirby/Portrait/720x1280.jpg" download="February Kirby Calendar (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/feb-cal-kirby/Portrait/750x1334.jpg" download="February Kirby Calendar (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/feb-cal-kirby/Portrait/1080x1920.jpg" download="February Kirby Calendar (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/feb-cal-kirby/Portrait/1242x2208.jpg" download="February Kirby Calendar (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/feb-cal-kirby/Portrait/1440x2560.jpg" download="February Kirby Calendar (Portrait) - 1440x2560.png">1440x2560</a>
 
