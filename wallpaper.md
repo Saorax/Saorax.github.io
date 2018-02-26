@@ -125,7 +125,7 @@ The wait is finally over. The Super NES Classic Edition system is now available!
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/snes-classic/Landscape/1280X1024.jpg" download="The Super NES Classic Edition (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/snes-classic/Landscape/1366X768.jpg" download="The Super NES Classic Edition (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/snes-classic/Landscape/1920X1080.jpg" download="The Super NES Classic Edition (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/snes-classic/Landscape/2560X1440.jpg" download="The Super NES Classic Edition (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/fsnes-classic/Landscape/3840X2160.jpg" download="The Super NES Classic Edition (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./nin-wall/snes-classic/Landscape/1280X1024.jpg" download="The Super NES Classic Edition (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/snes-classic/Landscape/1366X768.jpg" download="The Super NES Classic Edition (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/snes-classic/Landscape/1920X1080.jpg" download="The Super NES Classic Edition (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/snes-classic/Landscape/2560X1440.jpg" download="The Super NES Classic Edition (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/snes-classic/Landscape/3840X2160.jpg" download="The Super NES Classic Edition (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
