@@ -144,7 +144,14 @@ The wait is finally over. The Super NES Classic Edition system is now available!
 ### About
 
 What is [DRAGON BALL Xenoverse 2](http://www.nintendo.com/games/detail/dragon-ball-xenoverse-2-switch)?
-The wait is over. It's time to fight! Become a Time Patroller in order to preserve DRAGON BALL’s history in this unprecedented experience. You are the protagonist! Stand with Goku and his friends as you battle a new enemy that has been warping DRAGON BALL’s history. Fight alongside famous fighters from Z, Super, GT, and more, including movie-only characters like Turles, Broly, and Janemba, the mysterious Masked Saiyan, and many others.
+
+The wait is over. It's time to fight! 
+
+Become a Time Patroller in order to preserve DRAGON BALL’s history in this unprecedented experience. 
+
+You are the protagonist! Stand with Goku and his friends as you battle a new enemy that has been warping DRAGON BALL’s history.
+
+Fight alongside famous fighters from Z, Super, GT, and more, including movie-only characters like Turles, Broly, and Janemba, the mysterious Masked Saiyan, and many others.
 
 <br />
 
@@ -169,7 +176,13 @@ The wait is over. It's time to fight! Become a Time Patroller in order to preser
 
 ### About ARMS
 
-Fighting superstars from around the world share one thing in common: extendable arms! So fight as never before: equip each arm of each fighter with a super-powered weapon to create a slew of unprecedented combinations. Then use simple motion or button controls to dish out highly strategic beatdowns in 1-on-1, or even 2-on-2 battles!* For more information about the game, visit the [Official Site](http://arms.nintendo.com/).
+Fighting superstars from around the world share one thing in common: extendable arms! 
+
+So fight as never before: equip each arm of each fighter with a super-powered weapon to create a slew of unprecedented combinations. 
+
+Then use simple motion or button controls to dish out highly strategic beatdowns in 1-on-1, or even 2-on-2 battles!
+
+For more information about the game, visit the [Official Site](http://arms.nintendo.com/).
 
 <br />
 
@@ -195,7 +208,13 @@ Fighting superstars from around the world share one thing in common: extendable 
 
 ### About ARMS
 
-Fighting superstars from around the world share one thing in common: extendable arms! So fight as never before: equip each arm of each fighter with a super-powered weapon to create a slew of unprecedented combinations. Then use simple motion or button controls to dish out highly strategic beatdowns in 1-on-1, or even 2-on-2 battles!* For more information about the game, visit the [Official Site](http://arms.nintendo.com/).
+Fighting superstars from around the world share one thing in common: extendable arms! 
+
+So fight as never before: equip each arm of each fighter with a super-powered weapon to create a slew of unprecedented combinations. 
+
+Then use simple motion or button controls to dish out highly strategic beatdowns in 1-on-1, or even 2-on-2 battles!
+
+For more information about the game, visit the [Official Site](http://arms.nintendo.com/).
 
 <br />
 
@@ -221,7 +240,13 @@ Fighting superstars from around the world share one thing in common: extendable 
 
 ### About ARMS
 
-Fighting superstars from around the world share one thing in common: extendable arms! So fight as never before: equip each arm of each fighter with a super-powered weapon to create a slew of unprecedented combinations. Then use simple motion or button controls to dish out highly strategic beatdowns in 1-on-1, or even 2-on-2 battles!* For more information about the game, visit the [Official Site](http://arms.nintendo.com/).
+Fighting superstars from around the world share one thing in common: extendable arms! 
+
+So fight as never before: equip each arm of each fighter with a super-powered weapon to create a slew of unprecedented combinations. 
+
+Then use simple motion or button controls to dish out highly strategic beatdowns in 1-on-1, or even 2-on-2 battles!
+
+For more information about the game, visit the [Official Site](http://arms.nintendo.com/).
 
 <br />
 
@@ -381,6 +406,10 @@ Brave the hostile terrain of an alien planet teeming with vicious life forms as 
 
 Her mission? Terminate the Metroid menace in this masterful reimagining of her 1991 Game Boy™ adventure. 
 
+<br />
+
+<br />
+
 Samus Aran's arsenal has been enhanced with new moves and abilities that are sure to help her face the deadly surprises that await. 
 
 This intense, side-scrolling action platformer is a great entry point into the Metroid franchise and perfect for returning fans as well, and it's available only on the Nintendo 3DS family of systems.
@@ -413,6 +442,10 @@ Brave the hostile terrain of an alien planet teeming with vicious life forms as 
 
 Her mission? Terminate the Metroid menace in this masterful reimagining of her 1991 Game Boy™ adventure. 
 
+<br />
+
+<br />
+
 Samus Aran's arsenal has been enhanced with new moves and abilities that are sure to help her face the deadly surprises that await. 
 
 This intense, side-scrolling action platformer is a great entry point into the Metroid franchise and perfect for returning fans as well, and it's available only on the Nintendo 3DS family of systems.
@@ -442,6 +475,8 @@ This intense, side-scrolling action platformer is a great entry point into the M
 Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. 
 
 Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! 
+
+<br />
 
 [Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
 
@@ -473,6 +508,8 @@ Explore incredible places far from the Mushroom Kingdom as you join Mario and hi
 
 Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! 
 
+<br />
+
 [Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
 
 Enjoying the song? Download a short, free version of Jump Up, Super Star! [here](http://supermario.com)!
@@ -502,6 +539,8 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. 
 
 Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! 
+
+<br />
 
 [Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
 
@@ -537,10 +576,6 @@ For more information about the game, visit [official site](https://www.nintendo.
 
 <br />
 
-<br />
-
-<br />
-
 ---
 
 ### Landscape (PC/Tablet)
@@ -569,11 +604,8 @@ From the team that brought you Sonic Colors and Generations, comes the next exci
 
 Experience fast-paced action as Modern Sonic, thrilling platforming as Classic Sonic, and utilize powerful new gadgets as your own custom Hero Character. 
 
+<br />
 Help Sonic fight back to reclaim the world from Dr. Eggman and a powerful, mysterious new villain.
-
-<br />
-
-<br />
 
 ---
 
@@ -604,6 +636,8 @@ Help Sonic fight back to reclaim the world from Dr. Eggman and a powerful, myste
 Pokémon Crystal is back and brimming with new features on Jan. 26, 2018 Originally released for the Game Boy™ Color system in 2000, the Pokémon™ Crystal game added several new features to the Pokémon franchise. 
 
 For the first time, players could choose a female or male character, Pokémon battles featured animation, and more. 
+
+<br />
 
 And now, this Virtual Console release invites you to explore the Johto region again—or for the first time.
 
@@ -645,6 +679,7 @@ A new light shines on the Alola region!
 
 Take on the role of a Pokémon™ Trainer and unravel the mystery of the Legendary Pokémon Necrozma's new forms: Dusk Mane Necrozma in the Pokémon Ultra Sun game and Dawn Wings Necrozma in the Pokémon Ultra Moon game. You can encounter and battle 400+ Pokémon, including new forms. A brand-new showdown awaits!
 
+</br >
 Discover the Legendary Pokémon Solgaleo and Lunala's new Z-Moves and their mysterious connection to the Legendary Pokémon Necrozma. Then venture into Ultra Wormholes to explore the Ultra Beasts' home world, encounter every Legendary Pokémon, and uncover Ultra Megalopolis, a dark world where Necrozma has stolen the light. On the bright side, the Alola region has new activities, and fresh landscapes to explore with some assistance from your powered-up Rotom Dex. You'll need all the help you can get if you're going to stop Giovanni, Ghetsis, and the rest of Team Rainbow Rocket from taking over the Alola region!
 For more info, please visit the [official site](https://www.pokemon-sunmoon.com/ultra/en-us/). 
 
