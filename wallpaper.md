@@ -57,9 +57,8 @@ layout: wallpaper-layout
 ---
 
 ## February Calender - Kirby
-[![Proguard](./nin-wall/feb-cal-kirby/thumbnail.jpg)](http://www.thiengo.com.br/proguard-android){: .image-left } Your Text comes here...
 
-<img src="./nin-wall/feb-cal-kirby/thumbnail.jpg" width="200" height="200" />
+<img align="right" src="./nin-wall/feb-cal-kirby/thumbnail.jpg" width="200" height="200" /> text goes here
 
 > This is a blockquote following a header.
 >
