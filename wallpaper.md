@@ -57,6 +57,9 @@ layout: wallpaper-layout
 ---
 
 ## February Calender - Kirby
+
+![](./nin-wall/feb-cal-kirby/thumbnail.jpg =100x20)
+
 <img src="./nin-wall/feb-cal-kirby/thumbnail.jpg" width="200" height="200" />
 
 > This is a blockquote following a header.
