@@ -80,7 +80,18 @@ Portrait
 ###   Landscape
 
 <a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="February Kirby Calendar - 1280x1024.png">
-1280x1024</a> | <a href="./nin-wall/feb-cal-kirby/Landscape/1366x768.jpg" download="February Kirby Calendar - 1366x768.png">1280x1024</a> | <a href="./nin-wall/feb-cal-kirby/Landscape/1920x1080.jpg" download="February Kirby Calendar - 1920x1080.png">1280x1024</a> | 
+1280x1024</a>
+ | 
+<a href="./nin-wall/feb-cal-kirby/Landscape/1366x768.jpg" download="February Kirby Calendar - 1366x768.png">1366x768</a>
+ | 
+<a href="./nin-wall/feb-cal-kirby/Landscape/1920x1080.jpg" download="February Kirby Calendar - 1920x1080.png">1920x1080</a>
+ | 
+<a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="February Kirby Calendar - 1280x1024.png">
+1280x1024</a>
+ | 
+<a href="./nin-wall/feb-cal-kirby/Landscape/1366x768.jpg" download="February Kirby Calendar - 1366x768.png">1366x768</a>
+ | 
+<a href="./nin-wall/feb-cal-kirby/Landscape/1920x1080.jpg" download="February Kirby Calendar - 1920x1080.png">1920x1080</a>
 
 
 ## The Super NES Classic Edition
