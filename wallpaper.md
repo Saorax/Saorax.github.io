@@ -74,13 +74,6 @@ words
 
 words
 
-words
-
-words
-
-words
-
-words
 
 ## The Super NES Classic Edition
 
