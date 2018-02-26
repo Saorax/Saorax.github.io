@@ -77,12 +77,9 @@ Portrait
 
 <img align="left" src="./nin-wall/feb-cal-kirby/thumbnail.jpg" width="300" height="300" />
 
-###   Landscape
-
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | <a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="February Kirby Calendar - 1280x1024.png">1280x1024</a>           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
 
 ## The Super NES Classic Edition
 
