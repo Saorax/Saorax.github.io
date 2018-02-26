@@ -33,7 +33,7 @@ layout: wallpaper-layout
   
 ---
 
-## [](#feb-cal)February Calender - Kirby
+## February Calender - Kirby
 
 ## [](#snes-classic)The Super NES Classic Edition
 
