@@ -119,6 +119,8 @@ The wait is finally over. The Super NES Classic Edition system is now available!
 
 <br />
 
+<br />
+
 ---
 
 ### Landscape (PC/Tablet)
@@ -143,6 +145,8 @@ The wait is finally over. The Super NES Classic Edition system is now available!
 
 What is [DRAGON BALL Xenoverse 2](http://www.nintendo.com/games/detail/dragon-ball-xenoverse-2-switch)?
 The wait is over. It's time to fight! Become a Time Patroller in order to preserve DRAGON BALL’s history in this unprecedented experience. You are the protagonist! Stand with Goku and his friends as you battle a new enemy that has been warping DRAGON BALL’s history. Fight alongside famous fighters from Z, Super, GT, and more, including movie-only characters like Turles, Broly, and Janemba, the mysterious Masked Saiyan, and many others.
+
+<br />
 
 ---
 
@@ -309,8 +313,6 @@ As the giant beasts march toward death, the last hope is a scavenger named Rex�
 
 <br />
 
-<br />
-
 Each Titan hosts its own distinct cultures, wildlife, and diverse regions to explore. Search the vast open areas and labyrinthine corridors for treasure, secret paths, and creatures to battle and index.
 
 During these escapades you'll get to know a large cast of eclectic characters, including the weaponized life forms known as Blades. Gather these allies, bond with them to increase their power, and utilize their special ARTS to devastate enemies. But to save the world of Alrest, you must first demystify its cloudy past.
@@ -345,8 +347,6 @@ As the giant beasts march toward death, the last hope is a scavenger named Rex�
 
 <br />
 
-<br />
-
 Each Titan hosts its own distinct cultures, wildlife, and diverse regions to explore. Search the vast open areas and labyrinthine corridors for treasure, secret paths, and creatures to battle and index.
 
 During these escapades you'll get to know a large cast of eclectic characters, including the weaponized life forms known as Blades. Gather these allies, bond with them to increase their power, and utilize their special ARTS to devastate enemies. But to save the world of Alrest, you must first demystify its cloudy past.
@@ -376,7 +376,14 @@ For more info, please visit the [official site](https://xenobladechronicles2.nin
 ### About
 
 A classic Metroid adventure returns, rebuilt from the ground up!
-Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in this masterful reimagining of her 1991 Game Boy™ adventure. Samus Aran's arsenal has been enhanced with new moves and abilities that are sure to help her face the deadly surprises that await. This intense, side-scrolling action platformer is a great entry point into the Metroid franchise and perfect for returning fans as well, and it's available only on the Nintendo 3DS family of systems.
+
+Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. 
+
+Her mission? Terminate the Metroid menace in this masterful reimagining of her 1991 Game Boy™ adventure. 
+
+Samus Aran's arsenal has been enhanced with new moves and abilities that are sure to help her face the deadly surprises that await. 
+
+This intense, side-scrolling action platformer is a great entry point into the Metroid franchise and perfect for returning fans as well, and it's available only on the Nintendo 3DS family of systems.
 
 ---
 
@@ -401,7 +408,14 @@ Brave the hostile terrain of an alien planet teeming with vicious life forms as 
 ### About
 
 A classic Metroid adventure returns, rebuilt from the ground up!
-Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in this masterful reimagining of her 1991 Game Boy™ adventure. Samus Aran's arsenal has been enhanced with new moves and abilities that are sure to help her face the deadly surprises that await. This intense, side-scrolling action platformer is a great entry point into the Metroid franchise and perfect for returning fans as well, and it's available only on the Nintendo 3DS family of systems.
+
+Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. 
+
+Her mission? Terminate the Metroid menace in this masterful reimagining of her 1991 Game Boy™ adventure. 
+
+Samus Aran's arsenal has been enhanced with new moves and abilities that are sure to help her face the deadly surprises that await. 
+
+This intense, side-scrolling action platformer is a great entry point into the Metroid franchise and perfect for returning fans as well, and it's available only on the Nintendo 3DS family of systems.
 
 ---
 
@@ -425,7 +439,12 @@ Brave the hostile terrain of an alien planet teeming with vicious life forms as 
 
 ### About
 
-Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! [Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
+Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. 
+
+Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! 
+
+[Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
+
 Enjoying the song? Download a short, free version of Jump Up, Super Star! [here](http://supermario.com)!
 
 ---
@@ -450,7 +469,12 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 
 ### About
 
-Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! [Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
+Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. 
+
+Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! 
+
+[Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
+
 Enjoying the song? Download a short, free version of Jump Up, Super Star! [here](http://supermario.com)!
 
 ---
@@ -475,7 +499,12 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 
 ### About
 
-Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! [Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
+Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. 
+
+Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! 
+
+[Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
+
 Enjoying the song? Download a short, free version of Jump Up, Super Star! [here](http://supermario.com)!
 
 ---
@@ -500,7 +529,11 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 
 ### About
 
-The wait is finally over. The Super NES Classic Edition system is now available! Play 20 classic Super NES games, plus the never-before-released Star Fox™ 2 game. For more information about the game, visit [official site](https://www.nintendo.com/super-nes-classic).
+The wait is finally over. 
+
+The Super NES Classic Edition system is now available! Play 20 classic Super NES games, plus the never-before-released Star Fox™ 2 game. 
+
+For more information about the game, visit [official site](https://www.nintendo.com/super-nes-classic).
 
 <br />
 
@@ -530,8 +563,13 @@ The wait is finally over. The Super NES Classic Edition system is now available!
 
 ### About
 
-Join the Uprising
-From the team that brought you Sonic Colors and Generations, comes the next exciting title in the Sonic franchise, Sonic Forces. Experience fast-paced action as Modern Sonic, thrilling platforming as Classic Sonic, and utilize powerful new gadgets as your own custom Hero Character. Help Sonic fight back to reclaim the world from Dr. Eggman and a powerful, mysterious new villain.
+Join the Uprising.
+
+From the team that brought you Sonic Colors and Generations, comes the next exciting title in the Sonic franchise, Sonic Forces.
+
+Experience fast-paced action as Modern Sonic, thrilling platforming as Classic Sonic, and utilize powerful new gadgets as your own custom Hero Character. 
+
+Help Sonic fight back to reclaim the world from Dr. Eggman and a powerful, mysterious new villain.
 
 <br />
 
@@ -563,17 +601,21 @@ From the team that brought you Sonic Colors and Generations, comes the next exci
 
 ### About
 
-Pokémon Crystal is back and brimming with new features on Jan. 26, 2018 Originally released for the Game Boy™ Color system in 2000, the Pokémon™ Crystal game added several new features to the Pokémon franchise. For the first time, players could choose a female or male character, Pokémon battles featured animation, and more. And now, this Virtual Console release invites you to explore the Johto region again—or for the first time.
+Pokémon Crystal is back and brimming with new features on Jan. 26, 2018 Originally released for the Game Boy™ Color system in 2000, the Pokémon™ Crystal game added several new features to the Pokémon franchise. 
 
-• Experience an adventure through Johto based on the Pokémon Gold and Pokémon Silver games, but with updated features and added story elements.
+For the first time, players could choose a female or male character, Pokémon battles featured animation, and more. 
 
-• Get the chance to encounter the Mythical Pokémon Celebi in an event after completing the main adventure.
+And now, this Virtual Console release invites you to explore the Johto region again—or for the first time.
 
-• Meet the mysterious character Eusine and find out how he’s linked to the Legendary Pokémon Suicune.
+  • Experience an adventure through Johto based on the Pokémon Gold and Pokémon Silver games, but with updated features and added story elements.
 
-• Battle and trade with friends using local wireless.*
+  • Get the chance to encounter the Mythical Pokémon Celebi in an event after completing the main adventure.
 
-• With the paid service Pokémon Bank, you’ll be able to bring Pokémon you have caught in Pokémon Crystal into the Pokémon Sun, Pokémon Moon, Pokémon Ultra Sun, and Pokémon Ultra Moon games!
+  • Meet the mysterious character Eusine and find out how he’s linked to the Legendary Pokémon Suicune.
+
+  • Battle and trade with friends using local wireless.*
+
+  • With the paid service Pokémon Bank, you’ll be able to bring Pokémon you have caught in Pokémon Crystal into the Pokémon Sun, Pokémon Moon, Pokémon Ultra Sun, and Pokémon Ultra Moon games!
 
 For more info, please visit the [Game Store](https://www.nintendo.com/games/detail/pokemon-crystal-version-3ds). 
 
@@ -602,8 +644,6 @@ For more info, please visit the [Game Store](https://www.nintendo.com/games/deta
 A new light shines on the Alola region!
 
 Take on the role of a Pokémon™ Trainer and unravel the mystery of the Legendary Pokémon Necrozma's new forms: Dusk Mane Necrozma in the Pokémon Ultra Sun game and Dawn Wings Necrozma in the Pokémon Ultra Moon game. You can encounter and battle 400+ Pokémon, including new forms. A brand-new showdown awaits!
-
-<br />
 
 Discover the Legendary Pokémon Solgaleo and Lunala's new Z-Moves and their mysterious connection to the Legendary Pokémon Necrozma. Then venture into Ultra Wormholes to explore the Ultra Beasts' home world, encounter every Legendary Pokémon, and uncover Ultra Megalopolis, a dark world where Necrozma has stolen the light. On the bright side, the Alola region has new activities, and fresh landscapes to explore with some assistance from your powered-up Rotom Dex. You'll need all the help you can get if you're going to stop Giovanni, Ghetsis, and the rest of Team Rainbow Rocket from taking over the Alola region!
 For more info, please visit the [official site](https://www.pokemon-sunmoon.com/ultra/en-us/). 
