@@ -2,7 +2,7 @@
 layout: wallpaper-layout
 ---
 # Table of Contents
-- [February Calender - Kirby](#feb-cal)
+- [February Calender - Kirby](#xenoblade-chronicles-2---argentum-trade-guild)
 - ARMS
   - Black Theme
   - Min Min
