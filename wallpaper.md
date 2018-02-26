@@ -57,7 +57,9 @@ layout: wallpaper-layout
 ---
 
 ## February Calender - Kirby
-![](./nin-wall/feb-cal-kirby/thumbnail.jpg) > test
+![](./nin-wall/feb-cal-kirby/thumbnail.jpg) > This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
 ## The Super NES Classic Edition
 
