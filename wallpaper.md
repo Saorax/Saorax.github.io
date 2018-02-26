@@ -23,6 +23,23 @@ layout: wallpaper-layout
 ./pkmn-usum = Pokémon Ultra Sun™ and Pokémon Ultra Moon™
 ./few-shield-of-flames = Fire Emblem Warriors – Shield of Flames
 ./few-worlds-unite = Fire Emblem Warriors – Worlds Unite
+--
+Landscape
+--
+1280x1024
+1366x768
+1920x1080
+2560x1440
+3840x2160
+--
+Portrait
+--
+640x1136
+720x1280
+750x1334
+1080x1920
+1242x2208
+1440x2560
 -->
 # Table of Contents
 - [February Calender - Kirby](#february-calender---kirby)
@@ -62,7 +79,13 @@ layout: wallpaper-layout
 
 ###   Landscape
 
-<a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="February Kirby Calendar - 1280x1024.png">  1280x1024</a>
+<a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="February Kirby Calendar - 1280x1024.png">
+1280x1024 | 
+</a><a href="./nin-wall/feb-cal-kirby/Landscape/1366x768.jpg" download="February Kirby Calendar - 1366x768.png">
+1280x1024 | 
+</a><a href="./nin-wall/feb-cal-kirby/Landscape/1920x1080.jpg" download="February Kirby Calendar - 1920x1080.png">
+1280x1024 | 
+</a>
 
 
 ## The Super NES Classic Edition
