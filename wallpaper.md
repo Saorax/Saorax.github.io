@@ -108,7 +108,7 @@ N/A
 ---
 
 ## The Super NES Classic Edition
-./snes-classic = The Super NES Classic Edition
+
 <img align="left" src="./nin-wall/snes-classic/thumbnail.jpg" width="300" height="300" />
 
 ### About
@@ -148,12 +148,6 @@ The wait is finally over. The Super NES Classic Edition system is now available!
 ### About
 
 [DRAGON BALL Xenoverse 2](http://www.nintendo.com/games/detail/dragon-ball-xenoverse-2-switch) arrives on Nintendo Switch™ with all-new functionality!
-
-◆New functionality added just for Nintendo Switch™
-
-・Play with up to 6 players simultaneously over local wireless! In addition to the same great online play, the Nintendo Switch™ version also supports local co-op raid boss battles with up to 6 players and 3 on 3 versus matches.
-・Activate ultimate moves with motion controls! Move the Joy-Con™ in tandem with the on-screen icons to perform the Kamehameha and all sorts of other classic DRAGON BALL moves in battle with your own hands.
-・Supports shared local multiplayer! A single Nintendo Switch™ is all you need to enjoy fast-paced 1 on 1 versus matches wherever you go!
 
 ◆What is [DRAGON BALL Xenoverse 2](http://www.nintendo.com/games/detail/dragon-ball-xenoverse-2-switch)?
 The wait is over. It's time to fight! Become a Time Patroller in order to preserve DRAGON BALL’s history in this unprecedented experience. You are the protagonist! Stand with Goku and his friends as you battle a new enemy that has been warping DRAGON BALL’s history. Fight alongside famous fighters from Z, Super, GT, and more, including movie-only characters like Turles, Broly, and Janemba, the mysterious Masked Saiyan, and many others.
@@ -484,3 +478,328 @@ Brave the hostile terrain of an alien planet teeming with vicious life forms as 
 
 ---
 
+## Super Mario Odyssey (Red Theme)
+
+<img align="left" src="./nin-wall/smo-red/thumbnail.jpg" width="300" height="300" />
+
+### About
+
+Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! [Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
+Enjoying the song? Download a short, free version of Jump Up, Super Star! [here](http://supermario.com)!
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+---
+
+### Landscape (PC/Tablet)
+
+<a href="./nin-wall/smo-red/Landscape/1280x1024.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/smo-red/Landscape/1366x768.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/smo-red/Landscape/1920x1080.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/smo-red/Landscape/2560x1440.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/smo-red/Landscape/3840x2160.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 3840x2160.png">3840x2160</a>
+
+---
+
+### Portrait (Mobile)
+
+<a href="./nin-wall/smo-red/Portrait/640x1136.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/smo-red/Portrait/720x1280.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/smo-red/Portrait/750x1334.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/smo-red/Portrait/1080x1920.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/smo-red/Portrait/1242x2208.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/smo-red/Portrait/1440x2560.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 1440x2560.png">1440x2560</a>
+
+---
+
+---
+
+## Super Mario Odyssey (White Theme)
+
+<img align="left" src="./nin-wall/smo-white/thumbnail.jpg" width="300" height="300" />
+
+### About
+
+Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! [Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
+Enjoying the song? Download a short, free version of Jump Up, Super Star! [here](http://supermario.com)!
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+---
+
+### Landscape (PC/Tablet)
+
+<a href="./nin-wall/smo-white/Landscape/1280x1024.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/smo-white/Landscape/1366x768.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/smo-white/Landscape/1920x1080.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/smo-white/Landscape/2560x1440.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/smo-white/Landscape/3840x2160.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 3840x2160.png">3840x2160</a>
+
+---
+
+### Portrait (Mobile)
+
+<a href="./nin-wall/smo-white/Portrait/640x1136.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/smo-white/Portrait/720x1280.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/smo-white/Portrait/750x1334.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/smo-white/Portrait/1080x1920.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/smo-white/Portrait/1242x2208.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/smo-white/Portrait/1440x2560.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 1440x2560.png">1440x2560</a>
+
+---
+
+---
+
+## Super Mario Odyssey (Pixel Mario)
+
+<img align="left" src="./nin-wall/smo-pixel/thumbnail.jpg" width="300" height="300" />
+
+### About
+
+Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans! [Super Mario Odyssey™](http://supermario.nintendo.com/) is available on Nintendo Switch on October 27, 2017!
+Enjoying the song? Download a short, free version of Jump Up, Super Star! [here](http://supermario.com)!
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+---
+
+### Landscape (PC/Tablet)
+
+<a href="./nin-wall/smo-pixel/Landscape/1280x1024.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/smo-pixel/Landscape/1366x768.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/smo-pixel/Landscape/1920x1080.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/smo-pixel/Landscape/2560x1440.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/smo-pixel/Landscape/3840x2160.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 3840x2160.png">3840x2160</a>
+
+---
+
+### Portrait (Mobile)
+
+<a href="./nin-wall/smo-pixel/Portrait/640x1136.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/smo-pixel/Portrait/720x1280.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/smo-pixel/Portrait/750x1334.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/smo-pixel/Portrait/1080x1920.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/smo-pixel/Portrait/1242x2208.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/smo-pixel/Portrait/1440x2560.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 1440x2560.png">1440x2560</a>
+
+---
+
+---
+
+## Star Fox™ 2
+
+<img align="left" src="./nin-wall/star-fox-2/thumbnail.jpg" width="300" height="300" />
+
+### About
+
+The wait is finally over. The Super NES Classic Edition system is now available! Play 20 classic Super NES games, plus the never-before-released Star Fox™ 2 game. For more information about the game, visit [official site](https://www.nintendo.com/super-nes-classic).
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+---
+
+### Landscape (PC/Tablet)
+
+<a href="./nin-wall/star-fox-2/Landscape/1280x1024.jpg" download="Star Fox™ 2 (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/star-fox-2/Landscape/1366x768.jpg" download="Star Fox™ 2 (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/star-fox-2/Landscape/1920x1080.jpg" download="Star Fox™ 2 (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/star-fox-2/Landscape/2560x1440.jpg" download="Star Fox™ 2 (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/star-fox-2/Landscape/3840x2160.jpg" download="Star Fox™ 2 (Landscape) - 3840x2160.png">3840x2160</a>
+
+---
+
+### Portrait (Mobile)
+
+<a href="./nin-wall/star-fox-2/Portrait/640x1136.jpg" download="Star Fox™ 2 (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/star-fox-2/Portrait/720x1280.jpg" download="Star Fox™ 2 (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/star-fox-2/Portrait/750x1334.jpg" download="Star Fox™ 2 (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/star-fox-2/Portrait/1080x1920.jpg" download="Star Fox™ 2 (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/star-fox-2/Portrait/1242x2208.jpg" download="Star Fox™ 2 (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/star-fox-2/Portrait/1440x2560.jpg" download="Star Fox™ 2 (Portrait) - 1440x2560.png">1440x2560</a>
+
+---
+
+---
+
+## Sonic Forces
+
+<img align="left" src="./nin-wall/sonic-forces/thumbnail.jpg" width="300" height="300" />
+
+### About
+
+Join the Uprising
+From the team that brought you Sonic Colors and Generations, comes the next exciting title in the Sonic franchise, Sonic Forces. Experience fast-paced action as Modern Sonic, thrilling platforming as Classic Sonic, and utilize powerful new gadgets as your own custom Hero Character. Help Sonic fight back to reclaim the world from Dr. Eggman and a powerful, mysterious new villain.
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+---
+
+### Landscape (PC/Tablet)
+
+<a href="./nin-wall/sonic-forces/Landscape/1280x1024.jpg" download="Sonic Forces (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/sonic-forces/Landscape/1366x768.jpg" download="Sonic Forces (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/sonic-forces/Landscape/1920x1080.jpg" download="Sonic Forces (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/sonic-forces/Landscape/2560x1440.jpg" download="Sonic Forces (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/sonic-forces/Landscape/3840x2160.jpg" download="Sonic Forces (Landscape) - 3840x2160.png">3840x2160</a>
+
+---
+
+### Portrait (Heroes) (Mobile)
+
+<a href="./nin-wall/sonic-forces/Portrait - Heroes/640x1136.jpg" download="Sonic Forces (Portrait - Heroes) - 640x1136.png">640x1136</a> | <a href="./nin-wall/sonic-forces/Portrait - Heroes/720x1280.jpg" download="Sonic Forces (Portrait - Heroes) - 720x1280.png">720x1280</a> | <a href="./nin-wall/sonic-forces/Portrait - Heroes/750x1334.jpg" download="Sonic Forces (Portrait - Heroes) - 750x1334.png">750x1334</a> | <a href="./nin-wall/sonic-forces/Portrait - Heroes/1080x1920.jpg" download="Sonic Forces (Portrait - Heroes) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/sonic-forces/Portrait - Heroes/1242x2208.jpg" download="Sonic Forces (Portrait - Heroes) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/sonic-forces/Portrait - Heroes/1440x2560.jpg" download="Sonic Forces (Portrait - Heroes) - 1440x2560.png">1440x2560</a>
+
+### Portrait (Villains) (Mobile)
+
+<a href="./nin-wall/sonic-forces/Portrait - Villains/640x1136.jpg" download="Sonic Forces (Portrait - Villains) - 640x1136.png">640x1136</a> | <a href="./nin-wall/sonic-forces/Portrait - Villains/720x1280.jpg" download="Sonic Forces (Portrait - Villains) - 720x1280.png">720x1280</a> | <a href="./nin-wall/sonic-forces/Portrait - Villains/750x1334.jpg" download="Sonic Forces (Portrait - Villains) - 750x1334.png">750x1334</a> | <a href="./nin-wall/sonic-forces/Portrait - Villains/1080x1920.jpg" download="Sonic Forces (Portrait - Villains) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/sonic-forces/Portrait - Villains/1242x2208.jpg" download="Sonic Forces (Portrait - Villains) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/sonic-forces/Portrait - Villains/1440x2560.jpg" download="Sonic Forces (Portrait - Villains) - 1440x2560.png">1440x2560</a>
+
+---
+
+---
+
+## Pokémon Crystal
+
+<img align="left" src="./nin-wall/pkmn-crystal/thumbnail.jpg" width="300" height="300" />
+
+### About
+
+Pokémon Crystal is back and brimming with new features on Jan. 26, 2018 Originally released for the Game Boy™ Color system in 2000, the Pokémon™ Crystal game added several new features to the Pokémon franchise. For the first time, players could choose a female or male character, Pokémon battles featured animation, and more. And now, this Virtual Console release invites you to explore the Johto region again—or for the first time.
+• Experience an adventure through Johto based on the Pokémon Gold and Pokémon Silver games, but with updated features and added story elements.
+• Get the chance to encounter the Mythical Pokémon Celebi in an event after completing the main adventure.
+• Meet the mysterious character Eusine and find out how he’s linked to the Legendary Pokémon Suicune.
+• Battle and trade with friends using local wireless.*
+• With the paid service Pokémon Bank, you’ll be able to bring Pokémon you have caught in Pokémon Crystal into the Pokémon Sun, Pokémon Moon, Pokémon Ultra Sun, and Pokémon Ultra Moon games!
+For more info, please visit the [Game Store](https://www.nintendo.com/games/detail/pokemon-crystal-version-3ds). 
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+---
+
+### Landscape (PC/Tablet)
+
+<a href="./nin-wall/pkmn-crystal/Landscape/1280x1024.jpg" download="Pokémon Crystal (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/pkmn-crystal/Landscape/1366x768.jpg" download="Pokémon Crystal (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/pkmn-crystal/Landscape/1920x1080.jpg" download="Pokémon Crystal (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/pkmn-crystal/Landscape/2560x1440.jpg" download="Pokémon Crystal (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/pkmn-crystal/Landscape/3840x2160.jpg" download="Pokémon Crystal (Landscape) - 3840x2160.png">3840x2160</a>
+
+---
+
+### Portrait (Mobile)
+
+<a href="./nin-wall/pkmn-crystal/Portrait/640x1136.jpg" download="Pokémon Crystal (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/pkmn-crystal/Portrait/720x1280.jpg" download="Pokémon Crystal (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/pkmn-crystal/Portrait/750x1334.jpg" download="Pokémon Crystal (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/pkmn-crystal/Portrait/1080x1920.jpg" download="Pokémon Crystal (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/pkmn-crystal/Portrait/1242x2208.jpg" download="Pokémon Crystal (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/pkmn-crystal/Portrait/1440x2560.jpg" download="Pokémon Crystal (Portrait) - 1440x2560.png">1440x2560</a>
+
+---
+
+---
+
+## Pokémon Ultra Sun™ and Pokémon Ultra Moon™
+
+<img align="left" src="./nin-wall/pkmn-usum/thumbnail.jpg" width="300" height="300" />
+
+### About
+
+A new light shines on the Alola region!
+
+Take on the role of a Pokémon™ Trainer and unravel the mystery of the Legendary Pokémon Necrozma's new forms: Dusk Mane Necrozma in the Pokémon Ultra Sun game and Dawn Wings Necrozma in the Pokémon Ultra Moon game. You can encounter and battle 400+ Pokémon, including new forms. A brand-new showdown awaits!
+
+Discover the Legendary Pokémon Solgaleo and Lunala's new Z-Moves and their mysterious connection to the Legendary Pokémon Necrozma. Then venture into Ultra Wormholes to explore the Ultra Beasts' home world, encounter every Legendary Pokémon, and uncover Ultra Megalopolis, a dark world where Necrozma has stolen the light. On the bright side, the Alola region has new activities, and fresh landscapes to explore with some assistance from your powered-up Rotom Dex. You'll need all the help you can get if you're going to stop Giovanni, Ghetsis, and the rest of Team Rainbow Rocket from taking over the Alola region!
+For more info, please visit the [official site](https://www.pokemon-sunmoon.com/ultra/en-us/). 
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+---
+
+### Landscape (PC/Tablet)
+
+<a href="./nin-wall/pkmn-usum/Landscape/1280x1024.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/pkmn-usum/Landscape/1366x768.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/pkmn-usum/Landscape/1920x1080.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/pkmn-usum/Landscape/2560x1440.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/pkmn-usum/Landscape/3840x2160.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 3840x2160.png">3840x2160</a>
+
+---
+
+### Portrait (Mobile)
+
+<a href="./nin-wall/pkmn-usum/Portrait/640x1136.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/pkmn-usum/Portrait/720x1280.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/pkmn-usum/Portrait/750x1334.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/pkmn-usum/Portrait/1080x1920.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/pkmn-usum/Portrait/1242x2208.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/pkmn-usum/Portrait/1440x2560.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 1440x2560.png">1440x2560</a>
+
+---
+
+---
+
+## Fire Emblem Warriors – Shield of Flames
+
+<img align="left" src="./nin-wall/few-shield-of-flames/thumbnail.jpg" width="300" height="300" />
+
+### About
+
+Heroes from across the Fire Emblem universe collide!
+Clash with legions of soldiers and fierce monsters as Marth, Xander, Corrin, and other Fire Emblem heroes unleashing over-the-top-powerful Dynasty Warriors-style moves. Take direct control of known and original Fire Emblem characters, issue them strategic commands in the midst of battle, pair up heroes to unleash stunning attacks, and more. Unlock new playable heroes, each with their own unique moves, special attacks, weapon types, and voiced dialogue in this large-scale action game from the Hyrule Warriors team. Fight massive battles as your favorite heroes, anywhere. Fire Emblem Warriors on Nintendo Switch now available.
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+---
+
+### Landscape (PC/Tablet)
+
+<a href="./nin-wall/few-shield-of-flames/Landscape/1280x1024.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/few-shield-of-flames/Landscape/1366x768.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/few-shield-of-flames/Landscape/1920x1080.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/few-shield-of-flames/Landscape/2560x1440.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/few-shield-of-flames/Landscape/3840x2160.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 3840x2160.png">3840x2160</a>
+
+---
+
+### Portrait (Mobile)
+
+<a href="./nin-wall/few-shield-of-flames/Portrait/640x1136.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/few-shield-of-flames/Portrait/720x1280.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/few-shield-of-flames/Portrait/750x1334.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/few-shield-of-flames/Portrait/1080x1920.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/few-shield-of-flames/Portrait/1242x2208.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/few-shield-of-flames/Portrait/1440x2560.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 1440x2560.png">1440x2560</a>
+
+---
+
+---
+
+## Fire Emblem Warriors – Worlds Unite
+
+<img align="left" src="./nin-wall/worlds-unite/thumbnail.jpg" width="300" height="300" />
+
+### About
+
+Heroes from across the Fire Emblem universe collide!
+Clash with legions of soldiers and fierce monsters as Marth, Xander, Corrin, and other Fire Emblem heroes unleashing over-the-top-powerful Dynasty Warriors-style moves. Take direct control of known and original Fire Emblem characters, issue them strategic commands in the midst of battle, pair up heroes to unleash stunning attacks, and more. Unlock new playable heroes, each with their own unique moves, special attacks, weapon types, and voiced dialogue in this large-scale action game from the Hyrule Warriors team. Fight massive battles as your favorite heroes, anywhere. Fire Emblem Warriors on Nintendo Switch now available.
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+---
+
+### Landscape (PC/Tablet)
+
+<a href="./nin-wall/worlds-unite/Landscape/1280x1024.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/worlds-unite/Landscape/1366x768.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/worlds-unite/Landscape/1920x1080.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/worlds-unite/Landscape/2560x1440.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/worlds-unite/Landscape/3840x2160.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 3840x2160.png">3840x2160</a>
+
+---
+
+### Portrait (Mobile)
+
+<a href="./nin-wall/worlds-unite/Portrait/640x1136.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/worlds-unite/Portrait/720x1280.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/worlds-unite/Portrait/750x1334.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/worlds-unite/Portrait/1080x1920.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/worlds-unite/Portrait/1242x2208.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/worlds-unite/Portrait/1440x2560.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1440x2560.png">1440x2560</a>
+
+---
+
+---
