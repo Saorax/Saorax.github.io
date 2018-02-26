@@ -639,7 +639,6 @@ For the first time, players could choose a female or male character, Pokémon ba
 
 <br />
 
-<br />
 And now, this Virtual Console release invites you to explore the Johto region again—or for the first time.
 
   • Experience an adventure through Johto based on the Pokémon Gold and Pokémon Silver games, but with updated features and added story elements.
