@@ -125,13 +125,13 @@ The wait is finally over. The Super NES Classic Edition system is now available!
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/snes-classic/Landscape/1280x1024.jpg" download="The Super NES Classic Edition (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/snes-classic/Landscape/1366x768.jpg" download="The Super NES Classic Edition (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/snes-classic/Landscape/1920x1080.jpg" download="The Super NES Classic Edition (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/snes-classic/Landscape/2560x1440.jpg" download="The Super NES Classic Edition (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/fsnes-classic/Landscape/3840x2160.jpg" download="The Super NES Classic Edition (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./nin-wall/snes-classic/Landscape/1280X1024.jpg" download="The Super NES Classic Edition (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/snes-classic/Landscape/1366X768.jpg" download="The Super NES Classic Edition (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/snes-classic/Landscape/1920X1080.jpg" download="The Super NES Classic Edition (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/snes-classic/Landscape/2560X1440.jpg" download="The Super NES Classic Edition (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/fsnes-classic/Landscape/3840X2160.jpg" download="The Super NES Classic Edition (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/snes-classic/Portrait/640x1136.jpg" download="The Super NES Classic Edition (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/snes-classic/Portrait/720x1280.jpg" download="The Super NES Classic Edition (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/snes-classic/Portrait/750x1334.jpg" download="The Super NES Classic Edition (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/snes-classic/Portrait/1080x1920.jpg" download="The Super NES Classic Edition (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/snes-classic/Portrait/1242x2208.jpg" download="The Super NES Classic Edition (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/snes-classic/Portrait/1440x2560.jpg" download="The Super NES Classic Edition (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./nin-wall/snes-classic/Portrait/640X1136.jpg" download="The Super NES Classic Edition (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/snes-classic/Portrait/720X1280.jpg" download="The Super NES Classic Edition (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/snes-classic/Portrait/750X1334.jpg" download="The Super NES Classic Edition (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/snes-classic/Portrait/1080X1920.jpg" download="The Super NES Classic Edition (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/snes-classic/Portrait/1242X2208.jpg" download="The Super NES Classic Edition (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/snes-classic/Portrait/1440X2560.jpg" download="The Super NES Classic Edition (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -306,13 +306,13 @@ The Champions' Ballad DLC Pack 2 contains a new dungeon, an original story, and 
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/tloz-botw-master-cycle/Landscape/1280x1024.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/1366x768.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/1920x1080.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/2560x1440.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/3840x2160.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./nin-wall/tloz-botw-master-cycle/Landscape/1280X1024.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/1366X768.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/1920X1080.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/2560X1440.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/3840X2160.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/tloz-botw-master-cycle/Portrait/640x1136.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/720x1280.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/750x1334.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/1080x1920.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/1242x2208.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/1440x2560.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./nin-wall/tloz-botw-master-cycle/Portrait/640X1136.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/720X1280.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/750X1334.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/1080X1920.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/1242X2208.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/1440X2560.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -542,7 +542,7 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/smo-pixel/Landscape/1280x1024.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/smo-pixel/Landscape/1366x768.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/smo-pixel/Landscape/1920x1080.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/smo-pixel/Landscape/2560x1440.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/smo-pixel/Landscape/3840x2160.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./nin-wall/smo-pixel/Landscape/1280X1024.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/smo-pixel/Landscape/1366x768.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/smo-pixel/Landscape/1920x1080.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/smo-pixel/Landscape/2560x1440.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/smo-pixel/Landscape/3840x2160.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
@@ -574,13 +574,13 @@ For more information about the game, visit [official site](https://www.nintendo.
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/star-fox-2/Landscape/1280x1024.jpg" download="Star Fox™ 2 (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/star-fox-2/Landscape/1366x768.jpg" download="Star Fox™ 2 (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/star-fox-2/Landscape/1920x1080.jpg" download="Star Fox™ 2 (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/star-fox-2/Landscape/2560x1440.jpg" download="Star Fox™ 2 (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/star-fox-2/Landscape/3840x2160.jpg" download="Star Fox™ 2 (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./nin-wall/star-fox-2/Landscape/1280X1024.jpg" download="Star Fox™ 2 (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/star-fox-2/Landscape/1366X768.jpg" download="Star Fox™ 2 (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/star-fox-2/Landscape/1920X1080.jpg" download="Star Fox™ 2 (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/star-fox-2/Landscape/2560X1440.jpg" download="Star Fox™ 2 (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/star-fox-2/Landscape/3840X2160.jpg" download="Star Fox™ 2 (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/star-fox-2/Portrait/640x1136.jpg" download="Star Fox™ 2 (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/star-fox-2/Portrait/720x1280.jpg" download="Star Fox™ 2 (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/star-fox-2/Portrait/750x1334.jpg" download="Star Fox™ 2 (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/star-fox-2/Portrait/1080x1920.jpg" download="Star Fox™ 2 (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/star-fox-2/Portrait/1242x2208.jpg" download="Star Fox™ 2 (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/star-fox-2/Portrait/1440x2560.jpg" download="Star Fox™ 2 (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./nin-wall/star-fox-2/Portrait/640X1136.jpg" download="Star Fox™ 2 (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/star-fox-2/Portrait/720X1280.jpg" download="Star Fox™ 2 (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/star-fox-2/Portrait/750X1334.jpg" download="Star Fox™ 2 (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/star-fox-2/Portrait/1080X1920.jpg" download="Star Fox™ 2 (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/star-fox-2/Portrait/1242X2208.jpg" download="Star Fox™ 2 (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/star-fox-2/Portrait/1440X2560.jpg" download="Star Fox™ 2 (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -673,7 +673,7 @@ A new light shines on the Alola region!
 
 Take on the role of a Pokémon™ Trainer and unravel the mystery of the Legendary Pokémon Necrozma's new forms: Dusk Mane Necrozma in the Pokémon Ultra Sun game and Dawn Wings Necrozma in the Pokémon Ultra Moon game. You can encounter and battle 400+ Pokémon, including new forms. A brand-new showdown awaits!
 
-</br >
+<br />
 
 Discover the Legendary Pokémon Solgaleo and Lunala's new Z-Moves and their mysterious connection to the Legendary Pokémon Necrozma. Then venture into Ultra Wormholes to explore the Ultra Beasts' home world, encounter every Legendary Pokémon, and uncover Ultra Megalopolis, a dark world where Necrozma has stolen the light. On the bright side, the Alola region has new activities, and fresh landscapes to explore with some assistance from your powered-up Rotom Dex. You'll need all the help you can get if you're going to stop Giovanni, Ghetsis, and the rest of Team Rainbow Rocket from taking over the Alola region!
 For more info, please visit the [official site](https://www.pokemon-sunmoon.com/ultra/en-us/). 
