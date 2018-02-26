@@ -4,9 +4,9 @@ layout: wallpaper-layout
 # Table of Contents
 - [February Calender - Kirby](#february-calender---kirby)
 - ARMS
-  - [Black Theme](#
-  - Min Min
-  - Spring Man
+  - [Black Theme](#arms---black-theme)
+  - [Min Min](#arms---min-min)
+  - [Spring Man](#arms---spring-man)
 - [SNES Clasic Edition](#the-super-nes-classic-edition)
 - [Dragon Ball Xenoverse 2](#dragon-ball-xenoverse-2)
 - The Legend of Zelda: Breath of the Wild
@@ -25,7 +25,7 @@ layout: wallpaper-layout
 - [Star Fox™ 2](#star-fox-2)
 - [Sonic Forces](#sonic-forces)
 - Pokémon
-  - [Pokémon Crystal])(#pokémon-crystal)
+  - [Pokémon Crystal](#pokémon-crystal)
   - [Pokémon Ultra Sun™ and Pokémon Ultra Moon™](#pokémon-ultra-sun-and-pokémon-ultra-moon)
 - Fire Emblem Warriors
   - [Shield of Flames](#fire-emblem-warriors--shield-of-flames)
