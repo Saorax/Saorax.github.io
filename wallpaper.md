@@ -153,8 +153,6 @@ You are the protagonist! Stand with Goku and his friends as you battle a new ene
 
 Fight alongside famous fighters from Z, Super, GT, and more, including movie-only characters like Turles, Broly, and Janemba, the mysterious Masked Saiyan, and many others.
 
-<br />
-
 ---
 
 ### Landscape (PC/Tablet)
@@ -183,8 +181,6 @@ So fight as never before: equip each arm of each fighter with a super-powered we
 Then use simple motion or button controls to dish out highly strategic beatdowns in 1-on-1, or even 2-on-2 battles!
 
 For more information about the game, visit the [Official Site](http://arms.nintendo.com/).
-
-<br />
 
 ---
 
@@ -216,8 +212,6 @@ Then use simple motion or button controls to dish out highly strategic beatdowns
 
 For more information about the game, visit the [Official Site](http://arms.nintendo.com/).
 
-<br />
-
 ---
 
 ### Landscape (PC/Tablet)
@@ -247,8 +241,6 @@ So fight as never before: equip each arm of each fighter with a super-powered we
 Then use simple motion or button controls to dish out highly strategic beatdowns in 1-on-1, or even 2-on-2 battles!
 
 For more information about the game, visit the [Official Site](http://arms.nintendo.com/).
-
-<br />
 
 ---
 
@@ -576,6 +568,8 @@ For more information about the game, visit [official site](https://www.nintendo.
 
 <br />
 
+<br />
+
 ---
 
 ### Landscape (PC/Tablet)
@@ -680,6 +674,7 @@ A new light shines on the Alola region!
 Take on the role of a Pokémon™ Trainer and unravel the mystery of the Legendary Pokémon Necrozma's new forms: Dusk Mane Necrozma in the Pokémon Ultra Sun game and Dawn Wings Necrozma in the Pokémon Ultra Moon game. You can encounter and battle 400+ Pokémon, including new forms. A brand-new showdown awaits!
 
 </br >
+
 Discover the Legendary Pokémon Solgaleo and Lunala's new Z-Moves and their mysterious connection to the Legendary Pokémon Necrozma. Then venture into Ultra Wormholes to explore the Ultra Beasts' home world, encounter every Legendary Pokémon, and uncover Ultra Megalopolis, a dark world where Necrozma has stolen the light. On the bright side, the Alola region has new activities, and fresh landscapes to explore with some assistance from your powered-up Rotom Dex. You'll need all the help you can get if you're going to stop Giovanni, Ghetsis, and the rest of Team Rainbow Rocket from taking over the Alola region!
 For more info, please visit the [official site](https://www.pokemon-sunmoon.com/ultra/en-us/). 
 
