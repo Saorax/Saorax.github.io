@@ -60,9 +60,9 @@ layout: wallpaper-layout
 
 <img align="left" src="./nin-wall/feb-cal-kirby/thumbnail.jpg" width="300" height="300" />
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Landscape
+
+<a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="AwesomeImage.png">1280x1024</a>
 
 words
 
