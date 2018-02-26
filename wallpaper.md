@@ -57,8 +57,7 @@ layout: wallpaper-layout
 ---
 
 ## February Calender - Kirby
-
-![](./nin-wall/feb-cal-kirby/thumbnail.jpg =100x20)
+[![Proguard](./nin-wall/feb-cal-kirby/thumbnail.jpg)](http://www.thiengo.com.br/proguard-android){: .image-left } Your Text comes here...
 
 <img src="./nin-wall/feb-cal-kirby/thumbnail.jpg" width="200" height="200" />
 
