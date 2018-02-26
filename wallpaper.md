@@ -2,65 +2,69 @@
 layout: wallpaper-layout
 ---
 # Table of Contents
-- [February Calender - Kirby](#xenoblade-chronicles-2---argentum-trade-guild)
+- [February Calender - Kirby](#february-calender---kirby)
 - ARMS
-  - Black Theme
+  - [Black Theme](#
   - Min Min
   - Spring Man
-- SNES Clasic Edition
-- Dragon Ball Xenoverse 2
+- [SNES Clasic Edition](#the-super-nes-classic-edition)
+- [Dragon Ball Xenoverse 2](#dragon-ball-xenoverse-2)
 - The Legend of Zelda: Breath of the Wild
-  - The Champions' Ballad DLC Pack 2
-  - The Master Cycle Zero
+  - [The Champions' Ballad DLC Pack 2](#the-legend-of-zelda-breath-of-the-wild---the-champions-ballad-dlc-pack-2)
+  - [The Master Cycle Zero](#the-legend-of-zelda-breath-of-the-wild--the-master-cycle-zero)
 - Xenoblade Chronicles 2
-  - Argentum Trade Guild
-  - Kingdom of Uraya
+  - [Argentum Trade Guild](#xenoblade-chronicles-2---argentum-trade-guild)
+  - [Kingdom of Uraya](#xenoblade-chronicles-2--kingdom-of-uraya)
 - Metroid: Samus Returns
-  - Wallpaper C
-  - Wallpaper D
+  - [Wallpaper C](#wallpaper-c-metroid-samus-returns)
+  - [Wallpaper D](#wallpaper-d-metroid-samus-returns)
 - Super Mario Odyssey
-  - Red Theme
-  - White Theme
-  - Pixel Mario
-- Star Fox™ 2
-- Sonic Forces
+  - [Red Theme](#super-mario-odyssey-red)
+  - [White Theme](#super-mario-odyssey-white)
+  - [Pixel Mario](#super-mario-odyssey-pixel-mario)
+- [Star Fox™ 2](#star-fox-2)
+- [Sonic Forces](#sonic-forces)
 - Pokémon
-  - Pokémon Crystal
-  - Pokémon Ultra Sun™ and Pokémon Ultra Moon™
+  - [Pokémon Crystal])(#pokémon-crystal)
+  - [Pokémon Ultra Sun™ and Pokémon Ultra Moon™](#pokémon-ultra-sun-and-pokémon-ultra-moon)
 - Fire Emblem Warriors
-  - Shield of Flames
-  – Worlds Unite
+  - [Shield of Flames](#fire-emblem-warriors--shield-of-flames)
+  – [Worlds Unite](#fire-emblem-warriors--worlds-unite)
   
 ---
 
 ## February Calender - Kirby
 
-## [](#snes-classic)The Super NES Classic Edition
+## The Super NES Classic Edition
 
-## [](#dbx2)DRAGON BALL Xenoverse 2
+## DRAGON BALL Xenoverse 2
 
-## [](#tloz-1)The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2
-## [](#tloz-2)The Legend of Zelda: Breath of the Wild – The Master Cycle Zero
+## ARMS - Black Theme
+## ARMS - Min Min
+## ARMS - Spring Man
 
-## [](#xc2-1)Xenoblade Chronicles 2 - Argentum Trade Guild
-## [](#xc2-2)Xenoblade Chronicles 2 – Kingdom of Uraya
+## The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2
+## The Legend of Zelda: Breath of the Wild – The Master Cycle Zero
 
-## [](#metroid-c)[Wallpaper C] Metroid: Samus Returns
-## [](#metroid-d)[Wallpaper D] Metroid: Samus Returns
+## Xenoblade Chronicles 2 - Argentum Trade Guild
+## Xenoblade Chronicles 2 – Kingdom of Uraya
 
-## [](#smo-1)Super Mario Odyssey (red)
-## [](#smo-2)Super Mario Odyssey (white)
-## [](#smo-3)Super Mario Odyssey (Pixel Mario)
+## [Wallpaper C] Metroid: Samus Returns
+## [Wallpaper D] Metroid: Samus Returns
 
-## [](#star-fox-2)Star Fox™ 2
+## Super Mario Odyssey (Red Theme)
+## Super Mario Odyssey (White Theme)
+## Super Mario Odyssey (Pixel Mario)
 
-## [](#sonic-forces)Sonic Forces
+## Star Fox™ 2
 
-## [](#pkmn-crystal)Pokémon Crystal
-## [](#pkmn-usum)Pokémon Ultra Sun™ and Pokémon Ultra Moon™
+## Sonic Forces
 
-## [](#few-1)Fire Emblem Warriors – Shield of Flames
-## [](#few-2)Fire Emblem Warriors – Worlds Unite
+## Pokémon Crystal
+## Pokémon Ultra Sun™ and Pokémon Ultra Moon™
+
+## Fire Emblem Warriors – Shield of Flames
+## Fire Emblem Warriors – Worlds Unite
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 > This is a blockquote following a header.
