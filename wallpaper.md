@@ -248,7 +248,7 @@ Fighting superstars from around the world share one thing in common: extendable 
 
 ## The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2
 
-<img align="left" src="./nin-wall/tloz-pack-2/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./nin-wall/tloz-botw-pack-2/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -272,13 +272,13 @@ The Champions' Ballad DLC Pack 2 contains a new dungeon, an original story, and 
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/tloz-pack-2/Landscape/1280x1024.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/tloz-pack-2/Landscape/1366x768.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/tloz-pack-2/Landscape/1920x1080.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/tloz-pack-2/Landscape/2560x1440.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/tloz-pack-2/Landscape/3840x2160.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./nin-wall/tloz-botw-pack-2/Landscape/1280x1024.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/tloz-botw-pack-2/Landscape/1366x768.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/tloz-botw-pack-2/Landscape/1920x1080.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/tloz-botw-pack-2/Landscape/2560x1440.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/tloz-botw-pack-2/Landscape/3840x2160.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/tloz-pack-2/Portrait/640x1136.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/tloz-pack-2/Portrait/720x1280.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/tloz-pack-2/Portrait/750x1334.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/tloz-pack-2/Portrait/1080x1920.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/tloz-pack-2/Portrait/1242x2208.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/tloz-pack-2/Portrait/1440x2560.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./nin-wall/tloz-botw-pack-2/Portrait/640x1136.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/tloz-botw-pack-2/Portrait/720x1280.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/tloz-botw-pack-2/Portrait/750x1334.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/tloz-botw-pack-2/Portrait/1080x1920.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/tloz-botw-pack-2/Portrait/1242x2208.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/tloz-botw-pack-2/Portrait/1440x2560.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -286,7 +286,7 @@ The Champions' Ballad DLC Pack 2 contains a new dungeon, an original story, and 
 
 ## The Legend of Zelda: Breath of the Wild – The Master Cycle Zero
 
-<img align="left" src="./nin-wall/tloz-master-cycl/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./nin-wall/tloz-botw-master-cycle/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -310,13 +310,13 @@ The Champions' Ballad DLC Pack 2 contains a new dungeon, an original story, and 
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/tloz-master-cycl/Landscape/1280x1024.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/tloz-master-cycl/Landscape/1366x768.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/tloz-master-cycl/Landscape/1920x1080.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/tloz-master-cycl/Landscape/2560x1440.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/tloz-master-cycl/Landscape/3840x2160.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./nin-wall/tloz-botw-master-cycle/Landscape/1280x1024.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/1366x768.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/1920x1080.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/2560x1440.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/3840x2160.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/tloz-master-cycl/Portrait/640x1136.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/tloz-master-cycl/Portrait/720x1280.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/tloz-master-cycl/Portrait/750x1334.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/tloz-master-cycl/Portrait/1080x1920.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/tloz-master-cycl/Portrait/1242x2208.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/tloz-master-cycl/Portrait/1440x2560.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./nin-wall/tloz-botw-master-cycle/Portrait/640x1136.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/720x1280.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/750x1334.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/1080x1920.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/1242x2208.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/1440x2560.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -771,7 +771,7 @@ Clash with legions of soldiers and fierce monsters as Marth, Xander, Corrin, and
 
 ## Fire Emblem Warriors – Worlds Unite
 
-<img align="left" src="./nin-wall/worlds-unite/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./nin-wall/few-worlds-unite/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -792,13 +792,13 @@ Clash with legions of soldiers and fierce monsters as Marth, Xander, Corrin, and
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/worlds-unite/Landscape/1280x1024.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/worlds-unite/Landscape/1366x768.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/worlds-unite/Landscape/1920x1080.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/worlds-unite/Landscape/2560x1440.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/worlds-unite/Landscape/3840x2160.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./nin-wall/few-worlds-unite/Landscape/1280x1024.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/few-worlds-unite/Landscape/1366x768.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/few-worlds-unite/Landscape/1920x1080.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/few-worlds-unite/Landscape/2560x1440.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/few-worlds-unite/Landscape/3840x2160.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/worlds-unite/Portrait/640x1136.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/worlds-unite/Portrait/720x1280.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/worlds-unite/Portrait/750x1334.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/worlds-unite/Portrait/1080x1920.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/worlds-unite/Portrait/1242x2208.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/worlds-unite/Portrait/1440x2560.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./nin-wall/few-worlds-unite/Portrait/640x1136.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/few-worlds-unite/Portrait/720x1280.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/few-worlds-unite/Portrait/750x1334.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/few-worlds-unite/Portrait/1080x1920.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/few-worlds-unite/Portrait/1242x2208.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/few-worlds-unite/Portrait/1440x2560.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
