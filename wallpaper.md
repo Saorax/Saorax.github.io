@@ -3,12 +3,7 @@ layout: wallpaper-layout
 ---
 
 ## [](#header-2)The Super NES Classic Edition
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-## [words](#header-2)The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2
+## [](#header-2)The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2
 ## [](#header-2)The Legend of Zelda: Breath of the Wild – The Master Cycle Zero
 ## [](#header-2)Xenoblade Chronicles 2 – Kingdom of Uraya
 ## [](#header-2)Xenoblade Chronicles 2 - Argentum Trade Guild
@@ -30,6 +25,11 @@ layout: wallpaper-layout
 ## [](#header-2)February Calendar - Kirby
 ## [](#header-2)
 ## [](#header-2)
+
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
 ### [](#header-3)Header 3
 
