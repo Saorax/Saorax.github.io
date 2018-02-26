@@ -2,8 +2,6 @@
 layout: wallpaper-layout
 ---
 
-[style.background]="condition ? 'black':'red'"
-
 <!---
 ./feb-cal-kirby = February Calender - Kirby
 ./snes-classic = The Super NES Classic Edition
