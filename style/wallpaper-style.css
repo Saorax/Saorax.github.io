@@ -1,0 +1,191 @@
+/* MAIN */
+
+body {
+  font-family: "Lato", sans-serif;
+  background-image: url(https://cdn.discordapp.com/attachments/381965805568393217/385143740433432576/magik.png);
+}
+
+.seasons {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+.sidenav {
+  height: 100%;
+  width: 350px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.sidenav a {
+  padding: 10px 25px 50px;
+  font-size: 25px;
+  text-decoration: none;
+  color: #818181;
+  display: block;
+  transition: 1s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  margin-left: 350px;
+  /* Same as the width of the sidenav */
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+  .sidenav a {
+    font-size: 18px;
+  }
+}
+
+/*
+===========================
+*/
+
+/** Seasons **/
+
+/*   Summer  */
+
+.summer {
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.summer-1 {
+  background-color: white;
+  color: black;
+  border: 5px solid #35CE4E;
+}
+
+.summer-1:hover {
+  background-color: #35CE4E;
+  color: white;
+  border: 5px solid white;
+}
+
+/*   Spring  */
+
+.spring {
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  align-content: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.spring-1 {
+  background-color: white;
+  color: black;
+  border: 5px solid #DBDB15;
+}
+
+.spring-1:hover {
+  background-color: #DBDB15;
+  color: white;
+  border: 5px solid white;
+}
+
+/*   Autumn  */
+
+.autumn {
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  align-content: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.autumn-1 {
+  background-color: white;
+  color: black;
+  border: 5px solid #d2691e;
+}
+
+.autumn-1:hover {
+  background-color: #d2691e;
+  color: white;
+  border: 5px solid white;
+}
+
+/*   Winter  */
+
+.winter {
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  align-content: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.winter-1 {
+  background-color: white;
+  color: black;
+  border: 5px solid #7fffd4;
+}
+
+.winter-1:hover {
+  background-color: #7fffd4;
+  color: white;
+  border: 5px solid white;
+}
+
+/* List Link */
+
+.button-list {
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  align-content: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button-list-1 {
+  background-color: white;
+  color: black;
+  border: 5px solid #581845;
+}
+
+.button-list-1:hover {
+  background-color: #581845;
+  color: white;
+  border: 5px solid white;
+}
