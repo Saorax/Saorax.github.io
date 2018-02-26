@@ -57,7 +57,7 @@ layout: wallpaper-layout
 ---
 
 ## February Calender - Kirby
-![](./nin-wall/feb-cal-kirby/thumbnail.jpg)
+![](./nin-wall/feb-cal-kirby/thumbnail.jpg=50x50)
 
 ## The Super NES Classic Edition
 
