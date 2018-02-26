@@ -57,7 +57,7 @@ layout: wallpaper-layout
 ---
 
 ## February Calender - Kirby
-![](https://raw.githubusercontent.com/Saorax/Saorax.github.io/master/nin-wall/feb-cal-kirby/thumbnail.jpg?token=AdOWX6UGKzZM7uBl-qrAgRHbGsew-PMGks5anLs_wA%3D%3D =100x20)
+![](./nin-wall/feb-cal-kirby/thumbnail.jpg) > test
 
 ## The Super NES Classic Edition
 
