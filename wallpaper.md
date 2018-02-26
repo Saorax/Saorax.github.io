@@ -1,11 +1,39 @@
 ---
 layout: wallpaper-layout
 ---
-## [](#header-2)February Calendar - Kirby
+# Table of Contents
+- [feb-cal]February Calender - Kirby
+- ARMS
+  - Black Theme
+  - Min Min
+  - Spring Man
+- SNES Clasic Edition
+- Dragon Ball Xenoverse 2
+- The Legend of Zelda: Breath of the Wild
+  - The Champions' Ballad DLC Pack 2
+  - The Master Cycle Zero
+- Xenoblade Chronicles 2
+  - Argentum Trade Guild
+  - Kingdom of Uraya
+- Metroid: Samus Returns
+  - Wallpaper C
+  - Wallpaper D
+- Super Mario Odyssey
+  - Red Theme
+  - White Theme
+  - Pixel Mario
+- Star Fox™ 2
+- Sonic Forces
+- Pokémon
+  - Pokémon Crystal
+  - Pokémon Ultra Sun™ and Pokémon Ultra Moon™
+- Fire Emblem Warriors
+  - Shield of Flames
+  – Worlds Unite
+  
+---
 
-## [](#arms-black)ARMS (Black)
-## [](#arms-minmin)ARMS (Min Min)
-## [](#arms-springman)ARMS (Spring Man)
+## [](#feb-cal)February Calender - Kirby
 
 ## [](#snes-classic)The Super NES Classic Edition
 
