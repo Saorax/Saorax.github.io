@@ -1,6 +1,29 @@
 ---
 layout: wallpaper-layout
 ---
+<!---
+./feb-cal-kirby = February Calender - Kirby
+./snes-classic = The Super NES Classic Edition
+./dragon-ball-xeno-2 = DRAGON BALL Xenoverse 2
+./arms-black = ARMS - Black Theme
+./arms-min-min = ARMS - Min Min
+./arms-spring-man = ARMS - Spring Man
+./tloz-pack-2 = The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2
+./tloz-master-cycle = The Legend of Zelda: Breath of the Wild – The Master Cycle Zero
+./xc2-argentum = Xenoblade Chronicles 2 - Argentum Trade Guild
+./xc2-uraya = Xenoblade Chronicles 2 – Kingdom of Uraya
+./metroid-c = [Wallpaper C] Metroid: Samus Returns
+./metroid-d = [Wallpaper D] Metroid: Samus Returns
+./smo-red = Super Mario Odyssey (Red Theme)
+./smo-white = Super Mario Odyssey (White Theme)
+./smo-pixel = Super Mario Odyssey (Pixel Mario)
+./star-fox-2 = Star Fox™ 2
+./sonic-forces = Sonic Forces
+./pkmn-crystal = Pokémon Crystal
+./pkmn-usum = Pokémon Ultra Sun™ and Pokémon Ultra Moon™
+./few-shield-of-flames = Fire Emblem Warriors – Shield of Flames
+./few-worlds-unite = Fire Emblem Warriors – Worlds Unite
+-->
 # Table of Contents
 - [February Calender - Kirby](#february-calender---kirby)
 - ARMS
@@ -34,6 +57,7 @@ layout: wallpaper-layout
 ---
 
 ## February Calender - Kirby
+![](./feb-cal-kirby/thumbnail.jpg)
 
 ## The Super NES Classic Edition
 
