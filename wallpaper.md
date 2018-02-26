@@ -29,9 +29,9 @@ layout: wallpaper-layout
   - [Pokémon Ultra Sun™ and Pokémon Ultra Moon™](#pokémon-ultra-sun-and-pokémon-ultra-moon)
 - Fire Emblem Warriors
   - [Shield of Flames](#fire-emblem-warriors--shield-of-flames)
-  – [Worlds Unite](#fire-emblem-warriors--worlds-unite)
+  [Worlds Unite](#fire-emblem-warriors--worlds-unite)
   
---
+---
 
 ## February Calender - Kirby
 
