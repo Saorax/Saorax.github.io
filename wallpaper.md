@@ -76,7 +76,7 @@ Portrait
 
 ## February Calender - Kirby
 
-<img align="left" src="./nin-wall/feb-cal-kirby/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/feb-cal-kirby/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -96,13 +96,13 @@ N/A
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/feb-cal-kirby/Landscape/1280x1024.jpg" download="February Kirby Calendar (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/feb-cal-kirby/Landscape/1366x768.jpg" download="February Kirby Calendar (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/feb-cal-kirby/Landscape/1920x1080.jpg" download="February Kirby Calendar (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/feb-cal-kirby/Landscape/2560x1440.jpg" download="February Kirby Calendar (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/feb-cal-kirby/Landscape/3840x2160.jpg" download="February Kirby Calendar (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/feb-cal-kirby/Landscape/1280x1024.jpg" download="February Kirby Calendar (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/feb-cal-kirby/Landscape/1366x768.jpg" download="February Kirby Calendar (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/feb-cal-kirby/Landscape/1920x1080.jpg" download="February Kirby Calendar (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/feb-cal-kirby/Landscape/2560x1440.jpg" download="February Kirby Calendar (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/feb-cal-kirby/Landscape/3840x2160.jpg" download="February Kirby Calendar (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/feb-cal-kirby/Portrait/640x1136.jpg" download="February Kirby Calendar (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/feb-cal-kirby/Portrait/720x1280.jpg" download="February Kirby Calendar (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/feb-cal-kirby/Portrait/750x1334.jpg" download="February Kirby Calendar (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/feb-cal-kirby/Portrait/1080x1920.jpg" download="February Kirby Calendar (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/feb-cal-kirby/Portrait/1242x2208.jpg" download="February Kirby Calendar (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/feb-cal-kirby/Portrait/1440x2560.jpg" download="February Kirby Calendar (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/feb-cal-kirby/Portrait/640x1136.jpg" download="February Kirby Calendar (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/feb-cal-kirby/Portrait/720x1280.jpg" download="February Kirby Calendar (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/feb-cal-kirby/Portrait/750x1334.jpg" download="February Kirby Calendar (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/feb-cal-kirby/Portrait/1080x1920.jpg" download="February Kirby Calendar (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/feb-cal-kirby/Portrait/1242x2208.jpg" download="February Kirby Calendar (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/feb-cal-kirby/Portrait/1440x2560.jpg" download="February Kirby Calendar (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -110,7 +110,7 @@ N/A
 
 ## The Super NES Classic Edition
 
-<img align="left" src="./nin-wall/snes-classic/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/snes-classic/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -126,13 +126,13 @@ The wait is finally over. The Super NES Classic Edition system is now available!
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/snes-classic/Landscape/1280X1024.jpg" download="The Super NES Classic Edition (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/snes-classic/Landscape/1366X768.jpg" download="The Super NES Classic Edition (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/snes-classic/Landscape/1920X1080.jpg" download="The Super NES Classic Edition (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/snes-classic/Landscape/2560X1440.jpg" download="The Super NES Classic Edition (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/snes-classic/Landscape/3840X2160.jpg" download="The Super NES Classic Edition (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/snes-classic/Landscape/1280X1024.jpg" download="The Super NES Classic Edition (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/snes-classic/Landscape/1366X768.jpg" download="The Super NES Classic Edition (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/snes-classic/Landscape/1920X1080.jpg" download="The Super NES Classic Edition (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/snes-classic/Landscape/2560X1440.jpg" download="The Super NES Classic Edition (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/snes-classic/Landscape/3840X2160.jpg" download="The Super NES Classic Edition (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/snes-classic/Portrait/640X1136.jpg" download="The Super NES Classic Edition (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/snes-classic/Portrait/720X1280.jpg" download="The Super NES Classic Edition (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/snes-classic/Portrait/750X1334.jpg" download="The Super NES Classic Edition (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/snes-classic/Portrait/1080X1920.jpg" download="The Super NES Classic Edition (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/snes-classic/Portrait/1242X2208.jpg" download="The Super NES Classic Edition (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/snes-classic/Portrait/1440X2560.jpg" download="The Super NES Classic Edition (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/snes-classic/Portrait/640X1136.jpg" download="The Super NES Classic Edition (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/snes-classic/Portrait/720X1280.jpg" download="The Super NES Classic Edition (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/snes-classic/Portrait/750X1334.jpg" download="The Super NES Classic Edition (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/snes-classic/Portrait/1080X1920.jpg" download="The Super NES Classic Edition (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/snes-classic/Portrait/1242X2208.jpg" download="The Super NES Classic Edition (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/snes-classic/Portrait/1440X2560.jpg" download="The Super NES Classic Edition (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -140,7 +140,7 @@ The wait is finally over. The Super NES Classic Edition system is now available!
 
 ## DRAGON BALL Xenoverse 2
 
-<img align="left" src="./nin-wall/dragon-ball-xeno-2/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/dragon-ball-xeno-2/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -158,20 +158,20 @@ Fight alongside famous fighters from Z, Super, GT, and more, including movie-onl
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/dragon-ball-xeno-2/Landscape/1280x1024.jpg" download="DRAGON BALL Xenoverse 2 (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/dragon-ball-xeno-2/Landscape/1366x768.jpg" download="DRAGON BALL Xenoverse 2 (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/dragon-ball-xeno-2/Landscape/1920x1080.jpg" download="DRAGON BALL Xenoverse 2 (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/dragon-ball-xeno-2/Landscape/2560x1440.jpg" download="DRAGON BALL Xenoverse 2 (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/dragon-ball-xeno-2/Landscape/3840x2160.jpg" download="DRAGON BALL Xenoverse 2 (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/dragon-ball-xeno-2/Landscape/1280x1024.jpg" download="DRAGON BALL Xenoverse 2 (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/dragon-ball-xeno-2/Landscape/1366x768.jpg" download="DRAGON BALL Xenoverse 2 (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/dragon-ball-xeno-2/Landscape/1920x1080.jpg" download="DRAGON BALL Xenoverse 2 (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/dragon-ball-xeno-2/Landscape/2560x1440.jpg" download="DRAGON BALL Xenoverse 2 (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/dragon-ball-xeno-2/Landscape/3840x2160.jpg" download="DRAGON BALL Xenoverse 2 (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/dragon-ball-xeno-2/Portrait/640x1136.jpg" download="DRAGON BALL Xenoverse 2 (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/dragon-ball-xeno-2/Portrait/720x1280.jpg" download="DRAGON BALL Xenoverse 2 (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/dragon-ball-xeno-2/Portrait/750x1334.jpg" download="DRAGON BALL Xenoverse 2 (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/dragon-ball-xeno-2/Portrait/1080x1920.jpg" download="DRAGON BALL Xenoverse 2 (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/dragon-ball-xeno-2/Portrait/1242x2208.jpg" download="DRAGON BALL Xenoverse 2 (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/dragon-ball-xeno-2/Portrait/1440x2560.jpg" download="DRAGON BALL Xenoverse 2 (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/dragon-ball-xeno-2/Portrait/640x1136.jpg" download="DRAGON BALL Xenoverse 2 (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/dragon-ball-xeno-2/Portrait/720x1280.jpg" download="DRAGON BALL Xenoverse 2 (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/dragon-ball-xeno-2/Portrait/750x1334.jpg" download="DRAGON BALL Xenoverse 2 (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/dragon-ball-xeno-2/Portrait/1080x1920.jpg" download="DRAGON BALL Xenoverse 2 (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/dragon-ball-xeno-2/Portrait/1242x2208.jpg" download="DRAGON BALL Xenoverse 2 (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/dragon-ball-xeno-2/Portrait/1440x2560.jpg" download="DRAGON BALL Xenoverse 2 (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
 ---
 ## ARMS - Black Theme
 
-<img align="left" src="./nin-wall/arms-black/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/arms-black/thumbnail.jpg" width="300" height="300" />
 
 ### About ARMS
 
@@ -187,13 +187,13 @@ For more information about the game, visit the [Official Site](http://arms.ninte
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/arms-black/Landscape/1280x1024.jpg" download="ARMS - Black Theme (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/arms-black/Landscape/1366x768.jpg" download="ARMS - Black Theme (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/arms-black/Landscape/1920x1080.jpg" download="ARMS - Black Theme (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/arms-black/Landscape/2560x1440.jpg" download="ARMS - Black Theme (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/arms-black/Landscape/3840x2160.jpg" download="ARMS - Black Theme (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/arms-black/Landscape/1280x1024.jpg" download="ARMS - Black Theme (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/arms-black/Landscape/1366x768.jpg" download="ARMS - Black Theme (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/arms-black/Landscape/1920x1080.jpg" download="ARMS - Black Theme (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/arms-black/Landscape/2560x1440.jpg" download="ARMS - Black Theme (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/arms-black/Landscape/3840x2160.jpg" download="ARMS - Black Theme (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/arms-black/Portrait/640x1136.jpg" download="ARMS - Black Theme (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/arms-black/Portrait/720x1280.jpg" download="ARMS - Black Theme (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/arms-black/Portrait/750x1334.jpg" download="ARMS - Black Theme (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/arms-black/Portrait/1080x1920.jpg" download="ARMS - Black Theme (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/arms-black/Portrait/1242x2208.jpg" download="ARMS - Black Theme (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/arms-black/Portrait/1440x2560.jpg" download="ARMS - Black Theme (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/arms-black/Portrait/640x1136.jpg" download="ARMS - Black Theme (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/arms-black/Portrait/720x1280.jpg" download="ARMS - Black Theme (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/arms-black/Portrait/750x1334.jpg" download="ARMS - Black Theme (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/arms-black/Portrait/1080x1920.jpg" download="ARMS - Black Theme (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/arms-black/Portrait/1242x2208.jpg" download="ARMS - Black Theme (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/arms-black/Portrait/1440x2560.jpg" download="ARMS - Black Theme (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -201,7 +201,7 @@ For more information about the game, visit the [Official Site](http://arms.ninte
 
 ## ARMS - Min Min
 
-<img align="left" src="./nin-wall/arms-min-min/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/arms-min-min/thumbnail.jpg" width="300" height="300" />
 
 ### About ARMS
 
@@ -217,13 +217,13 @@ For more information about the game, visit the [Official Site](http://arms.ninte
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/arms-min-min/Landscape/1280x1024.jpg" download="ARMS - Min Min (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/arms-min-min/Landscape/1366x768.jpg" download="ARMS - Min Min (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/arms-min-min/Landscape/1920x1080.jpg" download="ARMS - Min Min (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/arms-min-min/Landscape/2560x1440.jpg" download="ARMS - Min Min (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/arms-min-min/Landscape/3840x2160.jpg" download="ARMS - Min Min (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/arms-min-min/Landscape/1280x1024.jpg" download="ARMS - Min Min (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/arms-min-min/Landscape/1366x768.jpg" download="ARMS - Min Min (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/arms-min-min/Landscape/1920x1080.jpg" download="ARMS - Min Min (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/arms-min-min/Landscape/2560x1440.jpg" download="ARMS - Min Min (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/arms-min-min/Landscape/3840x2160.jpg" download="ARMS - Min Min (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/arms-min-min/Portrait/640x1136.jpg" download="ARMS - Min Min (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/arms-min-min/Portrait/720x1280.jpg" download="ARMS - Min Min (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/arms-min-min/Portrait/750x1334.jpg" download="ARMS - Min Min (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/arms-min-min/Portrait/1080x1920.jpg" download="ARMS - Min Min (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/arms-min-min/Portrait/1242x2208.jpg" download="ARMS - Min Min (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/arms-min-min/Portrait/1440x2560.jpg" download="ARMS - Min Min (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/arms-min-min/Portrait/640x1136.jpg" download="ARMS - Min Min (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/arms-min-min/Portrait/720x1280.jpg" download="ARMS - Min Min (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/arms-min-min/Portrait/750x1334.jpg" download="ARMS - Min Min (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/arms-min-min/Portrait/1080x1920.jpg" download="ARMS - Min Min (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/arms-min-min/Portrait/1242x2208.jpg" download="ARMS - Min Min (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/arms-min-min/Portrait/1440x2560.jpg" download="ARMS - Min Min (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -231,7 +231,7 @@ For more information about the game, visit the [Official Site](http://arms.ninte
 
 ## ARMS - Spring Man
 
-<img align="left" src="./nin-wall/arms-spring-man/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/arms-spring-man/thumbnail.jpg" width="300" height="300" />
 
 ### About ARMS
 
@@ -247,13 +247,13 @@ For more information about the game, visit the [Official Site](http://arms.ninte
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/arms-spring-man/Landscape/1280x1024.jpg" download="ARMS - Spring Man (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/arms-spring-man/Landscape/1366x768.jpg" download="ARMS - Spring Man (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/arms-spring-man/Landscape/1920x1080.jpg" download="ARMS - Spring Man (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/arms-spring-man/Landscape/2560x1440.jpg" download="ARMS - Spring Man (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/arms-spring-man/Landscape/3840x2160.jpg" download="ARMS - Spring Man (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/arms-spring-man/Landscape/1280x1024.jpg" download="ARMS - Spring Man (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/arms-spring-man/Landscape/1366x768.jpg" download="ARMS - Spring Man (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/arms-spring-man/Landscape/1920x1080.jpg" download="ARMS - Spring Man (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/arms-spring-man/Landscape/2560x1440.jpg" download="ARMS - Spring Man (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/arms-spring-man/Landscape/3840x2160.jpg" download="ARMS - Spring Man (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/arms-spring-man/Portrait/640x1136.jpg" download="ARMS - Spring Man (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/arms-spring-man/Portrait/720x1280.jpg" download="ARMS - Spring Man (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/arms-spring-man/Portrait/750x1334.jpg" download="ARMS - Spring Man (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/arms-spring-man/Portrait/1080x1920.jpg" download="ARMS - Spring Man (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/arms-spring-man/Portrait/1242x2208.jpg" download="ARMS - Spring Man (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/arms-spring-man/Portrait/1440x2560.jpg" download="ARMS - Spring Man (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/arms-spring-man/Portrait/640x1136.jpg" download="ARMS - Spring Man (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/arms-spring-man/Portrait/720x1280.jpg" download="ARMS - Spring Man (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/arms-spring-man/Portrait/750x1334.jpg" download="ARMS - Spring Man (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/arms-spring-man/Portrait/1080x1920.jpg" download="ARMS - Spring Man (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/arms-spring-man/Portrait/1242x2208.jpg" download="ARMS - Spring Man (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/arms-spring-man/Portrait/1440x2560.jpg" download="ARMS - Spring Man (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -261,7 +261,7 @@ For more information about the game, visit the [Official Site](http://arms.ninte
 
 ## The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2
 
-<img align="left" src="./nin-wall/tloz-botw-pack-2/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/tloz-botw-pack-2/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -277,13 +277,13 @@ The Champions' Ballad DLC Pack 2 contains a new dungeon, an original story, and 
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/tloz-botw-pack-2/Landscape/1280x1024.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/tloz-botw-pack-2/Landscape/1366x768.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/tloz-botw-pack-2/Landscape/1920x1080.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/tloz-botw-pack-2/Landscape/2560x1440.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/tloz-botw-pack-2/Landscape/3840x2160.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/tloz-botw-pack-2/Landscape/1280x1024.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/tloz-botw-pack-2/Landscape/1366x768.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/tloz-botw-pack-2/Landscape/1920x1080.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/tloz-botw-pack-2/Landscape/2560x1440.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/tloz-botw-pack-2/Landscape/3840x2160.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/tloz-botw-pack-2/Portrait/640x1136.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/tloz-botw-pack-2/Portrait/720x1280.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/tloz-botw-pack-2/Portrait/750x1334.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/tloz-botw-pack-2/Portrait/1080x1920.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/tloz-botw-pack-2/Portrait/1242x2208.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/tloz-botw-pack-2/Portrait/1440x2560.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/tloz-botw-pack-2/Portrait/640x1136.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/tloz-botw-pack-2/Portrait/720x1280.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/tloz-botw-pack-2/Portrait/750x1334.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/tloz-botw-pack-2/Portrait/1080x1920.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/tloz-botw-pack-2/Portrait/1242x2208.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/tloz-botw-pack-2/Portrait/1440x2560.jpg" download="The Legend of Zelda: Breath of the Wild - The Champions' Ballad DLC Pack 2 (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -291,7 +291,7 @@ The Champions' Ballad DLC Pack 2 contains a new dungeon, an original story, and 
 
 ## The Legend of Zelda: Breath of the Wild – The Master Cycle Zero
 
-<img align="left" src="./nin-wall/tloz-botw-master-cycle/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/tloz-botw-master-cycle/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -307,13 +307,13 @@ The Champions' Ballad DLC Pack 2 contains a new dungeon, an original story, and 
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/tloz-botw-master-cycle/Landscape/1280X1024.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/1366X768.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/1920X1080.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/2560X1440.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/tloz-botw-master-cycle/Landscape/3840X2160.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/tloz-botw-master-cycle/Landscape/1280X1024.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/tloz-botw-master-cycle/Landscape/1366X768.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/tloz-botw-master-cycle/Landscape/1920X1080.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/tloz-botw-master-cycle/Landscape/2560X1440.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/tloz-botw-master-cycle/Landscape/3840X2160.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/tloz-botw-master-cycle/Portrait/640X1136.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/720X1280.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/750X1334.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/1080X1920.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/1242X2208.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/tloz-botw-master-cycle/Portrait/1440X2560.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/tloz-botw-master-cycle/Portrait/640X1136.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/tloz-botw-master-cycle/Portrait/720X1280.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/tloz-botw-master-cycle/Portrait/750X1334.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/tloz-botw-master-cycle/Portrait/1080X1920.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/tloz-botw-master-cycle/Portrait/1242X2208.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/tloz-botw-master-cycle/Portrait/1440X2560.jpg" download="The Legend of Zelda: Breath of the Wild – The Master Cycle Zero (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -321,7 +321,7 @@ The Champions' Ballad DLC Pack 2 contains a new dungeon, an original story, and 
 
 ## Xenoblade Chronicles 2 - Argentum Trade Guild
 
-<img align="left" src="./nin-wall/xc2-argentum/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/xc2-argentum/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -341,13 +341,13 @@ For more info, please visit the [official site](https://xenobladechronicles2.nin
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/xc2-argentum/Landscape/1280x1024.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/xc2-argentum/Landscape/1366x768.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/xc2-argentum/Landscape/1920x1080.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/xc2-argentum/Landscape/2560x1440.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/xc2-argentum/Landscape/3840x2160.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/xc2-argentum/Landscape/1280x1024.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/xc2-argentum/Landscape/1366x768.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/xc2-argentum/Landscape/1920x1080.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/xc2-argentum/Landscape/2560x1440.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/xc2-argentum/Landscape/3840x2160.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/xc2-argentum/Portrait/640x1136.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/xc2-argentum/Portrait/720x1280.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/xc2-argentum/Portrait/750x1334.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/xc2-argentum/Portrait/1080x1920.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/xc2-argentum/Portrait/1242x2208.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/xc2-argentum/Portrait/1440x2560.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/xc2-argentum/Portrait/640x1136.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/xc2-argentum/Portrait/720x1280.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/xc2-argentum/Portrait/750x1334.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/xc2-argentum/Portrait/1080x1920.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/xc2-argentum/Portrait/1242x2208.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/xc2-argentum/Portrait/1440x2560.jpg" download="Xenoblade Chronicles 2 - Argentum Trade Guild (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -355,7 +355,7 @@ For more info, please visit the [official site](https://xenobladechronicles2.nin
 
 ## Xenoblade Chronicles 2 – Kingdom of Uraya
 
-<img align="left" src="./nin-wall/xc2-uraya/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/xc2-uraya/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -375,13 +375,13 @@ For more info, please visit the [official site](https://xenobladechronicles2.nin
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/xc2-uraya/Landscape/1280x1024.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/xc2-uraya/Landscape/1366x768.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/xc2-uraya/Landscape/1920x1080.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/xc2-uraya/Landscape/2560x1440.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/xc2-uraya/Landscape/3840x2160.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/xc2-uraya/Landscape/1280x1024.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/xc2-uraya/Landscape/1366x768.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/xc2-uraya/Landscape/1920x1080.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/xc2-uraya/Landscape/2560x1440.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/xc2-uraya/Landscape/3840x2160.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/xc2-uraya/Portrait/640x1136.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/xc2-uraya/Portrait/720x1280.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/xc2-uraya/Portrait/750x1334.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/xc2-uraya/Portrait/1080x1920.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/xc2-uraya/Portrait/1242x2208.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/xc2-uraya/Portrait/1440x2560.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/xc2-uraya/Portrait/640x1136.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/xc2-uraya/Portrait/720x1280.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/xc2-uraya/Portrait/750x1334.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/xc2-uraya/Portrait/1080x1920.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/xc2-uraya/Portrait/1242x2208.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/xc2-uraya/Portrait/1440x2560.jpg" download="Xenoblade Chronicles 2 – Kingdom of Uraya (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -389,7 +389,7 @@ For more info, please visit the [official site](https://xenobladechronicles2.nin
 
 ## [Wallpaper C] Metroid: Samus Returns
 
-<img align="left" src="./nin-wall/metroid-c/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/metroid-c/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -411,13 +411,13 @@ This intense, side-scrolling action platformer is a great entry point into the M
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/metroid-c/Landscape/1280x1024.jpg" download="[Wallpaper C] Metroid: Samus Returns (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/metroid-c/Landscape/1366x768.jpg" download="[Wallpaper C] Metroid: Samus Returns (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/metroid-c/Landscape/1920x1080.jpg" download="[Wallpaper C] Metroid: Samus Returns (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/metroid-c/Landscape/2560x1440.jpg" download="[Wallpaper C] Metroid: Samus Returns (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/metroid-c/Landscape/3840x2160.jpg" download="[Wallpaper C] Metroid: Samus Returns (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/metroid-c/Landscape/1280x1024.jpg" download="[Wallpaper C] Metroid: Samus Returns (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/metroid-c/Landscape/1366x768.jpg" download="[Wallpaper C] Metroid: Samus Returns (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/metroid-c/Landscape/1920x1080.jpg" download="[Wallpaper C] Metroid: Samus Returns (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/metroid-c/Landscape/2560x1440.jpg" download="[Wallpaper C] Metroid: Samus Returns (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/metroid-c/Landscape/3840x2160.jpg" download="[Wallpaper C] Metroid: Samus Returns (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/metroid-c/Portrait/640x1136.jpg" download="[Wallpaper C] Metroid: Samus Returns (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/metroid-c/Portrait/720x1280.jpg" download="[Wallpaper C] Metroid: Samus Returns (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/metroid-c/Portrait/750x1334.jpg" download="[Wallpaper C] Metroid: Samus Returns (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/metroid-c/Portrait/1080x1920.jpg" download="[Wallpaper C] Metroid: Samus Returns (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/metroid-c/Portrait/1242x2208.jpg" download="[Wallpaper C] Metroid: Samus Returns (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/metroid-c/Portrait/1440x2560.jpg" download="[Wallpaper C] Metroid: Samus Returns (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/metroid-c/Portrait/640x1136.jpg" download="[Wallpaper C] Metroid: Samus Returns (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/metroid-c/Portrait/720x1280.jpg" download="[Wallpaper C] Metroid: Samus Returns (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/metroid-c/Portrait/750x1334.jpg" download="[Wallpaper C] Metroid: Samus Returns (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/metroid-c/Portrait/1080x1920.jpg" download="[Wallpaper C] Metroid: Samus Returns (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/metroid-c/Portrait/1242x2208.jpg" download="[Wallpaper C] Metroid: Samus Returns (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/metroid-c/Portrait/1440x2560.jpg" download="[Wallpaper C] Metroid: Samus Returns (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -425,7 +425,7 @@ This intense, side-scrolling action platformer is a great entry point into the M
 
 ## [Wallpaper D] Metroid: Samus Returns
 
-<img align="left" src="./nin-wall/metroid-d/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/metroid-d/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -447,13 +447,13 @@ This intense, side-scrolling action platformer is a great entry point into the M
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/metroid-d/Landscape/1280x1024.jpg" download="[Wallpaper D] Metroid: Samus Returns (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/metroid-d/Landscape/1366x768.jpg" download="[Wallpaper D] Metroid: Samus Returns (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/metroid-d/Landscape/1920x1080.jpg" download="[Wallpaper D] Metroid: Samus Returns (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/metroid-d/Landscape/2560x1440.jpg" download="[Wallpaper D] Metroid: Samus Returns (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/metroid-d/Landscape/3840x2160.jpg" download="[Wallpaper D] Metroid: Samus Returns (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/metroid-d/Landscape/1280x1024.jpg" download="[Wallpaper D] Metroid: Samus Returns (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/metroid-d/Landscape/1366x768.jpg" download="[Wallpaper D] Metroid: Samus Returns (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/metroid-d/Landscape/1920x1080.jpg" download="[Wallpaper D] Metroid: Samus Returns (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/metroid-d/Landscape/2560x1440.jpg" download="[Wallpaper D] Metroid: Samus Returns (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/metroid-d/Landscape/3840x2160.jpg" download="[Wallpaper D] Metroid: Samus Returns (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/metroid-d/Portrait/640x1136.jpg" download="[Wallpaper D] Metroid: Samus Returns (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/metroid-d/Portrait/720x1280.jpg" download="[Wallpaper D] Metroid: Samus Returns (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/metroid-d/Portrait/750x1334.jpg" download="[Wallpaper D] Metroid: Samus Returns (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/metroid-d/Portrait/1080x1920.jpg" download="[Wallpaper D] Metroid: Samus Returns (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/metroid-d/Portrait/1242x2208.jpg" download="[Wallpaper D] Metroid: Samus Returns (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/metroid-d/Portrait/1440x2560.jpg" download="[Wallpaper D] Metroid: Samus Returns (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/metroid-d/Portrait/640x1136.jpg" download="[Wallpaper D] Metroid: Samus Returns (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/metroid-d/Portrait/720x1280.jpg" download="[Wallpaper D] Metroid: Samus Returns (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/metroid-d/Portrait/750x1334.jpg" download="[Wallpaper D] Metroid: Samus Returns (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/metroid-d/Portrait/1080x1920.jpg" download="[Wallpaper D] Metroid: Samus Returns (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/metroid-d/Portrait/1242x2208.jpg" download="[Wallpaper D] Metroid: Samus Returns (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/metroid-d/Portrait/1440x2560.jpg" download="[Wallpaper D] Metroid: Samus Returns (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -461,7 +461,7 @@ This intense, side-scrolling action platformer is a great entry point into the M
 
 ## Super Mario Odyssey (Red Theme)
 
-<img align="left" src="./nin-wall/smo-red/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/smo-red/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -479,13 +479,13 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/smo-red/Landscape/1280x1024.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/smo-red/Landscape/1366x768.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/smo-red/Landscape/1920x1080.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/smo-red/Landscape/2560x1440.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/smo-red/Landscape/3840x2160.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/smo-red/Landscape/1280x1024.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/smo-red/Landscape/1366x768.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/smo-red/Landscape/1920x1080.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/smo-red/Landscape/2560x1440.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/smo-red/Landscape/3840x2160.jpg" download="Super Mario Odyssey (Red Theme) (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/smo-red/Portrait/640x1136.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/smo-red/Portrait/720x1280.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/smo-red/Portrait/750x1334.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/smo-red/Portrait/1080x1920.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/smo-red/Portrait/1242x2208.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/smo-red/Portrait/1440x2560.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/smo-red/Portrait/640x1136.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/smo-red/Portrait/720x1280.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/smo-red/Portrait/750x1334.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/smo-red/Portrait/1080x1920.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/smo-red/Portrait/1242x2208.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/smo-red/Portrait/1440x2560.jpg" download="Super Mario Odyssey (Red Theme) (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -493,7 +493,7 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 
 ## Super Mario Odyssey (White Theme)
 
-<img align="left" src="./nin-wall/smo-white/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/smo-white/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -511,13 +511,13 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/smo-white/Landscape/1280x1024.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/smo-white/Landscape/1366x768.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/smo-white/Landscape/1920x1080.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/smo-white/Landscape/2560x1440.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/smo-white/Landscape/3840x2160.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/smo-white/Landscape/1280x1024.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/smo-white/Landscape/1366x768.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/smo-white/Landscape/1920x1080.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/smo-white/Landscape/2560x1440.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/smo-white/Landscape/3840x2160.jpg" download="Super Mario Odyssey (White Theme) (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/smo-white/Portrait/640x1136.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/smo-white/Portrait/720x1280.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/smo-white/Portrait/750x1334.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/smo-white/Portrait/1080x1920.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/smo-white/Portrait/1242x2208.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/smo-white/Portrait/1440x2560.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/smo-white/Portrait/640x1136.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/smo-white/Portrait/720x1280.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/smo-white/Portrait/750x1334.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/smo-white/Portrait/1080x1920.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/smo-white/Portrait/1242x2208.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/smo-white/Portrait/1440x2560.jpg" download="Super Mario Odyssey (White Theme) (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -525,7 +525,7 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 
 ## Super Mario Odyssey (Pixel Mario)
 
-<img align="left" src="./nin-wall/smo-pixel/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/smo-pixel/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -543,13 +543,13 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/smo-pixel/Landscape/1280X1024.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/smo-pixel/Landscape/1366x768.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/smo-pixel/Landscape/1920x1080.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/smo-pixel/Landscape/2560x1440.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/smo-pixel/Landscape/3840x2160.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/smo-pixel/Landscape/1280X1024.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/smo-pixel/Landscape/1366x768.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/smo-pixel/Landscape/1920x1080.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/smo-pixel/Landscape/2560x1440.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/smo-pixel/Landscape/3840x2160.jpg" download="Super Mario Odyssey (Pixel Mario) (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/smo-pixel/Portrait/640x1136.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/smo-pixel/Portrait/720x1280.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/smo-pixel/Portrait/750x1334.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/smo-pixel/Portrait/1080x1920.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/smo-pixel/Portrait/1242x2208.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/smo-pixel/Portrait/1440x2560.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/smo-pixel/Portrait/640x1136.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/smo-pixel/Portrait/720x1280.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/smo-pixel/Portrait/750x1334.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/smo-pixel/Portrait/1080x1920.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/smo-pixel/Portrait/1242x2208.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/smo-pixel/Portrait/1440x2560.jpg" download="Super Mario Odyssey (Pixel Mario) (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -557,7 +557,7 @@ Enjoying the song? Download a short, free version of Jump Up, Super Star! [here]
 
 ## Star Fox™ 2
 
-<img align="left" src="./nin-wall/star-fox-2/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/star-fox-2/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -575,13 +575,13 @@ For more information about the game, visit [official site](https://www.nintendo.
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/star-fox-2/Landscape/1280X1024.jpg" download="Star Fox™ 2 (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/star-fox-2/Landscape/1366X768.jpg" download="Star Fox™ 2 (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/star-fox-2/Landscape/1920X1080.jpg" download="Star Fox™ 2 (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/star-fox-2/Landscape/2560X1440.jpg" download="Star Fox™ 2 (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/star-fox-2/Landscape/3840X2160.jpg" download="Star Fox™ 2 (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/star-fox-2/Landscape/1280X1024.jpg" download="Star Fox™ 2 (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/star-fox-2/Landscape/1366X768.jpg" download="Star Fox™ 2 (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/star-fox-2/Landscape/1920X1080.jpg" download="Star Fox™ 2 (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/star-fox-2/Landscape/2560X1440.jpg" download="Star Fox™ 2 (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/star-fox-2/Landscape/3840X2160.jpg" download="Star Fox™ 2 (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/star-fox-2/Portrait/640X1136.jpg" download="Star Fox™ 2 (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/star-fox-2/Portrait/720X1280.jpg" download="Star Fox™ 2 (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/star-fox-2/Portrait/750X1334.jpg" download="Star Fox™ 2 (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/star-fox-2/Portrait/1080X1920.jpg" download="Star Fox™ 2 (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/star-fox-2/Portrait/1242X2208.jpg" download="Star Fox™ 2 (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/star-fox-2/Portrait/1440X2560.jpg" download="Star Fox™ 2 (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/star-fox-2/Portrait/640X1136.jpg" download="Star Fox™ 2 (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/star-fox-2/Portrait/720X1280.jpg" download="Star Fox™ 2 (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/star-fox-2/Portrait/750X1334.jpg" download="Star Fox™ 2 (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/star-fox-2/Portrait/1080X1920.jpg" download="Star Fox™ 2 (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/star-fox-2/Portrait/1242X2208.jpg" download="Star Fox™ 2 (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/star-fox-2/Portrait/1440X2560.jpg" download="Star Fox™ 2 (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -589,7 +589,7 @@ For more information about the game, visit [official site](https://www.nintendo.
 
 ## Sonic Forces
 
-<img align="left" src="./nin-wall/sonic-forces/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/sonic-forces/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -606,17 +606,17 @@ Help Sonic fight back to reclaim the world from Dr. Eggman and a powerful, myste
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/sonic-forces/Landscape/1280x1024.jpg" download="Sonic Forces (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/sonic-forces/Landscape/1366x768.jpg" download="Sonic Forces (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/sonic-forces/Landscape/1920x1080.jpg" download="Sonic Forces (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/sonic-forces/Landscape/2560x1440.jpg" download="Sonic Forces (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/sonic-forces/Landscape/3840x2160.jpg" download="Sonic Forces (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/sonic-forces/Landscape/1280x1024.jpg" download="Sonic Forces (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/sonic-forces/Landscape/1366x768.jpg" download="Sonic Forces (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/sonic-forces/Landscape/1920x1080.jpg" download="Sonic Forces (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/sonic-forces/Landscape/2560x1440.jpg" download="Sonic Forces (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/sonic-forces/Landscape/3840x2160.jpg" download="Sonic Forces (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Heroes) (Mobile)
 
-<a href="./nin-wall/sonic-forces/Portrait - Heroes/640x1136.jpg" download="Sonic Forces (Portrait - Heroes) - 640x1136.png">640x1136</a> | <a href="./nin-wall/sonic-forces/Portrait - Heroes/720x1280.jpg" download="Sonic Forces (Portrait - Heroes) - 720x1280.png">720x1280</a> | <a href="./nin-wall/sonic-forces/Portrait - Heroes/750x1334.jpg" download="Sonic Forces (Portrait - Heroes) - 750x1334.png">750x1334</a> | <a href="./nin-wall/sonic-forces/Portrait - Heroes/1080x1920.jpg" download="Sonic Forces (Portrait - Heroes) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/sonic-forces/Portrait - Heroes/1242x2208.jpg" download="Sonic Forces (Portrait - Heroes) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/sonic-forces/Portrait - Heroes/1440x2560.jpg" download="Sonic Forces (Portrait - Heroes) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/sonic-forces/Portrait - Heroes/640x1136.jpg" download="Sonic Forces (Portrait - Heroes) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/sonic-forces/Portrait - Heroes/720x1280.jpg" download="Sonic Forces (Portrait - Heroes) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/sonic-forces/Portrait - Heroes/750x1334.jpg" download="Sonic Forces (Portrait - Heroes) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/sonic-forces/Portrait - Heroes/1080x1920.jpg" download="Sonic Forces (Portrait - Heroes) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/sonic-forces/Portrait - Heroes/1242x2208.jpg" download="Sonic Forces (Portrait - Heroes) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/sonic-forces/Portrait - Heroes/1440x2560.jpg" download="Sonic Forces (Portrait - Heroes) - 1440x2560.png">1440x2560</a>
 
 ### Portrait (Villains) (Mobile)
 
-<a href="./nin-wall/sonic-forces/Portrait - Villains/640x1136.jpg" download="Sonic Forces (Portrait - Villains) - 640x1136.png">640x1136</a> | <a href="./nin-wall/sonic-forces/Portrait - Villains/720x1280.jpg" download="Sonic Forces (Portrait - Villains) - 720x1280.png">720x1280</a> | <a href="./nin-wall/sonic-forces/Portrait - Villains/750x1334.jpg" download="Sonic Forces (Portrait - Villains) - 750x1334.png">750x1334</a> | <a href="./nin-wall/sonic-forces/Portrait - Villains/1080x1920.jpg" download="Sonic Forces (Portrait - Villains) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/sonic-forces/Portrait - Villains/1242x2208.jpg" download="Sonic Forces (Portrait - Villains) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/sonic-forces/Portrait - Villains/1440x2560.jpg" download="Sonic Forces (Portrait - Villains) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/sonic-forces/Portrait - Villains/640x1136.jpg" download="Sonic Forces (Portrait - Villains) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/sonic-forces/Portrait - Villains/720x1280.jpg" download="Sonic Forces (Portrait - Villains) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/sonic-forces/Portrait - Villains/750x1334.jpg" download="Sonic Forces (Portrait - Villains) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/sonic-forces/Portrait - Villains/1080x1920.jpg" download="Sonic Forces (Portrait - Villains) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/sonic-forces/Portrait - Villains/1242x2208.jpg" download="Sonic Forces (Portrait - Villains) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/sonic-forces/Portrait - Villains/1440x2560.jpg" download="Sonic Forces (Portrait - Villains) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -624,7 +624,7 @@ Help Sonic fight back to reclaim the world from Dr. Eggman and a powerful, myste
 
 ## Pokémon Crystal
 
-<img align="left" src="./nin-wall/pkmn-crystal/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/pkmn-crystal/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -652,13 +652,13 @@ For more info, please visit the [Game Store](https://www.nintendo.com/games/deta
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/pkmn-crystal/Landscape/1280x1024.jpg" download="Pokémon Crystal (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/pkmn-crystal/Landscape/1366x768.jpg" download="Pokémon Crystal (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/pkmn-crystal/Landscape/1920x1080.jpg" download="Pokémon Crystal (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/pkmn-crystal/Landscape/2560x1440.jpg" download="Pokémon Crystal (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/pkmn-crystal/Landscape/3840x2160.jpg" download="Pokémon Crystal (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/pkmn-crystal/Landscape/1280x1024.jpg" download="Pokémon Crystal (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/pkmn-crystal/Landscape/1366x768.jpg" download="Pokémon Crystal (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/pkmn-crystal/Landscape/1920x1080.jpg" download="Pokémon Crystal (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/pkmn-crystal/Landscape/2560x1440.jpg" download="Pokémon Crystal (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/pkmn-crystal/Landscape/3840x2160.jpg" download="Pokémon Crystal (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/pkmn-crystal/Portrait/640x1136.jpg" download="Pokémon Crystal (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/pkmn-crystal/Portrait/720x1280.jpg" download="Pokémon Crystal (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/pkmn-crystal/Portrait/750x1334.jpg" download="Pokémon Crystal (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/pkmn-crystal/Portrait/1080x1920.jpg" download="Pokémon Crystal (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/pkmn-crystal/Portrait/1242x2208.jpg" download="Pokémon Crystal (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/pkmn-crystal/Portrait/1440x2560.jpg" download="Pokémon Crystal (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/pkmn-crystal/Portrait/640x1136.jpg" download="Pokémon Crystal (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/pkmn-crystal/Portrait/720x1280.jpg" download="Pokémon Crystal (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/pkmn-crystal/Portrait/750x1334.jpg" download="Pokémon Crystal (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/pkmn-crystal/Portrait/1080x1920.jpg" download="Pokémon Crystal (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/pkmn-crystal/Portrait/1242x2208.jpg" download="Pokémon Crystal (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/pkmn-crystal/Portrait/1440x2560.jpg" download="Pokémon Crystal (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -666,7 +666,7 @@ For more info, please visit the [Game Store](https://www.nintendo.com/games/deta
 
 ## Pokémon Ultra Sun™ and Pokémon Ultra Moon™
 
-<img align="left" src="./nin-wall/pkmn-usum/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/pkmn-usum/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -683,13 +683,13 @@ For more info, please visit the [official site](https://www.pokemon-sunmoon.com/
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/pkmn-usum/Landscape/1280x1024.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/pkmn-usum/Landscape/1366x768.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/pkmn-usum/Landscape/1920x1080.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/pkmn-usum/Landscape/2560x1440.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/pkmn-usum/Landscape/3840x2160.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/pkmn-usum/Landscape/1280x1024.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/pkmn-usum/Landscape/1366x768.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/pkmn-usum/Landscape/1920x1080.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/pkmn-usum/Landscape/2560x1440.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/pkmn-usum/Landscape/3840x2160.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/pkmn-usum/Portrait/640x1136.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/pkmn-usum/Portrait/720x1280.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/pkmn-usum/Portrait/750x1334.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/pkmn-usum/Portrait/1080x1920.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/pkmn-usum/Portrait/1242x2208.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/pkmn-usum/Portrait/1440x2560.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/pkmn-usum/Portrait/640x1136.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/pkmn-usum/Portrait/720x1280.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/pkmn-usum/Portrait/750x1334.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/pkmn-usum/Portrait/1080x1920.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/pkmn-usum/Portrait/1242x2208.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/pkmn-usum/Portrait/1440x2560.jpg" download=" Pokémon Ultra Sun™ and Pokémon Ultra Moon™ (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -697,7 +697,7 @@ For more info, please visit the [official site](https://www.pokemon-sunmoon.com/
 
 ## Fire Emblem Warriors – Shield of Flames
 
-<img align="left" src="./nin-wall/few-shield-of-flames/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/few-shield-of-flames/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -715,13 +715,13 @@ Fight massive battles as your favorite heroes, anywhere. Fire Emblem Warriors on
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/few-shield-of-flames/Landscape/1280x1024.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/few-shield-of-flames/Landscape/1366x768.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/few-shield-of-flames/Landscape/1920x1080.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/few-shield-of-flames/Landscape/2560x1440.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/few-shield-of-flames/Landscape/3840x2160.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/few-shield-of-flames/Landscape/1280x1024.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/few-shield-of-flames/Landscape/1366x768.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/few-shield-of-flames/Landscape/1920x1080.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/few-shield-of-flames/Landscape/2560x1440.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/few-shield-of-flames/Landscape/3840x2160.jpg" download="Fire Emblem Warriors – Shield of Flames (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/few-shield-of-flames/Portrait/640x1136.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/few-shield-of-flames/Portrait/720x1280.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/few-shield-of-flames/Portrait/750x1334.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/few-shield-of-flames/Portrait/1080x1920.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/few-shield-of-flames/Portrait/1242x2208.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/few-shield-of-flames/Portrait/1440x2560.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/few-shield-of-flames/Portrait/640x1136.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/few-shield-of-flames/Portrait/720x1280.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/few-shield-of-flames/Portrait/750x1334.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/few-shield-of-flames/Portrait/1080x1920.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/few-shield-of-flames/Portrait/1242x2208.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/few-shield-of-flames/Portrait/1440x2560.jpg" download="Fire Emblem Warriors – Shield of Flames (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
@@ -729,7 +729,7 @@ Fight massive battles as your favorite heroes, anywhere. Fire Emblem Warriors on
 
 ## Fire Emblem Warriors – Worlds Unite
 
-<img align="left" src="./nin-wall/few-worlds-unite/thumbnail.jpg" width="300" height="300" />
+<img align="left" src="./images/nintendo/few-worlds-unite/thumbnail.jpg" width="300" height="300" />
 
 ### About
 
@@ -748,13 +748,13 @@ Fight massive battles as your favorite heroes, anywhere. Fire Emblem Warriors on
 
 ### Landscape (PC/Tablet)
 
-<a href="./nin-wall/few-worlds-unite/Landscape/1280x1024.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./nin-wall/few-worlds-unite/Landscape/1366x768.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1366x768.png">1366x768</a> | <a href="./nin-wall/few-worlds-unite/Landscape/1920x1080.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./nin-wall/few-worlds-unite/Landscape/2560x1440.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./nin-wall/few-worlds-unite/Landscape/3840x2160.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 3840x2160.png">3840x2160</a>
+<a href="./images/nintendo/few-worlds-unite/Landscape/1280x1024.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1280x1024.png">1280x1024</a> | <a href="./images/nintendo/few-worlds-unite/Landscape/1366x768.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1366x768.png">1366x768</a> | <a href="./images/nintendo/few-worlds-unite/Landscape/1920x1080.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 1920x1080.png">1920x1080</a> | <a href="./images/nintendo/few-worlds-unite/Landscape/2560x1440.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 2560x1440.png">2560x1440</a> | <a href="./images/nintendo/few-worlds-unite/Landscape/3840x2160.jpg" download="Fire Emblem Warriors – Worlds Unite (Landscape) - 3840x2160.png">3840x2160</a>
 
 ---
 
 ### Portrait (Mobile)
 
-<a href="./nin-wall/few-worlds-unite/Portrait/640x1136.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 640x1136.png">640x1136</a> | <a href="./nin-wall/few-worlds-unite/Portrait/720x1280.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 720x1280.png">720x1280</a> | <a href="./nin-wall/few-worlds-unite/Portrait/750x1334.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 750x1334.png">750x1334</a> | <a href="./nin-wall/few-worlds-unite/Portrait/1080x1920.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./nin-wall/few-worlds-unite/Portrait/1242x2208.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./nin-wall/few-worlds-unite/Portrait/1440x2560.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1440x2560.png">1440x2560</a>
+<a href="./images/nintendo/few-worlds-unite/Portrait/640x1136.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 640x1136.png">640x1136</a> | <a href="./images/nintendo/few-worlds-unite/Portrait/720x1280.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 720x1280.png">720x1280</a> | <a href="./images/nintendo/few-worlds-unite/Portrait/750x1334.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 750x1334.png">750x1334</a> | <a href="./images/nintendo/few-worlds-unite/Portrait/1080x1920.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1080x1920.png">1080x1920</a> | <a href="./images/nintendo/few-worlds-unite/Portrait/1242x2208.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1242x2208.png">1242x2208</a> | <a href="./images/nintendo/few-worlds-unite/Portrait/1440x2560.jpg" download="Fire Emblem Warriors – Worlds Unite (Portrait) - 1440x2560.png">1440x2560</a>
 
 ---
 
