@@ -1,20 +1,51 @@
-<title>go away okthx</title>
-<section class="page-header">
-  <h1 class="project-name">stuff</h1>
-  <h2 class="project-tagline">ok go away now</h2>
-</section>
-navigation shit soon™
 
-### APKs
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
 
-## KHUx APKs
-<a href="./apk/KHUx_JP_3.0.0.apk" download="KHUx JP (3.0.0).apk">KHUx JP (v3.0.0)</a>
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Saorax.github.io</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="Saorax.github.io" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://saorax.me/" />
+<meta property="og:url" content="http://saorax.me/" />
+<meta property="og:site_name" content="Saorax.github.io" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"Saorax.github.io","url":"http://saorax.me/","name":"Saorax.github.io","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-<a href="./apk/KHUx_ENG_3.0.0.apk" download="KHUx ENG (3.0.0).apk">KHUx ENG (v3.0.0)</a>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/assets/css/style.css?v=a061fb571d0a5c7c08b4221b6a8e01cb9417aa42">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">stuff</h1>
+      <h2 class="project-tagline">ok go away now</h2>
+      
+      
+    </section>
 
+    <section class="main-content">
+      <title>go away okthx</title>
+<p>navigation shit soon™</p>
 
-## Wallpapers from Nintendo Rewards
+<h3 id="apks">APKs</h3>
 
-y not :shrug:
+<h2 id="khux-apks">KHUx APKs</h2>
+<p><a href="./apk/KHUx_JP_3.0.0.apk" download="KHUx JP (3.0.0).apk">KHUx JP (v3.0.0)</a></p>
 
-<a href="./wallpapers">Wallpapers</a>
+<p><a href="./apk/KHUx_ENG_3.0.0.apk" download="KHUx ENG (3.0.0).apk">KHUx ENG (v3.0.0)</a></p>
+
+<h2 id="wallpapers-from-nintendo-rewards">Wallpapers from Nintendo Rewards</h2>
+
+<p>y not :shrug:</p>
+
+<p><a href="./wallpapers">Wallpapers</a></p>
+    </section>
+
+    
+  </body>
+</html>
