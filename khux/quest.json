@@ -1,0 +1,19 @@
+[
+  {
+    "story": [{
+      "quest": 1,
+      "target": "Mega-Shadow",
+      "map": "Fountain Square",
+      "title": "Prologue",
+      "ap": 3,
+    }]
+  }, {
+    "proud": [{
+      "quest": 1,
+      "target": "Mega-Shadow",
+      "map": "Fountain Square",
+      "title": "Prologue",
+      "ap": 3,
+    }]
+  }
+]
