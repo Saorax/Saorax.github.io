@@ -5,7 +5,9 @@
 >If you have any suggestions, or additions to this "guide", contact me below
 >Discord (main): saorax ツ#0080 (ID: 282917109460107264)
 >Reddit (rarely use): [Profile](http://www.reddit.com/user/saorax) | [DMs](https://www.reddit.com/message/compose/?to=saorax)
+
 ---
+
 ## Keyblades
 
 ### List of Keyblades
