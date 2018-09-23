@@ -7,6 +7,7 @@
 >Reddit (rarely use): [Profile](http://www.reddit.com/user/saorax) | [DMs](https://www.reddit.com/message/compose/?to=saorax)
 
 ---
+
 # Table of Contents
 - Beginners Guide
   - Important Information
@@ -15,6 +16,10 @@
 - Keyblades
 - Rewards Per Quest
 - Medal Viewer
+
+---
+
+
 ## Keyblades
 
 ### List of Keyblades
