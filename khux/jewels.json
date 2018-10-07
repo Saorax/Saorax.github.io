@@ -3,7 +3,7 @@
 	"thumbnail": {
 		"url": "http://www.khunchainedx.com/w/images/1/17/Jewel_KHUX.png"
 	},
-	"color": "0x36393f",
+	"color": "#36393f",
 	"fields": [{
 			"name": "[**Story**] Data Download (Quest 6)",
 			"value": "- **2,000** Jewels",
