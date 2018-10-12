@@ -24,7 +24,7 @@ Wii games go to SD:/wbfs
 
 ## Download
 
-Go to https://please.hackmii.com/, insert the information, extract the zip content into the SD Card
+Go to <a href="https://please.hackmii.com/">LetterBomb</a>, insert the information, extract the zip content into the SD Card
 
 <a href="./zips/wiihb.zip" download="Wii Homebrew Step 2.zip">Wii Homebrew Step 2</a>
 
