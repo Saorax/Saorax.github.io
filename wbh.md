@@ -12,7 +12,7 @@ GameCube games go to SD:/games
 
 - e.g2 SD:/games/Mario Party 8/game.wbfs
 
-- The folder name helps you define what the game is, can be whatever
+- The folder name helps you define what the game is, it can be whatever
 
 - The game HAS to be named "game.iso" or "game.wbfs", or "game.whatever the extension is"
 
@@ -24,7 +24,5 @@ Wii games go to SD:/wbfs
 
 ## Download
 
-Go to <a href="https://please.hackmii.com/">LetterBomb</a>, insert the information, extract the zip content into the SD Card
-
-<a href="./zips/wiihb.zip" download="Wii Homebrew Step 2.zip">Wii Homebrew Step 2</a>
+<a href="./zips/yesbb.zip" download="Wii Homebrew Step 2.zip">Wii Homebrew Step 2</a>
 
