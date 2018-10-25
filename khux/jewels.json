@@ -3,7 +3,7 @@
 	"thumbnail": {
 		"url": "http://www.khunchainedx.com/w/images/1/17/Jewel_KHUX.png"
 	},
-	"description": "New quests added! (Story 801-805)",
+	"description": "New quests added! (Proud 676-700)",
 	"color": "36393f",
 	"fields": [{
 			"name": "[**Story**] Data Download (Quest 6)",
@@ -27,19 +27,19 @@
 			"inline": true
 		}, {
 			"name": "[**Story**] Irregular Quests after 660",
-			"value": "**664, 667, 672, 674, 709, 712,\n719, 722, 732, 734, 754, 757,\n777, 784, 787, 794, 797 & 802**\n- **250** every 5 quests\n- **4,750** altogether\n- <:jewel_khux:493661229882015755> Total: **38,450** (approx.)",
+			"value": "**664, 667, 672, 674, 709, 712,\n719, 722, 732, 734, 754, 757,\n777, 784, 787, 794, 797 & 802**\n- **250** per quest\n- **4,750** altogether\n- <:jewel_khux:493661229882015755> Total: **38,450** (approx.)",
 			"inline": true
 		}, {
-			"name": "[**Proud**] Quest 5-675",
-			"value": "- **150** every 5 quests\n- **20,250** altogether\n- <:jewel_khux:493661229882015755> Total: **58,700** (approx.)",
+			"name": "[**Proud**] Quest 5-700",
+			"value": "- **150** every 5 quests\n- **21,000** altogether\n- <:jewel_khux:493661229882015755> Total: **59,450** (approx.)",
 			"inline": true
 		}, {
 			"name": "[**Events**] Tutorial Quests (6 quests)",
-			"value": "- **30** every quest\n- **180** altogether\n- <:jewel_khux:493661229882015755> Total: **58,880** (approx.)",
+			"value": "- **30** every quest\n- **180** altogether\n- <:jewel_khux:493661229882015755> Total: **59,630** (approx.)",
 			"inline": true
 		}, {
 			"name": "[**Events**] Proud+ Quests (16 quests * 3)",
-			"value": "- **30** every quest\n- **480** per event\n- **1,440** altogether\n- <:jewel_khux:493661229882015755> Total: **60,320**",
+			"value": "- **30** every quest\n- **480** per event\n- **1,440** altogether\n- <:jewel_khux:493661229882015755> Total: **61,070**",
 			"inline": true
 		}
 	],
