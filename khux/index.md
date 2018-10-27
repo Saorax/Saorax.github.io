@@ -15,4 +15,8 @@
 
 ### Story Mode
 
-**Quest 6** | 2,000 Jewels | **Quest 6** | 2,000 Jewels | **Quest 6** | 2,000 Jewels | **Quest 6** | 2,000 Jewels | 
+| **Quest 777** | 2,000 Jewels | **Quest 777** | 2,000 Jewels | **Quest 777** | 2,000 Jewels | **Quest 777** | 2,000 Jewels |
+|:-------------:|:------------:|---------------|--------------|---------------|--------------|---------------|--------------|
+| **Quest 777** | 2,000 Jewels | **Quest 777** | 2,000 Jewels | **Quest 777** | 2,000 Jewels | **Quest 777** | 2,000 Jewels |
+| **Quest 777** | 2,000 Jewels | **Quest 777** | 2,000 Jewels | **Quest 777** | 2,000 Jewels | **Quest 777** | 2,000 Jewels |
+| **Quest 777** | 2,000 Jewels | **Quest 777** | 2,000 Jewels | **Quest 777** | 2,000 Jewels | **Quest 777** | 2,000 Jewels |
