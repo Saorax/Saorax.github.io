@@ -3,7 +3,7 @@
 	"thumbnail": {
 		"url": "http://www.khunchainedx.com/w/images/1/17/Jewel_KHUX.png"
 	},
-	"description": "New quests added! (Proud 676-700) (750 jewels)",
+	"description": "New quests added! (Story 806-810) (750 jewels)",
 	"color": "36393f",
 	"fields": [{
 			"name": "[**Story**] Data Download (Quest 6)",
@@ -22,24 +22,24 @@
 			"value": "- **150** every 5 quests\n- **14,250** altogether\n- <:jewel_khux:493661229882015755> Total: **19,950**",
 			"inline": true
 		}, {
-			"name": "[**Story**] Quest 530-805",
-			"value": "- **250** every 5 quests\n- **14,000** altogether (approx.)\n- <:jewel_khux:493661229882015755> Total: **33,950** (approx.)",
+			"name": "[**Story**] Quest 530-810",
+			"value": "- **250** every 5 quests\n- **14,250** altogether (approx.)\n- <:jewel_khux:493661229882015755> Total: **33,200** (approx.)",
 			"inline": true
 		}, {
 			"name": "[**Story**] Irregular Quests after 660",
-			"value": "**664, 667, 672, 674, 709, 712,\n719, 722, 732, 734, 754, 757,\n777, 784, 787, 794, 797 & 802**\n- **250** per quest\n- **4,750** altogether\n- <:jewel_khux:493661229882015755> Total: **38,450** (approx.)",
+			"value": "**664, 667, 672, 674, 709, 712,\n719, 722, 732, 734, 754, 757,\n777, 784, 787, 794, 797, 802, 807**\n- **250** per quest\n- **5,250** altogether\n- <:jewel_khux:493661229882015755> Total: **38,950** (approx.)",
 			"inline": true
 		}, {
 			"name": "[**Proud**] Quest 5-700",
-			"value": "- **150** every 5 quests\n- **21,000** altogether\n- <:jewel_khux:493661229882015755> Total: **59,450** (approx.)",
+			"value": "- **150** every 5 quests\n- **21,000** altogether\n- <:jewel_khux:493661229882015755> Total: **59,950** (approx.)",
 			"inline": true
 		}, {
 			"name": "[**Events**] Tutorial Quests (6 quests)",
-			"value": "- **30** every quest\n- **180** altogether\n- <:jewel_khux:493661229882015755> Total: **59,630** (approx.)",
+			"value": "- **30** every quest\n- **180** altogether\n- <:jewel_khux:493661229882015755> Total: **59,880** (approx.)",
 			"inline": true
 		}, {
 			"name": "[**Events**] Proud+ Quests (16 quests * 3)",
-			"value": "- **30** every quest\n- **480** per event\n- **1,440** altogether\n- <:jewel_khux:493661229882015755> Total: **61,070**",
+			"value": "- **30** every quest\n- **480** per event\n- **1,440** altogether\n- <:jewel_khux:493661229882015755> Total: **61,320**",
 			"inline": true
 		}
 	],
