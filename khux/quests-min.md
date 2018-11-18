@@ -1,5 +1,6 @@
-## Story Mode
+# Story Mode
 
+## Jewels
 ### Data Download (Quest 6)
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **2,000** Jewels
@@ -43,11 +44,20 @@
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **38,950** (approx.)
 
-## Proud Mode
+## Other 
 
 
-## Special Mode
+# Proud Mode
 
+## Jewels
 
 ## Other
+
+# Special Mode
+
+## Jewels
+
+## Other
+
+# Other
 
