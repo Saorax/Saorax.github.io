@@ -34,6 +34,8 @@
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **33,200** (approx.)
 
+NOTE: ###, ###  dont give jewels
+
 ### Irregular Quests after 660
 
 - 664, 667, 672, 674, 709, 712, 719, 722, 732, 734, 754, 757, 777, 784, 787, 794, 797, 802, 807
@@ -51,7 +53,37 @@
 
 ## Jewels
 
+### Quest 5-725
+
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **150** per quest
+
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **21,750** altogether
+
 ## Other
+
+### Electrum Ore (Quest 1-300)
+
+<img src="../images/Electrum_Ore_KHUX.png" width="30" height="30" /> **1** per quest, total of **300**
+
+### Dark Matter
+
+- 2 from every quest as 2 objectives
+
+<img src="../images/Dark_Matter_KHUX.png" width="30" height="30" />Quest 326-450: **250**
+
+<img src="../images/Dark_Matter_KHUX.png" width="30" height="30" />Quest 476-500: **50**
+
+### Elemental Gems
+
+<img src="../images/Power_Gem_KHUX.png" width="30" height="30" />Quest 505-670, 695: 13 Power Gems
+
+<img src="../images/Speed_Gem_KHUX.png" width="30" height="30" />Quest 510-675, 700: 13 Speed Gems
+
+<img src="../images/Magic_Gem_KHUX.png" width="30" height="30" />Quest 515-680, 705: 13 Magic Gems
+
+<img src="../images/Sun_Gem_KHUX.png" width="30" height="30" />Quest 685, 710: 2 Sun Gems
+
+<img src="../images/Moon_Gem_KHUX.png" width="30" height="30" />Quest 690: 1 Moon Gem
 
 # Special Mode
 
