@@ -112,5 +112,16 @@ NOTE: 755 doesn't give jewels
 <img src="../images/Moon_Gem_KHUX.png" width="30" height="30" />Quest 690, 715: 2 Moon Gem
 
 
-# Other
+### Keyblades
 
+<img src="./images/sleeping lion icon.png" width="30" height="30" /> [Quest 3] Sleeping Lion
+
+<img src="./images/counterpoint icon.png" width="30" height="30" /> [Quest 103] Counterpoint
+
+<img src="./images/fenrir icon.png" width="30" height="30" /> [Quest 203] Fenrir
+
+<img src="./images/darkgnaw icon.png" width="30" height="30" /> [Quest 328] Darkgnaw
+
+<img src="./images/missing ache icon.png" width="30" height="30" /> [Quest 378] Missing Ache
+
+<img src="./images/diamond dust icon.png" width="30" height="30" /> [Quest 428] Diamond Dust
