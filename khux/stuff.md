@@ -31,9 +31,9 @@
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **250** every 5 quests
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **14,250** altogether (excluding irregulars)
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **8,750** altogether (excluding irregulars)
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **33,200** (approx.)
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **28,700**
 
 NOTE: 755 doesn't give jewels
 
@@ -45,7 +45,7 @@ NOTE: 755 doesn't give jewels
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **5,250** altogether
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **38,950** (approx.)
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **33,950**
 
 ## Other 
 
@@ -75,7 +75,9 @@ NOTE: 755 doesn't give jewels
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **480** per event
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **1,440**
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **1,440** altogether
+
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **35,390**
 
 ## Jewels
 
@@ -84,6 +86,8 @@ NOTE: 755 doesn't give jewels
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **150** per quest
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **21,750** altogether
+
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **57,140**
 
 ## Other
 
