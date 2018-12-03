@@ -1,6 +1,7 @@
 # Story Mode
 
 ## Jewels
+
 ### Data Download (Quest 6)
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **2,000** Jewels
@@ -30,11 +31,11 @@
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **250** every 5 quests
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **14,250** altogether (approx.)
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **14,250** altogether (excluding irregulars)
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **33,200** (approx.)
 
-NOTE: ###, ###  dont give jewels
+NOTE: 755 doesn't give jewels
 
 ### Irregular Quests after 660
 
@@ -48,8 +49,33 @@ NOTE: ###, ###  dont give jewels
 
 ## Other 
 
+### Keyblades
+
+<img src="./images/starlight icon.png" width="30" height="30" /> [Start] Starlight
+
+<img src="./images/treasure trove icon.png" width="30" height="30" /> [Quest 14] Treasure Trove
+
+<img src="./images/lady luck icon.png" width="30" height="30" /> [Quest 24] Lady Luck
+
+<img src="./images/three wishes icon.png" width="30" height="30" /> [Quest 34] Three Wishes
+
+<img src="./images/olympia icon.png" width="30" height="30" /> [Quest 130] Olympia
+
+<img src="./images/divine rose icon.png" width="30" height="30" /> [Quest 433] Divine Rose
+
+<img src="./images/som icon.png" width="30" height="30" /> [Quest 585] Stroke of Midnight
+
+<img src="./images/fairy stars icon.png" width="30" height="30" /> [Quest 683] Fairy Stars
 
 # Proud Mode
+
+## Proud+ Jewels
+
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **30** per quest
+
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **480** per event
+
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **1,440**
 
 ## Jewels
 
@@ -75,21 +101,16 @@ NOTE: ###, ###  dont give jewels
 
 ### Elemental Gems
 
-<img src="../images/Power_Gem_KHUX.png" width="30" height="30" />Quest 505-670, 695: 13 Power Gems
+<img src="../images/Power_Gem_KHUX.png" width="30" height="30" />Quest 505-670, 695, 720: 14 Power Gems
 
-<img src="../images/Speed_Gem_KHUX.png" width="30" height="30" />Quest 510-675, 700: 13 Speed Gems
+<img src="../images/Speed_Gem_KHUX.png" width="30" height="30" />Quest 510-675, 700, 725: 14 Speed Gems
 
 <img src="../images/Magic_Gem_KHUX.png" width="30" height="30" />Quest 515-680, 705: 13 Magic Gems
 
 <img src="../images/Sun_Gem_KHUX.png" width="30" height="30" />Quest 685, 710: 2 Sun Gems
 
-<img src="../images/Moon_Gem_KHUX.png" width="30" height="30" />Quest 690: 1 Moon Gem
+<img src="../images/Moon_Gem_KHUX.png" width="30" height="30" />Quest 690, 715: 2 Moon Gem
 
-# Special Mode
-
-## Jewels
-
-## Other
 
 # Other
 
