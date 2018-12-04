@@ -93,15 +93,20 @@ NOTE: 755 doesn't give jewels
 
 ### Electrum Ore (Quest 1-300)
 
-<img src="../images/Electrum_Ore_KHUX.png" width="30" height="30" /> **1** per quest, total of **300**
+- You need Electrum Ore to level up Sleeping Lion, Counterpoint, and Fenrir.
+- You only need 100 Electrum Ore to level up each keyblade above to 25+
+
+<img src="../images/Electrum_Ore_KHUX.png" width="30" height="30" /> **1 Electrum Ore** per quest, total of **300 Electrum Ore**
 
 ### Dark Matter
+- You need Dark Matter to level up Darkgnaw, Missing Ache, Diamond Dust
+- You only need 100 Dark Matter to level up each keyblade above to 25+
 
-- 2 from every quest as 2 objectives
+- You get 2 Dark Matter from every quest as 2 objectives (e.g, Dark Matter, Avatar Coins, Dark Matter)
 
-<img src="../images/Dark_Matter_KHUX.png" width="30" height="30" />Quest 326-450: **250**
+<img src="../images/Dark_Matter_KHUX.png" width="30" height="30" />Quest 326-450: **250 Dark Matter**
 
-<img src="../images/Dark_Matter_KHUX.png" width="30" height="30" />Quest 476-500: **50**
+<img src="../images/Dark_Matter_KHUX.png" width="30" height="30" />Quest 476-500: **50 Dark Matter**
 
 ### Elemental Gems
 
