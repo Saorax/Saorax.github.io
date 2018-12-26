@@ -1,3 +1,5 @@
+> more stuff to be added soon™
+
 # Story Mode
 
 ## Jewels
@@ -28,25 +30,25 @@
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **19,950**
 
-### Quest 530-810
+### Quest 530-815
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **250** every 5 quests
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **8,750** altogether (excluding irregulars)
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **9,000** altogether (excluding irregulars)
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **28,700**
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **28,950**
 
 NOTE: 755 doesn't give jewels
 
 ### Irregular Quests after 660
 
-- 664, 667, 672, 674, 709, 712, 719, 722, 732, 734, 754, 757, 777, 784, 787, 794, 797, 802, 807
+- 664, 667, 672, 674, 709, 712, 719, 722, 732, 734, 754, 757, 777, 784, 787, 794, 797, 802, 807, 812, 814
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **250** per quest
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **5,250** altogether
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **5,750** altogether
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **33,950**
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **34,450**
 
 ## Other 
 
@@ -82,13 +84,13 @@ NOTE: 755 doesn't give jewels
 
 ## Jewels
 
-### Quest 5-725
+### Quest 5-750
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **150** per quest
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **21,750** altogether
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **22,500** altogether
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **57,140**
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **58,640**
 
 ## Other
 
