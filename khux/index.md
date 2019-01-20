@@ -34,6 +34,8 @@ Table of Contents
 
 <img src="./images/fairy stars icon.png" width="30" height="30" /> Fairy Stars is obtained from **Story Quest 683**
 
+---
+
 <img src="./images/sleeping lion icon.png" width="30" height="30" /> Sleeping Lion is obtained on **Proud Quest 3**
 
 <img src="./images/counterpoint icon.png" width="30" height="30" /> Counterpoint is obtained on **Proud Quest 103**
