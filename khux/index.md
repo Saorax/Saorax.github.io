@@ -15,9 +15,7 @@ Table of Contents
 - Obtainable Keyblades
 
 <details><summary>Test</summary>
-<p>
   
 ## oh mau god
 
-</p>
 </details>
