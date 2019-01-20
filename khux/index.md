@@ -4,22 +4,20 @@ layout: default
 
 >A bunch of information for **KINGDOM HEARTS Union χ [CROSS]**
 
----
 
-# Table of Contents
-- Jewels
+Table of Contents
+- About Prime, Supernova, & Boosted Medals
+- About Guilt, Traits, & Boosters
+- About Draws/Banners
+- About the Pet
+- Story/Proud Quest Lookup (Not Completed) [Link]
+- Jewels from Story/Proud
+- Obtainable Keyblades
 
----
+<details><summary>Test</summary>
+<p>
+  
+## oh mau god
 
-
-## Jewels
-
->All of these quests give jewels
-
-### Story Mode
-
-| Quest Number   | Jewels Obtained  | Quest Number   | Jewels Obtained  | Quest Number   | Jewels Obtained  |
-|:---------------|:-----------------|:---------------|:-----------------|:---------------|:-----------------|
-| **Quest 777**  | 2,000 Jewels     | **Quest 777**  | 2,000 Jewels     | **Quest 777**  | 2,000 Jewels     |
-| **Quest 777**  | 2,000 Jewels     | **Quest 777**  | 2,000 Jewels     | **Quest 777**  | 2,000 Jewels     |
-| **Quest 777**  | 2,000 Jewels     | **Quest 777**  | 2,000 Jewels     | **Quest 777**  | 2,000 Jewels     |
+</p>
+</details>
