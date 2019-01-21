@@ -18,7 +18,52 @@ layout: default
 </details>
 <hr />
 <details><summary><strong><font size="4">About the Pet</font></strong></summary>
+  In Version 2.3.1, we received an update that included a Pet System, a little fluffy companion that you can take on your adventures.
+  If you're a newcomer, you can receive your own Pet when you complete Story Quest 14.
   
+  With a Pet at yor disposal, you can equip an aditional medal in the "Pet/Spirit Slot", and have Tricks that'll help you out, like Steal, which will increase the dropped amount of items when defeating an enemy.
+  You can also name your pet, dress it up, and even combine different species to create abominations.
+  
+  To change your pets name, tap on the "Name" button.
+  
+  ### Equiping Another Medal
+  When editing your keyblade, press the "Spirit" button at the top to add a 6th medal to your keyblade
+  <img src="https://cache.sqex-bridge.jp/img/opTYNuhAv" />
+  
+  ### Tricks & Costumes
+  To access the Pet Menu, tap on your pets icon to the left of your avatar.
+  <img src="https://cache.sqex-bridge.jp/img/op6SNWDYc" />
+  
+  To dress up your pet, tap on the "Outfits" button.
+  In here, you can customize your pet to whatever you want.
+  <img src="https://cache.sqex-bridge.jp/img/opTRNDcOi" />
+  
+  To level up your pet, tap on the "Gear" button, and press "Optimize". Keep doing this everytime you get a new medal.
+  Your Pet's rank is determined by the total points of the 6 Medals equipped on this screen. 
+  When your Pet's rank increases, their damage multiplier (for your 6th slot Medal) will increase and they will also learn a new Trick!
+  Medals that have traits give better points than ones without.
+  <img src="https://cache.sqex-bridge.jp/img/opTCNPbXJ" />
+  
+  Your Pet's Tricks will activate in battle after fulfilling certain conditions. These abilities are super helpful, as your Pet will come to your aid and help you in different ways! 
+You can confirm your Pet's Tricks on the Main Pet Screen by tapping the Tricks button.
+
+The Medals you use to increase your Pet's rank will not be deleted or used up, so feel free to change them up as you wish. 
+  
+  List of Tricks:
+  - [Rank 2] **Steal I** (Obtains dropped items x2. Has a 50% trigger rate when an enemy drops an item. 1 charge per battle)
+  - [Rank 3] **Blast I** (Deals 10,000 damage if an enemy is below 10,000 HP. 1 charge per battle)
+  - [Rank 4] **Esuna I** (Cures your status ailments when affected. The statuses are Sleep, Paralysis & Poison)
+  - [Rank 5] **HP Recovery I** (Basically Second Chance, which means you'll resurrect if you die. Can be combined with Second Chance, for a total of 2 revives)
+  - [Rank 6] **Steal II** (Obtains dropped items x3. Has a 50% trigger rate when an enemy drops an item. 1 charge per battle)
+  - [Rank 7] **Poison Boost I** (Deals more poisoned damage to poisoned targets)
+  - [Rank 7] **Paralysis Boost I** (Useless?)
+  - [Rank 7] **Sleep Boost I** (Keeps targets that are asleep for 3 hits. 2 charges per battle)
+  - [Rank 8] **Blast II** (Deals 30,000 damage if an enemy is below 30,000 HP. 1 charge per battle)
+  - [Rank 9] **P Attack Boost I** (Raises your Power STR by 1 tier for 1 turn when P-Str is raised. Ignores the max limit. 1 charge per turn)
+  - [Rank 9] **S Attack Boost I** (Raises your Speed STR by 1 tier for 1 turn when S-Str is raised. Ignores the max limit. 1 charge per turn)
+  - [Rank 9] **M Attack Boost I** (Raises your Magic STR by 1 tier for 1 turn when M-Str is raised. Ignores the max limit. 1 charge per turn)
+  - [Rank 10] **Steal III** (Obtains dropped items x4. Has a 50% trigger rate when an enemy drops an item. 1 charge per battle)
+  - [Rank 11] **Combo I** (Deals 40% more damage. Has a 25% trigger rate. 6 charges per battle
 </details>
 <hr />
 <details><summary><strong><font size="4">Story/Proud Lookup</font></strong></summary>
