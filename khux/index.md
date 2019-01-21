@@ -15,7 +15,6 @@ layout: default
   
   Guilt, or Special Attack Bonus, is a damage bonus added on top of the damage multiplier. Different medals have different bonuses based on their Tier
   
-|  |  |
 |----|---|
 | Tier 1 | Increases damage by 25% |
 | Tier 2 | Increases damage by 50% |
