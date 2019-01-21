@@ -4,16 +4,16 @@ layout: default
 
 >A bunch of information for **KINGDOM HEARTS Union χ [CROSS]**
 
-<details><summary><strong><font size="5">About Prime, Supernova, & Boosted Medals</font></strong></summary>
+<details><summary><strong><font size="4">About Prime, Supernova, & Boosted Medals</font></strong></summary>
   <p />
   text
 </details>
 
-<details><summary><strong><font size="5">About Guilt, Traits, & Boosters</font></strong></summary>
+<details><summary><strong><font size="4">About Guilt, Traits, & Boosters</font></strong></summary>
   
 </details>
 
-<details><summary><strong><font size="5">About Draws/Banners</font></strong></summary>
+<details><summary><strong><font size="4">About Draws/Banners</font></strong></summary>
   
 </details>
 
@@ -21,18 +21,18 @@ layout: default
   
 </details>
 
-<details><summary><strong><font size="5">Story/Proud Lookup</font></strong></summary>
+<details><summary><strong><font size="4">Story/Proud Lookup</font></strong></summary>
   This is a Story/Proud quest lookup, that'll tell you everything you need to know about the quest.
   I still need to do some major edits, This'll be available soontm
 </details>
 
-<details><summary><strong><font size="5">Jewels from Story/Proud</font></strong></summary>
+<details><summary><strong><font size="4">Jewels from Story/Proud</font></strong></summary>
   
 </details>
 
-<details><summary><strong><font size="5">Obtainable Keyblades</font></strong></summary>
+<details><summary><strong><font size="4">Obtainable Keyblades</font></strong></summary>
   
-### Keyblades
+#### Story Mode
 
 <img src="./images/starlight icon.png" width="30" height="30" /> Starlight is obtained from the **start of your adventure**
 
@@ -52,6 +52,7 @@ layout: default
 
 ---
 
+#### Proud Mode
 <img src="./images/sleeping lion icon.png" width="30" height="30" /> Sleeping Lion is obtained on **Proud Quest 3**
 
 <img src="./images/counterpoint icon.png" width="30" height="30" /> Counterpoint is obtained on **Proud Quest 103**
