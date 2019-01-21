@@ -26,6 +26,7 @@ layout: default
 | Sleep Resist 20% | Lowers the odds of being put to sleep by 20% |
   
   - Affects only the medal
+  
   | Trait | Description |
 |----|---|
  | Ground Enemy DEF -60% | Lowers defense of ground enemies by 60% |
