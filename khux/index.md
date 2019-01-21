@@ -20,12 +20,14 @@ NOTE: If the Medal's Special Attack already includes an SP Attack Bonus increase
   ### Supernova
   
   Equipping a Supernova Medal enables you to unleash its powerful Supernova once per quest.
-* You can activate the Supernova at any time during your own turn. In PvP Mode, activation timing will vary depending on the Medal when defending. 
+  
+  You can activate the Supernova at any time during your own turn. In PvP Mode, activation timing will vary depending on the Medal when defending. 
 
-・You can use Supernova once per Supernova Medal equipped. 
+You can use Supernova once per Supernova Medal equipped. 
 
-・A Supernova's potency is determined by the Strength of its Medal. 
-* Supernova is affected by Keyblade slot boosts and buffs from Special Attacks. However, Supernova is NOT affected by Special Attack Bonus or skills.
+A Supernova's potency is determined by the Strength of its Medal. 
+
+Supernova is affected by Keyblade slot boosts and buffs from Special Attacks. However, Supernova is NOT affected by Special Attack Bonus or skills.
 
 <img src="https://cache.sqex-bridge.jp/img/oxFhN77Q7F" />
 
