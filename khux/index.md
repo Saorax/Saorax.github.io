@@ -8,24 +8,24 @@ layout: default
   <p />
   text
 </details>
-
+<hr />
 <details><summary><strong><font size="4">About Guilt, Traits, & Boosters</font></strong></summary>
   
 </details>
-
+<hr />
 <details><summary><strong><font size="4">About Draws/Banners</font></strong></summary>
   
 </details>
-
+<hr />
 <details><summary><strong><font size="4">About the Pet</font></strong></summary>
   
 </details>
-
+<hr />
 <details><summary><strong><font size="4">Story/Proud Lookup</font></strong></summary>
   This is a Story/Proud quest lookup, that'll tell you everything you need to know about the quest.
   I still need to do some major edits, This'll be available soontm
 </details>
-
+<hr />
 <details><summary><strong><font size="4">Jewels & Ores from Story/Proud</font></strong></summary>
   
   ## Story Mode
@@ -78,7 +78,7 @@ NOTE: 755 doesn't give jewels
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **34,700**
 
 </details>
-
+<hr />
 <details><summary><strong>Ores</strong></summary>
 
 ### Electrum Ore (Quest 1-300)
@@ -90,7 +90,7 @@ NOTE: 755 doesn't give jewels
 <hr />
 
 </details>
-
+<hr />
 ## Proud Mode
 
 <details><summary><strong>Proud+ Jewels</strong></summary>
@@ -102,7 +102,7 @@ NOTE: 755 doesn't give jewels
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **1,440** altogether
 
 </details>
-
+<hr />
 <details><summary><strong>Jewels</strong></summary>
 
 ### Quest 5-750
@@ -112,7 +112,7 @@ NOTE: 755 doesn't give jewels
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **22,500** altogether
 
 </details>
-
+<hr /><hr />
 <details><summary><strong>Ores</strong></summary>
   
   ### Dark Matter
@@ -126,7 +126,7 @@ NOTE: 755 doesn't give jewels
 <img src="../images/Dark_Matter_KHUX.png" width="30" height="30" />Quest 476-500: **50 Dark Matter**
 
 </details>
-
+<hr />
 <details><summary><strong>Elemental Gems</strong></summary>
 
 <img src="../images/Power_Gem_KHUX.png" width="30" height="30" />Quest 505-670, 695, 720: **14 Power Gems**
@@ -141,10 +141,10 @@ NOTE: 755 doesn't give jewels
 
 </details>
 </details>
-
+<hr />
 <details><summary><strong><font size="4">Obtainable Keyblades</font></strong></summary>
   
-#### Story Mode
+## Story Mode
 
 <img src="./images/starlight icon.png" width="30" height="30" /> Starlight is obtained from the **start of your adventure**
 
@@ -162,9 +162,9 @@ NOTE: 755 doesn't give jewels
 
 <img src="./images/fairy stars icon.png" width="30" height="30" /> Fairy Stars is obtained from **Story Quest 683**
 
----
+<hr />
 
-#### Proud Mode
+## Proud Mode
 <img src="./images/sleeping lion icon.png" width="30" height="30" /> Sleeping Lion is obtained on **Proud Quest 3**
 
 <img src="./images/counterpoint icon.png" width="30" height="30" /> Counterpoint is obtained on **Proud Quest 103**
