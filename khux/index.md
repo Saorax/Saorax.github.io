@@ -2,6 +2,8 @@
 layout: default
 ---
 
+this is messy, go away
+
 >A bunch of information for **KINGDOM HEARTS Union χ [CROSS]**
 
 <details><summary><strong><font size="4">About Prime, Supernova, & Boosted Medals</font></strong></summary>
