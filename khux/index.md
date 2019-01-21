@@ -10,9 +10,34 @@ Table of Contents
 - About Guilt, Traits, & Boosters
 - About Draws/Banners
 - About the Pet
-- Story/Proud Quest Lookup (Not Completed) [Link]
+- Story/Proud Quest Lookup (Not Completed)
 - Jewels from Story/Proud
 - Obtainable Keyblades
+
+<details><summary>About Prime, Supernova, & Boosted Medals</summary>
+  
+</details>
+
+<details><summary>About Guilt, Traits, & Boosters</summary>
+  
+</details>
+
+<details><summar>yAbout Draws/Banners</summary>
+  
+</details>
+
+<details><summary>About the Pet</summary>
+  
+</details>
+
+<details><summary>Story/Proud Lookup</summary>
+  This is a Story/Proud quest lookup, that'll tell you everything you need to know about the quest.
+  I still need to do some major edits, This'll be available soontm
+</details>
+
+<details><summary>Jewels from Story/Proud</summary>
+  
+</details>
 
 <details><summary>Obtainable Keyblades</summary>
   
