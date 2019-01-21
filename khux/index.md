@@ -78,7 +78,7 @@ NOTE: 755 doesn't give jewels
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **34,700**
 
 </details>
-<hr />
+
 <details><summary><strong>Ores</strong></summary>
 
 ### Electrum Ore (Quest 1-300)
@@ -87,7 +87,6 @@ NOTE: 755 doesn't give jewels
 - You only need 100 Electrum Ore to level up each keyblade above to 25+
 
 <img src="../images/Electrum_Ore_KHUX.png" width="30" height="30" /> **1 Electrum Ore** per quest, total of **300 Electrum Ore**
-<hr />
 
 </details>
 <hr />
@@ -102,7 +101,7 @@ NOTE: 755 doesn't give jewels
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **1,440** altogether
 
 </details>
-<hr />
+
 <details><summary><strong>Jewels</strong></summary>
 
 ### Quest 5-750
@@ -112,7 +111,7 @@ NOTE: 755 doesn't give jewels
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **22,500** altogether
 
 </details>
-<hr /><hr />
+
 <details><summary><strong>Ores</strong></summary>
   
   ### Dark Matter
@@ -126,7 +125,7 @@ NOTE: 755 doesn't give jewels
 <img src="../images/Dark_Matter_KHUX.png" width="30" height="30" />Quest 476-500: **50 Dark Matter**
 
 </details>
-<hr />
+
 <details><summary><strong>Elemental Gems</strong></summary>
 
 <img src="../images/Power_Gem_KHUX.png" width="30" height="30" />Quest 505-670, 695, 720: **14 Power Gems**
