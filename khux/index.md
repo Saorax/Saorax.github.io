@@ -17,7 +17,7 @@ layout: default
   
 </details>
 
-<details><summary><strong><font size="5">About the Pet</font></strong></summary>
+<details><summary><strong><font size="4">About the Pet</font></strong></summary>
   
 </details>
 
