@@ -5,15 +5,72 @@ layout: default
 >A bunch of information for **KINGDOM HEARTS Union χ [CROSS]**
 
 <details><summary><strong><font size="4">About Prime, Supernova, & Boosted Medals</font></strong></summary>
-  <p />
-  text
+  
+  ### Prime
+  
+  Prime Medals are special type of Medal that has specific bonuses when evolved to 7★. 
+
+A 7★ Prime Medal has the following bonuses advantages compared to a regular Medal: 
+- The Prime Medal will have 5 trait slots. (The 6★ version will have 3 trait slots.) 
+- Using Chip and Dale Medals, you will be able to power up the Medal to +2000 STR and DEF, beyond the usual +1000 STR and DEF.
+- The Medal will gain an increased SP Attack Bonus buff as a part of its Special Attack.
+
+NOTE: If the Medal's Special Attack already includes an SP Attack Bonus increase, this value will be further increased from its base value. A Tier 4 Prime with 140% SP Attack Bonus that gives an additional 80% will do 220% more damage. But, if another medal that increases it again, it will not add-on, instead it'll add onto the Tier SP Attack. e.g from the example, if another medal with a 90% boost is used, the Tier 4 will do 230% more damage.
+
+  ### Supernova
+  
+  Equipping a Supernova Medal enables you to unleash its powerful Supernova once per quest.
+* You can activate the Supernova at any time during your own turn. In PvP Mode, activation timing will vary depending on the Medal when defending. 
+
+・You can use Supernova once per Supernova Medal equipped. 
+
+・A Supernova's potency is determined by the Strength of its Medal. 
+* Supernova is affected by Keyblade slot boosts and buffs from Special Attacks. However, Supernova is NOT affected by Special Attack Bonus or skills.
+
+<img src="https://cache.sqex-bridge.jp/img/oxFhN77Q7F" />
+
+  ### Boosted Medals
+  
+When drawing from certain Deals, you may obtain the Boosted version of a Medal. 
+Compared to their original Medals, Boosted Medals have increased stats, such as 1,000 more Strength. 
+
+You can see the Boosted rates from a Deal in the "Draw Odds" tab. 
+
+In the Medal Details screen, the boosted base Strength and Defense stat of a Boosted Medal will be highlighted in yellow instead of the usual white text. 
+
+You will lose the Boosted stats if you fuse a Boosted version of a Medal onto its normal counterpart.
+
+As with regular Medals, the maximum Strength and Defense of Boosted Medals can be further increased with Chip and Dale Medals.
+
+### Trait Medals
+
+Some Medals have their own exclusive Trait Medal. 
+
+Trait Medals are black-and-white Medals that can be can be fused onto their original Medals to unlock the following: 
+- The original Medal will gain a new trait. 
+- The original Medal will gain one Special Attack dot, if its a 6★. 
+
+Trait Medals are intended for fusion purposes, and do not have the same stats as their original Medals.
+
+Trait Medals cannot be equipped on a Keyblade due to their high cost. While they can be equipped as a Spirit Slot Medal or shared, Trait Medals are not suited for use as an attack Medal. 
+
+Each Trait Medal is worth 15 Spirit Points. 
+
+Trait Medals and their corresponding Medals share a slot in the Album. 
+
+If you receive a Trait Medal from a banner, it will come marked as being "BOOSTED". 
+
+During High Score Challenge events, if the original Medal is considered a Score Bonus Medal, its Trait Medal will also be treated as a Score Bonus Medal, and give the same score bonus.
+
 </details>
+
 <hr />
+
 <details><summary><strong><font size="4">About Guilt, Traits, & Boosters</font></strong></summary>
   
   ### Guilt
   
-  Guilt, or Special Attack Bonus, is a damage bonus added on top of the damage multiplier. Different medals have different bonuses based on their Tier
+  Guilt, or Special Attack Bonus, is a damage bonus added on top of the damage multiplier. Different medals have different bonuses based on their Tier.
   
 |  |  |
 |---|---|
@@ -62,6 +119,9 @@ layout: default
  | DEF +2000 | Raises defense by 2,000 |
   
   NOTE: Extra Attack, Ground DEF, and Aerial DEF do not stack, everything else does
+  
+  ### Booster
+  In Version 2.4.0, we received Boosters. These items boost either Keyblade Multiplier by x1.000, or boost certain types of medals, like Organization 13 medals, or Power medals. You can check what Boosters you have by tapping on your character in the top-left, and tapping "Booster" right below your Nova. Boosters are usually obtained from Union Cross by completing the boards that have them.
   
 </details>
 <hr />
