@@ -17,8 +17,6 @@ layout: default
   
   - Affects your Keyblade
   
-| test | test |
-|---|---|
 | Max Gauges +2 | Raises your Gauges by 2 |
 | Max HP +800 | Raises the player's HP cap by 800 |
 | Poison Resist 20% | Lowers the odds of being put to poisoned by 20% |
