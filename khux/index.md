@@ -28,7 +28,7 @@ layout: default
 
 <details><summary><strong><font size="4">Jewels & Ores from Story/Proud</font></strong></summary>
   
-  # Story Mode
+  ## Story Mode
   <details><summary><strong>Jewels</strong></summary>
   
   ### Data Download (Quest 6)
@@ -91,7 +91,7 @@ NOTE: 755 doesn't give jewels
 
 </details>
 
-# Proud Mode
+## Proud Mode
 
 <details><summary><strong>Proud+ Jewels</strong></summary>
 
@@ -139,6 +139,7 @@ NOTE: 755 doesn't give jewels
 
 <img src="../images/Moon_Gem_KHUX.png" width="30" height="30" />Quest 690, 715: **2 Moon Gems**
 
+</details>
 </details>
 
 <details><summary><strong><font size="4">Obtainable Keyblades</font></strong></summary>
