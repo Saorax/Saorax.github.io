@@ -15,7 +15,7 @@ Table of Contents
 - Obtainable Keyblades
 
 <details><summary><h5>About Prime, Supernova, & Boosted Medals</h5></summary>
-  
+  text
 </details>
 
 <details><summary>About Guilt, Traits, & Boosters</summary>
