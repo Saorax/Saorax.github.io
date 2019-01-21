@@ -126,10 +126,7 @@ During High Score Challenge events, if the original Medal is considered a Score 
   In Version 2.4.0, we received Boosters. These items boost either Keyblade Multiplier by x1.000, or boost certain types of medals, like Organization 13 medals, or Power medals. You can check what Boosters you have by tapping on your character in the top-left, and tapping "Booster" right below your Nova. Boosters are usually obtained from Union Cross by completing the boards that have them.
   
 </details>
-<hr />
-<details><summary><strong><font size="4">About Draws/Banners</font></strong></summary>
-  
-</details>
+
 <hr />
 <details><summary><strong><font size="4">About the Pet</font></strong></summary>
   In Version 2.3.1, we received an update that included a Pet System, a little fluffy companion that you can take on your adventures.
