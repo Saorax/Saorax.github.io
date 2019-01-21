@@ -4,43 +4,33 @@ layout: default
 
 >A bunch of information for **KINGDOM HEARTS Union χ [CROSS]**
 
-
-Table of Contents
-- About Prime, Supernova, & Boosted Medals
-- About Guilt, Traits, & Boosters
-- About Draws/Banners
-- About the Pet
-- Story/Proud Quest Lookup (Not Completed)
-- Jewels from Story/Proud
-- Obtainable Keyblades
-
 <details><summary><strong><font size="5">About Prime, Supernova, & Boosted Medals</font></strong></summary>
   <p />
   text
 </details>
 
-<details><summary>About Guilt, Traits, & Boosters</summary>
+<details><summary><strong><font size="5">About Guilt, Traits, & Boosters</font></strong></summary>
   
 </details>
 
-<details><summary>About Draws/Banners</summary>
+<details><summary><strong><font size="5">About Draws/Banners</font></strong></summary>
   
 </details>
 
-<details><summary>About the Pet</summary>
+<details><summary><strong><font size="5">About the Pet</font></strong></summary>
   
 </details>
 
-<details><summary>Story/Proud Lookup</summary>
+<details><summary><strong><font size="5">Story/Proud Lookup</font></strong></summary>
   This is a Story/Proud quest lookup, that'll tell you everything you need to know about the quest.
   I still need to do some major edits, This'll be available soontm
 </details>
 
-<details><summary>Jewels from Story/Proud</summary>
+<details><summary><strong><font size="5">Jewels from Story/Proud</font></strong></summary>
   
 </details>
 
-<details><summary>Obtainable Keyblades</summary>
+<details><summary><strong><font size="5">Obtainable Keyblades</font></strong></summary>
   
 ### Keyblades
 
