@@ -90,6 +90,7 @@ NOTE: 755 doesn't give jewels
 
 </details>
 <hr />
+
 ## Proud Mode
 
 <details><summary><strong>Proud+ Jewels</strong></summary>
@@ -139,8 +140,11 @@ NOTE: 755 doesn't give jewels
 <img src="../images/Moon_Gem_KHUX.png" width="30" height="30" />Quest 690, 715: **2 Moon Gems**
 
 </details>
+
 </details>
+
 <hr />
+
 <details><summary><strong><font size="4">Obtainable Keyblades</font></strong></summary>
   
 ## Story Mode
@@ -164,6 +168,7 @@ NOTE: 755 doesn't give jewels
 <hr />
 
 ## Proud Mode
+
 <img src="./images/sleeping lion icon.png" width="30" height="30" /> Sleeping Lion is obtained on **Proud Quest 3**
 
 <img src="./images/counterpoint icon.png" width="30" height="30" /> Counterpoint is obtained on **Proud Quest 103**
