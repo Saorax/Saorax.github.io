@@ -14,7 +14,7 @@ Table of Contents
 - Jewels from Story/Proud
 - Obtainable Keyblades
 
-<details><summary><strong><font size="2">About Prime, Supernova, & Boosted Medals</font></strong></summary>
+<details><summary><strong><font size="10">About Prime, Supernova, & Boosted Medals</font></strong></summary>
   <p />
   text
 </details>
