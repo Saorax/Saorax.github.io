@@ -11,8 +11,33 @@ layout: default
 <hr />
 <details><summary><strong><font size="4">About Guilt, Traits, & Boosters</font></strong></summary>
   
+  ### Guilt
+  
+  Guilt, or Special Attack Bonus, is a damage bonus added on top of the damage multiplier. Different medals have different bonuses based on their Tier
+  
+|  |  |
+|----|---|
+| Tier 1 | Increases damage by 25% |
+| Tier 2 | Increases damage by 50% |
+| Tier 3 | Increases damage by 100% |
+| Tier 4 | Increases damage by 130% |
+| Tier 5 | Increases damage by 150% |
+| Tier 6 | Increases damage by 180% |
+| Tier 7 | Increases damage by 200% |
+| Tier 8 | Increases damage by 230% |
+| Tier 9 | Increases damage by 280% |
+
   ### Traits
+  
   When you fuse a Medal onto another Medal that is the exact same, regardless of rarity, you will gain a Trait. A Trait can provide multiple buffs to your medals.
+  <img src="https://cache.sqex-bridge.jp/img/o2YLNnvCk" />
+  
+  To see your traits, tap on a medal, then tap on the blue down-arrow at the bottom.
+  <img src="https://cache.sqex-bridge.jp/img/o2YSNAZbJ" />
+  
+  If you've filled all your trait slots, you get an option to replace a trait when you trait again.
+  <img src="https://cache.sqex-bridge.jp/img/o2YKNIAJ8" />
+  
   Available Traits: 
   
   - Affects your Keyblade
@@ -35,6 +60,8 @@ layout: default
  | Extra Attack: 40% Power | Deals another attack with 40% the medals power |
  | STR +1000 | Raises strength by 1,000 |
  | DEF +2000 | Raises defense by 2,000 |
+  
+  NOTE: Extra Attack, Ground DEF, and Aerial DEF do not stack, everything else does
   
 </details>
 <hr />
