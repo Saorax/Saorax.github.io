@@ -22,7 +22,7 @@ Table of Contents
   
 </details>
 
-<details><summar>yAbout Draws/Banners</summary>
+<details><summary>About Draws/Banners</summary>
   
 </details>
 
