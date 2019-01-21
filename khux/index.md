@@ -17,24 +17,23 @@ layout: default
   
   - Affects your Keyblade
   
+| Trait | Description |
+|----|---|
 | Max Gauges +2 | Raises your Gauges by 2 |
 | Max HP +800 | Raises the player's HP cap by 800 |
 | Poison Resist 20% | Lowers the odds of being put to poisoned by 20% |
-
-  Max Gauges +2 | Raises your Gauges by 2
-  Max HP +800 | Raises the player's HP cap by 800
-  Poison Resist 20% | Lowers the odds of being put to poisoned by 20%
-  Paralysis Resist 20% | Lowers the odds of being put to paralyzed by 20%
-  Sleep Resist 20% | Lowers the odds of being put to sleep by 20%
+| Paralysis Resist 20% | Lowers the odds of being put to paralyzed by 20% |
+| Sleep Resist 20% | Lowers the odds of being put to sleep by 20% |
   
   - Affects only the medal
-  
-  Ground Enemy DEF -60% | Lowers defense of ground enemies by 60%
-  Aerial Enemy DEF -60% | Lowers defense of aerial enemies by 60%
-  Damage in Raids +40% | Raises damage dealt against Raid Bosses by 40%
-  Extra Attack: 40% Power | Deals another attack with 40% the medals power
-  STR +1000 | Raises strength by 1,000
-  DEF +2000 | Raises defense by 2,000
+  | Trait | Description |
+|----|---|
+ | Ground Enemy DEF -60% | Lowers defense of ground enemies by 60% |
+ | Aerial Enemy DEF -60% | Lowers defense of aerial enemies by 60% |
+ | Damage in Raids +40% | Raises damage dealt against Raid Bosses by 40% |
+ | Extra Attack: 40% Power | Deals another attack with 40% the medals power |
+ | STR +1000 | Raises strength by 1,000 |
+ | DEF +2000 | Raises defense by 2,000 |
   
 </details>
 <hr />
