@@ -1,4 +1,5 @@
 > more stuff to be added soon™
+
 > New Story Quests (826-835 / 830, 834 & 835 gives 250 jewels)
 
 # Story Mode
