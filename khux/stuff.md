@@ -1,6 +1,6 @@
 > more stuff to be added soon™
 
-> New Story Quests (826-835 / 830, 834 & 835 gives 250 jewels)
+> New Story Quests (836-845 / 837, 839, 840, 842, 844, & 845 give 250 jewels each, 1,500 total)
 
 # Story Mode
 
@@ -32,23 +32,23 @@
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **19,950**
 
-### Quest 530-835
+### Quest 530-845
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **250** every 5 quests
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **10,000** altogether (excluding irregulars)
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **10,500** altogether (excluding irregulars)
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **29,050**
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> Total: **29,550**
 
 NOTE: 755 doesn't give jewels
 
 ### Irregular Quests after 660
 
-- 664, 667, 672, 674, 709, 712, 719, 722, 732, 734, 754, 757, 777, 784, 787, 794, 797, 802, 807, 812, 814, 824, 834
+- 664, 667, 672, 674, 709, 712, 719, 722, 732, 734, 754, 757, 777, 784, 787, 794, 797, 802, 807, 812, 814, 824, 834, 837, 839, 842, 844
 
 <img src="../images/Jewel_KHUX.png" width="30" height="30" /> **250** per quest
 
-<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **6,250** altogether
+<img src="../images/Jewel_KHUX.png" width="30" height="30" /> **7,250** altogether
 
 
 
