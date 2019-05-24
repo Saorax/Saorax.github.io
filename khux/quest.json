@@ -2,11 +2,14 @@
   {
     "story": [{
       "quest": 1,
-      "target": "Mega-Shadow",
-      "map": "Fountain Square",
       "title": "Prologue",
-      "ap": 3,
-    }]
+      "cutscene": binary,
+      "world": {
+        "name": "Daybreak Town",
+        "icon": "./images/icons/daybreak.jpg"
+      },
+      "maps": [{
+      }]
   }, {
     "proud": [{
       "quest": 1,
