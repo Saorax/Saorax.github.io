@@ -1,22 +1,67 @@
-[
+[{
+    "story":[{
+        "quest":1,
+        "title":"Prologue",
+        "cutscene":true,
+        "world":{
+          "name":"Daybreak Town",
+          "icon":"./images/icons/daybreak.jpg"
+        },
+        "maps":[{
+            "name":"text",
+            "layout":"./images/maps/daybreak/text.jpg",
+            "enemies":{
+              "target":false,
+              "total_enemies":4,
+              "groups":[
+                {
+                  "name_1":"Shadow",
+                  "level":1,
+                  "attribute":"Power"
+                }
+              ]
+            }
+          },
+          {
+            "name":"text",
+            "layout":"./images/maps/daybreak/text.jpg" 
+          }
+        ],
+        "objectives":[
+          {
+            "item":"Avatar Coins",
+            "item_count":6,
+            "objective":"Defeat the target enemy within 2 turns"
+          },
+          {
+            "item":"Avatar Coins",
+            "item_count":4,
+            "objective":"Defeat 6 or more enemies"
+          },
+          {
+            "item":"Mythril Shard",
+            "item_count":1,
+            "objective":"Collect 30 or more Lux"
+          }
+        ],
+        "materials":[
+          "2 Copper Ore",
+          "1 Iron Ore",
+          "2 Spring Water"
+        ],
+        "completion_rewards":[
+          "None"
+        ]
+      }
+    ]
+  },
   {
-    "story": [{
-      "quest": 1,
-      "title": "Prologue",
-      "cutscene": binary,
-      "world": {
-        "name": "Daybreak Town",
-        "icon": "./images/icons/daybreak.jpg"
-      },
-      "maps": [{
-      }]
-  }, {
-    "proud": [{
-      "quest": 1,
-      "target": "Mega-Shadow",
-      "map": "Fountain Square",
-      "title": "Prologue",
-      "ap": 3,
-    }]
+    "proud":[
+      {
+        "quest":1,
+        "title":"Prologue",
+        "cutscene":true
+      }
+    ]
   }
 ]
