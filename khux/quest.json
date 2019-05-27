@@ -7,51 +7,62 @@
           "name":"Daybreak Town",
           "icon":"./images/icons/daybreak.jpg"
         },
+		"target": {
+			"name": "Mega-Shadow",
+			"image": "./images/heartless/megashadow.jpg",
+			"level": 1,
+			"attribute": "Power",
+			"lux": 2,
+			"message": "Defeat this mega-monster quickly before it unleashes..."
+		},
         "maps":[{
             "name":"text",
             "layout":"./images/maps/daybreak/text.jpg",
             "enemies":{
-              "target":false,
               "total_enemies":4,
-              "groups":[
-                {
-                  "name_1":"Shadow",
-                  "level":1,
-                  "attribute":"Power"
-                }
-              ]
+              "groups":[{
+				  "target": false,
+                  "names": ["Shadow"],
+                  "levels":["1"],
+                  "attributes": ["Power"],
+				  "counts": ["1"]
+                }, {
+				  "target": false,
+                  "names": ["Shadow"],
+                  "levels":["1"],
+                  "attributes": ["Power"],
+				  "counts": ["3"]
+                }]
             }
-          },
-          {
+          }, {
             "name":"text",
-            "layout":"./images/maps/daybreak/text.jpg" 
-          }
-        ],
-        "objectives":[
-          {
+            "layout":"./images/maps/daybreak/text.jpg",
+			"enemies":{
+              "total_enemies":10,
+              "groups":[{
+				  "target": true,
+                  "names": ["Shadow", "Mega-Shadow"],
+                  "levels":["1", "1"],
+                  "attributes": ["Power", "Power"],
+				  "counts": ["9", "1"]
+                }]
+            }
+          }],
+        "objectives":[{
             "item":"Avatar Coins",
             "item_count":6,
             "objective":"Defeat the target enemy within 2 turns"
-          },
-          {
+          }, {
             "item":"Avatar Coins",
             "item_count":4,
             "objective":"Defeat 6 or more enemies"
-          },
-          {
+          }, {
             "item":"Mythril Shard",
             "item_count":1,
             "objective":"Collect 30 or more Lux"
-          }
-        ],
-        "materials":[
-          "2 Copper Ore",
-          "1 Iron Ore",
-          "2 Spring Water"
-        ],
-        "completion_rewards":[
-          "None"
-        ]
+          }],
+        "materials":["2 Copper Ore", "1 Iron Ore", "2 Spring Water"],
+        "completion_rewards":["None"]
       }
     ]
   },
