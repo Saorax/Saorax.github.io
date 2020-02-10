@@ -1,78 +1,230 @@
-[{
-    "story":[{
-        "quest":1,
-        "title":"Prologue",
-        "cutscene":true,
-        "world":{
-          "name":"Daybreak Town",
-          "icon":"./images/icons/daybreak.jpg"
-        },
-		"target": {
-			"name": "Mega-Shadow",
-			"image": "./images/heartless/megashadow.jpg",
-			"level": 1,
-			"attribute": "Power",
-			"lux": 2,
-			"message": "Defeat this mega-monster quickly before it unleashes..."
+[
+	{
+		"quest":1,
+		"title":"Prologue",
+		"cutscene":true,
+		"world":{
+			"name":"Daybreak Town",
+			"icon":"./images/icons/daybreak.png"
 		},
-        "maps":[{
-            "name":"text",
-            "layout":"./images/maps/daybreak/text.jpg",
-            "enemies":{
-              "total_enemies":4,
-              "groups":[{
-				  "target": false,
-                  "names": ["Shadow"],
-                  "levels":["1"],
-                  "attributes": ["Power"],
-				  "counts": ["1"]
-                }, {
-				  "target": false,
-                  "names": ["Shadow"],
-                  "levels":["1"],
-                  "attributes": ["Power"],
-				  "counts": ["3"]
-                }]
-            }
-          }, {
-            "name":"text",
-            "layout":"./images/maps/daybreak/text.jpg",
-			"enemies":{
-              "total_enemies":10,
-              "groups":[{
-				  "target": true,
-                  "names": ["Shadow", "Mega-Shadow"],
-                  "levels":["1", "1"],
-                  "attributes": ["Power", "Power"],
-				  "counts": ["9", "1"]
-                }]
-            }
-          }],
-        "objectives":[{
-            "item":"Avatar Coins",
-            "item_count":6,
-            "objective":"Defeat the target enemy within 2 turns"
-          }, {
-            "item":"Avatar Coins",
-            "item_count":4,
-            "objective":"Defeat 6 or more enemies"
-          }, {
-            "item":"Mythril Shard",
-            "item_count":1,
-            "objective":"Collect 30 or more Lux"
-          }],
-        "materials":["2 Copper Ore", "1 Iron Ore", "2 Spring Water"],
-        "completion_rewards":["None"]
-      }
-    ]
-  },
-  {
-    "proud":[
-      {
-        "quest":1,
-        "title":"Prologue",
-        "cutscene":true
-      }
-    ]
-  }
+		"target":{
+			"name":"Mega-Shadow",
+			"image":"./images/heartless/megashadow.png",
+			"level":1,
+			"attribute":"Power",
+			"lux":2,
+			"message":"Defeat this mega-monster quickly before it unleashes a mega-dose of damage!"
+		},
+		"maps":[
+			{
+				"name":"Fountain Square",
+				"layout":"./images/maps/daybreak/fountain-square.png"
+			},
+			{
+				"name":"2nd District",
+				"layout":"./images/maps/daybreak/2nd-district.png"
+			}
+		],
+		"objectives":[
+			{
+				"item":"Avatar Coins",
+				"item_icon":"./images/icons/avatar-coins.png",
+				"item_count":6,
+				"objective":"Defeat the target enemy within 2 turns"
+			},
+			{
+				"item":"Avatar Coins",
+				"item_icon":"./images/icons/avatar-coins.png",
+				"item_count":4,
+				"objective":"Defeat 6 or more enemies"
+			},
+			{
+				"item":"Mythril Shard",
+				"item_icon":"./images/icons/mythril-shard.png",
+				"item_count":1,
+				"objective":"Collect 30 or more Lux"
+			}
+		],
+		"materials":[
+			{
+				"name":"Copper Ore",
+				"icon":"./images/icons/copper-ore.png",
+				"count":2
+			},
+			{
+				"name":"Iron Ore",
+				"icon":"./images/icons/iron-ore.png",
+				"count":1
+			},
+			{
+				"name":"Spring Water",
+				"icon":"./images/icons/spring-water.png",
+				"count":2
+			}
+		],
+		"completion_rewards":[
+			"None"
+		],
+		"enemies":[
+			{
+				"area-1":{
+					"group-1":{
+						"leader":{
+							"enemy":"Shadow",
+							"enemy-image":"./images/heartless/shadow.png",
+							"hp":"10,000+",
+							"attribute":"Power",
+							"attribute-image":"./images/icons/power.png",
+							"target":false,
+							"reflect":false,
+							"absorb":false
+						},
+						"enemies":[
+							"none"
+						]
+					},
+					"group-2":{
+						"leader":{
+							"enemy":"Shadow",
+							"enemy-image":"./images/heartless/shadow.png",
+							"hp":"10,000+",
+							"attribute":"Power",
+							"attribute-image":"./images/icons/power.png",
+							"target":false,
+							"reflect":false,
+							"absorb":false
+						},
+						"enemies":[
+							{
+								"enemy":"Shadow",
+								"enemy-image":"./images/heartless/shadow.png",
+								"hp":"10,000+",
+								"attribute":"Power",
+								"attribute-image":"./images/icons/power.png",
+								"target":false,
+								"reflect":false,
+								"absorb":false
+							},
+							{
+								"enemy":"Shadow",
+								"enemy-image":"./images/heartless/shadow.png",
+								"hp":"10,000+",
+								"attribute":"Power",
+								"attribute-image":"./images/icons/power.png",
+								"target":false,
+								"reflect":false,
+								"absorb":false
+							}
+						]
+					}
+				},
+				"area-2":{
+					"group-1":{
+						"leader":{
+							"enemy":"Mega-Shadow",
+							"enemy-image":"./images/heartless/mega-shadow.png",
+							"hp":"10,000+",
+							"attribute":"Power",
+							"attribute-image":"./images/icons/power.png",
+							"target":true,
+							"reflect":false,
+							"absorb":false
+						},
+						"enemies":[
+							{
+								"enemy":"Shadow",
+								"enemy-image":"./images/heartless/shadow.png",
+								"hp":"10,000+",
+								"attribute":"Power",
+								"attribute-image":"./images/icons/power.png",
+								"target":false,
+								"reflect":false,
+								"absorb":false
+							},
+							{
+								"enemy":"Shadow",
+								"enemy-image":"./images/heartless/shadow.png",
+								"hp":"10,000+",
+								"attribute":"Power",
+								"attribute-image":"./images/icons/power.png",
+								"target":false,
+								"reflect":false,
+								"absorb":false
+							},
+							{
+								"enemy":"Shadow",
+								"enemy-image":"./images/heartless/shadow.png",
+								"hp":"10,000+",
+								"attribute":"Power",
+								"attribute-image":"./images/icons/power.png",
+								"target":false,
+								"reflect":false,
+								"absorb":false
+							},
+							{
+								"enemy":"Shadow",
+								"enemy-image":"./images/heartless/shadow.png",
+								"hp":"10,000+",
+								"attribute":"Power",
+								"attribute-image":"./images/icons/power.png",
+								"target":false,
+								"reflect":false,
+								"absorb":false
+							},
+							{
+								"enemy":"Shadow",
+								"enemy-image":"./images/heartless/shadow.png",
+								"hp":"10,000+",
+								"attribute":"Power",
+								"attribute-image":"./images/icons/power.png",
+								"target":false,
+								"reflect":false,
+								"absorb":false
+							},
+							{
+								"enemy":"Shadow",
+								"enemy-image":"./images/heartless/shadow.png",
+								"hp":"10,000+",
+								"attribute":"Power",
+								"attribute-image":"./images/icons/power.png",
+								"target":false,
+								"reflect":false,
+								"absorb":false
+							},
+							{
+								"enemy":"Shadow",
+								"enemy-image":"./images/heartless/shadow.png",
+								"hp":"10,000+",
+								"attribute":"Power",
+								"attribute-image":"./images/icons/power.png",
+								"target":false,
+								"reflect":false,
+								"absorb":false
+							},
+							{
+								"enemy":"Shadow",
+								"enemy-image":"./images/heartless/shadow.png",
+								"hp":"10,000+",
+								"attribute":"Power",
+								"attribute-image":"./images/icons/power.png",
+								"target":false,
+								"reflect":false,
+								"absorb":false
+							},
+							{
+								"enemy":"Shadow",
+								"enemy-image":"./images/heartless/shadow.png",
+								"hp":"10,000+",
+								"attribute":"Power",
+								"attribute-image":"./images/icons/power.png",
+								"target":false,
+								"reflect":false,
+								"absorb":false
+							}
+						]
+					}
+				}
+			}
+		]
+	}
 ]
