@@ -1,0 +1,28 @@
+body {
+	box-sizing: border-box;
+	font-family: Verdana;
+	background-color: #232931;
+	color: rgba(238,238,238,0.8);
+	box-sizing: border-box;
+}
+
+#hee {
+	background-color:#393e46;
+	padding:15px;
+	elevation:24dp;
+}
+
+#bun {
+	 background-color:#232931;
+	font-size:30px;
+}
+h3, h5, h6 {
+	background-color:#393e46;
+}
+
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+  .left, .middle, .right {
+    width:100%;
+  }
+}
