@@ -12,11 +12,16 @@ body {
 	elevation:24dp;
 }
 
+input {
+	background-color:#393e46;
+}
+
 #bun {
 	 background-color:#232931;
 	font-size:30px;
 }
-h3, h5, h6 {
+
+h5, h6 {
 	background-color:#393e46;
 }
 
