@@ -1,0 +1,105 @@
+[
+{
+	"global": [{
+			"id": 1836,
+			"name": "SN++ - FF7R Tifa",
+			"star": 7,
+			"attribute": "Upright Speed",
+			"tier": 10,
+			"type": 0,
+			"minStr": "38709",
+			"maxStr": "40383",
+			"boostStr": "5000",
+			"minDef": "13451",
+			"maxDef": "16543",
+			"boostDef": "5000",
+			"cost": 46,
+			"traits": 5,
+			"special": [{
+				"target": "multiple",
+				"multi": "x 18.60 - 20.84",
+				"gauges": 3,
+				"ability": "Flame Strike +6",
+				"description": "Deals 4 hits. 1 turn: S-Medal STR +3000, self [↑ STR, U- & S-STR 15], targets [↓ DEF, U- & S-DEF 15], SP ATK B +200%, reflects 15% Speed. Count ±0. Damage+: Higher HP. Pierces Defense Boost 30%",
+				"more": [{
+					"hits": 3,
+					"strBuff": [{
+						"attribute": "Speed",
+						"str": "3000"
+					}],
+					"selfBuffs": [{
+						"strType": [{
+							"str": true,
+							"strBuff": "15",
+							"pstr": false,
+							"pstrBuff": "0",
+							"sstr": true,
+							"sstrBuff": "15",
+							"mstr": false,
+							"mstrBuff": "0",
+							"ustr": true,
+							"ustrBuff": "15",
+							"rstr": false,
+							"rstrBuff": "0",
+							"def": true,
+							"defBuff": "15",
+							"pdef": false,
+							"pdefBuff": "0",
+							"sdef": true,
+							"sdefBuff": "15",
+							"mdef": false,
+							"mdefBuff": "0",
+							"udef": true,
+							"udefBuff": "15",
+							"rdef": false,
+							"rdefBuff": "0"
+						}],
+					"enemeyDebuffs": [{
+						"strType": [{
+							"str": true,
+							"strBuff": "15",
+							"pstr": false,
+							"pstrBuff": "0",
+							"sstr": true,
+							"sstrBuff": "15",
+							"mstr": false,
+							"mstrBuff": "0",
+							"ustr": true,
+							"ustrBuff": "15",
+							"rstr": false,
+							"rstrBuff": "0",
+							"def": true,
+							"defBuff": "15",
+							"pdef": false,
+							"pdefBuff": "0",
+							"sdef": true,
+							"sdefBuff": "15",
+							"mdef": false,
+							"mdefBuff": "0",
+							"udef": true,
+							"udefBuff": "15",
+							"rdef": false,
+							"rdefBuff": "0"
+						}]
+					}]
+				}],
+				"supernova":[{
+					"ability": "[Mastery] Upright Strike All S",
+					"target": 1,
+					"multi": "x 240.00",
+					"description": "1 turn: S-Medal STR +6000, self [↑ STR, U- & S-STR 15], SP ATK B +300%. Count +3. Gauge +3. Triggers before slot 1 is activated when defending in PVP.",
+					"more": [{
+						"hits": 1,
+						"turns": 1,
+						"strType": 2,
+						"strBoost": "6000"
+					}]
+				}]
+			}]
+		}]
+	}],
+	"jp": [{
+		
+	}]
+}
+]
