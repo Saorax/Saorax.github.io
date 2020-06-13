@@ -1,15 +1,15 @@
 {
-	"story-jewels": {
+	"storyjewels": {
 		"latest": "925",
 		"total1": "13,000",
 		"total2": "61,650"
 	},
-	"proud-jewels": {
+	"proudjewels": {
 		"latest": "920",
 		"total1": "3,000",
 		"total2": "32,700"
 	},
-	"proud-gems": {
+	"proudgems": {
 		"power1": "8",
 		"power2": "33",
 		"speed1": "8",
