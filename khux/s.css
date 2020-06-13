@@ -1,49 +1,52 @@
 body {
 	box-sizing: border-box;
 	font-family: Verdana;
-	background-color: #232931;
+	background-color: #121212;
 	color: rgba(238,238,238,0.8);
 	box-sizing: border-box;
 }
 
 #sao-header {
-	background-color:#393e46;
-	padding:15px;
-	elevation:24dp;
+	background-color:#000000;
+	padding:10px;
+}
+#sao-header h1 {
+	color: #bb86fc;
+}
+#sao-header h4 {
+	color: #03dac6;
 }
 
-#sao-button {
-	 background-color:#232931;
-	font-size:30px;
-}
-h2, h3, h5, h6 {
-	background-color:#393e46;
+.tocl {
+  padding: 10px;
 }
 
-.left {
-  background-color:#232931;
-  float:left;
-  width:33%;
-  text-align:left;
+.tocl li {
+  font-size: 17px;
+  padding: 5px;
+  margin-left: 35px;
+}
+.tocl li a {
+	color: #03dac6;
 }
 
-.middle {
-  background-color:#232931;
-  float:left;
-  width:33%;
-  padding:0 20px;
-}
-.right {
-  background-color:#232931;
-  float:left;
-  width:33%;
-  padding:0 15px;
-  text-align:left;
+.toc {
+	color: #bb86fc;
+	padding: 10px;
 }
 
-@media only screen and (max-width:620px) {
-  /* For mobile phones: */
-  .left, .middle, .right {
-    width:100%;
-  }
+h3 {
+	color: #03dac6;
+}
+h4 {
+	color: #bb86fc;
+}
+h1 {
+	color: #bb86fc;
+}
+
+hr {
+	border-color: rgba(255,255,255,.12);
+	margin: 0;
+	border-width: 1px 0 0;
 }
