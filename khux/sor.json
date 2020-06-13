@@ -1,0 +1,24 @@
+{
+	"story-jewels": {
+		"latest": "925",
+		"total1": "13,000",
+		"total2": "61,650"
+	},
+	"proud-jewels": {
+		"latest": "920",
+		"total1": "3,000",
+		"total2": "32,700"
+	},
+	"proud-gems": {
+		"power1": "8",
+		"power2": "33",
+		"speed1": "8",
+		"speed2": "33",
+		"magic1": "8",
+		"magic2": "32",
+		"sun1": "8",
+		"sun2": "21",
+		"moon1": "8",
+		"moon2": "21",
+	}
+}
