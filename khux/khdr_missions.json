@@ -203,7 +203,7 @@
 	},
 	"event": {
 		"completion": "x1 Card Draw Ticket",
-		"rewards":: [{
+		"rewards": [{
 			"mission": "Complete Winning Streak",
 			"reward": "3000 Jewels"
 		},{
