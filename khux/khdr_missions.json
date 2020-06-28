@@ -1,0 +1,324 @@
+{
+	"weeklies": {
+		"release": {
+			"completion": "x1 Card Draw Ticket",
+			"rewards": [{
+				"mission": "Defeat enemy x10",
+				"reward": "x50 BP"
+			},{
+				"mission": "Defeat enemy x20",
+				"reward": "x100 BP"
+			},{
+				"mission": "Defeat enemy x30",
+				"reward": "x1 Charm"
+			},{
+				"mission": "Defeat enemy x40",
+				"reward": "x100 BP"
+			},{
+				"mission": "Defeat enemy x50",
+				"reward": "100 Jewels"
+			},{
+				"mission": "Defeat enemy x75",
+				"reward": "x100 BP"
+			},{
+				"mission": "Defeat enemy x100",
+				"reward": "x100 BP"
+			},{
+				"mission": "Defeat enemy x150",
+				"reward": "x1 Charm"
+			},{
+				"mission": "Defeat enemy x200",
+				"reward": "x100 BP"
+			},{
+				"mission": "Defeat enemy x250",
+				"reward": "100 Jewels"
+			},{
+				"mission": "Defeat enemy x300",
+				"reward": "x100 BP"
+			},{
+				"mission": "Defeat enemy x350",
+				"reward": "x100 BP"
+			},{
+				"mission": "Defeat enemy x400",
+				"reward": "x1 Charm"
+			},{
+				"mission": "Defeat enemy x450",
+				"reward": "x200 BP"
+			},{
+				"mission": "Defeat enemy x500",
+				"reward": "100 Jewels"
+			},{
+				"mission": "Defeat enemy x550",
+				"reward": "x300 BP"
+			},{
+				"mission": "Defeat enemy x600",
+				"reward": "x500 BP"
+			},{
+				"mission": "Defeat enemy x700",
+				"reward": "x1 Quest Key"
+			},{
+				"mission": "Defeat enemy x800",
+				"reward": "x1000"
+			},{
+				"mission": "Defeat enemy x900",
+				"reward": "100 Jewels"
+			},{
+				"mission": "Defeat enemy x1000",
+				"reward": "x1000 BP"
+			},{
+				"mission": "Defeat enemy x2000",
+				"reward": "x1000 BP"
+			},{
+				"mission": "Defeat enemy x3000",
+				"reward": "x100 Jewels"
+			},{
+				"mission": "Defeat enemy x4000",
+				"reward": "100 Jewels"
+			},{
+				"mission": "Defeat enemy x5000",
+				"reward": "x1 Quest Key"
+			}]
+		},
+		"july1": {
+			"completion": "x1 Card Draw Ticket",
+			"rewards": [{
+				
+			}]
+		}
+	},
+	"monthlies": {
+		"release": {
+			"completion": "x1 Card Draw Ticket",
+		    "rewards": [{
+			    "mission": "Defeat enemy x2000",
+				"reward": "x2000 BP"
+		    },{
+			    "mission": "Defeat enemy x3000",
+				"reward": "x3000 BP"
+		    },{
+			    "mission": "Defeat enemy x5000",
+				"reward": "x5000 BP"
+		    },{
+			    "mission": "Defeat enemy x7500",
+				"reward": "x7500 BP"
+		    },{
+			    "mission": "Defeat enemy x10000",
+				"reward": "x10000 BP"
+		    },{
+			    "mission": "Defeat enemy x12500",
+				"reward": "x12500 BP"
+		    },{
+			    "mission": "Defeat enemy x15000",
+				"reward": "x15000 BP"
+		    },{
+			    "mission": "Defeat enemy x17500",
+				"reward": "x20000 BP"
+		    },{
+			    "mission": "Defeat enemy x20000",
+				"reward": "x1 Darkside"
+		    }]
+		},
+		"july": {
+			
+		}
+	},
+	"beginner": {
+		"completion": "x1 Card Draw Ticket",
+		"rewards": [{
+			"mission": "Complete quest x1",
+			"reward": "3000 Jewels"
+		},{
+			"mission": "Perform draw x1",
+			"reward": "x1 Charm"
+		},{
+			"mission": "Win world battle x10",
+			"reward": "x1 Charm"
+		},{
+			"mission": "Obtain BP x100",
+			"reward": "300 Jewels"
+		},{
+			"mission": "Gain LV x5 (Reach Level 6)",
+			"reward": "x50 BP"
+		},{
+			"mission": "Complete quest x3",
+			"reward": "x1 Queen Minnie"
+		},{
+			"mission": "Obtain BP x300",
+			"reward": "300 Jewels"
+		},{
+			"mission": "Defeat enemy x30",
+			"reward": "x1 Charm"
+		},{
+			"mission": "Gain LV x10 (Reach Level 11)",
+			"reward": "300 Jewels"
+		},{
+			"mission": "Defeat Shadow x10",
+			"reward": "x50 BP"
+		},{
+			"mission": "Complete quest x8",
+			"reward": "300 Jewels"
+		},{
+			"mission": "Gain LV x15 (Reach Level 16)",
+			"reward": "x1 Quest Key"
+		},{
+			"mission": "Defeat enemy x50",
+			"reward": "300 Jewels"
+		},{
+			"mission": "Defeat enemy x100",
+			"reward": "x1 Charm"
+		},{
+			"mission": "Defeat Soldier x10",
+			"reward": "300 Jewels"
+		},{
+			"mission": "Complete quest x14",
+			"reward": "x1 Quest Key"
+		},{
+			"mission": "Obtain BP x1000",
+			"reward": "300 Jewels"
+		},{
+			"mission": "Defeat enemy x200",
+			"reward": "x1 Charm"
+		},{
+			"mission": "Defeat enemy x300",
+			"reward": "300 Jewels"
+		},{
+			"mission": "Defeat Aeroplane x10",
+			"reward": "x50 BP"
+		},{
+			"mission": "Obtain BP x1500",
+			"reward": "300 Jewels"
+		},{
+			"mission": "Defeat enemy x500",
+			"reward": "x1 Charm"
+		},{
+			"mission": "Defeat enemy x1000",
+			"reward": "300 Jewels"
+		},{
+			"mission": "Gain LV x20 (Reach Level 21)",
+			"reward": "x1 Quest Key"
+		},{
+			"mission": "Defeat Fat Bandit x10",
+			"reward": "x1 Card Draw Ticket"
+		}]
+	},
+	"event": {
+		"completion": "x1 Card Draw Ticket",
+		"rewards":: [{
+			"mission": "Complete Winning Streak",
+			"reward": "3000 Jewels"
+		},{
+			"mission": "Complete Feat of Strength (Beg.)",
+			"reward": "x1 Card Draw Ticket"
+		},{
+			"mission": "Complete Feat of Strength (Int.)",
+			"reward": "x3 Card Draw Ticket"
+		},{
+			"mission": "Complete Feat of Strength (Adv.)",
+			"reward": "x5 Card Draw Ticket"
+		},{
+			"mission": "Defeat a Gargoyle",
+			"reward": "600 Jewels"
+		},{
+			"mission": "Defeat a Pot Scorpion",
+			"reward": "600 Jewels"
+		},{
+			"mission": "Defeat a Red Bandit",
+			"reward": "600 Jewels"
+		},{
+			"mission": "Defeat a Morning Star",
+			"reward": "600 Jewels"
+		},{
+			"mission": "Defeat a High Wizard",
+			"reward": "600 Jewels"
+		}]
+	},
+	"premium": {
+		"release": {
+			"completion": "x1 Card Draw Ticket",
+			"rewards": [{
+				"mission": "Defeat enemy x10",
+				"reward": "x1 Quest Key"
+			},{
+				"mission": "Defeat enemy x20",
+				"reward": "x1 Card Draw Ticket"
+			},{
+				"mission": "Defeat enemy x30",
+				"reward": "100 Jewels"
+			},{
+				"mission": "Defeat enemy x40",
+				"reward": "x1 Card Draw Ticket"
+			},{
+				"mission": "Defeat enemy x50",
+				"reward": "x1 Quest Key"
+			},{
+				"mission": "Defeat enemy x75",
+				"reward": "x1 Card Draw Ticket"
+			},{
+				"mission": "Defeat enemy x100",
+				"reward": "200 Jewels"
+			},{
+				"mission": "Defeat enemy x150",
+				"reward": "x1 Card Draw Ticket"
+			},{
+				"mission": "Defeat enemy x200",
+				"reward": "x1 Quest Key"
+			},{
+				"mission": "Defeat enemy x250",
+				"reward": "x1 Card Draw Ticket"
+			},{
+				"mission": "Defeat enemy x300",
+				"reward": "200 Jewels"
+			},{
+				"mission": "Defeat enemy x350",
+				"reward": "x1 Card Draw Ticket"
+			},{
+				"mission": "Defeat enemy x400",
+				"reward": "x1 Quest Key"
+			},{
+				"mission": "Defeat enemy x450",
+				"reward": "x1 Card Draw Ticket"
+			},{
+				"mission": "Defeat enemy x500",
+				"reward": "200 Jewels"
+			},{
+				"mission": "Defeat enemy x550",
+				"reward": "200 Jewels"
+			}]
+		}
+	},
+	"other": {
+		"june": {
+			"rank2_challenge": {
+				"completion": "x1 Quest Key",
+				"rewards": [{
+					"mission": "Play Rank ★★ (2 Star) battle x100 in Wonderland",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Play Rank ★★ (2 Star) battle x200 in Wonderland",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Play Rank ★★ (2 Star) battle x300 in Wonderland",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Play Rank ★★ (2 Star) battle x400 in Wonderland",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Play Rank ★★ (2 Star) battle x500 in Wonderland",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Play Rank ★★ (2 Star) battle x100 in Agrabah",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Play Rank ★★ (2 Star) battle x200 in Agrabah",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Play Rank ★★ (2 Star) battle x300 in Agrabah",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Play Rank ★★ (2 Star) battle x400 in Agrabah",
+					"reward": "x1 Quest Key"
+				}]
+			}
+		}
+	}
+}
