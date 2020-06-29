@@ -2,6 +2,7 @@
 	"weeklies": {
 		"release": {
 			"completion": "x1 Card Draw Ticket",
+			"time": "June 22nd - Current",
 			"rewards": [{
 				"mission": "Defeat enemy x10",
 				"reward": "x50 BP"
@@ -78,17 +79,12 @@
 				"mission": "Defeat enemy x5000",
 				"reward": "x1 Quest Key"
 			}]
-		},
-		"july1": {
-			"completion": "x1 Card Draw Ticket",
-			"rewards": [{
-				
-			}]
 		}
 	},
 	"monthlies": {
 		"release": {
 			"completion": "x1 Card Draw Ticket",
+			"time": "June 22nd - Current",
 		    "rewards": [{
 			    "mission": "Defeat enemy x2000",
 				"reward": "x2000 BP"
@@ -126,6 +122,7 @@
 		"completion": "x1 Card Draw Ticket",
 		"rewards": [{
 			"mission": "Complete quest x1",
+			"time": "90 days from when you first start the game",
 			"reward": "3000 Jewels"
 		},{
 			"mission": "Perform draw x1",
@@ -203,8 +200,9 @@
 	},
 	"event": {
 		"completion": "x1 Card Draw Ticket",
-		"rewards": [{
+		"rewards":: [{
 			"mission": "Complete Winning Streak",
+			"time": "Forever(?)",
 			"reward": "3000 Jewels"
 		},{
 			"mission": "Complete Feat of Strength (Beg.)",
@@ -235,6 +233,7 @@
 	"premium": {
 		"release": {
 			"completion": "x1 Card Draw Ticket",
+			"time": "June 22nd - Current",
 			"rewards": [{
 				"mission": "Defeat enemy x10",
 				"reward": "x1 Quest Key"
@@ -290,6 +289,7 @@
 		"june": {
 			"rank2_challenge": {
 				"completion": "x1 Quest Key",
+				"time": "June 24th - July 1st",
 				"rewards": [{
 					"mission": "Play Rank ★★ (2 Star) battle x100 in Wonderland",
 					"reward": "x1 Quest Key"
