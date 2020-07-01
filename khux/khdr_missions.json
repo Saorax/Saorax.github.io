@@ -1,8 +1,9 @@
 {
-	"weeklies": {
+    "last_update": "July 1st",
+"weeklies": {
 		"release": {
 			"completion": "x1 Card Draw Ticket",
-			"time": "June 22nd - Current",
+			"time": "June 22 - Current",
 			"rewards": [{
 				"mission": "Defeat enemy x10",
 				"reward": "x50 BP"
@@ -84,7 +85,7 @@
 	"monthlies": {
 		"release": {
 			"completion": "x1 Card Draw Ticket",
-			"time": "June 22nd - Current",
+			"time": "June 22 - June 30",
 		    "rewards": [{
 			    "mission": "Defeat enemy x2000",
 				"reward": "x2000 BP"
@@ -115,7 +116,36 @@
 		    }]
 		},
 		"july": {
-			
+			"completion": "x1 Card Draw Ticket",
+			"time": "July 1 - July 31",
+		    "rewards": [{
+			    "mission": "Defeat enemy x300 in Wonderland (Rank ★★)",
+				"reward": "300 Jewels"
+		    },{
+			    "mission": "Defeat enemy x400 in Agrabah (Rank ★★)",
+				"reward": "300 Jewels"
+		    },{
+			    "mission": "Defeat enemy x10000",
+				"reward": "x50000 BP"
+		    },{
+			    "mission": "Defeat enemy x15000",
+				"reward": "300 Jewels"
+		    },{
+			    "mission": "Defeat enemy x20000",
+				"reward": "300 Jewels"
+		    },{
+			    "mission": "Defeat enemy x25000",
+				"reward": "x1 Darkside"
+		    },{
+			    "mission": "Defeat enemy x30000",
+				"reward": "300 Jewels"
+		    },{
+			    "mission": "Defeat enemy x40000",
+				"reward": "500 Jewels"
+		    },{
+			    "mission": "Defeat enemy x50000",
+				"reward": "1000 Jewels"
+		    }]
 		}
 	},
 	"beginner": {
@@ -233,7 +263,7 @@
 	"premium": {
 		"release": {
 			"completion": "x1 Card Draw Ticket",
-			"time": "June 22nd - Current",
+			"time": "June 22 - Current",
 			"rewards": [{
 				"mission": "Defeat enemy x10",
 				"reward": "x1 Quest Key"
@@ -289,7 +319,7 @@
 		"june": {
 			"rank2_challenge": {
 				"completion": "x1 Quest Key",
-				"time": "June 24th - July 1st",
+				"time": "June 24 - July 1",
 				"rewards": [{
 					"mission": "Play Rank ★★ (2 Star) battle x100 in Wonderland",
 					"reward": "x1 Quest Key"
@@ -317,6 +347,59 @@
 				},{
 					"mission": "Play Rank ★★ (2 Star) battle x400 in Agrabah",
 					"reward": "x1 Quest Key"
+				}]
+			},
+			"whack_a_watermelon": {
+				"completion": "x1 Quest Key",
+				"time": "June 30 - July 31",
+				"rewards": [{
+					"mission": "Defeat Wicked Watermelon x10 in the event Whack a Watermelon",
+					"reward": "x1 Charm"
+				},{
+					"mission": "Defeat Wicked Watermelon x50 in the event Whack a Watermelon",
+					"reward": "x1 King Mickey"
+				},{
+					"mission": "Defeat Wicked Watermelon x100 in the event Whack a Watermelon",
+					"reward": "x1000 BP"
+				},{
+					"mission": "Defeat Wicked Watermelon x250 in the event Whack a Watermelon",
+					"reward": "x1 King Mickey"
+				},{
+					"mission": "Defeat Wicked Watermelon x500 in the event Whack a Watermelon",
+					"reward": "x1 Charm"
+				},{
+					"mission": "Defeat Wicked Watermelon x750 in the event Whack a Watermelon",
+					"reward": "x1 King Mickey"
+				},{
+					"mission": "Defeat Wicked Watermelon x1000 in the event Whack a Watermelon",
+					"reward": "x10000 BP"
+				},{
+					"mission": "Defeat Wicked Watermelon x1500 in the event Whack a Watermelon",
+					"reward": "x1 King Mickey"
+				},{
+					"mission": "Defeat Wicked Watermelon x2000 in the event Whack a Watermelon",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Wicked Watermelon x3000 in the event Whack a Watermelon",
+					"reward": "x1 King Mickey"
+				},{
+					"mission": "Defeat Wicked Watermelon x4000 in the event Whack a Watermelon",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Wicked Watermelon x5000 in the event Whack a Watermelon",
+					"reward": "x1 King Mickey"
+				},{
+					"mission": "Defeat Wicked Watermelon x7500 in the event Whack a Watermelon",
+					"reward": "x1 King Mickey"
+				},{
+					"mission": "Defeat Wicked Watermelon x10000 in the event Whack a Watermelon",
+					"reward": "x1 King Mickey"
+				},{
+					"mission": "Defeat Huge Watermelon x1 in the event Whack a Watermelon",
+					"reward": "x1 King Mickey"
+				},{
+					"mission": "Defeat Huge Watermelon x100 in the event Whack a Watermelon",
+					"reward": "x1 King Mickey"
 				}]
 			}
 		}
