@@ -1,6 +1,6 @@
 {
-    "last_update": "July 1st",
-"weeklies": {
+    "last_update": "July 20th",
+    "weeklies": {
 		"release": {
 			"completion": "x1 Card Draw Ticket",
 			"time": "June 22 - Current",
@@ -230,7 +230,7 @@
 	},
 	"event": {
 		"completion": "x1 Card Draw Ticket",
-		"rewards":: [{
+		"rewards": [{
 			"mission": "Complete Winning Streak",
 			"time": "Forever(?)",
 			"reward": "3000 Jewels"
@@ -400,6 +400,40 @@
 				},{
 					"mission": "Defeat Huge Watermelon x100 in the event Whack a Watermelon",
 					"reward": "x1 King Mickey"
+				}]
+			}
+		},
+		"july": {
+			"limited-time-daily-mission": {
+				"completion": "x1 Quest Key",
+				"time": "July 20 - Current",
+				"rewards": [{
+					"mission": "Obtain BP x2500",
+					"reward": "x1 Charm"
+				},{
+					"mission": "Defeat enemy x100",
+					"reward": "x2500 BP"
+				},{
+					"mission": "Obtain BP x5000",
+					"reward": "x1 Charm"
+				},{
+					"mission": "Defeat enemy x200",
+					"reward": "x5000 BP"
+				},{
+					"mission": "Obtain BP x10000",
+					"reward": "x1 Charm"
+				},{
+					"mission": "Defeat enemy x300",
+					"reward": "x10000 BP"
+				},{
+					"mission": "Obtain BP x20000",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Obtain BP x50000",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat enemy x10 (Rank ★★★)",
+					"reward": "200 Jewels"
 				}]
 			}
 		}
