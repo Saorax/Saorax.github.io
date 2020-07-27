@@ -1,5 +1,5 @@
 {
-    "last_update": "July 26th",
+    "last_update": "July 27th",
     "weeklies": {
 		"release": {
 			"completion": "x1 Card Draw Ticket",
@@ -85,70 +85,70 @@
 			"completion": "x1 Card Draw Ticket",
 			"time": "July 27 - Current",
 			"rewards": [{
-				"mission": "Defeat enemy x10",
+				"mission": "Defeat enemy x100",
 				"reward": "x1000 BP"
 			},{
-				"mission": "Defeat enemy x20",
+				"mission": "Defeat enemy x250",
 				"reward": "x2500 BP"
 			},{
-				"mission": "Defeat enemy x30",
-				"reward": "x1 Charm"
-			},{
-				"mission": "Defeat enemy x40",
-				"reward": "x5000 BP"
-			},{
-				"mission": "Defeat enemy x50",
-				"reward": "100 Jewels"
-			},{
-				"mission": "Defeat enemy x75",
-				"reward": "x7500 BP"
-			},{
-				"mission": "Defeat enemy x100",
-				"reward": "x10000 BP"
-			},{
-				"mission": "Defeat enemy x150",
-				"reward": "x1 Charm"
-			},{
-				"mission": "Defeat enemy x200",
-				"reward": "x10000 BP"
-			},{
-				"mission": "Defeat enemy x250",
-				"reward": "100 Jewels"
-			},{
-				"mission": "Defeat enemy x300",
-				"reward": "x10000 BP"
-			},{
-				"mission": "Defeat enemy x350",
-				"reward": "x10000 BP"
-			},{
-				"mission": "Defeat enemy x400",
-				"reward": "x1 Charm"
-			},{
-				"mission": "Defeat enemy x450",
-				"reward": "x10000 BP"
-			},{
 				"mission": "Defeat enemy x500",
-				"reward": "100 Jewels"
-			},{
-				"mission": "Defeat enemy x550",
-				"reward": "x10000 BP"
-			},{
-				"mission": "Defeat enemy x600",
-				"reward": "x10000 BP"
-			},{
-				"mission": "Defeat enemy x700",
-				"reward": "x1 Quest Key"
-			},{
-				"mission": "Defeat enemy x800",
-				"reward": "x10000"
-			},{
-				"mission": "Defeat enemy x900",
-				"reward": "100 Jewels"
+				"reward": "x1 Charm"
 			},{
 				"mission": "Defeat enemy x1000",
+				"reward": "x5000 BP"
+			},{
+				"mission": "Defeat enemy x1100",
+				"reward": "100 Jewels"
+			},{
+				"mission": "Defeat enemy x1200",
+				"reward": "x7500 BP"
+			},{
+				"mission": "Defeat enemy x1300",
 				"reward": "x10000 BP"
 			},{
+				"mission": "Defeat enemy x1400",
+				"reward": "x1 Charm"
+			},{
+				"mission": "Defeat enemy x1500",
+				"reward": "x10000 BP"
+			},{
+				"mission": "Defeat enemy x1600",
+				"reward": "100 Jewels"
+			},{
+				"mission": "Defeat enemy x1700",
+				"reward": "x10000 BP"
+			},{
+				"mission": "Defeat enemy x1800",
+				"reward": "x10000 BP"
+			},{
+				"mission": "Defeat enemy x1900",
+				"reward": "x1 Charm"
+			},{
 				"mission": "Defeat enemy x2000",
+				"reward": "x10000 BP"
+			},{
+				"mission": "Defeat enemy x2100",
+				"reward": "100 Jewels"
+			},{
+				"mission": "Defeat enemy x2200",
+				"reward": "x10000 BP"
+			},{
+				"mission": "Defeat enemy x2300",
+				"reward": "x10000 BP"
+			},{
+				"mission": "Defeat enemy x2400",
+				"reward": "x1 Quest Key"
+			},{
+				"mission": "Defeat enemy x2500",
+				"reward": "x10000"
+			},{
+				"mission": "Defeat enemy x2600",
+				"reward": "100 Jewels"
+			},{
+				"mission": "Defeat enemy x2700",
+				"reward": "x10000 BP"
+			},{
+				"mission": "Defeat enemy x2800",
 				"reward": "x10000 BP"
 			},{
 				"mission": "Defeat enemy x3000",
@@ -486,7 +486,7 @@
 		"july": {
 			"limited-time-daily-mission": {
 				"completion": "x1 Charm",
-				"time": "July 20 - Current",
+				"time": "July 20 - July 26",
 				"rewards": [{
 					"mission": "Obtain BP x2500",
 					"reward": "x1 Charm"
@@ -514,6 +514,59 @@
 				},{
 					"mission": "Defeat enemy x10 (Rank ★★★)",
 					"reward": "200 Jewels"
+				}]
+			},
+			"target-fluttering-event-missiom": {
+				"completion": "x1 Charm",
+				"time": "July 27 - August 10",
+				"rewards": [{
+					"mission": "Defeat Fluttering x1",
+					"reward": "x1 Charm"
+				},{
+					"mission": "Defeat Fluttering x5",
+					"reward": "100 Jewels"
+				},{
+					"mission": "Defeat Fluttering x10",
+					"reward": "x1 Charm"
+				},{
+					"mission": "Defeat Fluttering x30",
+					"reward": "100 Jewels"
+				},{
+					"mission": "Defeat Fluttering x50",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Fluttering x75",
+					"reward": "100 Jewels"
+				},{
+					"mission": "Defeat Fluttering x100",
+					"reward": "100 Jewels"
+				},{
+					"mission": "Defeat Fluttering x150",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Fluttering x200",
+					"reward": "100 Jewels"
+				},{
+					"mission": "Defeat Fluttering x250",
+					"reward": "100 Jewels"
+				},{
+					"mission": "Defeat Fluttering x300",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Fluttering x350",
+					"reward": "200 Jewels"
+				},{
+					"mission": "Defeat Fluttering x400",
+					"reward": "200 Jewels"
+				},{
+					"mission": "Defeat Fluttering x450",
+					"reward": "500 Jewels"
+				},{
+					"mission": "Defeat Fluttering x500",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Complete Target: Fluttering",
+					"reward": "1500 Jewels"
 				}]
 			}
 		}
