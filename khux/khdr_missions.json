@@ -1,5 +1,5 @@
 {
-    "last_update": "July 27th",
+    "last_update": "August 2nd",
     "weeklies": {
 		"release": {
 			"completion": "x1 Card Draw Ticket",
@@ -195,7 +195,7 @@
 				"reward": "x1 Darkside"
 		    }]
 		},
-		"july": {
+		"july20": {
 			"completion": "x1 Card Draw Ticket",
 			"time": "July 1 - July 31",
 		    "rewards": [{
@@ -224,6 +224,38 @@
 				"reward": "500 Jewels"
 		    },{
 			    "mission": "Defeat enemy x50000",
+				"reward": "1000 Jewels"
+		    }]
+		},
+        "august20": {
+			"completion": "x1 Card Draw Ticket",
+			"time": "August 1 - August 30",
+		    "rewards": [{
+			    "mission": "Defeat enemy x10000",
+				"reward": "300 Jewels"
+		    },{
+			    "mission": "Defeat enemy x15000",
+				"reward": "300 Jewels"
+		    },{
+			    "mission": "Defeat enemy x20000",
+				"reward": "x50000 BP"
+		    },{
+			    "mission": "Defeat enemy x30000",
+				"reward": "300 Jewels"
+		    },{
+			    "mission": "Defeat enemy x50000",
+				"reward": "300 Jewels"
+		    },{
+			    "mission": "Obtain BP x100000",
+				"reward": "x1 Darkside"
+		    },{
+			    "mission": "Obtain BP x200000",
+				"reward": "300 Jewels"
+		    },{
+			    "mission": "Obtain BP x500000",
+				"reward": "500 Jewels"
+		    },{
+			    "mission": "Obtain BP x1000000",
 				"reward": "1000 Jewels"
 		    }]
 		}
@@ -516,8 +548,8 @@
 					"reward": "200 Jewels"
 				}]
 			},
-			"target-fluttering-event-missiom": {
-				"completion": "x1 Quest Key",
+			"target-fluttering-event-mission": {
+				"completion": "x1 Charm",
 				"time": "July 27 - August 10",
 				"rewards": [{
 					"mission": "Defeat Fluttering x1",
@@ -566,6 +598,86 @@
 					"reward": "x1 Quest Key"
 				},{
 					"mission": "Complete Target: Fluttering",
+					"reward": "1500 Jewels"
+				}]
+			},
+			"target-ifrit-event-mission": {
+				"completion": "x1 Card Draw Ticket",
+				"time": "August 1 - August 17",
+				"rewards": [{
+					"mission": "Defeat Ifrit x1",
+					"reward": "x1 Charm"
+				},{
+					"mission": "Defeat Ifrit x5",
+					"reward": "x1 Charm"
+				},{
+					"mission": "Defeat Ifrit x10",
+					"reward": "100 Jewels"
+				},{
+					"mission": "Defeat Ifrit x20",
+					"reward": "x1 Charm"
+				},{
+					"mission": "Defeat Ifrit x30",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Ifrit x50",
+					"reward": "100 Jewels"
+				},{
+					"mission": "Defeat Ifrit x75",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Ifrit x100",
+					"reward": "x1 Charm"
+				},{
+					"mission": "Defeat Ifrit x125",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Ifrit x150",
+					"reward": "100 Jewels"
+				},{
+					"mission": "Defeat Ifrit x175",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Ifrit x200",
+					"reward": "x1 Charm"
+				},{
+					"mission": "Defeat Ifrit x225",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Ifrit x250",
+					"reward": "100 Jewels"
+				},{
+					"mission": "Defeat Ifrit x275",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Ifrit x300",
+					"reward": "100 Jewels"
+				},{
+					"mission": "Defeat Ifrit x325",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Ifrit x350",
+					"reward": "100 Jewels"
+				},{
+					"mission": "Defeat Ifrit x375",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Ifrit x400",
+					"reward": "200 Jewels"
+				},{
+					"mission": "Defeat Ifrit x425",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Ifrit x450",
+					"reward": "200 Jewels"
+				},{
+					"mission": "Defeat Ifrit x475",
+					"reward": "x1 Quest Key"
+				},{
+					"mission": "Defeat Ifrit x500",
+					"reward": "500 Jewels"
+				},{
+					"mission": "Complete Target: Ifrit",
 					"reward": "1500 Jewels"
 				}]
 			}
