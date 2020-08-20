@@ -10,6 +10,7 @@ function contains(target, pattern){
     });
     return (value === 1)
 }
+console.clear();
 
 var missionCards = ["Queen Minnie", "King Mickey", "Darkside", "Donald #2"]
 
