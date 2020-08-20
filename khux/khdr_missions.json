@@ -309,7 +309,7 @@
 					},
 					{
 						"mission": "Defeat enemy x2500",
-						"reward": "x10000"
+						"reward": "x10000 BP"
 					},
 					{
 						"mission": "Defeat enemy x2600",
@@ -1765,7 +1765,7 @@
 							},
 							{
 								"mission": "Obtain BP x1000000",
-								"reward": "x1 Donald #2"
+								"reward": "x2 Donald #2"
 							},
 							{
 								"mission": "empty",
@@ -2045,8 +2045,9 @@
 							}
 						]
 					}
-				},
-				"paste here"
+				}
+				
+				
 			]
 		}
 	]
