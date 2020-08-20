@@ -145,7 +145,7 @@
 						},
 						{
 							"mission": "Defeat enemy x50",
-							"reward": "100 Jewels"
+							"reward": "x100 Jewels"
 						}
 					],
 					"row2": [
@@ -167,7 +167,7 @@
 						},
 						{
 							"mission": "Defeat enemy x250",
-							"reward": "100 Jewels"
+							"reward": "x100 Jewels"
 						}
 					],
 					"row3": [
@@ -189,7 +189,7 @@
 						},
 						{
 							"mission": "Defeat enemy x500",
-							"reward": "100 Jewels"
+							"reward": "x100 Jewels"
 						}
 					],
 					"row4": [
@@ -211,7 +211,7 @@
 						},
 						{
 							"mission": "Defeat enemy x900",
-							"reward": "100 Jewels"
+							"reward": "x100 Jewels"
 						}
 					],
 					"row5": [
@@ -229,7 +229,7 @@
 						},
 						{
 							"mission": "Defeat enemy x4000",
-							"reward": "100 Jewels"
+							"reward": "x100 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x5000",
@@ -263,7 +263,7 @@
 						},
 						{
 							"mission": "Defeat enemy x1100",
-							"reward": "100 Jewels"
+							"reward": "x100 Jewels"
 						}
 					],
 					"row2": [
@@ -285,7 +285,7 @@
 						},
 						{
 							"mission": "Defeat enemy x1600",
-							"reward": "100 Jewels"
+							"reward": "x100 Jewels"
 						}
 					],
 					"row3": [
@@ -307,7 +307,7 @@
 						},
 						{
 							"mission": "Defeat enemy x2100",
-							"reward": "100 Jewels"
+							"reward": "x100 Jewels"
 						}
 					],
 					"row4": [
@@ -329,7 +329,7 @@
 						},
 						{
 							"mission": "Defeat enemy x2600",
-							"reward": "100 Jewels"
+							"reward": "x100 Jewels"
 						}
 					],
 					"row5": [
@@ -347,7 +347,7 @@
 						},
 						{
 							"mission": "Defeat enemy x4000",
-							"reward": "100 Jewels"
+							"reward": "x100 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x5000",
@@ -485,11 +485,11 @@
 					"row1": [
 						{
 							"mission": "Defeat enemy x300 in Wonderland (Rank ★★)",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x400 in Agrabah (Rank ★★)",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x10000",
@@ -507,11 +507,11 @@
 					"row2": [
 						{
 							"mission": "Defeat enemy x15000",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x20000",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x25000",
@@ -529,15 +529,15 @@
 					"row3": [
 						{
 							"mission": "Defeat enemy x30000",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x40000",
-							"reward": "500 Jewels"
+							"reward": "x500 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x50000",
-							"reward": "1000 Jewels"
+							"reward": "x1000 Jewels"
 						},
 						{
 							"mission": "empty",
@@ -603,11 +603,11 @@
 					"row1": [
 						{
 							"mission": "Defeat enemy x10000",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x15000",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x20000",
@@ -625,11 +625,11 @@
 					"row2": [
 						{
 							"mission": "Defeat enemy x30000",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x50000",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Obtain BP x100000",
@@ -647,15 +647,15 @@
 					"row3": [
 						{
 							"mission": "Obtain BP x200000",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Obtain BP x500000",
-							"reward": "500 Jewels"
+							"reward": "x500 Jewels"
 						},
 						{
 							"mission": "Obtain BP x1000000",
-							"reward": "1000 Jewels"
+							"reward": "x1000 Jewels"
 						},
 						{
 							"mission": "empty",
@@ -721,7 +721,7 @@
 					"row1": [
 						{
 							"mission": "Complete quest x1",
-							"reward": "3000 Jewels"
+							"reward": "x3000 Jewels"
 						},
 						{
 							"mission": "Perform draw x1",
@@ -733,7 +733,7 @@
 						},
 						{
 							"mission": "Obtain BP x100",
-							"reward": "300 Jewels"
+							"reward": x300 Jewels"
 						},
 						{
 							"mission": "Gain LV x5 (Reach Level 6)",
@@ -747,7 +747,7 @@
 						},
 						{
 							"mission": "Obtain BP x300",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x30",
@@ -755,7 +755,7 @@
 						},
 						{
 							"mission": "Gain LV x10 (Reach Level 11)",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat Shadow x10",
@@ -765,7 +765,7 @@
 					"row3": [
 						{
 							"mission": "Complete quest x8",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Gain LV x15 (Reach Level 16)",
@@ -773,7 +773,7 @@
 						},
 						{
 							"mission": "Defeat enemy x50",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x100",
@@ -781,7 +781,7 @@
 						},
 						{
 							"mission": "Defeat Soldier x10",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						}
 					],
 					"row4": [
@@ -791,7 +791,7 @@
 						},
 						{
 							"mission": "Obtain BP x1000",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x200",
@@ -799,7 +799,7 @@
 						},
 						{
 							"mission": "Defeat enemy x300",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat Aeroplane x10",
@@ -809,7 +809,7 @@
 					"row5": [
 						{
 							"mission": "Obtain BP x1500",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x500",
@@ -817,7 +817,7 @@
 						},
 						{
 							"mission": "Defeat enemy x1000",
-							"reward": "300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Gain LV x20 (Reach Level 21)",
@@ -839,7 +839,7 @@
 					"row1": [
 						{
 							"mission": "Complete Winning Streak",
-							"reward": "3000 Jewels"
+							"reward": "x3000 Jewels"
 						},
 						{
 							"mission": "Complete Feat of Strength (Beg.)",
@@ -865,11 +865,11 @@
 						},
 						{
 							"mission": "Defeat a Gargoyle",
-							"reward": "600 Jewels"
+							"reward": "x600 Jewels"
 						},
 						{
 							"mission": "Defeat a Pot Scorpion",
-							"reward": "600 Jewels"
+							"reward": "x600 Jewels"
 						},
 						{
 							"mission": "empty",
@@ -883,15 +883,15 @@
 					"row3": [
 						{
 							"mission": "Defeat a Red Bandit",
-							"reward": "600 Jewels"
+							"reward": "x600 Jewels"
 						},
 						{
 							"mission": "Defeat a Morning Star",
-							"reward": "600 Jewels"
+							"reward": "x600 Jewels"
 						},
 						{
 							"mission": "Defeat a High Wizard",
-							"reward": "600 Jewels"
+							"reward": "x600 Jewels"
 						},
 						{
 							"mission": "empty",
@@ -966,7 +966,7 @@
 						},
 						{
 							"mission": "Defeat enemy x30",
-							"reward": "100 Jewels"
+							"reward": "x100 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x40",
@@ -988,7 +988,7 @@
 						},
 						{
 							"mission": "Defeat enemy x100",
-							"reward": "200 Jewels"
+							"reward": "x200 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x150",
@@ -1010,7 +1010,7 @@
 						},
 						{
 							"mission": "Defeat enemy x300",
-							"reward": "200 Jewels"
+							"reward": "x200 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x350",
@@ -1032,11 +1032,11 @@
 						},
 						{
 							"mission": "Defeat enemy x500",
-							"reward": "200 Jewels"
+							"reward": "x200 Jewels"
 						},
 						{
 							"mission": "Defeat enemy x550",
-							"reward": "200 Jewels"
+							"reward": "x200 Jewels"
 						},
 						{
 							"mission": "empty",
@@ -1376,7 +1376,7 @@
 								},
 								{
 									"mission": "Defeat enemy x10 (Rank ★★★)",
-									"reward": "200 Jewels"
+									"reward": "x200 Jewels"
 								},
 								{
 									"mission": "empty",
@@ -1446,7 +1446,7 @@
 								},
 								{
 									"mission": "Defeat Fluttering x5",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Fluttering x10",
@@ -1454,7 +1454,7 @@
 								},
 								{
 									"mission": "Defeat Fluttering x30",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "empty",
@@ -1468,11 +1468,11 @@
 								},
 								{
 									"mission": "Defeat Fluttering x75",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Fluttering x100",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Fluttering x150",
@@ -1486,11 +1486,11 @@
 							"row3": [
 								{
 									"mission": "Defeat Fluttering x200",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Fluttering x250",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Fluttering x300",
@@ -1498,7 +1498,7 @@
 								},
 								{
 									"mission": "Defeat Fluttering x350",
-									"reward": "200 Jewels"
+									"reward": "x200 Jewels"
 								},
 								{
 									"mission": "empty",
@@ -1508,11 +1508,11 @@
 							"row4": [
 								{
 									"mission": "Defeat Fluttering x400",
-									"reward": "200 Jewels"
+									"reward": "x200 Jewels"
 								},
 								{
 									"mission": "Defeat Fluttering x450",
-									"reward": "500 Jewels"
+									"reward": "x500 Jewels"
 								},
 								{
 									"mission": "Defeat Fluttering x500",
@@ -1520,7 +1520,7 @@
 								},
 								{
 									"mission": "Complete Target: Fluttering",
-									"reward": "1500 Jewels"
+									"reward": "x1500 Jewels"
 								},
 								{
 									"mission": "empty",
@@ -1574,7 +1574,7 @@
 								},
 								{
 									"mission": "Defeat Ifrit x10",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Ifrit x20",
@@ -1588,7 +1588,7 @@
 							"row2": [
 								{
 									"mission": "Defeat Ifrit x50",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Ifrit x75",
@@ -1604,7 +1604,7 @@
 								},
 								{
 									"mission": "Defeat Ifrit x150",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								}
 							],
 							"row3": [
@@ -1622,7 +1622,7 @@
 								},
 								{
 									"mission": "Defeat Ifrit x250",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Ifrit x275",
@@ -1632,7 +1632,7 @@
 							"row4": [
 								{
 									"mission": "Defeat Ifrit x300",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Ifrit x325",
@@ -1640,7 +1640,7 @@
 								},
 								{
 									"mission": "Defeat Ifrit x350",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Ifrit x375",
@@ -1648,7 +1648,7 @@
 								},
 								{
 									"mission": "Defeat Ifrit x400",
-									"reward": "200 Jewels"
+									"reward": "x200 Jewels"
 								}
 							],
 							"row5": [
@@ -1658,7 +1658,7 @@
 								},
 								{
 									"mission": "Defeat Ifrit x450",
-									"reward": "200 Jewels"
+									"reward": "x200 Jewels"
 								},
 								{
 									"mission": "Defeat Ifrit x475",
@@ -1666,11 +1666,11 @@
 								},
 								{
 									"mission": "Defeat Ifrit x500",
-									"reward": "500 Jewels"
+									"reward": "x500 Jewels"
 								},
 								{
 									"mission": "Complete Target: Ifrit",
-									"reward": "1500 Jewels"
+									"reward": "x1500 Jewels"
 								}
 							]
 						}
@@ -1678,7 +1678,7 @@
 					{
 						"id": "elemental-challenge",
 						"name": "Attribute Elemental - Event Mission",
-						"completion": "1,000 Jewels",
+						"completion": "x1000 Jewels",
 						"time": "August 3 - August 17",
 						"rewards": {
 							"row1": [
@@ -1972,7 +1972,7 @@
 								},
 								{
 									"mission": "Complete the event",
-									"reward": "300 Jewels"
+									"reward": "x300 Jewels"
 								},
 								{
 									"mission": "empty",
@@ -2042,7 +2042,7 @@
 								},
 								{
 									"mission": "Defeat Wight Knight x100",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Polliwog x10",
@@ -2050,7 +2050,7 @@
 								},
 								{
 									"mission": "Defeat Polliwog x100",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Tornado Step x10",
@@ -2060,7 +2060,7 @@
 							"row2": [
 								{
 									"mission": "Defeat Tornado Step x100",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Darkball x10",
@@ -2068,7 +2068,7 @@
 								},
 								{
 									"mission": "Defeat Darkball x100",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat Gigas Shadow x10",
@@ -2076,7 +2076,7 @@
 								},
 								{
 									"mission": "Defeat Gigas Shadow x100",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								}
 							],
 							"row3": [
@@ -2086,7 +2086,7 @@
 								},
 								{
 									"mission": "Defeat Flame Core x100",
-									"reward": "100 Jewels"
+									"reward": "x100 Jewels"
 								},
 								{
 									"mission": "Defeat enemy x100 in Agrabah (Rank ★★★★)",
@@ -2112,7 +2112,7 @@
 								},
 								{
 									"mission": "Defeat enemy x10000 in Agrabah (Rank ★★★★)",
-									"reward": "200 Jewels"
+									"reward": "x200 Jewels"
 								},
 								{
 									"mission": "Defeat enemy x100 in Wonderland (Rank ★★★★)",
@@ -2138,11 +2138,11 @@
 								},
 								{
 									"mission": "Defeat enemy x10000 in Wonderland (Rank ★★★★)",
-									"reward": "200 Jewels"
+									"reward": "x200 Jewels"
 								},
 								{
 									"mission": "Defeat enemy x50000 (Rank ★★★★)",
-									"reward": "300 Jewels"
+									"reward": "x300 Jewels"
 								}
 							]
 						}
