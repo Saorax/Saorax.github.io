@@ -1,24 +1,362 @@
-[
-	{
-		"last_update": "August 19th, 2020",
-		"template": {
-			"id": "an-id",
-			"name": "Attribute Elemental - Event Mission",
-			"completion": "REWARD",
-			"time": "START MONTH - END MONTH",
+[{
+	"last_update": "August 19th, 2020",
+	"template": {
+		"id": "an-id",
+		"name": "a cool name",
+		"completion": "REWARD",
+		"time": "START MONTH - END MONTH",
+		"rewards": {
+			"row1": [{
+					"mission": "Defeat Paralysis Archer x1",
+					"reward": "x1 Quest Key"
+				},
+				{
+					"mission": "Defeat Paralysis Archer x3",
+					"reward": "x1 Quest Key"
+				},
+				{
+					"mission": "Complete Elemental Challenge I",
+					"reward": "x3 Quest Key"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row2": [{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row3": [{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row4": [{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row5": [{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			]
+		}
+	},
+	"weeklies": [{
+			"id": "release",
+			"name": "Weeklies (Release, June 22)",
+			"completion": "x1 Card Draw Ticket",
+			"time": "June 22 - July 26",
 			"rewards": {
-				"row1": [
+				"row1": [{
+						"mission": "Defeat enemy x10",
+						"reward": "x50 BP"
+					},
 					{
-						"mission": "Defeat Paralysis Archer x1",
+						"mission": "Defeat enemy x20",
+						"reward": "x100 BP"
+					},
+					{
+						"mission": "Defeat enemy x30",
+						"reward": "x1 Charm"
+					},
+					{
+						"mission": "Defeat enemy x40",
+						"reward": "x100 BP"
+					},
+					{
+						"mission": "Defeat enemy x50",
+						"reward": "x100 Jewels"
+					}
+				],
+				"row2": [{
+						"mission": "Defeat enemy x75",
+						"reward": "x100 BP"
+					},
+					{
+						"mission": "Defeat enemy x100",
+						"reward": "x100 BP"
+					},
+					{
+						"mission": "Defeat enemy x150",
+						"reward": "x1 Charm"
+					},
+					{
+						"mission": "Defeat enemy x200",
+						"reward": "x100 BP"
+					},
+					{
+						"mission": "Defeat enemy x250",
+						"reward": "x100 Jewels"
+					}
+				],
+				"row3": [{
+						"mission": "Defeat enemy x300",
+						"reward": "x100 BP"
+					},
+					{
+						"mission": "Defeat enemy x350",
+						"reward": "x100 BP"
+					},
+					{
+						"mission": "Defeat enemy x400",
+						"reward": "x1 Charm"
+					},
+					{
+						"mission": "Defeat enemy x450",
+						"reward": "x200 BP"
+					},
+					{
+						"mission": "Defeat enemy x500",
+						"reward": "x100 Jewels"
+					}
+				],
+				"row4": [{
+						"mission": "Defeat enemy x550",
+						"reward": "x300 BP"
+					},
+					{
+						"mission": "Defeat enemy x600",
+						"reward": "x500 BP"
+					},
+					{
+						"mission": "Defeat enemy x700",
 						"reward": "x1 Quest Key"
 					},
 					{
-						"mission": "Defeat Paralysis Archer x3",
+						"mission": "Defeat enemy x800",
+						"reward": "x1000"
+					},
+					{
+						"mission": "Defeat enemy x900",
+						"reward": "x100 Jewels"
+					}
+				],
+				"row5": [{
+						"mission": "Defeat enemy x1000",
+						"reward": "x1000 BP"
+					},
+					{
+						"mission": "Defeat enemy x2000",
+						"reward": "x1000 BP"
+					},
+					{
+						"mission": "Defeat enemy x3000",
+						"reward": "x100 Jewels"
+					},
+					{
+						"mission": "Defeat enemy x4000",
+						"reward": "x100 Jewels"
+					},
+					{
+						"mission": "Defeat enemy x5000",
+						"reward": "x1 Quest Key"
+					}
+				]
+			}
+		},
+		{
+			"id": "updated1",
+			"name": "Weeklies (Updated July 27)",
+			"completion": "x1 Card Draw Ticket",
+			"time": "July 27 - Current",
+			"rewards": {
+				"row1": [{
+						"mission": "Defeat enemy x100",
+						"reward": "x1000 BP"
+					},
+					{
+						"mission": "Defeat enemy x250",
+						"reward": "x2500 BP"
+					},
+					{
+						"mission": "Defeat enemy x500",
+						"reward": "x1 Charm"
+					},
+					{
+						"mission": "Defeat enemy x1000",
+						"reward": "x5000 BP"
+					},
+					{
+						"mission": "Defeat enemy x1100",
+						"reward": "x100 Jewels"
+					}
+				],
+				"row2": [{
+						"mission": "Defeat enemy x1200",
+						"reward": "x7500 BP"
+					},
+					{
+						"mission": "Defeat enemy x1300",
+						"reward": "x10000 BP"
+					},
+					{
+						"mission": "Defeat enemy x1400",
+						"reward": "x1 Charm"
+					},
+					{
+						"mission": "Defeat enemy x1500",
+						"reward": "x10000 BP"
+					},
+					{
+						"mission": "Defeat enemy x1600",
+						"reward": "x100 Jewels"
+					}
+				],
+				"row3": [{
+						"mission": "Defeat enemy x1700",
+						"reward": "x10000 BP"
+					},
+					{
+						"mission": "Defeat enemy x1800",
+						"reward": "x10000 BP"
+					},
+					{
+						"mission": "Defeat enemy x1900",
+						"reward": "x1 Charm"
+					},
+					{
+						"mission": "Defeat enemy x2000",
+						"reward": "x10000 BP"
+					},
+					{
+						"mission": "Defeat enemy x2100",
+						"reward": "x100 Jewels"
+					}
+				],
+				"row4": [{
+						"mission": "Defeat enemy x2200",
+						"reward": "x10000 BP"
+					},
+					{
+						"mission": "Defeat enemy x2300",
+						"reward": "x10000 BP"
+					},
+					{
+						"mission": "Defeat enemy x2400",
 						"reward": "x1 Quest Key"
 					},
 					{
-						"mission": "Complete Elemental Challenge I",
-						"reward": "x3 Quest Key"
+						"mission": "Defeat enemy x2500",
+						"reward": "x10000"
+					},
+					{
+						"mission": "Defeat enemy x2600",
+						"reward": "x100 Jewels"
+					}
+				],
+				"row5": [{
+						"mission": "Defeat enemy x2700",
+						"reward": "x10000 BP"
+					},
+					{
+						"mission": "Defeat enemy x2800",
+						"reward": "x10000 BP"
+					},
+					{
+						"mission": "Defeat enemy x3000",
+						"reward": "x100 Jewels"
+					},
+					{
+						"mission": "Defeat enemy x4000",
+						"reward": "x100 Jewels"
+					},
+					{
+						"mission": "Defeat enemy x5000",
+						"reward": "x1 Quest Key"
+					}
+				]
+			}
+		}
+	],
+	"monthlies": [{
+			"id": "release",
+			"name": "Monthlies - Release (June 22)",
+			"completion": "x1 Card Draw Ticket",
+			"time": "June 22 - June 30",
+			"rewards": {
+				"row1": [{
+						"mission": "Defeat enemy x2000",
+						"reward": "x2000 BP"
+					},
+					{
+						"mission": "Defeat enemy x3000",
+						"reward": "x3000 BP"
+					},
+					{
+						"mission": "Defeat enemy x5000",
+						"reward": "x5000 BP"
 					},
 					{
 						"mission": "empty",
@@ -29,8 +367,49 @@
 						"reward": "empty"
 					}
 				],
-				"row2": [
+				"row2": [{
+						"mission": "Defeat enemy x7500",
+						"reward": "x7500 BP"
+					},
 					{
+						"mission": "Defeat enemy x10000",
+						"reward": "x10000 BP"
+					},
+					{
+						"mission": "Defeat enemy x12500",
+						"reward": "x12500 BP"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row3": [{
+						"mission": "Defeat enemy x15000",
+						"reward": "x15000 BP"
+					},
+					{
+						"mission": "Defeat enemy x17500",
+						"reward": "x20000 BP"
+					},
+					{
+						"mission": "Defeat enemy x20000",
+						"reward": "x1 Darkside"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row4": [{
 						"mission": "empty",
 						"reward": "empty"
 					},
@@ -51,52 +430,7 @@
 						"reward": "empty"
 					}
 				],
-				"row3": [
-					{
-						"mission": "empty",
-						"reward": "empty"
-					},
-					{
-						"mission": "empty",
-						"reward": "empty"
-					},
-					{
-						"mission": "empty",
-						"reward": "empty"
-					},
-					{
-						"mission": "empty",
-						"reward": "empty"
-					},
-					{
-						"mission": "empty",
-						"reward": "empty"
-					}
-				],
-				"row4": [
-					{
-						"mission": "empty",
-						"reward": "empty"
-					},
-					{
-						"mission": "empty",
-						"reward": "empty"
-					},
-					{
-						"mission": "empty",
-						"reward": "empty"
-					},
-					{
-						"mission": "empty",
-						"reward": "empty"
-					},
-					{
-						"mission": "empty",
-						"reward": "empty"
-					}
-				],
-				"row5": [
-					{
+				"row5": [{
 						"mission": "empty",
 						"reward": "empty"
 					},
@@ -119,2037 +453,1601 @@
 				]
 			}
 		},
-		"weeklies": [
-			{
-				"id": "release",
-				"name": "Release (June 22)",
-				"completion": "x1 Card Draw Ticket",
-				"time": "June 22 - July 26",
-				"rewards": {
-					"row1": [
-						{
-							"mission": "Defeat enemy x10",
-							"reward": "x50 BP"
-						},
-						{
-							"mission": "Defeat enemy x20",
-							"reward": "x100 BP"
-						},
-						{
-							"mission": "Defeat enemy x30",
-							"reward": "x1 Charm"
-						},
-						{
-							"mission": "Defeat enemy x40",
-							"reward": "x100 BP"
-						},
-						{
-							"mission": "Defeat enemy x50",
-							"reward": "x100 Jewels"
-						}
-					],
-					"row2": [
-						{
-							"mission": "Defeat enemy x75",
-							"reward": "x100 BP"
-						},
-						{
-							"mission": "Defeat enemy x100",
-							"reward": "x100 BP"
-						},
-						{
-							"mission": "Defeat enemy x150",
-							"reward": "x1 Charm"
-						},
-						{
-							"mission": "Defeat enemy x200",
-							"reward": "x100 BP"
-						},
-						{
-							"mission": "Defeat enemy x250",
-							"reward": "x100 Jewels"
-						}
-					],
-					"row3": [
-						{
-							"mission": "Defeat enemy x300",
-							"reward": "x100 BP"
-						},
-						{
-							"mission": "Defeat enemy x350",
-							"reward": "x100 BP"
-						},
-						{
-							"mission": "Defeat enemy x400",
-							"reward": "x1 Charm"
-						},
-						{
-							"mission": "Defeat enemy x450",
-							"reward": "x200 BP"
-						},
-						{
-							"mission": "Defeat enemy x500",
-							"reward": "x100 Jewels"
-						}
-					],
-					"row4": [
-						{
-							"mission": "Defeat enemy x550",
-							"reward": "x300 BP"
-						},
-						{
-							"mission": "Defeat enemy x600",
-							"reward": "x500 BP"
-						},
-						{
-							"mission": "Defeat enemy x700",
-							"reward": "x1 Quest Key"
-						},
-						{
-							"mission": "Defeat enemy x800",
-							"reward": "x1000"
-						},
-						{
-							"mission": "Defeat enemy x900",
-							"reward": "x100 Jewels"
-						}
-					],
-					"row5": [
-						{
-							"mission": "Defeat enemy x1000",
-							"reward": "x1000 BP"
-						},
-						{
-							"mission": "Defeat enemy x2000",
-							"reward": "x1000 BP"
-						},
-						{
-							"mission": "Defeat enemy x3000",
-							"reward": "x100 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x4000",
-							"reward": "x100 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x5000",
-							"reward": "x1 Quest Key"
-						}
-					]
-				}
-			},
-			{
-				"id": "updated1",
-				"name": "Updated (July 27)",
-				"completion": "x1 Card Draw Ticket",
-				"time": "July 27 - Current",
-				"rewards": {
-					"row1": [
-						{
-							"mission": "Defeat enemy x100",
-							"reward": "x1000 BP"
-						},
-						{
-							"mission": "Defeat enemy x250",
-							"reward": "x2500 BP"
-						},
-						{
-							"mission": "Defeat enemy x500",
-							"reward": "x1 Charm"
-						},
-						{
-							"mission": "Defeat enemy x1000",
-							"reward": "x5000 BP"
-						},
-						{
-							"mission": "Defeat enemy x1100",
-							"reward": "x100 Jewels"
-						}
-					],
-					"row2": [
-						{
-							"mission": "Defeat enemy x1200",
-							"reward": "x7500 BP"
-						},
-						{
-							"mission": "Defeat enemy x1300",
-							"reward": "x10000 BP"
-						},
-						{
-							"mission": "Defeat enemy x1400",
-							"reward": "x1 Charm"
-						},
-						{
-							"mission": "Defeat enemy x1500",
-							"reward": "x10000 BP"
-						},
-						{
-							"mission": "Defeat enemy x1600",
-							"reward": "x100 Jewels"
-						}
-					],
-					"row3": [
-						{
-							"mission": "Defeat enemy x1700",
-							"reward": "x10000 BP"
-						},
-						{
-							"mission": "Defeat enemy x1800",
-							"reward": "x10000 BP"
-						},
-						{
-							"mission": "Defeat enemy x1900",
-							"reward": "x1 Charm"
-						},
-						{
-							"mission": "Defeat enemy x2000",
-							"reward": "x10000 BP"
-						},
-						{
-							"mission": "Defeat enemy x2100",
-							"reward": "x100 Jewels"
-						}
-					],
-					"row4": [
-						{
-							"mission": "Defeat enemy x2200",
-							"reward": "x10000 BP"
-						},
-						{
-							"mission": "Defeat enemy x2300",
-							"reward": "x10000 BP"
-						},
-						{
-							"mission": "Defeat enemy x2400",
-							"reward": "x1 Quest Key"
-						},
-						{
-							"mission": "Defeat enemy x2500",
-							"reward": "x10000"
-						},
-						{
-							"mission": "Defeat enemy x2600",
-							"reward": "x100 Jewels"
-						}
-					],
-					"row5": [
-						{
-							"mission": "Defeat enemy x2700",
-							"reward": "x10000 BP"
-						},
-						{
-							"mission": "Defeat enemy x2800",
-							"reward": "x10000 BP"
-						},
-						{
-							"mission": "Defeat enemy x3000",
-							"reward": "x100 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x4000",
-							"reward": "x100 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x5000",
-							"reward": "x1 Quest Key"
-						}
-					]
-				}
-			}
-		],
-		"monthlies": [
-			{
-				"id": "release",
-				"name": "Release (June 22)",
-				"completion": "x1 Card Draw Ticket",
-				"time": "June 22 - June 30",
-				"rewards": {
-					"row1": [
-						{
-							"mission": "Defeat enemy x2000",
-							"reward": "x2000 BP"
-						},
-						{
-							"mission": "Defeat enemy x3000",
-							"reward": "x3000 BP"
-						},
-						{
-							"mission": "Defeat enemy x5000",
-							"reward": "x5000 BP"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row2": [
-						{
-							"mission": "Defeat enemy x7500",
-							"reward": "x7500 BP"
-						},
-						{
-							"mission": "Defeat enemy x10000",
-							"reward": "x10000 BP"
-						},
-						{
-							"mission": "Defeat enemy x12500",
-							"reward": "x12500 BP"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row3": [
-						{
-							"mission": "Defeat enemy x15000",
-							"reward": "x15000 BP"
-						},
-						{
-							"mission": "Defeat enemy x17500",
-							"reward": "x20000 BP"
-						},
-						{
-							"mission": "Defeat enemy x20000",
-							"reward": "x1 Darkside"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row4": [
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row5": [
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					]
-				}
-			},
-			{
-				"id": "july20",
-				"name": "July 2020",
-				"completion": "x1 Card Draw Ticket",
-				"time": "July 1 - July 31",
-				"rewards": {
-					"row1": [
-						{
-							"mission": "Defeat enemy x300 in Wonderland (Rank ★★)",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x400 in Agrabah (Rank ★★)",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x10000",
-							"reward": "x50000 BP"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row2": [
-						{
-							"mission": "Defeat enemy x15000",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x20000",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x25000",
-							"reward": "x1 Darkside"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row3": [
-						{
-							"mission": "Defeat enemy x30000",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x40000",
-							"reward": "x500 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x50000",
-							"reward": "x1000 Jewels"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row4": [
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row5": [
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					]
-				}
-			},
-			{
-				"id": "august20",
-				"name": "August 2020",
-				"completion": "x1 Card Draw Ticket",
-				"time": "August 1 - August 30",
-				"rewards": {
-					"row1": [
-						{
-							"mission": "Defeat enemy x10000",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x15000",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x20000",
-							"reward": "x50000 BP"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row2": [
-						{
-							"mission": "Defeat enemy x30000",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x50000",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Obtain BP x100000",
-							"reward": "x1 Darkside"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row3": [
-						{
-							"mission": "Obtain BP x200000",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Obtain BP x500000",
-							"reward": "x500 Jewels"
-						},
-						{
-							"mission": "Obtain BP x1000000",
-							"reward": "x1000 Jewels"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row4": [
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row5": [
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					]
-				}
-			}
-		],
-		"beginner": [
-			{
-				"completion": "x1 Card Draw Ticket",
-				"time": "90 days from when you first start the game",
-				"rewards": {
-					"row1": [
-						{
-							"mission": "Complete quest x1",
-							"reward": "x3000 Jewels"
-						},
-						{
-							"mission": "Perform draw x1",
-							"reward": "x1 Charm"
-						},
-						{
-							"mission": "Win world battle x10",
-							"reward": "x1 Charm"
-						},
-						{
-							"mission": "Obtain BP x100",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Gain LV x5 (Reach Level 6)",
-							"reward": "x50 BP"
-						}
-					],
-					"row2": [
-						{
-							"mission": "Complete quest x3",
-							"reward": "x1 Queen Minnie"
-						},
-						{
-							"mission": "Obtain BP x300",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x30",
-							"reward": "x1 Charm"
-						},
-						{
-							"mission": "Gain LV x10 (Reach Level 11)",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat Shadow x10",
-							"reward": "x50 BP"
-						}
-					],
-					"row3": [
-						{
-							"mission": "Complete quest x8",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Gain LV x15 (Reach Level 16)",
-							"reward": "x1 Quest Key"
-						},
-						{
-							"mission": "Defeat enemy x50",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x100",
-							"reward": "x1 Charm"
-						},
-						{
-							"mission": "Defeat Soldier x10",
-							"reward": "x300 Jewels"
-						}
-					],
-					"row4": [
-						{
-							"mission": "Complete quest x14",
-							"reward": "x1 Quest Key"
-						},
-						{
-							"mission": "Obtain BP x1000",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x200",
-							"reward": "x1 Charm"
-						},
-						{
-							"mission": "Defeat enemy x300",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat Aeroplane x10",
-							"reward": "x50 BP"
-						}
-					],
-					"row5": [
-						{
-							"mission": "Obtain BP x1500",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x500",
-							"reward": "x1 Charm"
-						},
-						{
-							"mission": "Defeat enemy x1000",
-							"reward": "x300 Jewels"
-						},
-						{
-							"mission": "Gain LV x20 (Reach Level 21)",
-							"reward": "x1 Quest Key"
-						},
-						{
-							"mission": "Defeat Fat Bandit x10",
-							"reward": "x1 Card Draw Ticket"
-						}
-					]
-				}
-			}
-		],
-		"event": [
-			{
-				"completion": "x1 Card Draw Ticket",
-				"time": "Forever(?)",
-				"rewards": {
-					"row1": [
-						{
-							"mission": "Complete Winning Streak",
-							"reward": "x3000 Jewels"
-						},
-						{
-							"mission": "Complete Feat of Strength (Beg.)",
-							"reward": "x1 Card Draw Ticket"
-						},
-						{
-							"mission": "Complete Feat of Strength (Int.)",
-							"reward": "x3 Card Draw Ticket"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row2": [
-						{
-							"mission": "Complete Feat of Strength (Adv.)",
-							"reward": "x5 Card Draw Ticket"
-						},
-						{
-							"mission": "Defeat a Gargoyle",
-							"reward": "x600 Jewels"
-						},
-						{
-							"mission": "Defeat a Pot Scorpion",
-							"reward": "x600 Jewels"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row3": [
-						{
-							"mission": "Defeat a Red Bandit",
-							"reward": "x600 Jewels"
-						},
-						{
-							"mission": "Defeat a Morning Star",
-							"reward": "x600 Jewels"
-						},
-						{
-							"mission": "Defeat a High Wizard",
-							"reward": "x600 Jewels"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row4": [
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row5": [
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					]
-				}
-			}
-		],
-		"premium": [
-			{
-				"name": "Current Missions",
-				"completion": "x1 Card Draw Ticket",
-				"time": "June 22 - Current",
-				"rewards": {
-					"row1": [
-						{
-							"mission": "Defeat enemy x10",
-							"reward": "x1 Quest Key"
-						},
-						{
-							"mission": "Defeat enemy x20",
-							"reward": "x1 Card Draw Ticket"
-						},
-						{
-							"mission": "Defeat enemy x30",
-							"reward": "x100 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x40",
-							"reward": "x1 Card Draw Ticket"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row2": [
-						{
-							"mission": "Defeat enemy x50",
-							"reward": "x1 Quest Key"
-						},
-						{
-							"mission": "Defeat enemy x75",
-							"reward": "x1 Card Draw Ticket"
-						},
-						{
-							"mission": "Defeat enemy x100",
-							"reward": "x200 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x150",
-							"reward": "x1 Card Draw Ticket"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row3": [
-						{
-							"mission": "Defeat enemy x200",
-							"reward": "x1 Quest Key"
-						},
-						{
-							"mission": "Defeat enemy x250",
-							"reward": "x1 Card Draw Ticket"
-						},
-						{
-							"mission": "Defeat enemy x300",
-							"reward": "x200 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x350",
-							"reward": "x1 Card Draw Ticket"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row4": [
-						{
-							"mission": "Defeat enemy x400",
-							"reward": "x1 Quest Key"
-						},
-						{
-							"mission": "Defeat enemy x450",
-							"reward": "x1 Card Draw Ticket"
-						},
-						{
-							"mission": "Defeat enemy x500",
-							"reward": "x200 Jewels"
-						},
-						{
-							"mission": "Defeat enemy x550",
-							"reward": "x200 Jewels"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					],
-					"row5": [
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						},
-						{
-							"mission": "empty",
-							"reward": "empty"
-						}
-					]
-				}
-			}
-		],
-		"other": [
-			{
-				"id": "june20",
-				"name": "June 2020 Events",
-				"list": [
-					{
-						"id": "rank2_challenge",
-						"name": "Rank ★★ Challenge",
-						"completion": "x1 Quest Key",
-						"time": "June 24 - July 1",
-						"rewards": {
-							"row1": [
-								{
-									"mission": "Play Rank ★★ (2 Star) battle x100 in Wonderland",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Play Rank ★★ (2 Star) battle x200 in Wonderland",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Play Rank ★★ (2 Star) battle x300 in Wonderland",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row2": [
-								{
-									"mission": "Play Rank ★★ (2 Star) battle x400 in Wonderland",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Play Rank ★★ (2 Star) battle x500 in Wonderland",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Play Rank ★★ (2 Star) battle x100 in Agrabah",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row3": [
-								{
-									"mission": "Play Rank ★★ (2 Star) battle x200 in Agrabah",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Play Rank ★★ (2 Star) battle x300 in Agrabah",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Play Rank ★★ (2 Star) battle x400 in Agrabah",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row4": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row5": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							]
-						}
+		{
+			"id": "july20",
+			"name": "Monthlies - July 2020",
+			"completion": "x1 Card Draw Ticket",
+			"time": "July 1 - July 31",
+			"rewards": {
+				"row1": [{
+						"mission": "Defeat enemy x300 in Wonderland (Rank ★★)",
+						"reward": "x300 Jewels"
 					},
 					{
-						"id": "whack-a-watermelon",
-						"name": "Whack-a-Watermelon",
-						"completion": "x1 Quest Key",
-						"time": "June 30 - July 31",
-						"rewards": {
-							"row1": [
-								{
-									"mission": "Defeat Wicked Watermelon x10 in the event Whack a Watermelon",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat Wicked Watermelon x50 in the event Whack a Watermelon",
-									"reward": "x1 King Mickey"
-								},
-								{
-									"mission": "Defeat Wicked Watermelon x100 in the event Whack a Watermelon",
-									"reward": "x1000 BP"
-								},
-								{
-									"mission": "Defeat Wicked Watermelon x250 in the event Whack a Watermelon",
-									"reward": "x1 King Mickey"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row2": [
-								{
-									"mission": "Defeat Wicked Watermelon x500 in the event Whack a Watermelon",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat Wicked Watermelon x750 in the event Whack a Watermelon",
-									"reward": "x1 King Mickey"
-								},
-								{
-									"mission": "Defeat Wicked Watermelon x1000 in the event Whack a Watermelon",
-									"reward": "x10000 BP"
-								},
-								{
-									"mission": "Defeat Wicked Watermelon x1500 in the event Whack a Watermelon",
-									"reward": "x1 King Mickey"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row3": [
-								{
-									"mission": "Defeat Wicked Watermelon x2000 in the event Whack a Watermelon",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Wicked Watermelon x3000 in the event Whack a Watermelon",
-									"reward": "x1 King Mickey"
-								},
-								{
-									"mission": "Defeat Wicked Watermelon x4000 in the event Whack a Watermelon",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Wicked Watermelon x5000 in the event Whack a Watermelon",
-									"reward": "x1 King Mickey"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row4": [
-								{
-									"mission": "Defeat Wicked Watermelon x7500 in the event Whack a Watermelon",
-									"reward": "x1 King Mickey"
-								},
-								{
-									"mission": "Defeat Wicked Watermelon x10000 in the event Whack a Watermelon",
-									"reward": "x1 King Mickey"
-								},
-								{
-									"mission": "Defeat Huge Watermelon x1 in the event Whack a Watermelon",
-									"reward": "x1 King Mickey"
-								},
-								{
-									"mission": "Defeat Huge Watermelon x100 in the event Whack a Watermelon",
-									"reward": "x1 King Mickey"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row5": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							]
-						}
+						"mission": "Defeat enemy x400 in Agrabah (Rank ★★)",
+						"reward": "x300 Jewels"
+					},
+					{
+						"mission": "Defeat enemy x10000",
+						"reward": "x50000 BP"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row2": [{
+						"mission": "Defeat enemy x15000",
+						"reward": "x300 Jewels"
+					},
+					{
+						"mission": "Defeat enemy x20000",
+						"reward": "x300 Jewels"
+					},
+					{
+						"mission": "Defeat enemy x25000",
+						"reward": "x1 Darkside"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row3": [{
+						"mission": "Defeat enemy x30000",
+						"reward": "x300 Jewels"
+					},
+					{
+						"mission": "Defeat enemy x40000",
+						"reward": "x500 Jewels"
+					},
+					{
+						"mission": "Defeat enemy x50000",
+						"reward": "x1000 Jewels"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row4": [{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row5": [{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
 					}
 				]
-			},
-			{
-				"id": "july20",
-				"name": "July 2020 Events",
-				"list": [
-					{
-						"id": "limited-time-daily-mission",
-						"name": "Limited Time - Daily Missions",
-						"completion": "x1 Charm",
-						"time": "July 20 - July 26",
-						"rewards": {
-							"row1": [
-								{
-									"mission": "Obtain BP x2500",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat enemy x100",
-									"reward": "x2500 BP"
-								},
-								{
-									"mission": "Obtain BP x5000",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row2": [
-								{
-									"mission": "Defeat enemy x200",
-									"reward": "x5000 BP"
-								},
-								{
-									"mission": "Obtain BP x10000",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat enemy x300",
-									"reward": "x10000 BP"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row3": [
-								{
-									"mission": "Obtain BP x20000",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Obtain BP x50000",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat enemy x10 (Rank ★★★)",
-									"reward": "x200 Jewels"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row4": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row5": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							]
-						}
+			}
+		},
+		{
+			"id": "august20",
+			"name": "Monthlies - August 2020",
+			"completion": "x1 Card Draw Ticket",
+			"time": "August 1 - August 30",
+			"rewards": {
+				"row1": [{
+						"mission": "Defeat enemy x10000",
+						"reward": "x300 Jewels"
 					},
 					{
-						"id": "target-fluttering-event-mission",
-						"name": "Target: Fluttering - Event Mission",
-						"completion": "x1 Charm",
-						"time": "July 27 - August 10",
-						"rewards": {
-							"row1": [
-								{
-									"mission": "Defeat Fluttering x1",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat Fluttering x5",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Fluttering x10",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat Fluttering x30",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row2": [
-								{
-									"mission": "Defeat Fluttering x50",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Fluttering x75",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Fluttering x100",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Fluttering x150",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row3": [
-								{
-									"mission": "Defeat Fluttering x200",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Fluttering x250",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Fluttering x300",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Fluttering x350",
-									"reward": "x200 Jewels"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row4": [
-								{
-									"mission": "Defeat Fluttering x400",
-									"reward": "x200 Jewels"
-								},
-								{
-									"mission": "Defeat Fluttering x450",
-									"reward": "x500 Jewels"
-								},
-								{
-									"mission": "Defeat Fluttering x500",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Complete Target: Fluttering",
-									"reward": "x1500 Jewels"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row5": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							]
-						}
+						"mission": "Defeat enemy x15000",
+						"reward": "x300 Jewels"
+					},
+					{
+						"mission": "Defeat enemy x20000",
+						"reward": "x50000 BP"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row2": [{
+						"mission": "Defeat enemy x30000",
+						"reward": "x300 Jewels"
+					},
+					{
+						"mission": "Defeat enemy x50000",
+						"reward": "x300 Jewels"
+					},
+					{
+						"mission": "Obtain BP x100000",
+						"reward": "x1 Darkside"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row3": [{
+						"mission": "Obtain BP x200000",
+						"reward": "x300 Jewels"
+					},
+					{
+						"mission": "Obtain BP x500000",
+						"reward": "x500 Jewels"
+					},
+					{
+						"mission": "Obtain BP x1000000",
+						"reward": "x1000 Jewels"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row4": [{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row5": [{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
 					}
 				]
-			},
-			{
-				"id": "august20",
-				"name": "August 2020 Events",
-				"list": [
-					{
-						"id": "target-ifrit-event-mission",
-						"name": "Target: Ifrit - Event Mission",
-						"completion": "x1 Card Draw Ticket",
-						"time": "August 1 - August 17",
-						"rewards": {
-							"row1": [
-								{
-									"mission": "Defeat Ifrit x1",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat Ifrit x5",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat Ifrit x10",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Ifrit x20",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat Ifrit x30",
-									"reward": "x1 Quest Key"
-								}
-							],
-							"row2": [
-								{
-									"mission": "Defeat Ifrit x50",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Ifrit x75",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Ifrit x100",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat Ifrit x125",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Ifrit x150",
-									"reward": "x100 Jewels"
-								}
-							],
-							"row3": [
-								{
-									"mission": "Defeat Ifrit x175",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Ifrit x200",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat Ifrit x225",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Ifrit x250",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Ifrit x275",
-									"reward": "x1 Quest Key"
-								}
-							],
-							"row4": [
-								{
-									"mission": "Defeat Ifrit x300",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Ifrit x325",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Ifrit x350",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Ifrit x375",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Ifrit x400",
-									"reward": "x200 Jewels"
-								}
-							],
-							"row5": [
-								{
-									"mission": "Defeat Ifrit x425",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Ifrit x450",
-									"reward": "x200 Jewels"
-								},
-								{
-									"mission": "Defeat Ifrit x475",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Ifrit x500",
-									"reward": "x500 Jewels"
-								},
-								{
-									"mission": "Complete Target: Ifrit",
-									"reward": "x1500 Jewels"
-								}
-							]
-						}
-					},
-					{
-						"id": "elemental-challenge",
-						"name": "Attribute Elemental - Event Mission",
-						"completion": "x1000 Jewels",
-						"time": "August 3 - August 17",
-						"rewards": {
-							"row1": [
-								{
-									"mission": "Defeat Paralysis Archer x1",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Paralysis Archer x3",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Complete Elemental Challenge I",
-									"reward": "x3 Quest Key"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row2": [
-								{
-									"mission": "Defeat Pot Scorpion x1",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Pot Scorpion x3",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Complete Elemental Challenge II",
-									"reward": "x3 Quest Key"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row3": [
-								{
-									"mission": "Defeat Emerald Sonata x1",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Emerald Sonata x3",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Complete Elemental Challenge III",
-									"reward": "x3 Quest Key"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row4": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row5": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							]
-						}
-					},
-					{
-						"id": "special-mission-donald-card",
-						"name": "Special Mission (Donald Card) - Event Mission",
-						"completion": "Donald #2",
-						"time": "August 17 - September 1",
-						"rewards": {
-							"row1": [
-								{
-									"mission": "Obtain BP x10000",
-									"reward": "x1 Donald #2"
-								},
-								{
-									"mission": "Obtain BP x25000",
-									"reward": "x1 Donald #2"
-								},
-								{
-									"mission": "Obtain BP x50000",
-									"reward": "x1 Donald #2"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row2": [
-								{
-									"mission": "Obtain BP x75000",
-									"reward": "x1 Donald #2"
-								},
-								{
-									"mission": "Obtain BP x100000",
-									"reward": "x1 Donald #2"
-								},
-								{
-									"mission": "Obtain BP x250000",
-									"reward": "x1 Donald #2"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row3": [
-								{
-									"mission": "Obtain BP x500000",
-									"reward": "x1 Donald #2"
-								},
-								{
-									"mission": "Obtain BP x750000",
-									"reward": "x1 Donald #2"
-								},
-								{
-									"mission": "Obtain BP x1000000",
-									"reward": "x1 Donald #2"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row4": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row5": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							]
-						}
-					},
-					{
-						"id": "daily-challenge-event-mission",
-						"name": "Daily Challenge #2 - Event Mission",
-						"completion": "x1 Premium Quest Key",
-						"time": "August 17 - September 1",
-						"rewards": {
-							"row1": [
-								{
-									"mission": "Defeat event Heartless x1",
-									"reward": "x1000 BP"
-								},
-								{
-									"mission": "Defeat event Heartless x5",
-									"reward": "x2500 BP"
-								},
-								{
-									"mission": "Defeat event Heartless x10",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row2": [
-								{
-									"mission": "Defeat event Heartless x15",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat event Heartless x20",
-									"reward": "x5000 BP"
-								},
-								{
-									"mission": "Defeat event Heartless x25",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row3": [
-								{
-									"mission": "Defeat event Heartless x30",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat event Heartless x40",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Complete the event",
-									"reward": "x300 Jewels"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row4": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row5": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							]
-						}
-					},
-					{
-						"id": "world-battle-rank-four",
-						"name": "World Battle Mission - Rank ★★★★",
-						"completion": "x1 Card Draw Ticket",
-						"time": "Permanent (?)",
-						"rewards": {
-							"row1": [
-								{
-									"mission": "Defeat Wight Knight x10",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Wight Knight x100",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Polliwog x10",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Polliwog x100",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Tornado Step x10",
-									"reward": "x1 Quest Key"
-								}
-							],
-							"row2": [
-								{
-									"mission": "Defeat Tornado Step x100",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Darkball x10",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Darkball x100",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat Gigas Shadow x10",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Gigas Shadow x100",
-									"reward": "x100 Jewels"
-								}
-							],
-							"row3": [
-								{
-									"mission": "Defeat Flame Core x10",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Flame Core x100",
-									"reward": "x100 Jewels"
-								},
-								{
-									"mission": "Defeat enemy x100 in Agrabah (Rank ★★★★)",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat enemy x500 in Agrabah (Rank ★★★★)",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat enemy x1000 in Agrabah (Rank ★★★★)",
-									"reward": "x1 Quest Key"
-								}
-							],
-							"row4": [
-								{
-									"mission": "Defeat enemy x2500 in Agrabah (Rank ★★★★)",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat enemy x5000 in Agrabah (Rank ★★★★)",
-									"reward": "x1 Premium Quest Key"
-								},
-								{
-									"mission": "Defeat enemy x10000 in Agrabah (Rank ★★★★)",
-									"reward": "x200 Jewels"
-								},
-								{
-									"mission": "Defeat enemy x100 in Wonderland (Rank ★★★★)",
-									"reward": "x1 Charm"
-								},
-								{
-									"mission": "Defeat enemy x500 in Wonderland (Rank ★★★★)",
-									"reward": "x1 Quest Key"
-								}
-							],
-							"row5": [
-								{
-									"mission": "Defeat enemy x1000 in Wonderland (Rank ★★★★)",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat enemy x2500 in Wonderland (Rank ★★★★)",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat enemy x5000 in Wonderland (Rank ★★★★)",
-									"reward": "x1  Premium Quest Key"
-								},
-								{
-									"mission": "Defeat enemy x10000 in Wonderland (Rank ★★★★)",
-									"reward": "x200 Jewels"
-								},
-								{
-									"mission": "Defeat enemy x50000 (Rank ★★★★)",
-									"reward": "x300 Jewels"
-								}
-							]
-						}
-					},
-					"paste here"
-				]
 			}
-		]
-	}
-]
+		}
+	],
+	"beginner": [{
+		"completion": "x1 Card Draw Ticket",
+		"name": "Beginner Missions",
+		"time": "90 days from when you first start the game",
+		"rewards": {
+			"row1": [{
+					"mission": "Complete quest x1",
+					"reward": "x3000 Jewels"
+				},
+				{
+					"mission": "Perform draw x1",
+					"reward": "x1 Charm"
+				},
+				{
+					"mission": "Win world battle x10",
+					"reward": "x1 Charm"
+				},
+				{
+					"mission": "Obtain BP x100",
+					"reward": "x300 Jewels"
+				},
+				{
+					"mission": "Gain LV x5 (Reach Level 6)",
+					"reward": "x50 BP"
+				}
+			],
+			"row2": [{
+					"mission": "Complete quest x3",
+					"reward": "x1 Queen Minnie"
+				},
+				{
+					"mission": "Obtain BP x300",
+					"reward": "x300 Jewels"
+				},
+				{
+					"mission": "Defeat enemy x30",
+					"reward": "x1 Charm"
+				},
+				{
+					"mission": "Gain LV x10 (Reach Level 11)",
+					"reward": "x300 Jewels"
+				},
+				{
+					"mission": "Defeat Shadow x10",
+					"reward": "x50 BP"
+				}
+			],
+			"row3": [{
+					"mission": "Complete quest x8",
+					"reward": "x300 Jewels"
+				},
+				{
+					"mission": "Gain LV x15 (Reach Level 16)",
+					"reward": "x1 Quest Key"
+				},
+				{
+					"mission": "Defeat enemy x50",
+					"reward": "x300 Jewels"
+				},
+				{
+					"mission": "Defeat enemy x100",
+					"reward": "x1 Charm"
+				},
+				{
+					"mission": "Defeat Soldier x10",
+					"reward": "x300 Jewels"
+				}
+			],
+			"row4": [{
+					"mission": "Complete quest x14",
+					"reward": "x1 Quest Key"
+				},
+				{
+					"mission": "Obtain BP x1000",
+					"reward": "x300 Jewels"
+				},
+				{
+					"mission": "Defeat enemy x200",
+					"reward": "x1 Charm"
+				},
+				{
+					"mission": "Defeat enemy x300",
+					"reward": "x300 Jewels"
+				},
+				{
+					"mission": "Defeat Aeroplane x10",
+					"reward": "x50 BP"
+				}
+			],
+			"row5": [{
+					"mission": "Obtain BP x1500",
+					"reward": "x300 Jewels"
+				},
+				{
+					"mission": "Defeat enemy x500",
+					"reward": "x1 Charm"
+				},
+				{
+					"mission": "Defeat enemy x1000",
+					"reward": "x300 Jewels"
+				},
+				{
+					"mission": "Gain LV x20 (Reach Level 21)",
+					"reward": "x1 Quest Key"
+				},
+				{
+					"mission": "Defeat Fat Bandit x10",
+					"reward": "x1 Card Draw Ticket"
+				}
+			]
+		}
+	}],
+	"event": [{
+		"completion": "x1 Card Draw Ticket",
+		"name": "Current Permanent \"Event\"",
+		"time": "Forever(?)",
+		"rewards": {
+			"row1": [{
+					"mission": "Complete Winning Streak",
+					"reward": "x3000 Jewels"
+				},
+				{
+					"mission": "Complete Feat of Strength (Beg.)",
+					"reward": "x1 Card Draw Ticket"
+				},
+				{
+					"mission": "Complete Feat of Strength (Int.)",
+					"reward": "x3 Card Draw Ticket"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row2": [{
+					"mission": "Complete Feat of Strength (Adv.)",
+					"reward": "x5 Card Draw Ticket"
+				},
+				{
+					"mission": "Defeat a Gargoyle",
+					"reward": "x600 Jewels"
+				},
+				{
+					"mission": "Defeat a Pot Scorpion",
+					"reward": "x600 Jewels"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row3": [{
+					"mission": "Defeat a Red Bandit",
+					"reward": "x600 Jewels"
+				},
+				{
+					"mission": "Defeat a Morning Star",
+					"reward": "x600 Jewels"
+				},
+				{
+					"mission": "Defeat a High Wizard",
+					"reward": "x600 Jewels"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row4": [{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row5": [{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			]
+		}
+	}],
+	"premium": [{
+		"completion": "x1 Card Draw Ticket",
+		"name": "Premium Missions",
+		"time": "June 22 - Current",
+		"rewards": {
+			"row1": [{
+					"mission": "Defeat enemy x10",
+					"reward": "x1 Quest Key"
+				},
+				{
+					"mission": "Defeat enemy x20",
+					"reward": "x1 Card Draw Ticket"
+				},
+				{
+					"mission": "Defeat enemy x30",
+					"reward": "x100 Jewels"
+				},
+				{
+					"mission": "Defeat enemy x40",
+					"reward": "x1 Card Draw Ticket"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row2": [{
+					"mission": "Defeat enemy x50",
+					"reward": "x1 Quest Key"
+				},
+				{
+					"mission": "Defeat enemy x75",
+					"reward": "x1 Card Draw Ticket"
+				},
+				{
+					"mission": "Defeat enemy x100",
+					"reward": "x200 Jewels"
+				},
+				{
+					"mission": "Defeat enemy x150",
+					"reward": "x1 Card Draw Ticket"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row3": [{
+					"mission": "Defeat enemy x200",
+					"reward": "x1 Quest Key"
+				},
+				{
+					"mission": "Defeat enemy x250",
+					"reward": "x1 Card Draw Ticket"
+				},
+				{
+					"mission": "Defeat enemy x300",
+					"reward": "x200 Jewels"
+				},
+				{
+					"mission": "Defeat enemy x350",
+					"reward": "x1 Card Draw Ticket"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row4": [{
+					"mission": "Defeat enemy x400",
+					"reward": "x1 Quest Key"
+				},
+				{
+					"mission": "Defeat enemy x450",
+					"reward": "x1 Card Draw Ticket"
+				},
+				{
+					"mission": "Defeat enemy x500",
+					"reward": "x200 Jewels"
+				},
+				{
+					"mission": "Defeat enemy x550",
+					"reward": "x200 Jewels"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row5": [{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			]
+		}
+	}],
+	"other": [{
+			"id": "june20",
+			"name": "June 2020 Events",
+			"list": [{
+					"id": "rank2_challenge",
+					"name": "Rank ★★ Challenge",
+					"completion": "x1 Quest Key",
+					"time": "June 24 - July 1",
+					"rewards": {
+						"row1": [{
+								"mission": "Play Rank ★★ (2 Star) battle x100 in Wonderland",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Play Rank ★★ (2 Star) battle x200 in Wonderland",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Play Rank ★★ (2 Star) battle x300 in Wonderland",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row2": [{
+								"mission": "Play Rank ★★ (2 Star) battle x400 in Wonderland",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Play Rank ★★ (2 Star) battle x500 in Wonderland",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Play Rank ★★ (2 Star) battle x100 in Agrabah",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row3": [{
+								"mission": "Play Rank ★★ (2 Star) battle x200 in Agrabah",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Play Rank ★★ (2 Star) battle x300 in Agrabah",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Play Rank ★★ (2 Star) battle x400 in Agrabah",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row4": [{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row5": [{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						]
+					}
+				},
+				{
+					"id": "whack-a-watermelon",
+					"name": "Whack-a-Watermelon",
+					"completion": "x1 Quest Key",
+					"time": "June 30 - July 31",
+					"rewards": {
+						"row1": [{
+								"mission": "Defeat Wicked Watermelon x10 in the event Whack a Watermelon",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat Wicked Watermelon x50 in the event Whack a Watermelon",
+								"reward": "x1 King Mickey"
+							},
+							{
+								"mission": "Defeat Wicked Watermelon x100 in the event Whack a Watermelon",
+								"reward": "x1000 BP"
+							},
+							{
+								"mission": "Defeat Wicked Watermelon x250 in the event Whack a Watermelon",
+								"reward": "x1 King Mickey"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row2": [{
+								"mission": "Defeat Wicked Watermelon x500 in the event Whack a Watermelon",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat Wicked Watermelon x750 in the event Whack a Watermelon",
+								"reward": "x1 King Mickey"
+							},
+							{
+								"mission": "Defeat Wicked Watermelon x1000 in the event Whack a Watermelon",
+								"reward": "x10000 BP"
+							},
+							{
+								"mission": "Defeat Wicked Watermelon x1500 in the event Whack a Watermelon",
+								"reward": "x1 King Mickey"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row3": [{
+								"mission": "Defeat Wicked Watermelon x2000 in the event Whack a Watermelon",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Wicked Watermelon x3000 in the event Whack a Watermelon",
+								"reward": "x1 King Mickey"
+							},
+							{
+								"mission": "Defeat Wicked Watermelon x4000 in the event Whack a Watermelon",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Wicked Watermelon x5000 in the event Whack a Watermelon",
+								"reward": "x1 King Mickey"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row4": [{
+								"mission": "Defeat Wicked Watermelon x7500 in the event Whack a Watermelon",
+								"reward": "x1 King Mickey"
+							},
+							{
+								"mission": "Defeat Wicked Watermelon x10000 in the event Whack a Watermelon",
+								"reward": "x1 King Mickey"
+							},
+							{
+								"mission": "Defeat Huge Watermelon x1 in the event Whack a Watermelon",
+								"reward": "x1 King Mickey"
+							},
+							{
+								"mission": "Defeat Huge Watermelon x100 in the event Whack a Watermelon",
+								"reward": "x1 King Mickey"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row5": [{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"id": "july20",
+			"name": "July 2020 Events",
+			"list": [{
+					"id": "limited-time-daily-mission",
+					"name": "Limited Time - Daily Missions",
+					"completion": "x1 Charm",
+					"time": "July 20 - July 26",
+					"rewards": {
+						"row1": [{
+								"mission": "Obtain BP x2500",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat enemy x100",
+								"reward": "x2500 BP"
+							},
+							{
+								"mission": "Obtain BP x5000",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row2": [{
+								"mission": "Defeat enemy x200",
+								"reward": "x5000 BP"
+							},
+							{
+								"mission": "Obtain BP x10000",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat enemy x300",
+								"reward": "x10000 BP"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row3": [{
+								"mission": "Obtain BP x20000",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Obtain BP x50000",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat enemy x10 (Rank ★★★)",
+								"reward": "x200 Jewels"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row4": [{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row5": [{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						]
+					}
+				},
+				{
+					"id": "target-fluttering-event-mission",
+					"name": "Target: Fluttering - Event Mission",
+					"completion": "x1 Charm",
+					"time": "July 27 - August 10",
+					"rewards": {
+						"row1": [{
+								"mission": "Defeat Fluttering x1",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat Fluttering x5",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Fluttering x10",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat Fluttering x30",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row2": [{
+								"mission": "Defeat Fluttering x50",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Fluttering x75",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Fluttering x100",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Fluttering x150",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row3": [{
+								"mission": "Defeat Fluttering x200",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Fluttering x250",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Fluttering x300",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Fluttering x350",
+								"reward": "x200 Jewels"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row4": [{
+								"mission": "Defeat Fluttering x400",
+								"reward": "x200 Jewels"
+							},
+							{
+								"mission": "Defeat Fluttering x450",
+								"reward": "x500 Jewels"
+							},
+							{
+								"mission": "Defeat Fluttering x500",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Complete Target: Fluttering",
+								"reward": "x1500 Jewels"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row5": [{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"id": "august20",
+			"name": "August 2020 Events",
+			"list": [{
+					"id": "target-ifrit-event-mission",
+					"name": "Target: Ifrit - Event Mission",
+					"completion": "x1 Card Draw Ticket",
+					"time": "August 1 - August 17",
+					"rewards": {
+						"row1": [{
+								"mission": "Defeat Ifrit x1",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat Ifrit x5",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat Ifrit x10",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Ifrit x20",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat Ifrit x30",
+								"reward": "x1 Quest Key"
+							}
+						],
+						"row2": [{
+								"mission": "Defeat Ifrit x50",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Ifrit x75",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Ifrit x100",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat Ifrit x125",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Ifrit x150",
+								"reward": "x100 Jewels"
+							}
+						],
+						"row3": [{
+								"mission": "Defeat Ifrit x175",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Ifrit x200",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat Ifrit x225",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Ifrit x250",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Ifrit x275",
+								"reward": "x1 Quest Key"
+							}
+						],
+						"row4": [{
+								"mission": "Defeat Ifrit x300",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Ifrit x325",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Ifrit x350",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Ifrit x375",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Ifrit x400",
+								"reward": "x200 Jewels"
+							}
+						],
+						"row5": [{
+								"mission": "Defeat Ifrit x425",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Ifrit x450",
+								"reward": "x200 Jewels"
+							},
+							{
+								"mission": "Defeat Ifrit x475",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Ifrit x500",
+								"reward": "x500 Jewels"
+							},
+							{
+								"mission": "Complete Target: Ifrit",
+								"reward": "x1500 Jewels"
+							}
+						]
+					}
+				},
+				{
+					"id": "elemental-challenge",
+					"name": "Attribute Elemental - Event Mission",
+					"completion": "x1000 Jewels",
+					"time": "August 3 - August 17",
+					"rewards": {
+						"row1": [{
+								"mission": "Defeat Paralysis Archer x1",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Paralysis Archer x3",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Complete Elemental Challenge I",
+								"reward": "x3 Quest Key"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row2": [{
+								"mission": "Defeat Pot Scorpion x1",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Pot Scorpion x3",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Complete Elemental Challenge II",
+								"reward": "x3 Quest Key"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row3": [{
+								"mission": "Defeat Emerald Sonata x1",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Emerald Sonata x3",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Complete Elemental Challenge III",
+								"reward": "x3 Quest Key"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row4": [{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row5": [{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						]
+					}
+				},
+				{
+					"id": "special-mission-donald-card",
+					"name": "Special Mission (Donald Card) - Event Mission",
+					"completion": "Donald #2",
+					"time": "August 17 - September 1",
+					"rewards": {
+						"row1": [{
+								"mission": "Obtain BP x10000",
+								"reward": "x1 Donald #2"
+							},
+							{
+								"mission": "Obtain BP x25000",
+								"reward": "x1 Donald #2"
+							},
+							{
+								"mission": "Obtain BP x50000",
+								"reward": "x1 Donald #2"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row2": [{
+								"mission": "Obtain BP x75000",
+								"reward": "x1 Donald #2"
+							},
+							{
+								"mission": "Obtain BP x100000",
+								"reward": "x1 Donald #2"
+							},
+							{
+								"mission": "Obtain BP x250000",
+								"reward": "x1 Donald #2"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row3": [{
+								"mission": "Obtain BP x500000",
+								"reward": "x1 Donald #2"
+							},
+							{
+								"mission": "Obtain BP x750000",
+								"reward": "x1 Donald #2"
+							},
+							{
+								"mission": "Obtain BP x1000000",
+								"reward": "x1 Donald #2"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row4": [{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row5": [{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						]
+					}
+				},
+				{
+					"id": "daily-challenge-event-mission",
+					"name": "Daily Challenge #2 - Event Mission",
+					"completion": "x1 Premium Quest Key",
+					"time": "August 17 - September 1",
+					"rewards": {
+						"row1": [{
+								"mission": "Defeat event Heartless x1",
+								"reward": "x1000 BP"
+							},
+							{
+								"mission": "Defeat event Heartless x5",
+								"reward": "x2500 BP"
+							},
+							{
+								"mission": "Defeat event Heartless x10",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row2": [{
+								"mission": "Defeat event Heartless x15",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat event Heartless x20",
+								"reward": "x5000 BP"
+							},
+							{
+								"mission": "Defeat event Heartless x25",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row3": [{
+								"mission": "Defeat event Heartless x30",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat event Heartless x40",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Complete the event",
+								"reward": "x300 Jewels"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row4": [{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						],
+						"row5": [{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							},
+							{
+								"mission": "empty",
+								"reward": "empty"
+							}
+						]
+					}
+				},
+				{
+					"id": "world-battle-rank-four",
+					"name": "World Battle Mission - Rank ★★★★",
+					"completion": "x1 Card Draw Ticket",
+					"time": "Permanent (?)",
+					"rewards": {
+						"row1": [{
+								"mission": "Defeat Wight Knight x10",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Wight Knight x100",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Polliwog x10",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Polliwog x100",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Tornado Step x10",
+								"reward": "x1 Quest Key"
+							}
+						],
+						"row2": [{
+								"mission": "Defeat Tornado Step x100",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Darkball x10",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Darkball x100",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat Gigas Shadow x10",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Gigas Shadow x100",
+								"reward": "x100 Jewels"
+							}
+						],
+						"row3": [{
+								"mission": "Defeat Flame Core x10",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat Flame Core x100",
+								"reward": "x100 Jewels"
+							},
+							{
+								"mission": "Defeat enemy x100 in Agrabah (Rank ★★★★)",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat enemy x500 in Agrabah (Rank ★★★★)",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat enemy x1000 in Agrabah (Rank ★★★★)",
+								"reward": "x1 Quest Key"
+							}
+						],
+						"row4": [{
+								"mission": "Defeat enemy x2500 in Agrabah (Rank ★★★★)",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat enemy x5000 in Agrabah (Rank ★★★★)",
+								"reward": "x1 Premium Quest Key"
+							},
+							{
+								"mission": "Defeat enemy x10000 in Agrabah (Rank ★★★★)",
+								"reward": "x200 Jewels"
+							},
+							{
+								"mission": "Defeat enemy x100 in Wonderland (Rank ★★★★)",
+								"reward": "x1 Charm"
+							},
+							{
+								"mission": "Defeat enemy x500 in Wonderland (Rank ★★★★)",
+								"reward": "x1 Quest Key"
+							}
+						],
+						"row5": [{
+								"mission": "Defeat enemy x1000 in Wonderland (Rank ★★★★)",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat enemy x2500 in Wonderland (Rank ★★★★)",
+								"reward": "x1 Quest Key"
+							},
+							{
+								"mission": "Defeat enemy x5000 in Wonderland (Rank ★★★★)",
+								"reward": "x1  Premium Quest Key"
+							},
+							{
+								"mission": "Defeat enemy x10000 in Wonderland (Rank ★★★★)",
+								"reward": "x200 Jewels"
+							},
+							{
+								"mission": "Defeat enemy x50000 (Rank ★★★★)",
+								"reward": "x300 Jewels"
+							}
+						]
+					}
+				},
+				"paste here"
+			]
+		}
+	]
+}]
