@@ -1,5 +1,5 @@
 var khdr;
-$.getJSON('https://saorax.github.io/khux/khdr_missions.json', function (jsonobj) {
+$.getJSON('https://saorax.github.io/khdr/khdr_missions.json', function (jsonobj) {
     khdr = jsonobj;
 });
 
