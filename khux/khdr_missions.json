@@ -2,123 +2,123 @@
 	{
 		"last_update": "August 19th, 2020",
 		"template": {
-						"id": "an-id",
-						"name": "Attribute Elemental - Event Mission",
-						"completion": "REWARD",
-						"time": "START MONTH - END MONTH",
-						"rewards": {
-							"row1": [
-								{
-									"mission": "Defeat Paralysis Archer x1",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Defeat Paralysis Archer x3",
-									"reward": "x1 Quest Key"
-								},
-								{
-									"mission": "Complete Elemental Challenge I",
-									"reward": "x3 Quest Key"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row2": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row3": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row4": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							],
-							"row5": [
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								},
-								{
-									"mission": "empty",
-									"reward": "empty"
-								}
-							]
-						}
+			"id": "an-id",
+			"name": "Attribute Elemental - Event Mission",
+			"completion": "REWARD",
+			"time": "START MONTH - END MONTH",
+			"rewards": {
+				"row1": [
+					{
+						"mission": "Defeat Paralysis Archer x1",
+						"reward": "x1 Quest Key"
 					},
+					{
+						"mission": "Defeat Paralysis Archer x3",
+						"reward": "x1 Quest Key"
+					},
+					{
+						"mission": "Complete Elemental Challenge I",
+						"reward": "x3 Quest Key"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row2": [
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row3": [
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row4": [
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				],
+				"row5": [
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					},
+					{
+						"mission": "empty",
+						"reward": "empty"
+					}
+				]
+			}
+		},
 		"weeklies": [
 			{
 				"id": "release",
@@ -733,7 +733,7 @@
 						},
 						{
 							"mission": "Obtain BP x100",
-							"reward": x300 Jewels"
+							"reward": "x300 Jewels"
 						},
 						{
 							"mission": "Gain LV x5 (Reach Level 6)",
