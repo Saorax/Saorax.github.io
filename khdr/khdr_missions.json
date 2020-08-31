@@ -2158,6 +2158,119 @@
 				}
 			]
 		}
+	},
+{
+		"id": "extra-mission-aug",
+		"name": "Extra Mission",
+		"completion": "x1 Premium Quest Key",
+		"time": "August 31 - September 6",
+		"rewards": {
+			"row1": [{
+					"mission": "Defeat Shadow x50",
+					"reward": "x100000 BP"
+				},
+				{
+					"mission": "Defeat enemy x200",
+					"reward": "x100000 BP"
+				},
+				{
+					"mission": "Defeat enemy x100 (Rank ★★)",
+					"reward": "x100000 BP"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row2": [{
+					"mission": "Defeat enemy x50 (Rank ★★★)",
+					"reward": "x100000 BP"
+				},
+				{
+					"mission": "Defeat enemy x10 (Rank ★★★★)",
+					"reward": "x100000 BP"
+				},
+				{
+					"mission": "Stack Card x5 (Get duplicates 5 times)",
+					"reward": "x100000 BP"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row3": [{
+					"mission": "Play Premium Quest Key event x3",
+					"reward": "x100000 BP"
+				},
+				{
+					"mission": "Defeat Gold Tricholoma x10",
+					"reward": "x100000 BP"
+				},
+				{
+					"mission": "Peform draw x7",
+					"reward": "x100000 BP"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row4": [{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row5": [{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			]
+		}
 	}
 
 				
