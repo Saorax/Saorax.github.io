@@ -34,10 +34,10 @@ function changeIcon(ye) {
 		ret = "./img/jewel.png"
 	} else if (ye.includes("Charm")) {
 		ret = "./img/charm.png"
-	} else if (ye.includes("Quest Key")) {
-		ret = "./img/quest-key.png"
 	} else if (ye.includes("Premium Quest Key")) {
 		ret = "./img/premium-quest-key.png"
+	} else if (ye.includes("Quest Key")) {
+		ret = "./img/quest-key.png"
 	} else if (ye.includes("BP")) {
 		ret = "./img/bp.png"
 	} else if (ye.includes("Shop Point")) {
