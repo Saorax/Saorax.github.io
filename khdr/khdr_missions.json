@@ -570,7 +570,7 @@
 			"id": "august20",
 			"name": "Monthlies - August 2020",
 			"completion": "x1 Card Draw Ticket",
-			"time": "August 1 - August 30",
+			"time": "August 1 - August 31",
 			"rewards": {
 				"row1": [{
 						"mission": "Defeat enemy x10000",
@@ -678,7 +678,120 @@
 					}
 				]
 			}
+		},
+{
+		"id": "september20",
+		"name": "Monthlies - September 2020",
+		"completion": "x1 Card Draw Ticket",
+		"time": "September 1 - September 30",
+		"rewards": {
+			"row1": [{
+					"mission": "Defeat enemy x10000",
+					"reward": "x50000 BP"
+				},
+				{
+					"mission": "Defeat enemy x15000",
+					"reward": "x100000 BP"
+				},
+				{
+					"mission": "Defeat enemy x20000",
+					"reward": "x300000 BP"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row2": [{
+					"mission": "Defeat enemy x30000",
+					"reward": "x1 Premium Quest Key"
+				},
+				{
+					"mission": "Defeat enemy x50000",
+					"reward": "x1 Premium Quest Key"
+				},
+				{
+					"mission": "Obtain BP X500000",
+					"reward": "x1 Darkside"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row3": [{
+					"mission": "Obtain BP x1000000",
+					"reward": "x1000 Jewels"
+				},
+				{
+					"mission": "Obtain BP x2000000",
+					"reward": "x1000 Jewels"
+				},
+				{
+					"mission": "Obtain BP x5000000",
+					"reward": "x1000 Jewels"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row4": [{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row5": [{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			]
 		}
+	}
 	],
 	"beginner": [{
 		"completion": "x1 Card Draw Ticket",
@@ -2271,10 +2384,125 @@
 				}
 			]
 		}
-	}
-
-				
+	}]
+		},{
+			"id": "september20",
+			"name": "September 2020 Events",
+			"list": [{
+		"id": "limited-time-draw-missiob",
+		"name": "Limited Time - Draw Mission",
+		"completion": "x60 Shop Point",
+		"time": "September 1 - September 7",
+		"rewards": {
+			"row1": [{
+					"mission": "Perform KHUX JP 5th Anniv. Draw x1",
+					"reward": "x60 Shop Point"
+				},
+				{
+					"mission": "Perform KHUX JP 5th Anniv. Draw x2",
+					"reward": "x60 Shop Point"
+				},
+				{
+					"mission": "Perform KHUX JP 5th Anniv. Draw x3",
+					"reward": "x60 Shop Point"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row2": [{
+					"mission": "Perform KHUX JP 5th Anniv. Draw x4",
+					"reward": "x60 Shop Point"
+				},
+				{
+					"mission": "Perform KHUX JP 5th Anniv. Draw x5",
+					"reward": "empty"
+				},
+				{
+					"mission": "Perform KHUX JP 5th Anniv. Draw x6",
+					"reward": "x60 Shop Point"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row3": [{
+					"mission": "Perform KHUX JP 5th Anniv. Draw x7",
+					"reward": "x60 Shop Point"
+				},
+				{
+					"mission": "Perform KHUX JP 5th Anniv. Draw x8",
+					"reward": "x60 Shop Point"
+				},
+				{
+					"mission": "Perform KHUX JP 5th Anniv. Draw x9",
+					"reward": "x60 Shop Point"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row4": [{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
+			],
+			"row5": [{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				},
+				{
+					"mission": "empty",
+					"reward": "empty"
+				}
 			]
 		}
+	}
+
+
+]
 	]
 }]
