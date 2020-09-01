@@ -40,7 +40,9 @@ function changeIcon(ye) {
 		ret = "./img/premium-quest-key.png"
 	} else if (ye.includes("BP")) {
 		ret = "./img/bp.png"
-	} 
+	} else if (ye.includes("Shop Point")) {
+                ret = "./img/shop-point.png"
+        }
 	// event items
 	else if (ye.includes("Queen Minnie")) {
 		ret = "./img/queen-minnie.png"
