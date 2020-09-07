@@ -11,7 +11,7 @@ function contains(target, pattern){
     return (value === 1)
 }
 
-var missionCards = ["Queen Minnie", "King Mickey", "Darkside", "Donald #2"]
+var missionCards = ["Queen Minnie", "King Mickey", "Darkside", "Donald #2", "Key Art #4"]
 
 function clearDiv() {
 	document.getElementById("div1").remove();
@@ -52,6 +52,8 @@ function changeIcon(ye) {
 		ret = "./img/darkside.png"
 	} else if (ye.includes("Donald #2")) {
 		ret = "./img/donald-2.png"
+	} else if (ye.includes("Key Art #4")) {
+		ret = "./img/key-art-4.png"
 	}
 	return ret
 };
