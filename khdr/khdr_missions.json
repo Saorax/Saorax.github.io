@@ -1,6 +1,6 @@
 [
    {
-      "last_update": "September 1st, 2020",
+      "last_update": "September 7th, 2020",
       "other": [
          {
             "id": "june20",
@@ -1438,6 +1438,242 @@
                      ]
                   },
                   "time": "September 1 - September 6"
+               },
+               {
+                  "completion": "x1 Premium Quest Key",
+                  "id": "5-anni-weekly",
+                  "name": "KHUX JP 5th Anniv. Weekly Mission",
+                  "rewards": {
+                     "row1": [
+                        {
+                           "mission": "Defeat Icy Beast x1 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1000 BP"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x3 in KHUX JP 5th Anniversary Event",
+                           "reward": "x2500 BP"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x6 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x9 in KHUX JP 5th Anniversary Event",
+                           "reward": "x5000 BP"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row2": [
+                        {
+                           "mission": "Defeat Icy Beast x12 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x15 in KHUX JP 5th Anniversary Event",
+                           "reward": "x7500 BP"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x18 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x21 in KHUX JP 5th Anniversary Event",
+                           "reward": "x10000 BP"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row3": [
+                        {
+                           "mission": "Defeat Icy Beast x24 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x27 in KHUX JP 5th Anniversary Event",
+                           "reward": "x10000 BP"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x30 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x33 in KHUX JP 5th Anniversary Event",
+                           "reward": "x10000 BP"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row4": [
+                        {
+                           "mission": "Defeat Icy Beast x36 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x40 in KHUX JP 5th Anniversary Event",
+                           "reward": "x10000 BP"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x44 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Key Art #4"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x48 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Key Art #4"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row5": [
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ]
+                  },
+                  "time": "September 7 -  September 14"
+               },
+               {
+                  "completion": "x1 Card Draw Ticket",
+                  "id": "5-anni-weekly-premium",
+                  "name": "[Premium] KHUX JP 5th Anniv. Weekly Mission",
+                  "rewards": {
+                     "row1": [
+                        {
+                           "mission": "Obtain BP x500",
+                           "reward": "x1000 BP"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x1 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x2 in KHUX JP 5th Anniversary Event",
+                           "reward": "x10000 BP"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x3 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row2": [
+                        {
+                           "mission": "Defeat Icy Beast x4 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x5 in KHUX JP 5th Anniversary Event",
+                           "reward": "x20000 BP"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x6 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x7 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Quest Key"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row3": [
+                        {
+                           "mission": "Defeat Icy Beast x8 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Key Art #4"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x9 in KHUX JP 5th Anniversary Event",
+                           "reward": "x50000 BP"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x10 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Premium Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x11 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row4": [
+                        {
+                           "mission": "Defeat Icy Beast x12 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Key Art #4"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x13 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x14 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Premium Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Icy Beast x15 in KHUX JP 5th Anniversary Event",
+                           "reward": "x1 Key Art #4"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row5": [
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ]
+                  },
+                  "time": "September 7 -  September 14"
                }
             ],
             "name": "September 2020 Events"
