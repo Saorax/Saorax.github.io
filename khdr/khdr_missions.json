@@ -1,6 +1,6 @@
 [
    {
-      "last_update": "September 7th, 2020",
+      "last_update": "September 21st, 2020",
       "other": [
          {
             "id": "june20",
@@ -1674,6 +1674,124 @@
                      ]
                   },
                   "time": "September 7 -  September 14"
+               },
+               {
+                  "completion": "x1 Card Draw Ticket",
+                  "id": "target-ogre-event-mission",
+                  "name": "Target: Ogre - Event Mission",
+                  "rewards": {
+                     "row1": [
+                        {
+                           "mission": "Defeat Ogre x10",
+                           "reward": "x1000 BP"
+                        },
+                        {
+                           "mission": "Defeat Ogre x30",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "Defeat Ogre x50",
+                           "reward": "x5000 BP"
+                        },
+                        {
+                           "mission": "Defeat Ogre x70",
+                           "reward": "x1 Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Ogre x90",
+                           "reward": "x10000 BP"
+                        }
+                     ],
+                     "row2": [
+                        {
+                           "mission": "Defeat Ogre x110",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "Defeat Ogre x130",
+                           "reward": "x10000 BP"
+                        },
+                        {
+                           "mission": "Defeat Ogre x150",
+                           "reward": "x1 Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Ogre x170",
+                           "reward": "x10000 BP"
+                        },
+                        {
+                           "mission": "Defeat Ogre x190",
+                           "reward": "x1 Charm"
+                        }
+                     ],
+                     "row3": [
+                        {
+                           "mission": "Defeat Ogre x210",
+                           "reward": "x10000 BP"
+                        },
+                        {
+                           "mission": "Defeat Ogre x230",
+                           "reward": "x1 Premium Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Ogre x250",
+                           "reward": "x10000 BP"
+                        },
+                        {
+                           "mission": "Defeat Ogre x270",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "Defeat Ogre x290",
+                           "reward": "x10000 BP"
+                        }
+                     ],
+                     "row4": [
+                        {
+                           "mission": "Defeat Ogre x310",
+                           "reward": "x1 Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Ogre x330",
+                           "reward": "x10000 BP"
+                        },
+                        {
+                           "mission": "Defeat Ogre x350",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "Defeat Ogre x370",
+                           "reward": "x10000 BP"
+                        },
+                        {
+                           "mission": "Defeat Ogre x390",
+                           "reward": "x1 Quest Key"
+                        }
+                     ],
+                     "row5": [
+                        {
+                           "mission": "Defeat Ogre x410",
+                           "reward": "x10000 BP"
+                        },
+                        {
+                           "mission": "Defeat Ogre x430",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "Defeat Ogre x460",
+                           "reward": "x1 Premium Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Ogre x500",
+                           "reward": "x500 Jewels"
+                        },
+                        {
+                           "mission": "Complete Target: Ogre",
+                           "reward": "x1000 Jewels"
+                        }
+                     ]
+                  },
+                  "time": "September 21 - October 4"
                }
             ],
             "name": "September 2020 Events"
