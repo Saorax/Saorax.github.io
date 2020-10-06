@@ -1,6 +1,6 @@
 [
    {
-      "last_update": "September 21st, 2020",
+      "last_update": "October 5, 2020",
       "other": [
          {
             "id": "june20",
@@ -1683,7 +1683,7 @@
                      "row1": [
                         {
                            "mission": "Defeat Ogre x10",
-                           "reward": "x1000 BP"
+                           "reward": "x1,000 BP"
                         },
                         {
                            "mission": "Defeat Ogre x30",
@@ -1691,7 +1691,7 @@
                         },
                         {
                            "mission": "Defeat Ogre x50",
-                           "reward": "x5000 BP"
+                           "reward": "x5,000 BP"
                         },
                         {
                            "mission": "Defeat Ogre x70",
@@ -1699,7 +1699,7 @@
                         },
                         {
                            "mission": "Defeat Ogre x90",
-                           "reward": "x10000 BP"
+                           "reward": "x10,000 BP"
                         }
                      ],
                      "row2": [
@@ -1709,7 +1709,7 @@
                         },
                         {
                            "mission": "Defeat Ogre x130",
-                           "reward": "x10000 BP"
+                           "reward": "x10,000 BP"
                         },
                         {
                            "mission": "Defeat Ogre x150",
@@ -1717,7 +1717,7 @@
                         },
                         {
                            "mission": "Defeat Ogre x170",
-                           "reward": "x10000 BP"
+                           "reward": "x10,000 BP"
                         },
                         {
                            "mission": "Defeat Ogre x190",
@@ -1727,7 +1727,7 @@
                      "row3": [
                         {
                            "mission": "Defeat Ogre x210",
-                           "reward": "x10000 BP"
+                           "reward": "x10,000 BP"
                         },
                         {
                            "mission": "Defeat Ogre x230",
@@ -1735,7 +1735,7 @@
                         },
                         {
                            "mission": "Defeat Ogre x250",
-                           "reward": "x10000 BP"
+                           "reward": "x10,000 BP"
                         },
                         {
                            "mission": "Defeat Ogre x270",
@@ -1743,7 +1743,7 @@
                         },
                         {
                            "mission": "Defeat Ogre x290",
-                           "reward": "x10000 BP"
+                           "reward": "x10,000 BP"
                         }
                      ],
                      "row4": [
@@ -1753,7 +1753,7 @@
                         },
                         {
                            "mission": "Defeat Ogre x330",
-                           "reward": "x10000 BP"
+                           "reward": "x10,000 BP"
                         },
                         {
                            "mission": "Defeat Ogre x350",
@@ -1761,7 +1761,7 @@
                         },
                         {
                            "mission": "Defeat Ogre x370",
-                           "reward": "x10000 BP"
+                           "reward": "x10,000 BP"
                         },
                         {
                            "mission": "Defeat Ogre x390",
@@ -1771,7 +1771,7 @@
                      "row5": [
                         {
                            "mission": "Defeat Ogre x410",
-                           "reward": "x10000 BP"
+                           "reward": "x10,000 BP"
                         },
                         {
                            "mission": "Defeat Ogre x430",
@@ -1787,7 +1787,7 @@
                         },
                         {
                            "mission": "Complete Target: Ogre",
-                           "reward": "x1000 Jewels"
+                           "reward": "x1,000 Jewels"
                         }
                      ]
                   },
@@ -1795,6 +1795,130 @@
                }
             ],
             "name": "September 2020 Events"
+         },
+         {
+            "id": "october20",
+            "list": [
+               {
+                  "completion": "x1 Card Draw Ticket",
+                  "id": "lance-soldier",
+                  "name": "Lance Soldier Battle Streak Event Mission",
+                  "rewards": {
+                     "row1": [
+                        {
+                           "mission": "Defeat event Heartless Lance Soldier x1",
+                           "reward": "x1,000 BP"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Lance Soldier x3",
+                           "reward": "x2,500 BP"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Lance Soldier x5",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row2": [
+                        {
+                           "mission": "Defeat event Heartless Lance Soldier x7",
+                           "reward": "x5,000 BP"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Lance Soldier x10",
+                           "reward": "x7,500 BP"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Lance Soldier x12",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row3": [
+                        {
+                           "mission": "Defeat event Heartless Lance Soldier x15",
+                           "reward": "x10,000 BP"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Lance Soldier x18",
+                           "reward": "x1 Quest Key"
+                        },
+                        {
+                           "mission": "Complete the event",
+                           "reward": "x1,000 Jewels"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row4": [
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row5": [
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ]
+                  },
+                  "time": "October 5 - October 11"
+               }
+            ],
+            "name": "October 2020 Events"
          }
       ],
       "monthlies": [
@@ -2269,6 +2393,124 @@
                ]
             },
             "time": "September 1 - September 30"
+         },
+         {
+            "completion": "x1 Card Draw Ticket",
+            "id": "october20",
+            "name": "Monthlies - October 2020",
+            "rewards": {
+               "row1": [
+                  {
+                     "mission": "Defeat enemy x10,000",
+                     "reward": "x50,000 BP"
+                  },
+                  {
+                     "mission": "Defeat enemy x15,000",
+                     "reward": "x100,000 BP"
+                  },
+                  {
+                     "mission": "Defeat enemy x20,000",
+                     "reward": "x300,000 BP"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  }
+               ],
+               "row2": [
+                  {
+                     "mission": "Defeat enemy x30,000",
+                     "reward": "x1 Premium Quest Key"
+                  },
+                  {
+                     "mission": "Defeat enemy x50,000",
+                     "reward": "x1 Premium Quest Key"
+                  },
+                  {
+                     "mission": "Obtain BP x500,000",
+                     "reward": "x1 Darkside"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  }
+               ],
+               "row3": [
+                  {
+                     "mission": "Obtain BP x1,000,000",
+                     "reward": "x1,000 Jewels"
+                  },
+                  {
+                     "mission": "Obtain BP x2,000,000",
+                     "reward": "x1,000 Jewels"
+                  },
+                  {
+                     "mission": "Obtain BP x5,000,000",
+                     "reward": "x1,000 Jewels"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  }
+               ],
+               "row4": [
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  }
+               ],
+               "row5": [
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  }
+               ]
+            },
+            "time": "October 1 - October 31"
          }
       ],
       "weeklies": [
@@ -2631,7 +2873,7 @@
       "event": [
          {
             "completion": "x1 Card Draw Ticket",
-            "name": "Current Permanent \"Event\"",
+            "Winning Streak / Feat of Strength": "Challenge",
             "rewards": {
                "row1": [
                   {
@@ -2744,7 +2986,7 @@
                   }
                ]
             },
-            "time": "Forever(?)"
+            "time": "Launch Date - October 31"
          }
       ],
       "premium": [
