@@ -1,6 +1,6 @@
 [
    {
-      "last_update": "October 5, 2020",
+      "last_update": "October 26, 2020",
       "other": [
          {
             "id": "june20",
@@ -1916,6 +1916,360 @@
                      ]
                   },
                   "time": "October 5 - October 11"
+               },
+               {
+                  "completion": "x1,000 Jewels",
+                  "id": "copper-ore",
+                  "name": "Drops: Iron Ore/Copper Ore",
+                  "rewards": {
+                     "row1": [
+                        {
+                           "mission": "Defeat event Heartless Soldier x25",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Soldier x50",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Soldier x75",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Soldier x100",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row2": [
+                        {
+                           "mission": "Defeat event Heartless Soldier x125",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Soldier x150",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Soldier x175",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Soldier x200",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row3": [
+                        {
+                           "mission": "Defeat event Heartless Soldier x225",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Soldier x250",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Soldier x275",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Soldier x300",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row4": [
+                        {
+                           "mission": "Defeat event Heartless Soldier x325",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Soldier x350",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Soldier x375",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "Defeat event Heartless Soldier x400",
+                           "reward": "x5 Copper Ore"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row5": [
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ]
+                  },
+                  "time": "October 12 - October 19"
+               },
+               {
+                  "completion": "x1 Card Draw Ticket",
+                  "id": "get-earrings-iii",
+                  "name": "Craft Earrings III",
+                  "rewards": {
+                     "row1": [
+                        {
+                           "mission": "Defeat event Heartless x10",
+                           "reward": "x35 Bright Shards"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x30",
+                           "reward": "x35 Starry Sands"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x50",
+                           "reward": "x15 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x70",
+                           "reward": "x15 Crafting Material 2"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x100",
+                           "reward": "x15 Serenity Shards"
+                        }
+                     ],
+                     "row2": [
+                        {
+                           "mission": "Defeat event Heartless x130",
+                           "reward": "x7 Copper Ore"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x160",
+                           "reward": "x35 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x190",
+                           "reward": "x35 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x220",
+                           "reward": "x20 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x250",
+                           "reward": "x20 Crafting Material 2"
+                        }
+                     ],
+                     "row3": [
+                        {
+                           "mission": "Defeat event Heartless x280",
+                           "reward": "x15 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x310",
+                           "reward": "x7 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x340",
+                           "reward": "x40 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x370",
+                           "reward": "x40 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x400",
+                           "reward": "x20 Crafting Material 1"
+                        }
+                     ],
+                     "row4": [
+                        {
+                           "mission": "Defeat event Heartless x430",
+                           "reward": "x20 Crafting Material 2"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x460",
+                           "reward": "x20 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x490",
+                           "reward": "x7 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x520",
+                           "reward": "x40 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x550",
+                           "reward": "x40 Crafting Material 1"
+                        }
+                     ],
+                     "row5": [
+                        {
+                           "mission": "Defeat event Heartless x580",
+                           "reward": "x20 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x610",
+                           "reward": "x20 Crafting Material 2"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x640",
+                           "reward": "x20 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x670",
+                           "reward": "x7 Crafting Material 1"
+                        },
+                        {
+                           "mission": "Defeat event Heartless x700",
+                           "reward": "x1,000 Jewels"
+                        }
+                     ]
+                  },
+                  "time": "October 19 - October 26"
+               },
+               {
+                  "completion": "x1 Card Draw Ticket",
+                  "id": "halloween-event",
+                  "name": "Halloween Event - World Battle Missions",
+                  "rewards": {
+                     "row1": [
+                        {
+                           "mission": "Defeat Jack O' Lantern x10",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "Defeat Jack O'Lantern x50",
+                           "reward": "x10,000 BP"
+                        },
+                        {
+                           "mission": "Defeat Jack O' Lantern x100",
+                           "reward": "x1 Premium Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Jack O' Lantern x200",
+                           "reward": "x20,000 BP"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row2": [
+                        {
+                           "mission": "Defeat Jack O' Lantern x500",
+                           "reward": "x1 Spider Web Badge"
+                        },
+                        {
+                           "mission": "Defeat Pumpkin Soldier x1",
+                           "reward": "x1 Charm"
+                        },
+                        {
+                           "mission": "Defeat Pumpkin Soldier x10",
+                           "reward": "x30,000 BP"
+                        },
+                        {
+                           "mission": "Defeat Pumpkin Soldier x30",
+                           "reward": "x40,000 BP"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row3": [
+                        {
+                           "mission": "Defeat Pumpkin Soldier x50",
+                           "reward": "x1 Premium Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Pumpkin Soldier x100",
+                           "reward": "x1 Pumpkin Band"
+                        },
+                        {
+                           "mission": "Defeat Pumpkin Soldier x200",
+                           "reward": "x100,000 BP"
+                        },
+                        {
+                           "mission": "Defeat Swaying Spook x1",
+                           "reward": "x1 Candy Earrings"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row4": [
+                        {
+                           "mission": "Defeat Swaying Spook x10",
+                           "reward": "x1 Candy Crown"
+                        },
+                        {
+                           "mission": "Defeat Swaying Spook x30",
+                           "reward": "x150,000 BP"
+                        },
+                        {
+                           "mission": "Defeat Swaying Spook x50",
+                           "reward": "x1 Premium Quest Key"
+                        },
+                        {
+                           "mission": "Defeat Swaying Spook x100",
+                           "reward": "x1,000 Jewels"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ],
+                     "row5": [
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        },
+                        {
+                           "mission": "empty",
+                           "reward": "empty"
+                        }
+                     ]
+                  },
+                  "time": "October 26 - November 8"
                }
             ],
             "name": "October 2020 Events"
@@ -2748,7 +3102,125 @@
                   }
                ]
             },
-            "time": "July 27 - Current"
+            "time": "July 27 - October 25"
+         },
+         {
+            "completion": "x1 Card Draw Ticket",
+            "id": "updated2",
+            "name": "Weeklies (Updated October 26)",
+            "rewards": {
+               "row1": [
+                  {
+                     "mission": "Defeat enemy x100",
+                     "reward": "x1 Premium Quest Key"
+                  },
+                  {
+                     "mission": "Defeat enemy x250",
+                     "reward": "x12,500 BP"
+                  },
+                  {
+                     "mission": "Defeat enemy x500",
+                     "reward": "x1 Charm"
+                  },
+                  {
+                     "mission": "Defeat enemy x1,000",
+                     "reward": "x1 Premium Quest Key"
+                  },
+                  {
+                     "mission": "Defeat enemy x1,100",
+                     "reward": "x100 Jewels"
+                  }
+               ],
+               "row2": [
+                  {
+                     "mission": "Defeat enemy x1,200",
+                     "reward": "x22,500 BP"
+                  },
+                  {
+                     "mission": "Defeat enemy x1,300",
+                     "reward": "x30,000 BP"
+                  },
+                  {
+                     "mission": "Defeat enemy x1,400",
+                     "reward": "x1 Charm"
+                  },
+                  {
+                     "mission": "Defeat enemy x1,500",
+                     "reward": "x30,000 BP"
+                  },
+                  {
+                     "mission": "Defeat enemy x1,600",
+                     "reward": "x100 Jewels"
+                  }
+               ],
+               "row3": [
+                  {
+                     "mission": "Defeat enemy x1,700",
+                     "reward": "x30,000 BP"
+                  },
+                  {
+                     "mission": "Defeat enemy x1,800",
+                     "reward": "x30,000 BP"
+                  },
+                  {
+                     "mission": "Defeat enemy x1,900",
+                     "reward": "x1 Charm"
+                  },
+                  {
+                     "mission": "Defeat enemy x2,000",
+                     "reward": "x30,000 BP"
+                  },
+                  {
+                     "mission": "Defeat enemy x2,100",
+                     "reward": "x100 Jewels"
+                  }
+               ],
+               "row4": [
+                  {
+                     "mission": "Defeat enemy x2,200",
+                     "reward": "x30,000 BP"
+                  },
+                  {
+                     "mission": "Defeat enemy x2,300",
+                     "reward": "x30,000 BP"
+                  },
+                  {
+                     "mission": "Defeat enemy x2,400",
+                     "reward": "x1 Quest Key"
+                  },
+                  {
+                     "mission": "Defeat enemy x2,500",
+                     "reward": "x30,000 BP"
+                  },
+                  {
+                     "mission": "Defeat enemy x2,600",
+                     "reward": "x100 Jewels"
+                  }
+               ],
+               "row5": [
+                  {
+                     "mission": "Defeat enemy x2,700",
+                     "reward": "x30,000 BP"
+                  },
+                  {
+                     "mission": "Defeat enemy x2,800",
+                     "reward": "x1 Premium Quest Key"
+                  },
+                  {
+                     "mission": "Defeat enemy x3,000",
+                     "reward": "x100 Jewels"
+                  },
+                  {
+                     "mission": "Defeat enemy x4,000",
+                     "reward": "x100 Jewels"
+                  },
+                  {
+                     "mission": "Defeat enemy x5,000",
+                     "reward": "x1 Premium Quest Key"
+                  }
+               ]
+            },
+            "time": "October 26 - Current"
          }
       ],
       "beginner": [
@@ -3105,7 +3577,124 @@
                   }
                ]
             },
-            "time": "June 22 - Current"
+            "time": "June 22 - October 25"
+         },
+         {
+            "completion": "x1 Card Draw Ticket",
+            "name": "Premium Missions",
+            "rewards": {
+               "row1": [
+                  {
+                     "mission": "Defeat enemy x10",
+                     "reward": "x1 Premium Quest Key"
+                  },
+                  {
+                     "mission": "Defeat enemy x20",
+                     "reward": "x1 Card Draw Ticket"
+                  },
+                  {
+                     "mission": "Defeat enemy x30",
+                     "reward": "x100 Jewels"
+                  },
+                  {
+                     "mission": "Defeat enemy x40",
+                     "reward": "x1 Card Draw Ticket"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  }
+               ],
+               "row2": [
+                  {
+                     "mission": "Defeat enemy x50",
+                     "reward": "x2 Premium Quest Key"
+                  },
+                  {
+                     "mission": "Defeat enemy x75",
+                     "reward": "x1 Card Draw Ticket"
+                  },
+                  {
+                     "mission": "Defeat enemy x100",
+                     "reward": "x200 Jewels"
+                  },
+                  {
+                     "mission": "Defeat enemy x150",
+                     "reward": "x1 Card Draw Ticket"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  }
+               ],
+               "row3": [
+                  {
+                     "mission": "Defeat enemy x200",
+                     "reward": "x3 Premium Quest Key"
+                  },
+                  {
+                     "mission": "Defeat enemy x250",
+                     "reward": "x1 Card Draw Ticket"
+                  },
+                  {
+                     "mission": "Defeat enemy x300",
+                     "reward": "x200 Jewels"
+                  },
+                  {
+                     "mission": "Defeat enemy x350",
+                     "reward": "x1 Card Draw Ticket"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  }
+               ],
+               "row4": [
+                  {
+                     "mission": "Defeat enemy x400",
+                     "reward": "x5 Premium Quest Key"
+                  },
+                  {
+                     "mission": "Defeat enemy x450",
+                     "reward": "x1 Card Draw Ticket"
+                  },
+                  {
+                     "mission": "Defeat enemy x500",
+                     "reward": "x200 Jewels"
+                  },
+                  {
+                     "mission": "Defeat enemy x550",
+                     "reward": "x200 Jewels"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  }
+               ],
+               "row5": [
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  },
+                  {
+                     "mission": "empty",
+                     "reward": "empty"
+                  }
+               ]
+            },
+            "time": "October 26 - Current"
          }
       ],
       "template": {
