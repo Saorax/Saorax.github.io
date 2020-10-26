@@ -266,28 +266,40 @@ function getBeginner() {
   changeCardHeight();
 };
 
+
 function getPremium() {
   clearDiv()
-  document.getElementById("completion").innerHTML = khdr[0].premium[0].completion;
-  document.getElementById("titimage").src = changeIcon(khdr[0].premium[0].completion);
-  document.getElementById("time").innerHTML = khdr[0].premium[0].time;
-  document.getElementById("title").innerHTML = "VIP / Weekly Jewel Extravaganza Missions";
+  for (var i = 0; i < khdr[0].premium.length; i++) {
+    var makeBut = document.createElement("button");
+    makeBut.setAttribute("onClick", `getPremium1(${i})`);
+    makeBut.textContent = khdr[0].premium[i].name;
+    document.getElementById("div1").appendChild(makeBut);
+    var whitesp = document.createTextNode("\u00A0");
+    document.getElementById("div1").appendChild(whitesp);
+  }
+};
+
+function getPremium1(typ) {
+  document.getElementById("completion").innerHTML = khdr[0].premium[typ].completion;
+  document.getElementById("titimage").src = changeIcon(khdr[0].premium[typ].completion);
+  document.getElementById("time").innerHTML = khdr[0].premium[typ].time;
+  document.getElementById("title").innerHTML = khdr[0].premium[typ].name;
   for (var i = 0; i < 5; i++) {
-    document.getElementById("mistable").children[0].children[1].children[i].children[1].innerHTML = khdr[0].premium[0].rewards.row1[i].reward;
-    document.getElementById("mistable").children[0].children[1].children[i].children[2].innerHTML = khdr[0].premium[0].rewards.row1[i].mission;
-    document.getElementById("mistable").children[0].children[1].children[i].children[0].src = changeIcon(khdr[0].premium[0].rewards.row1[i].reward);
-    document.getElementById("mistable").children[0].children[2].children[i].children[1].innerHTML = khdr[0].premium[0].rewards.row2[i].reward;
-    document.getElementById("mistable").children[0].children[2].children[i].children[2].innerHTML = khdr[0].premium[0].rewards.row2[i].mission;
-    document.getElementById("mistable").children[0].children[2].children[i].children[0].src = changeIcon(khdr[0].premium[0].rewards.row2[i].reward);
-    document.getElementById("mistable").children[0].children[3].children[i].children[1].innerHTML = khdr[0].premium[0].rewards.row3[i].reward;
-    document.getElementById("mistable").children[0].children[3].children[i].children[2].innerHTML = khdr[0].premium[0].rewards.row3[i].mission;
-    document.getElementById("mistable").children[0].children[3].children[i].children[0].src = changeIcon(khdr[0].premium[0].rewards.row3[i].reward);
-    document.getElementById("mistable").children[0].children[4].children[i].children[1].innerHTML = khdr[0].premium[0].rewards.row4[i].reward;
-    document.getElementById("mistable").children[0].children[4].children[i].children[2].innerHTML = khdr[0].premium[0].rewards.row4[i].mission;
-    document.getElementById("mistable").children[0].children[4].children[i].children[0].src = changeIcon(khdr[0].premium[0].rewards.row4[i].reward);
-    document.getElementById("mistable").children[0].children[5].children[i].children[1].innerHTML = khdr[0].premium[0].rewards.row5[i].reward;
-    document.getElementById("mistable").children[0].children[5].children[i].children[2].innerHTML = khdr[0].premium[0].rewards.row5[i].mission;
-    document.getElementById("mistable").children[0].children[5].children[i].children[0].src = changeIcon(khdr[0].premium[0].rewards.row5[i].reward);
+    document.getElementById("mistable").children[0].children[1].children[i].children[1].innerHTML = khdr[0].premium[typ].rewards.row1[i].reward;
+    document.getElementById("mistable").children[0].children[1].children[i].children[2].innerHTML = khdr[0].premium[typ].rewards.row1[i].mission;
+    document.getElementById("mistable").children[0].children[1].children[i].children[0].src = changeIcon(khdr[0].premium[typ].rewards.row1[i].reward);
+    document.getElementById("mistable").children[0].children[2].children[i].children[1].innerHTML = khdr[0].premium[typ].rewards.row2[i].reward;
+    document.getElementById("mistable").children[0].children[2].children[i].children[2].innerHTML = khdr[0].premium[typ].rewards.row2[i].mission;
+    document.getElementById("mistable").children[0].children[2].children[i].children[0].src = changeIcon(khdr[0].premium[typ].rewards.row2[i].reward);
+    document.getElementById("mistable").children[0].children[3].children[i].children[1].innerHTML = khdr[0].premium[typ].rewards.row3[i].reward;
+    document.getElementById("mistable").children[0].children[3].children[i].children[2].innerHTML = khdr[0].premium[typ].rewards.row3[i].mission;
+    document.getElementById("mistable").children[0].children[3].children[i].children[0].src = changeIcon(khdr[0].premium[typ].rewards.row3[i].reward);
+    document.getElementById("mistable").children[0].children[4].children[i].children[1].innerHTML = khdr[0].premium[typ].rewards.row4[i].reward;
+    document.getElementById("mistable").children[0].children[4].children[i].children[2].innerHTML = khdr[0].premium[typ].rewards.row4[i].mission;
+    document.getElementById("mistable").children[0].children[4].children[i].children[0].src = changeIcon(khdr[0].premium[typ].rewards.row4[i].reward);
+    document.getElementById("mistable").children[0].children[5].children[i].children[1].innerHTML = khdr[0].premium[typ].rewards.row5[i].reward;
+    document.getElementById("mistable").children[0].children[5].children[i].children[2].innerHTML = khdr[0].premium[typ].rewards.row5[i].mission;
+    document.getElementById("mistable").children[0].children[5].children[i].children[0].src = changeIcon(khdr[0].premium[typ].rewards.row5[i].reward);
   }
   removeEmpty();
   changeCardHeight();
