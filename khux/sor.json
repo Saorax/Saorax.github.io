@@ -1,24 +1,24 @@
 {
 	"storyjewels": {
-		"latest": "945",
-		"total1": "17,000",
-		"total2": "63,650"
+		"latest": "950",
+		"total1": "18,000",
+		"total2": "64,650"
 	},
 	"proudjewels": {
-		"latest": "940",
-		"total1": "5,400",
-		"total2": "33,900"
+		"latest": "945",
+		"total1": "6,000",
+		"total2": "34,500"
 	},
 	"proudgems": {
 		"power1": "9",
-		"power2": "38",
+		"power2": "39",
 		"speed1": "9",
-		"speed2": "38",
+		"speed2": "39",
 		"magic1": "9",
-		"magic2": "37",
+		"magic2": "38",
 		"sun1": "9",
-		"sun2": "26",
+		"sun2": "27",
 		"moon1": "9",
-		"moon2": "26"
+		"moon2": "27"
 	}
 }
