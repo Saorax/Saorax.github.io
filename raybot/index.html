@@ -7,6 +7,7 @@
   </script>
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="stylesheet" type="text/css" href="discord.css">
+  <link rel="icon" href="./35.png" , type="image/png">
 </head>
 <script>
   function loadpage(page) {
@@ -34,6 +35,7 @@
     }
     return "";
   }
+
   function darkS2() {
     if (getCookie("theme") === "light") {
       for (var i = 0; i < document.getElementsByTagName('div').length; i++) {
@@ -151,44 +153,63 @@
           <div class="collapse navbar-collapse sidebar" style="user-select: none;">
             <ul class="nav nav-pills flex-column mb-auto navbar-nav w-100 justify-content-between">
               <li class="nav-item">
-                <a href="#" class="nav-link text-light" draggable="false"aria-current="page" onclick="loadpage('./hrefs/welcome.html')">
+                <a href="#" class="nav-link text-light" draggable="false" aria-current="page"
+                  onclick="loadpage('./hrefs/welcome.html')">
                   Welcome
                 </a>
-                <a href="#" class="nav-link text-light" draggable="false"aria-current="page" onclick="loadpage('./hrefs/faq.html')">
+                <a href="#" class="nav-link text-light" draggable="false" aria-current="page"
+                  onclick="loadpage('./hrefs/faq.html')">
                   FAQ
                 </a>
               </li>
               <p />
               <li class="mb-1">
                 <h5>Commands</h5>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/about.html')">about</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/bh.html')">bh</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/about.html')">about</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/bh.html')">bh</a>
                 <a href="#" class="nav-link text-light" draggable="false"
                   onclick=" loadpage('./hrefs/commands/brawlmance.html')">brawlmance</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/claim.html')">claim</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/clan.html')">clan</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/glory.html')">glory</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/help.html')">help</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/invite.html')">invite</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/news.html')">news</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/patch.html')">patch</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/ping.html')">ping</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/claim.html')">claim</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/clan.html')">clan</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/glory.html')">glory</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/help.html')">help</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/invite.html')">invite</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/news.html')">news</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/patch.html')">patch</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/ping.html')">ping</a>
                 <a href="#" class="nav-link text-light" draggable="false"
                   onclick=" loadpage('./hrefs/commands/pr.html')">power-rankings</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/queue.html')">queue</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/rank.html')">rank</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/r2.html')">r2</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/stats.html')">stats</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/queue.html')">queue</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/rank.html')">rank</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/r2.html')">r2</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/stats.html')">stats</a>
                 <a href="#" class="nav-link text-light" draggable="false"
                   onclick=" loadpage('./hrefs/commands/tournament.html')">tournament</a>
-                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/twitch.html')">twitch</a>
+                <a href="#" class="nav-link text-light" draggable="false"
+                  onclick=" loadpage('./hrefs/commands/twitch.html')">twitch</a>
               </li>
             </ul>
           </div>
         </nav>
       </aside>
       <div class="col-md-8 bg-faded py-3 p-3" id="page_loader">
+        
       </div>
+      <title>Raybot</title>
     </div>
   </div>
 </body>
