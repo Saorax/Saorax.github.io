@@ -28,10 +28,16 @@
     padding: 0.125rem 0 0.25rem;
 }
 
-.lookFilled-1GseHa.select-1Ia3hD {
+.lookFilled-1GseHa {
     background-color: #2f3136;
     border-color: #202225;
 }
+
+.look-light {
+    background-color: #f2f3f5;
+    border-color: #e3e5e8;
+}
+
 .select-1tJVq6 {
     width: 100%;
     margin-right: 16px;

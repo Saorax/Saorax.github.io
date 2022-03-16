@@ -10,11 +10,14 @@
 </head>
 <script>
   function loadpage(page) {
-    $(document).ready(function () {
-      $('#page_loader').load(page);
+    $.ajax({
+      url: page,
+      success: function (data) {
+        $('#page_loader').html(data);
+        darkS2();
+      }
     });
-    
-  }
+  };
 
   function getCookie(cname) {
     let name = cname + "=";
@@ -31,6 +34,19 @@
     }
     return "";
   }
+  function darkS2() {
+    if (getCookie("theme") === "light") {
+      for (var i = 0; i < document.getElementsByTagName('div').length; i++) {
+        document.getElementsByTagName('div')[i].classList.replace('lookFilled-1GseHa', 'look-light');
+        document.getElementsByTagName('div')[i].classList.replace('theme-dark', 'false')
+      };
+    } else {
+      for (var i = 0; i < document.getElementsByTagName('div').length; i++) {
+        document.getElementsByTagName('div')[i].classList.replace('look-light', 'lookFilled-1GseHa');
+        document.getElementsByTagName('div')[i].classList.replace('false', 'theme-dark')
+      };
+    }
+  };
 
   function darkSwitch() {
     if (getCookie("theme") === "dark") {
@@ -52,7 +68,8 @@
         document.getElementsByTagName('nav')[i].classList.replace('navbar-dark', 'navbar-light');
       };
       for (var i = 0; i < document.getElementsByTagName('div').length; i++) {
-        document.getElementsByTagName('div')[i].classList.replace('theme-dark', 'false')
+        document.getElementsByTagName('div')[i].classList.replace('theme-dark', 'false');
+        document.getElementsByTagName('div')[i].classList.replace('lookFilled-1GseHa', 'look-light');
       };
 
     } else {
@@ -75,13 +92,14 @@
         document.getElementsByTagName('nav')[i].classList.replace('navbar-light', 'navbar-dark');
       };
       for (var i = 0; i < document.getElementsByTagName('div').length; i++) {
-        document.getElementsByTagName('div')[i].classList.replace('false', 'theme-dark')
+        document.getElementsByTagName('div')[i].classList.replace('false', 'theme-dark');
+        document.getElementsByTagName('div')[i].classList.replace('look-light', 'lookFilled-1GseHa');
       };
     }
   }
 </script>
 
-<body onload="loadpage('./hrefs/commands/r2.html')">
+<body onload="loadpage('./hrefs/welcome.html')">
   <nav class="container flex-column flex-md-row justify-content-between navbar navbar-expand-sm bg-dark navbar-dark"
     style="border-radius: 0 0 15px 15px ">
     <div class="container-fluid">
@@ -130,40 +148,40 @@
             <span class="navbar-toggler-icon"></span>
             </a>
           </button>
-          <div class="collapse navbar-collapse sidebar">
+          <div class="collapse navbar-collapse sidebar" style="user-select: none;">
             <ul class="nav nav-pills flex-column mb-auto navbar-nav w-100 justify-content-between">
               <li class="nav-item">
-                <a href="#" class="nav-link text-light" aria-current="page" onclick="loadpage('./hrefs/welcome.html')">
+                <a href="#" class="nav-link text-light" draggable="false"aria-current="page" onclick="loadpage('./hrefs/welcome.html')">
                   Welcome
                 </a>
-                <a href="#" class="nav-link text-light" aria-current="page" onclick="loadpage('./hrefs/faq.html')">
+                <a href="#" class="nav-link text-light" draggable="false"aria-current="page" onclick="loadpage('./hrefs/faq.html')">
                   FAQ
                 </a>
               </li>
               <p />
               <li class="mb-1">
                 <h5>Commands</h5>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/about.html')">about</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/bh.html')">bh</a>
-                <a href="#" class="nav-link text-light"
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/about.html')">about</a>
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/bh.html')">bh</a>
+                <a href="#" class="nav-link text-light" draggable="false"
                   onclick=" loadpage('./hrefs/commands/brawlmance.html')">brawlmance</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/claim.html')">claim</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/clan.html')">clan</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/glory.html')">glory</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/help.html')">help</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/invite.html')">invite</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/news.html')">news</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/patch.html')">patch</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/ping.html')">ping</a>
-                <a href="#" class="nav-link text-light"
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/claim.html')">claim</a>
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/clan.html')">clan</a>
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/glory.html')">glory</a>
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/help.html')">help</a>
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/invite.html')">invite</a>
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/news.html')">news</a>
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/patch.html')">patch</a>
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/ping.html')">ping</a>
+                <a href="#" class="nav-link text-light" draggable="false"
                   onclick=" loadpage('./hrefs/commands/pr.html')">power-rankings</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/queue.html')">queue</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/rank.html')">rank</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/r2.html')">r2</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/stats.html')">stats</a>
-                <a href="#" class="nav-link text-light"
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/queue.html')">queue</a>
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/rank.html')">rank</a>
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/r2.html')">r2</a>
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/stats.html')">stats</a>
+                <a href="#" class="nav-link text-light" draggable="false"
                   onclick=" loadpage('./hrefs/commands/tournament.html')">tournament</a>
-                <a href="#" class="nav-link text-light" onclick=" loadpage('./hrefs/commands/twitch.html')">twitch</a>
+                <a href="#" class="nav-link text-light" draggable="false"onclick=" loadpage('./hrefs/commands/twitch.html')">twitch</a>
               </li>
             </ul>
           </div>
