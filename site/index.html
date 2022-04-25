@@ -1,0 +1,157 @@
+<head>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
+  </script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<script>
+  function loadpage(page) {
+    $.ajax({
+      url: page,
+      success: function (data) {
+        $('#page_loader').html(data);
+        darkS2();
+      }
+    });
+  };
+
+  function getCookie(cname) {
+    let name = cname + "=";
+    let decodedCookie = decodeURIComponent(document.cookie);
+    let ca = decodedCookie.split(';');
+    for (let i = 0; i < ca.length; i++) {
+      let c = ca[i];
+      while (c.charAt(0) == ' ') {
+        c = c.substring(1);
+      }
+      if (c.indexOf(name) == 0) {
+        return c.substring(name.length, c.length);
+      }
+    }
+    return "";
+  }
+
+  function darkS2() {
+    if (getCookie("theme") === "light") {
+      for (var i = 0; i < document.getElementsByTagName('div').length; i++) {
+        document.getElementsByTagName('div')[i].classList.replace('lookFilled-1GseHa', 'look-light');
+        document.getElementsByTagName('div')[i].classList.replace('theme-dark', 'false')
+      };
+    } else {
+      for (var i = 0; i < document.getElementsByTagName('div').length; i++) {
+        document.getElementsByTagName('div')[i].classList.replace('look-light', 'lookFilled-1GseHa');
+        document.getElementsByTagName('div')[i].classList.replace('false', 'theme-dark')
+      };
+    }
+  };
+
+  function darkSwitch() {
+    if (getCookie("theme") === "dark") {
+      document.body.removeAttribute("data-theme")
+      document.cookie = "theme=light";
+      document.getElementById("themes").setAttribute("d",
+        "M20.354 15.354A9 9 0 0 1 8.646 3.646A9.003 9.003 0 0 0 12 21a9.003 9.003 0 0 0 8.354-5.646z");
+      document.getElementsByTagName('path')[0].setAttribute("stroke", "#333");
+      //document.getElementById("navMenu").classList.replace('bg-dark', 'bg-light');
+
+      for (var i = 0; i < document.getElementsByTagName('a').length; i++) {
+        document.getElementsByTagName('a')[i].classList.replace('text-light', 'text-dark')
+      };
+      for (var i = 0; i < document.getElementsByTagName('aside').length; i++) {
+        document.getElementsByTagName('aside')[i].classList.replace('bg-dark', 'bg-light')
+      };
+      for (var i = 0; i < document.getElementsByTagName('nav').length; i++) {
+        document.getElementsByTagName('nav')[i].classList.replace('bg-dark', 'bg-light');
+        document.getElementsByTagName('nav')[i].classList.replace('navbar-dark', 'navbar-light');
+      };
+      for (var i = 0; i < document.getElementsByTagName('div').length; i++) {
+        document.getElementsByTagName('div')[i].classList.replace('theme-dark', 'false');
+        document.getElementsByTagName('div')[i].classList.replace('lookFilled-1GseHa', 'look-light');
+      };
+
+    } else {
+      document.body.setAttribute("data-theme", "dark");
+      document.cookie = "theme=dark";
+      document.getElementById("themes").setAttribute("d",
+        "M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 1 1-8 0a4 4 0 0 1 8 0z"
+      );
+      document.getElementsByTagName('path')[0].setAttribute("stroke", "white");
+      //document.getElementById("navMenu").classList.replace('bg-light', 'bg-dark');
+
+      for (var i = 0; i < document.getElementsByTagName('a').length; i++) {
+        document.getElementsByTagName('a')[i].classList.replace('text-dark', 'text-light')
+      };
+      for (var i = 0; i < document.getElementsByTagName('aside').length; i++) {
+        document.getElementsByTagName('aside')[i].classList.replace('bg-light', 'bg-dark')
+      };
+      for (var i = 0; i < document.getElementsByTagName('nav').length; i++) {
+        document.getElementsByTagName('nav')[i].classList.replace('bg-light', 'bg-dark');
+        document.getElementsByTagName('nav')[i].classList.replace('navbar-light', 'navbar-dark');
+      };
+      for (var i = 0; i < document.getElementsByTagName('div').length; i++) {
+        document.getElementsByTagName('div')[i].classList.replace('false', 'theme-dark');
+        document.getElementsByTagName('div')[i].classList.replace('look-light', 'lookFilled-1GseHa');
+      };
+    }
+  }
+</script>
+
+<body>
+  <nav class="container flex-column flex-md-row justify-content-between navbar navbar-expand-sm bg-dark navbar-dark"
+    style="border-radius: 0 0 15px 15px ">
+    <div class="container-fluid">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar1"
+        aria-controls="navbar1" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <a href="./" class="d-flex mb-2 mb-md-0 text-dark text-decoration-none">
+        <svg class="bi me-2" width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+          <image href="35.png" width="40" height="40" />
+        </svg>
+      </a>
+      <div class="collapse navbar-collapse" id="navbar1">
+        <ul class="navbar-nav me-auto mb-2 mb-sm-0">
+          <li class="nav-item">
+            <a class="nav-link" href="./raybot">Raybot</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="javascript:void(0)">Power Rankings</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled">Other Stuff</a>
+          </li>
+        </ul>
+      </div>
+      <button class="p-2 themeColor" onclick="darkSwitch()"><svg width="1.25em" height="1.2em" viewBox="0 0 24 24"
+          class="fill-current text-gray-200 hover:text-white h-6 w-6" aria-hidden="true">
+          <g fill="none">
+            <path id="themes"
+              d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 1 1-8 0a4 4 0 0 1 8 0z"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+          </g>
+        </svg></button>
+
+    </div>
+  </nav>
+  <p />
+
+
+  <div class="container">
+    i literally dont know what to put here please use the navigation menu nothing will ever be added here
+  </div>
+
+</body>
+<script>
+   if (document.cookie.indexOf('theme=light') == -1) {
+    document.cookie = "theme=dark";
+    darkSwitch();
+    darkSwitch();
+  } else {
+    darkSwitch();
+    darkSwitch();
+  };
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"></script>
