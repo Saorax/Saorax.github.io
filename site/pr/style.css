@@ -221,6 +221,10 @@ svg {
 .ps-6 {
     padding-left: 5.8rem!important;
 }
+
+.dropdown-menuC {
+    background-color: currentColor;
+}
 .EntrantScore__icon {
     display: flex;
     flex-direction: row;
