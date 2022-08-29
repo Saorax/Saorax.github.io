@@ -420,7 +420,7 @@ function editList(type) {
         });
     };
     for (var i = 0; i < entrants.length; i++) {
-        for (var b = 0; b < (document.getElementById("addAll").checked === false ? 1000 : entrants[i].length); b++) {
+        for (var b = 0; b < (document.getElementById("addAll").checked === false && entrants[i].length > 1000 ? 1000 : entrants[i].length); b++) {
             full[i] += `
             <tr>
                 <th scope="row">${b+1}</th>
@@ -519,5 +519,13 @@ function changePreset(type) {
     var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
     tooltipTriggerList.forEach(function (tooltipTriggerEl) {
         new bootstrap.Tooltip(tooltipTriggerEl)
+    });
+    var clusterize = new Clusterize({
+        scrollId: 'scrollArea',
+        contentId: 'myPr'
+    });
+    var clusterize1 = new Clusterize({
+        scrollId: 'scrollArea1',
+        contentId: 'officialPr'
     });
 })()
