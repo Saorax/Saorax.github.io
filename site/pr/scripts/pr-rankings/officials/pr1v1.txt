@@ -1,0 +1,7505 @@
+[{
+    "name": "Sandstorm",
+    "rank": "1",
+    "region": "US-E",
+    "cash": "$163,789.50",
+    "top8": "30",
+    "top32": "34",
+    "medals": ["18", "4", "2"]
+}, {
+    "name": "Boomie",
+    "rank": "2",
+    "region": "US-E",
+    "cash": "$136,591.00",
+    "top8": "46",
+    "top32": "54",
+    "medals": ["9", "7", "10"]
+}, {
+    "name": "Santy",
+    "rank": "3",
+    "region": "US-E",
+    "cash": "$16,180.00",
+    "top8": "10",
+    "top32": "26",
+    "medals": ["0", "1", "0"]
+}, {
+    "name": "STING RAY",
+    "rank": "4",
+    "region": "US-E",
+    "cash": "$6,300.00",
+    "top8": "7",
+    "top32": "16",
+    "medals": ["0", "2", "2"]
+}, {
+    "name": "wrenchd",
+    "rank": "5",
+    "region": "US-E",
+    "cash": "$49,391.25",
+    "top8": "26",
+    "top32": "49",
+    "medals": ["5", "5", "3"]
+}, {
+    "name": "Cody Travis",
+    "rank": "6",
+    "region": "US-E",
+    "cash": "$39,584.17",
+    "top8": "17",
+    "top32": "27",
+    "medals": ["3", "3", "1"]
+}, {
+    "name": "Phazon",
+    "rank": "7",
+    "region": "US-E",
+    "cash": "$41,744.17",
+    "top8": "20",
+    "top32": "42",
+    "medals": ["0", "1", "5"]
+}, {
+    "name": "pier",
+    "rank": "8",
+    "region": "US-E",
+    "cash": "$4,360.00",
+    "top8": "2",
+    "top32": "17",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Cosolix",
+    "rank": "9",
+    "region": "US-E",
+    "cash": "$25,047.20",
+    "top8": "23",
+    "top32": "39",
+    "medals": ["1", "3", "5"]
+}, {
+    "name": "java",
+    "rank": "10",
+    "region": "US-E",
+    "cash": "$3,630.00",
+    "top8": "1",
+    "top32": "7",
+    "medals": ["0", "1", "0"]
+}, {
+    "name": "Snowy",
+    "rank": "11",
+    "region": "US-E",
+    "cash": "$5,420.00",
+    "top8": "3",
+    "top32": "10",
+    "medals": ["0", "0", "1"]
+}, {
+    "name": "hardymj",
+    "rank": "12",
+    "region": "US-E",
+    "cash": "$3,270.00",
+    "top8": "2",
+    "top32": "10",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ethan",
+    "rank": "13",
+    "region": "US-E",
+    "cash": "$19,877.50",
+    "top8": "13",
+    "top32": "31",
+    "medals": ["0", "3", "2"]
+}, {
+    "name": "megD",
+    "rank": "14",
+    "region": "US-E",
+    "cash": "$1,900.00",
+    "top8": "1",
+    "top32": "6",
+    "medals": ["0", "0", "1"]
+}, {
+    "name": "Lil Capped",
+    "rank": "15",
+    "region": "US-E",
+    "cash": "$25,817.50",
+    "top8": "15",
+    "top32": "45",
+    "medals": ["1", "0", "0"]
+}, {
+    "name": "ImLlama",
+    "rank": "16",
+    "region": "US-E",
+    "cash": "$905.00",
+    "top8": "0",
+    "top32": "7",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "wubz",
+    "rank": "17",
+    "region": "US-E",
+    "cash": "$995.00",
+    "top8": "0",
+    "top32": "9",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Pugsyxd",
+    "rank": "18",
+    "region": "US-E",
+    "cash": "$20,751.51",
+    "top8": "8",
+    "top32": "28",
+    "medals": ["1", "1", "0"]
+}, {
+    "name": "noeL",
+    "rank": "19",
+    "region": "US-E",
+    "cash": "$46,962.47",
+    "top8": "36",
+    "top32": "54",
+    "medals": ["5", "8", "5"]
+}, {
+    "name": "Remmy",
+    "rank": "20",
+    "region": "US-E",
+    "cash": "$50,297.50",
+    "top8": "20",
+    "top32": "44",
+    "medals": ["6", "3", "1"]
+}, {
+    "name": "Van Thurl",
+    "rank": "21",
+    "region": "US-E",
+    "cash": "$780.00",
+    "top8": "0",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Isidroo",
+    "rank": "22",
+    "region": "US-E",
+    "cash": "$20,049.17",
+    "top8": "16",
+    "top32": "42",
+    "medals": ["0", "2", "3"]
+}, {
+    "name": "Crockie",
+    "rank": "23",
+    "region": "US-E",
+    "cash": "$3,642.84",
+    "top8": "4",
+    "top32": "32",
+    "medals": ["0", "1", "0"]
+}, {
+    "name": "Synco",
+    "rank": "24",
+    "region": "US-E",
+    "cash": "$460.00",
+    "top8": "0",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Blaizzy",
+    "rank": "25",
+    "region": "US-E",
+    "cash": "$1,400.00",
+    "top8": "1",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Zacoi",
+    "rank": "26",
+    "region": "US-E",
+    "cash": "$2,357.50",
+    "top8": "0",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "T1FF4NY",
+    "rank": "27",
+    "region": "US-E",
+    "cash": "$9,165.00",
+    "top8": "4",
+    "top32": "32",
+    "medals": ["1", "1", "0"]
+}, {
+    "name": "Zexis",
+    "rank": "28",
+    "region": "US-E",
+    "cash": "$705.00",
+    "top8": "0",
+    "top32": "13",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ithrowow",
+    "rank": "29",
+    "region": "US-E",
+    "cash": "$17,543.57",
+    "top8": "10",
+    "top32": "44",
+    "medals": ["1", "2", "0"]
+}, {
+    "name": "zelchy",
+    "rank": "30",
+    "region": "US-E",
+    "cash": "$60.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "STTP Wilson",
+    "rank": "31",
+    "region": "US-E",
+    "cash": "$15,020.17",
+    "top8": "16",
+    "top32": "38",
+    "medals": ["3", "1", "2"]
+}, {
+    "name": "Simba",
+    "rank": "32",
+    "region": "US-E",
+    "cash": "$14,862.50",
+    "top8": "6",
+    "top32": "25",
+    "medals": ["0", "1", "0"]
+}, {
+    "name": "hazN",
+    "rank": "33",
+    "region": "US-E",
+    "cash": "$510.00",
+    "top8": "1",
+    "top32": "10",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "darkgoul",
+    "rank": "34",
+    "region": "US-E",
+    "cash": "$160.00",
+    "top8": "0",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Stimpy",
+    "rank": "35",
+    "region": "US-E",
+    "cash": "$1,813.01",
+    "top8": "3",
+    "top32": "16",
+    "medals": ["1", "0", "0"]
+}, {
+    "name": "jet bean",
+    "rank": "36",
+    "region": "US-E",
+    "cash": "$200.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Zinquer",
+    "rank": "37",
+    "region": "US-E",
+    "cash": "$260.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Raydish",
+    "rank": "38",
+    "region": "US-E",
+    "cash": "$125.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Jay",
+    "rank": "39",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Taffyyyy",
+    "rank": "40",
+    "region": "US-E",
+    "cash": "$125.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kevstah",
+    "rank": "41",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "yaamidash",
+    "rank": "42",
+    "region": "US-E",
+    "cash": "$40.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Walshy",
+    "rank": "43",
+    "region": "US-E",
+    "cash": "$200.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "DoubleDime",
+    "rank": "44",
+    "region": "US-E",
+    "cash": "$2,725.00",
+    "top8": "1",
+    "top32": "27",
+    "medals": ["0", "0", "1"]
+}, {
+    "name": "Kyzer",
+    "rank": "45",
+    "region": "US-E",
+    "cash": "$310.00",
+    "top8": "0",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Jayd",
+    "rank": "46",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "meow_xdd",
+    "rank": "47",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "luna",
+    "rank": "48",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Impala",
+    "rank": "49",
+    "region": "US-E",
+    "cash": "$380.00",
+    "top8": "1",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "daze",
+    "rank": "50",
+    "region": "US-E",
+    "cash": "$1,050.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Glue",
+    "rank": "51",
+    "region": "US-E",
+    "cash": "$240.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Stevenator",
+    "rank": "52",
+    "region": "US-E",
+    "cash": "$8,790.51",
+    "top8": "16",
+    "top32": "32",
+    "medals": ["0", "1", "3"]
+}, {
+    "name": "as4p",
+    "rank": "53",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Wind",
+    "rank": "54",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Crag",
+    "rank": "55",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Prplexity",
+    "rank": "56",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Maid",
+    "rank": "57",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Khui",
+    "rank": "58",
+    "region": "US-E",
+    "cash": "$2,070.60",
+    "top8": "2",
+    "top32": "17",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "FeebleStar",
+    "rank": "59",
+    "region": "US-E",
+    "cash": "$100.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Lemurge",
+    "rank": "60",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Experience",
+    "rank": "61",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "BalloonBoy",
+    "rank": "62",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Blueguys",
+    "rank": "63",
+    "region": "US-E",
+    "cash": "$715.00",
+    "top8": "0",
+    "top32": "11",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Divici",
+    "rank": "64",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Bbounty",
+    "rank": "65",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sand_Wic",
+    "rank": "66",
+    "region": "US-E",
+    "cash": "$140.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "DrSpyder123",
+    "rank": "67",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Alpine",
+    "rank": "68",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "dawg",
+    "rank": "69",
+    "region": "US-E",
+    "cash": "$300.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Volst",
+    "rank": "70",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "nebula",
+    "rank": "71",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Gbone",
+    "rank": "72",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ttv-bbqdrip",
+    "rank": "73",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "RyXin",
+    "rank": "74",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "RedNovaDragon123",
+    "rank": "75",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "animefan1266",
+    "rank": "76",
+    "region": "US-E",
+    "cash": "$300.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Taskin",
+    "rank": "77",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Elroxx",
+    "rank": "78",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ADAM",
+    "rank": "79",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Spooky",
+    "rank": "80",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SnipedSox",
+    "rank": "81",
+    "region": "US-E",
+    "cash": "$300.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Tamezesk",
+    "rank": "82",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ghost",
+    "rank": "83",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Clem",
+    "rank": "84",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "cutie",
+    "rank": "85",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Storms",
+    "rank": "86",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kagg",
+    "rank": "87",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Mitchel",
+    "rank": "88",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Zxora",
+    "rank": "89",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Wok<3",
+    "rank": "90",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "D3adShots11",
+    "rank": "91",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Limbo",
+    "rank": "92",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Citrus",
+    "rank": "93",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "chuyqwerty",
+    "rank": "94",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Fifty",
+    "rank": "95",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Blue",
+    "rank": "96",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Dreadtrapreaper",
+    "rank": "97",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "compute",
+    "rank": "98",
+    "region": "US-E",
+    "cash": "$26.25",
+    "top8": "2",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Avictd_",
+    "rank": "99",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Jolly",
+    "rank": "100",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Qactu",
+    "rank": "101",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "High",
+    "rank": "102",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Starlight",
+    "rank": "103",
+    "region": "US-E",
+    "cash": "$19,114.93",
+    "top8": "9",
+    "top32": "25",
+    "medals": ["1", "1", "0"]
+}, {
+    "name": "xRanger",
+    "rank": "104",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "xor4",
+    "rank": "105",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Arthur",
+    "rank": "106",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Silverslayer56",
+    "rank": "107",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Vocal",
+    "rank": "108",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Taro",
+    "rank": "109",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Necro",
+    "rank": "110",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ultra",
+    "rank": "111",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ryo",
+    "rank": "112",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Speedy",
+    "rank": "113",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kabulkin",
+    "rank": "114",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Spoon",
+    "rank": "115",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "woolala0",
+    "rank": "116",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Dangles",
+    "rank": "117",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Azura_Astra",
+    "rank": "118",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Double Baconator",
+    "rank": "119",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "hoziie12",
+    "rank": "120",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Atmore30",
+    "rank": "121",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Echo",
+    "rank": "122",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Snowikin",
+    "rank": "123",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Velo_citY | Brian",
+    "rank": "124",
+    "region": "US-E",
+    "cash": "$660.00",
+    "top8": "0",
+    "top32": "12",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Fakey",
+    "rank": "125",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "wS Worthy",
+    "rank": "126",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Winged_Shell",
+    "rank": "127",
+    "region": "US-E",
+    "cash": "$760.00",
+    "top8": "0",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Atrophius",
+    "rank": "128",
+    "region": "US-E",
+    "cash": "$1,915.00",
+    "top8": "3",
+    "top32": "25",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "AySurge",
+    "rank": "129",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Electrifying",
+    "rank": "130",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Magma",
+    "rank": "131",
+    "region": "US-E",
+    "cash": "$871.51",
+    "top8": "0",
+    "top32": "7",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "I C Y",
+    "rank": "132",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "24M",
+    "rank": "133",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Shwerpy",
+    "rank": "134",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Crayoolas?",
+    "rank": "135",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Greedy",
+    "rank": "136",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "intel",
+    "rank": "137",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Shalom",
+    "rank": "138",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Pawapow",
+    "rank": "139",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Anti Jedi",
+    "rank": "140",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "TheReviled",
+    "rank": "141",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "TheGreatUddini",
+    "rank": "142",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Andoruko",
+    "rank": "143",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "sweek",
+    "rank": "144",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "KingLuffybh",
+    "rank": "145",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Parallel",
+    "rank": "146",
+    "region": "US-E",
+    "cash": "$885.00",
+    "top8": "0",
+    "top32": "10",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Cloud",
+    "rank": "147",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Matt",
+    "rank": "148",
+    "region": "US-E",
+    "cash": "$80.00",
+    "top8": "0",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "MELK",
+    "rank": "149",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "BEEZUS!",
+    "rank": "150",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "B3TA",
+    "rank": "151",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Fettuccine El Khanh",
+    "rank": "152",
+    "region": "US-E",
+    "cash": "$30.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "DiamondGravity",
+    "rank": "153",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Col2k",
+    "rank": "154",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "cobweb",
+    "rank": "155",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "paris",
+    "rank": "156",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Cipher",
+    "rank": "157",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Shadow0q12",
+    "rank": "158",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Darwen btw",
+    "rank": "159",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Georgegd18",
+    "rank": "160",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Super Ukodo",
+    "rank": "161",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "DaddyHiZo",
+    "rank": "162",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Contrast",
+    "rank": "163",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "exo",
+    "rank": "164",
+    "region": "US-E",
+    "cash": "$300.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "BettyMyAtomicDog",
+    "rank": "165",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Bonk Boy",
+    "rank": "166",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "iLLu",
+    "rank": "167",
+    "region": "US-E",
+    "cash": "$480.00",
+    "top8": "0",
+    "top32": "10",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "BurritoSoKawaii",
+    "rank": "168",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Blood Diamond",
+    "rank": "169",
+    "region": "US-E",
+    "cash": "$10,153.30",
+    "top8": "6",
+    "top32": "36",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Cell",
+    "rank": "170",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "mooonfang",
+    "rank": "171",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Demonic",
+    "rank": "172",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "danstokes100",
+    "rank": "173",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Genjudo",
+    "rank": "174",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "L13RR",
+    "rank": "175",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Snaily",
+    "rank": "176",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "KidCloud",
+    "rank": "177",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "cozi",
+    "rank": "178",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "nikyle",
+    "rank": "179",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "insanik",
+    "rank": "180",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Stqnky",
+    "rank": "181",
+    "region": "US-E",
+    "cash": "$60.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "pecopecopecopecorine",
+    "rank": "182",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Nox",
+    "rank": "183",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "F1SHqc",
+    "rank": "184",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Mr Banana",
+    "rank": "185",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "BANGKz",
+    "rank": "186",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SillyGobi",
+    "rank": "187",
+    "region": "US-E",
+    "cash": "$2,999.30",
+    "top8": "2",
+    "top32": "12",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Fred Fredburger",
+    "rank": "188",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "UNSTOPABLExGOD",
+    "rank": "189",
+    "region": "US-E",
+    "cash": "$200.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sub-Lemon",
+    "rank": "190",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Darwin",
+    "rank": "191",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ai_Hayasaka-",
+    "rank": "192",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Five-point-ohh_",
+    "rank": "193",
+    "region": "US-E",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "acno?",
+    "rank": "1",
+    "region": "EU",
+    "cash": "$58,414.00",
+    "top8": "15",
+    "top32": "18",
+    "medals": ["9", "4", "1"]
+}, {
+    "name": "Pavelski",
+    "rank": "2",
+    "region": "EU",
+    "cash": "$34,419.00",
+    "top8": "11",
+    "top32": "21",
+    "medals": ["3", "1", "2"]
+}, {
+    "name": "simpLe",
+    "rank": "3",
+    "region": "EU",
+    "cash": "$47,780.00",
+    "top8": "21",
+    "top32": "27",
+    "medals": ["1", "7", "5"]
+}, {
+    "name": "hysen",
+    "rank": "4",
+    "region": "EU",
+    "cash": "$22,609.17",
+    "top8": "14",
+    "top32": "27",
+    "medals": ["1", "3", "1"]
+}, {
+    "name": "720polyshot",
+    "rank": "5",
+    "region": "EU",
+    "cash": "$4,484.00",
+    "top8": "5",
+    "top32": "15",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Macheeeete",
+    "rank": "6",
+    "region": "EU",
+    "cash": "$16,220.00",
+    "top8": "14",
+    "top32": "30",
+    "medals": ["3", "1", "3"]
+}, {
+    "name": "Blaze",
+    "rank": "7",
+    "region": "EU",
+    "cash": "$30,304.50",
+    "top8": "13",
+    "top32": "25",
+    "medals": ["0", "0", "3"]
+}, {
+    "name": "Blew",
+    "rank": "8",
+    "region": "EU",
+    "cash": "$37,430.00",
+    "top8": "22",
+    "top32": "34",
+    "medals": ["5", "3", "6"]
+}, {
+    "name": "TheNinja729",
+    "rank": "9",
+    "region": "EU",
+    "cash": "$12,979.50",
+    "top8": "10",
+    "top32": "26",
+    "medals": ["0", "2", "2"]
+}, {
+    "name": "VipR3",
+    "rank": "10",
+    "region": "EU",
+    "cash": "$29,347.50",
+    "top8": "17",
+    "top32": "38",
+    "medals": ["2", "1", "3"]
+}, {
+    "name": "wave god",
+    "rank": "11",
+    "region": "EU",
+    "cash": "$1,450.00",
+    "top8": "1",
+    "top32": "14",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Neeze",
+    "rank": "12",
+    "region": "EU",
+    "cash": "$8,448.67",
+    "top8": "9",
+    "top32": "24",
+    "medals": ["1", "1", "0"]
+}, {
+    "name": "KiXe",
+    "rank": "13",
+    "region": "EU",
+    "cash": "$1,850.00",
+    "top8": "2",
+    "top32": "13",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "FryDasOle",
+    "rank": "14",
+    "region": "EU",
+    "cash": "$900.00",
+    "top8": "2",
+    "top32": "11",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "hermisen",
+    "rank": "15",
+    "region": "EU",
+    "cash": "$10,182.50",
+    "top8": "9",
+    "top32": "42",
+    "medals": ["0", "0", "1"]
+}, {
+    "name": "Flamethrower",
+    "rank": "16",
+    "region": "EU",
+    "cash": "$1,870.00",
+    "top8": "5",
+    "top32": "19",
+    "medals": ["0", "0", "1"]
+}, {
+    "name": "Swata",
+    "rank": "17",
+    "region": "EU",
+    "cash": "$3,830.00",
+    "top8": "6",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Cedero",
+    "rank": "18",
+    "region": "EU",
+    "cash": "$4,735.00",
+    "top8": "6",
+    "top32": "31",
+    "medals": ["0", "1", "1"]
+}, {
+    "name": "M for Mini",
+    "rank": "19",
+    "region": "EU",
+    "cash": "$11,318.17",
+    "top8": "10",
+    "top32": "34",
+    "medals": ["2", "3", "0"]
+}, {
+    "name": "Fozey",
+    "rank": "20",
+    "region": "EU",
+    "cash": "$7,143.40",
+    "top8": "2",
+    "top32": "26",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "zyder",
+    "rank": "21",
+    "region": "EU",
+    "cash": "$4,570.00",
+    "top8": "5",
+    "top32": "16",
+    "medals": ["0", "0", "1"]
+}, {
+    "name": "Solarson",
+    "rank": "22",
+    "region": "EU",
+    "cash": "$450.00",
+    "top8": "0",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Zero",
+    "rank": "23",
+    "region": "EU",
+    "cash": "$5,054.00",
+    "top8": "3",
+    "top32": "22",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Diakou",
+    "rank": "24",
+    "region": "EU",
+    "cash": "$23,972.15",
+    "top8": "9",
+    "top32": "40",
+    "medals": ["0", "1", "3"]
+}, {
+    "name": "Addymestic",
+    "rank": "25",
+    "region": "EU",
+    "cash": "$44,267.15",
+    "top8": "22",
+    "top32": "48",
+    "medals": ["3", "3", "3"]
+}, {
+    "name": "Introvert Taher",
+    "rank": "26",
+    "region": "EU",
+    "cash": "$1,430.00",
+    "top8": "0",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "tobi",
+    "rank": "27",
+    "region": "EU",
+    "cash": "$415.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Snowb4ll",
+    "rank": "28",
+    "region": "EU",
+    "cash": "$320.00",
+    "top8": "0",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "QS.",
+    "rank": "29",
+    "region": "EU",
+    "cash": "$6,259.00",
+    "top8": "6",
+    "top32": "24",
+    "medals": ["1", "0", "1"]
+}, {
+    "name": "Spyder",
+    "rank": "30",
+    "region": "EU",
+    "cash": "$540.00",
+    "top8": "1",
+    "top32": "19",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Lil'Fox",
+    "rank": "31",
+    "region": "EU",
+    "cash": "$221.60",
+    "top8": "0",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "MagiMind",
+    "rank": "32",
+    "region": "EU",
+    "cash": "$165.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Vocal",
+    "rank": "33",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "7",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "PreciesMaurice",
+    "rank": "34",
+    "region": "EU",
+    "cash": "$570.00",
+    "top8": "1",
+    "top32": "14",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Tinix",
+    "rank": "35",
+    "region": "EU",
+    "cash": "$930.00",
+    "top8": "1",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ext",
+    "rank": "36",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Spectre",
+    "rank": "37",
+    "region": "EU",
+    "cash": "$250.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Glassy",
+    "rank": "38",
+    "region": "EU",
+    "cash": "$420.00",
+    "top8": "0",
+    "top32": "9",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Eric",
+    "rank": "39",
+    "region": "EU",
+    "cash": "$1,870.00",
+    "top8": "1",
+    "top32": "11",
+    "medals": ["0", "1", "0"]
+}, {
+    "name": "Kelpy G",
+    "rank": "40",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "DURI4N",
+    "rank": "41",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ishett",
+    "rank": "42",
+    "region": "EU",
+    "cash": "$567.50",
+    "top8": "1",
+    "top32": "15",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "BleronOP",
+    "rank": "43",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "aikawa",
+    "rank": "44",
+    "region": "EU",
+    "cash": "$80.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "MG",
+    "rank": "45",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Urbador",
+    "rank": "46",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "DNR",
+    "rank": "47",
+    "region": "EU",
+    "cash": "$350.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sarme",
+    "rank": "48",
+    "region": "EU",
+    "cash": "$300.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "helt i hodet",
+    "rank": "49",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Goosey",
+    "rank": "50",
+    "region": "EU",
+    "cash": "$4,844.17",
+    "top8": "2",
+    "top32": "21",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Cowfish",
+    "rank": "51",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "OrsoGrasso",
+    "rank": "52",
+    "region": "EU",
+    "cash": "$200.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sgrape",
+    "rank": "53",
+    "region": "EU",
+    "cash": "$60.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Naffy",
+    "rank": "54",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Seijaru",
+    "rank": "55",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Zapapy",
+    "rank": "56",
+    "region": "EU",
+    "cash": "$3,400.00",
+    "top8": "0",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "FrostedKermit",
+    "rank": "57",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "TheYeGuy",
+    "rank": "58",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Aspect X",
+    "rank": "59",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "deffy",
+    "rank": "60",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sicuh",
+    "rank": "61",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Jur",
+    "rank": "62",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "civrei",
+    "rank": "63",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Nai",
+    "rank": "64",
+    "region": "EU",
+    "cash": "$470.00",
+    "top8": "1",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sosa",
+    "rank": "65",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "BOOMTABBi",
+    "rank": "66",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Iso_nbyo",
+    "rank": "67",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "vice versa-",
+    "rank": "68",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "nikolaS",
+    "rank": "69",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "KnX EnEmY",
+    "rank": "70",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SPOOX",
+    "rank": "71",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ScareCrow",
+    "rank": "72",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "xBrandz",
+    "rank": "73",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "CaSp",
+    "rank": "74",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Jokyy",
+    "rank": "75",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Linox",
+    "rank": "76",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Bob",
+    "rank": "77",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Hypnoticxzz",
+    "rank": "78",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "CrocodileCallum99",
+    "rank": "79",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "tias",
+    "rank": "80",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kresuu",
+    "rank": "81",
+    "region": "EU",
+    "cash": "$480.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Collo",
+    "rank": "82",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Piggie",
+    "rank": "83",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Wizx",
+    "rank": "84",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sebbe",
+    "rank": "85",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Rubito",
+    "rank": "86",
+    "region": "EU",
+    "cash": "$30.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "XXT",
+    "rank": "87",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Acidmaw",
+    "rank": "88",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Rakushain",
+    "rank": "89",
+    "region": "EU",
+    "cash": "$250.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Z3sty",
+    "rank": "90",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Isaac",
+    "rank": "91",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Seraph",
+    "rank": "92",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Spyrox",
+    "rank": "93",
+    "region": "EU",
+    "cash": "$370.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Supertijm",
+    "rank": "94",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ekrem",
+    "rank": "95",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Preya",
+    "rank": "96",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "The Floater",
+    "rank": "97",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "al2p",
+    "rank": "98",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sandali",
+    "rank": "99",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Yukino",
+    "rank": "100",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "BloodWork",
+    "rank": "101",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "windproof",
+    "rank": "102",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kenneth",
+    "rank": "103",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "moo",
+    "rank": "104",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Fezaru80",
+    "rank": "105",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "WsKy",
+    "rank": "106",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "TurtleShell",
+    "rank": "107",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Fissh",
+    "rank": "108",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Landfish",
+    "rank": "109",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "sabo yato",
+    "rank": "110",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "TMMM",
+    "rank": "111",
+    "region": "EU",
+    "cash": "$1,030.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Frost",
+    "rank": "112",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "xKuBix",
+    "rank": "113",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Mehr lean",
+    "rank": "114",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Breakour",
+    "rank": "115",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Zwergii",
+    "rank": "116",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Shadra - Baguette senpai",
+    "rank": "117",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "hazlegs",
+    "rank": "118",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Bartu",
+    "rank": "119",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Maypul <3",
+    "rank": "120",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SummerSide",
+    "rank": "121",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Noname",
+    "rank": "122",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ADA",
+    "rank": "123",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "shaw",
+    "rank": "124",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kank",
+    "rank": "125",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Restart | Subaa",
+    "rank": "126",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ExodiA",
+    "rank": "127",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Shiro ~~",
+    "rank": "128",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Nico",
+    "rank": "129",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Jacques",
+    "rank": "130",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "YaMan!!",
+    "rank": "131",
+    "region": "EU",
+    "cash": "$50.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Goody",
+    "rank": "132",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Asuna",
+    "rank": "133",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Satoko",
+    "rank": "134",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "NaPiii_",
+    "rank": "135",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Koos",
+    "rank": "136",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Mariostrek",
+    "rank": "137",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Aktyanav",
+    "rank": "138",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Endre",
+    "rank": "139",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "TheLeo",
+    "rank": "140",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SwaKouille",
+    "rank": "141",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Clovar",
+    "rank": "142",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "aster",
+    "rank": "143",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Spl3rx",
+    "rank": "144",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "NOTRI",
+    "rank": "145",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "MiniKMarty",
+    "rank": "146",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SummerSide",
+    "rank": "147",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "tyria",
+    "rank": "148",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Nemo",
+    "rank": "149",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "BurgerkingCandycrush",
+    "rank": "150",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Hazer_Delta",
+    "rank": "151",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ryô",
+    "rank": "152",
+    "region": "EU",
+    "cash": "$100.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ty",
+    "rank": "153",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Vixa_noskill",
+    "rank": "154",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "vlekje513",
+    "rank": "155",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "dex",
+    "rank": "156",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Memphis",
+    "rank": "157",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sabo",
+    "rank": "158",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "InoSwy",
+    "rank": "159",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "UnderFox.",
+    "rank": "160",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Tazamemaru",
+    "rank": "161",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Guinni",
+    "rank": "162",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "x2n",
+    "rank": "163",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Keital",
+    "rank": "164",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "TooN",
+    "rank": "165",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ephi",
+    "rank": "166",
+    "region": "EU",
+    "cash": "$4,535.30",
+    "top8": "5",
+    "top32": "10",
+    "medals": ["0", "0", "2"]
+}, {
+    "name": "abdul_snipezz",
+    "rank": "167",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Mert",
+    "rank": "168",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Beyaz53",
+    "rank": "169",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Azumi",
+    "rank": "170",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Cosmic",
+    "rank": "171",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Mursh",
+    "rank": "172",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Aerial",
+    "rank": "173",
+    "region": "EU",
+    "cash": "$7,301.50",
+    "top8": "4",
+    "top32": "18",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Meep",
+    "rank": "174",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Chrismaster",
+    "rank": "175",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "L!ON",
+    "rank": "176",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Stikieuh",
+    "rank": "177",
+    "region": "EU",
+    "cash": "$3,237.50",
+    "top8": "5",
+    "top32": "13",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Yahullahop",
+    "rank": "178",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Rackugou",
+    "rank": "179",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "RicoDeIPablo",
+    "rank": "180",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Casuu",
+    "rank": "181",
+    "region": "EU",
+    "cash": "$115.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "PAIKOr!?",
+    "rank": "182",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sooda",
+    "rank": "183",
+    "region": "EU",
+    "cash": "$300.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SANDWICH",
+    "rank": "184",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "qwq",
+    "rank": "185",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "OVM",
+    "rank": "186",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Stayn",
+    "rank": "187",
+    "region": "EU",
+    "cash": "$30.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Im Boosted",
+    "rank": "188",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Narwain11",
+    "rank": "189",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "KIMONO",
+    "rank": "190",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Alfie",
+    "rank": "191",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Aomine",
+    "rank": "192",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "noahDeath_R6",
+    "rank": "193",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Yann_X",
+    "rank": "194",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "HNZ",
+    "rank": "195",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "IceCream",
+    "rank": "196",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Susuru",
+    "rank": "197",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Exterous",
+    "rank": "198",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kyoko",
+    "rank": "199",
+    "region": "EU",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Tiger",
+    "rank": "1",
+    "region": "SEA",
+    "cash": "$26,865.00",
+    "top8": "22",
+    "top32": "25",
+    "medals": ["22", "0", "0"]
+}, {
+    "name": "DolaN",
+    "rank": "2",
+    "region": "SEA",
+    "cash": "$5,415.00",
+    "top8": "8",
+    "top32": "17",
+    "medals": ["0", "3", "2"]
+}, {
+    "name": "sire",
+    "rank": "3",
+    "region": "SEA",
+    "cash": "$2,520.00",
+    "top8": "6",
+    "top32": "13",
+    "medals": ["0", "0", "2"]
+}, {
+    "name": "Reaper",
+    "rank": "4",
+    "region": "SEA",
+    "cash": "$7,160.00",
+    "top8": "13",
+    "top32": "15",
+    "medals": ["0", "0", "2"]
+}, {
+    "name": "Far",
+    "rank": "5",
+    "region": "SEA",
+    "cash": "$4,245.00",
+    "top8": "6",
+    "top32": "12",
+    "medals": ["0", "2", "1"]
+}, {
+    "name": "jerryK",
+    "rank": "6",
+    "region": "SEA",
+    "cash": "$8,540.00",
+    "top8": "17",
+    "top32": "20",
+    "medals": ["0", "5", "6"]
+}, {
+    "name": "Sphynx",
+    "rank": "7",
+    "region": "SEA",
+    "cash": "$3,500.00",
+    "top8": "8",
+    "top32": "13",
+    "medals": ["0", "1", "3"]
+}, {
+    "name": "Holox",
+    "rank": "8",
+    "region": "SEA",
+    "cash": "$3,880.00",
+    "top8": "13",
+    "top32": "17",
+    "medals": ["0", "1", "0"]
+}, {
+    "name": "D0T",
+    "rank": "9",
+    "region": "SEA",
+    "cash": "$800.00",
+    "top8": "2",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Eric",
+    "rank": "10",
+    "region": "SEA",
+    "cash": "$360.00",
+    "top8": "1",
+    "top32": "9",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Puzzles",
+    "rank": "11",
+    "region": "SEA",
+    "cash": "$170.00",
+    "top8": "0",
+    "top32": "7",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "KSTime",
+    "rank": "12",
+    "region": "SEA",
+    "cash": "$365.00",
+    "top8": "1",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Komtin",
+    "rank": "13",
+    "region": "SEA",
+    "cash": "$290.00",
+    "top8": "0",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "himwy",
+    "rank": "14",
+    "region": "SEA",
+    "cash": "$80.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Skiffee",
+    "rank": "15",
+    "region": "SEA",
+    "cash": "$70.00",
+    "top8": "1",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Vortex",
+    "rank": "16",
+    "region": "SEA",
+    "cash": "$3,760.00",
+    "top8": "4",
+    "top32": "8",
+    "medals": ["0", "1", "0"]
+}, {
+    "name": "KeithThePooPoo",
+    "rank": "17",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "9",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Malovent",
+    "rank": "18",
+    "region": "SEA",
+    "cash": "$1,050.00",
+    "top8": "0",
+    "top32": "9",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "STC",
+    "rank": "19",
+    "region": "SEA",
+    "cash": "$1,030.00",
+    "top8": "2",
+    "top32": "12",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sakuya",
+    "rank": "20",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Rafz",
+    "rank": "21",
+    "region": "SEA",
+    "cash": "$40.00",
+    "top8": "0",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Whirlwind",
+    "rank": "22",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Cyber|CMD|",
+    "rank": "23",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Porkfloss",
+    "rank": "24",
+    "region": "SEA",
+    "cash": "$80.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "HALJJAK",
+    "rank": "25",
+    "region": "SEA",
+    "cash": "$40.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kyuu",
+    "rank": "26",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kitsune-Senpai",
+    "rank": "27",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ig : chanyuuuuuuuu",
+    "rank": "28",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "hotdawg",
+    "rank": "29",
+    "region": "SEA",
+    "cash": "$25.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Laz",
+    "rank": "30",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Zosu",
+    "rank": "31",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ElForce",
+    "rank": "32",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Axscent",
+    "rank": "33",
+    "region": "SEA",
+    "cash": "$970.00",
+    "top8": "0",
+    "top32": "9",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Pocketenderman",
+    "rank": "34",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "FroggoBoom",
+    "rank": "35",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Nino",
+    "rank": "36",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "shadingus",
+    "rank": "37",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Cyclone",
+    "rank": "38",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "DoubleJ_",
+    "rank": "39",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "GodLess",
+    "rank": "40",
+    "region": "SEA",
+    "cash": "$2,245.00",
+    "top8": "2",
+    "top32": "7",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Goomba",
+    "rank": "41",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Baby Shexx",
+    "rank": "42",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "GTG",
+    "rank": "43",
+    "region": "SEA",
+    "cash": "$2,110.00",
+    "top8": "6",
+    "top32": "7",
+    "medals": ["0", "2", "1"]
+}, {
+    "name": "Onimaru",
+    "rank": "44",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "KowlJay",
+    "rank": "45",
+    "region": "SEA",
+    "cash": "$660.00",
+    "top8": "5",
+    "top32": "7",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Bustier",
+    "rank": "46",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "YoheKong",
+    "rank": "47",
+    "region": "SEA",
+    "cash": "$50.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "MASHED POTATOES",
+    "rank": "48",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kakuja",
+    "rank": "49",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "thotot",
+    "rank": "50",
+    "region": "SEA",
+    "cash": "$75.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ular",
+    "rank": "51",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Soarvivor",
+    "rank": "52",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Faizan",
+    "rank": "53",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "noot",
+    "rank": "54",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Dabberman",
+    "rank": "55",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "gaywerewolf",
+    "rank": "56",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "NoodleTheRamen",
+    "rank": "57",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Duckboi",
+    "rank": "58",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Serenity",
+    "rank": "59",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "TitanxC",
+    "rank": "60",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Barbarian",
+    "rank": "61",
+    "region": "SEA",
+    "cash": "$40.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ian",
+    "rank": "62",
+    "region": "SEA",
+    "cash": "$40.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "NAVIN",
+    "rank": "63",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Vrost",
+    "rank": "64",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ashton",
+    "rank": "65",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Retro",
+    "rank": "66",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Habagat",
+    "rank": "67",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "KOROCO.NOTU",
+    "rank": "68",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sufruit",
+    "rank": "69",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Forrest",
+    "rank": "70",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ghost",
+    "rank": "71",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Eggludus",
+    "rank": "72",
+    "region": "SEA",
+    "cash": "$20.00",
+    "top8": "1",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Yukarun",
+    "rank": "73",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "blind",
+    "rank": "74",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Stretcher",
+    "rank": "75",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Chaotic-Divinity",
+    "rank": "76",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Feitan",
+    "rank": "77",
+    "region": "SEA",
+    "cash": "$50.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Lock",
+    "rank": "78",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "frowost",
+    "rank": "79",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Riggdan",
+    "rank": "80",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ReKon",
+    "rank": "81",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Nut",
+    "rank": "82",
+    "region": "SEA",
+    "cash": "$240.00",
+    "top8": "1",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "FiredWaST3D",
+    "rank": "83",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "WaKs",
+    "rank": "84",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ILiekPancakes",
+    "rank": "85",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Rexo",
+    "rank": "86",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "savannah",
+    "rank": "87",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SahiL",
+    "rank": "88",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "L",
+    "rank": "89",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "DroxZy",
+    "rank": "90",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Malachi",
+    "rank": "91",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sinpai",
+    "rank": "92",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "creqr",
+    "rank": "93",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kirigaus",
+    "rank": "94",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ky1e",
+    "rank": "95",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "JinBab",
+    "rank": "96",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "taxiivation",
+    "rank": "97",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "mohsinanator",
+    "rank": "98",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "GamyIan",
+    "rank": "99",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "theboyhasnoname",
+    "rank": "100",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ryuuko <3",
+    "rank": "101",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "NTFTs",
+    "rank": "102",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Medusa Man",
+    "rank": "103",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "PAFF",
+    "rank": "104",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "alphamale03",
+    "rank": "105",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SinchanDC",
+    "rank": "106",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "rdy",
+    "rank": "107",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Supazan",
+    "rank": "108",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Yunpyo",
+    "rank": "109",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kumar726",
+    "rank": "110",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Xpectrum",
+    "rank": "111",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "WayvyW",
+    "rank": "112",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "HiRoaR",
+    "rank": "113",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Willa",
+    "rank": "114",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "TheDinn",
+    "rank": "115",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Banana",
+    "rank": "116",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "nutellasdad",
+    "rank": "117",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Divine",
+    "rank": "118",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Wardon",
+    "rank": "119",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ero",
+    "rank": "120",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Pleasant",
+    "rank": "121",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "parzivan",
+    "rank": "122",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "MUHTAAL",
+    "rank": "123",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Gawwy",
+    "rank": "124",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Senpaiguy",
+    "rank": "125",
+    "region": "SEA",
+    "cash": "$1,490.00",
+    "top8": "6",
+    "top32": "11",
+    "medals": ["0", "1", "2"]
+}, {
+    "name": "Blaze",
+    "rank": "126",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "batsoup",
+    "rank": "127",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Jay",
+    "rank": "128",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Revo_D_Vuradz",
+    "rank": "129",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Japystar",
+    "rank": "130",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "mayumi",
+    "rank": "131",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Tortoise",
+    "rank": "132",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ghoul",
+    "rank": "133",
+    "region": "SEA",
+    "cash": "$2,495.00",
+    "top8": "9",
+    "top32": "9",
+    "medals": ["0", "2", "0"]
+}, {
+    "name": "austinn.gabriel",
+    "rank": "134",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "BabyAx",
+    "rank": "135",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Xyl0w",
+    "rank": "136",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Friznan27",
+    "rank": "137",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "zoroloong",
+    "rank": "138",
+    "region": "SEA",
+    "cash": "$20.00",
+    "top8": "1",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Night Wind",
+    "rank": "139",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sxcion",
+    "rank": "140",
+    "region": "SEA",
+    "cash": "$342.50",
+    "top8": "1",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Versona~",
+    "rank": "141",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Undercover Panda Agent:>",
+    "rank": "142",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "rip.exe",
+    "rank": "143",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ayaya",
+    "rank": "144",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "dragsting",
+    "rank": "145",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "` Lxcldzz",
+    "rank": "146",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "bj_creative",
+    "rank": "147",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Jim",
+    "rank": "148",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SRashX",
+    "rank": "149",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Pluto",
+    "rank": "150",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Geeky15",
+    "rank": "151",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "turtle",
+    "rank": "152",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Daiki",
+    "rank": "153",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Technowaves",
+    "rank": "154",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Frizzy",
+    "rank": "155",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Nadzumi",
+    "rank": "156",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "sir cumsicion",
+    "rank": "157",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "NotMicko",
+    "rank": "158",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Panda",
+    "rank": "159",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Josuut",
+    "rank": "160",
+    "region": "SEA",
+    "cash": "$1,865.00",
+    "top8": "3",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "The Mafia",
+    "rank": "161",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Axon",
+    "rank": "162",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Snowball",
+    "rank": "163",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Aryan",
+    "rank": "164",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Color",
+    "rank": "165",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "4ldorizki",
+    "rank": "166",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ACE GALAXY",
+    "rank": "167",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "1.31=1.69",
+    "rank": "168",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "lia",
+    "rank": "169",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sp4zmaZy",
+    "rank": "170",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Raven",
+    "rank": "171",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Rachel",
+    "rank": "172",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "STEA_0",
+    "rank": "173",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kaz",
+    "rank": "174",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "M4XIMUS",
+    "rank": "175",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "JSTN",
+    "rank": "176",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "captainGrill",
+    "rank": "177",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Raggie",
+    "rank": "178",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Devotion",
+    "rank": "179",
+    "region": "SEA",
+    "cash": "$40.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "IC4RUS",
+    "rank": "180",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "dedpul",
+    "rank": "181",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Styrix",
+    "rank": "182",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Xanny",
+    "rank": "183",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Chester",
+    "rank": "184",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Tom",
+    "rank": "185",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "peqqt",
+    "rank": "186",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "CuO",
+    "rank": "187",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SC | Saber",
+    "rank": "188",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Serena",
+    "rank": "189",
+    "region": "SEA",
+    "cash": "$400.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Nifty",
+    "rank": "190",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "sora",
+    "rank": "191",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kazuf",
+    "rank": "192",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "wrad gaming",
+    "rank": "193",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "kenshi",
+    "rank": "194",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Deemo",
+    "rank": "195",
+    "region": "SEA",
+    "cash": "$185.00",
+    "top8": "1",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Pixelcorb",
+    "rank": "196",
+    "region": "SEA",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Wes",
+    "rank": "1",
+    "region": "BRZ",
+    "cash": "$27,570.88",
+    "top8": "17",
+    "top32": "19",
+    "medals": ["4", "5", "3"]
+}, {
+    "name": "Fiend",
+    "rank": "2",
+    "region": "BRZ",
+    "cash": "$36,735.00",
+    "top8": "21",
+    "top32": "26",
+    "medals": ["12", "5", "2"]
+}, {
+    "name": "Lopes",
+    "rank": "3",
+    "region": "BRZ",
+    "cash": "$15,610.00",
+    "top8": "15",
+    "top32": "17",
+    "medals": ["0", "3", "4"]
+}, {
+    "name": "LX",
+    "rank": "4",
+    "region": "BRZ",
+    "cash": "$10,750.00",
+    "top8": "7",
+    "top32": "17",
+    "medals": ["1", "1", "0"]
+}, {
+    "name": "DB",
+    "rank": "5",
+    "region": "BRZ",
+    "cash": "$16,175.88",
+    "top8": "16",
+    "top32": "21",
+    "medals": ["0", "2", "4"]
+}, {
+    "name": "Power Ranger",
+    "rank": "6",
+    "region": "BRZ",
+    "cash": "$12,655.00",
+    "top8": "7",
+    "top32": "18",
+    "medals": ["0", "0", "1"]
+}, {
+    "name": "B A L T A Z Z A R",
+    "rank": "7",
+    "region": "BRZ",
+    "cash": "$8,355.00",
+    "top8": "9",
+    "top32": "17",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Pajé",
+    "rank": "8",
+    "region": "BRZ",
+    "cash": "$3,150.00",
+    "top8": "3",
+    "top32": "12",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Monexo",
+    "rank": "9",
+    "region": "BRZ",
+    "cash": "$1,580.00",
+    "top8": "3",
+    "top32": "12",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SSJ | Brollyyy",
+    "rank": "10",
+    "region": "BRZ",
+    "cash": "$3,375.00",
+    "top8": "6",
+    "top32": "16",
+    "medals": ["0", "1", "1"]
+}, {
+    "name": "Emperor",
+    "rank": "11",
+    "region": "BRZ",
+    "cash": "$4,185.00",
+    "top8": "11",
+    "top32": "18",
+    "medals": ["2", "2", "1"]
+}, {
+    "name": "gabrielwe33",
+    "rank": "12",
+    "region": "BRZ",
+    "cash": "$3,835.00",
+    "top8": "8",
+    "top32": "16",
+    "medals": ["0", "0", "1"]
+}, {
+    "name": "Neuz",
+    "rank": "13",
+    "region": "BRZ",
+    "cash": "$2,586.17",
+    "top8": "3",
+    "top32": "10",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "steve",
+    "rank": "14",
+    "region": "BRZ",
+    "cash": "$2,035.00",
+    "top8": "3",
+    "top32": "16",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Hyper",
+    "rank": "15",
+    "region": "BRZ",
+    "cash": "$1,245.00",
+    "top8": "0",
+    "top32": "7",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kyna Ackerman",
+    "rank": "16",
+    "region": "BRZ",
+    "cash": "$910.00",
+    "top8": "1",
+    "top32": "9",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Bruxo",
+    "rank": "17",
+    "region": "BRZ",
+    "cash": "$1,210.00",
+    "top8": "3",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Nipersy",
+    "rank": "18",
+    "region": "BRZ",
+    "cash": "$410.00",
+    "top8": "0",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Dexterrr",
+    "rank": "19",
+    "region": "BRZ",
+    "cash": "$280.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "StarDeath",
+    "rank": "20",
+    "region": "BRZ",
+    "cash": "$8,210.00",
+    "top8": "14",
+    "top32": "17",
+    "medals": ["2", "2", "4"]
+}, {
+    "name": "VecinaA",
+    "rank": "21",
+    "region": "BRZ",
+    "cash": "$1,310.00",
+    "top8": "2",
+    "top32": "11",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "JuniorMoraes13",
+    "rank": "22",
+    "region": "BRZ",
+    "cash": "$240.00",
+    "top8": "0",
+    "top32": "7",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Saiyan",
+    "rank": "23",
+    "region": "BRZ",
+    "cash": "$345.00",
+    "top8": "1",
+    "top32": "11",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Major",
+    "rank": "24",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Yu",
+    "rank": "25",
+    "region": "BRZ",
+    "cash": "$210.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ailzo",
+    "rank": "26",
+    "region": "BRZ",
+    "cash": "$445.00",
+    "top8": "1",
+    "top32": "14",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Nagi",
+    "rank": "27",
+    "region": "BRZ",
+    "cash": "$2,025.00",
+    "top8": "0",
+    "top32": "12",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Legit",
+    "rank": "28",
+    "region": "BRZ",
+    "cash": "$8,180.00",
+    "top8": "2",
+    "top32": "11",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Reaper-_-Black",
+    "rank": "29",
+    "region": "BRZ",
+    "cash": "$540.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "kaio bolinha",
+    "rank": "30",
+    "region": "BRZ",
+    "cash": "$700.00",
+    "top8": "0",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "alisson2005g",
+    "rank": "31",
+    "region": "BRZ",
+    "cash": "$75.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Noenri",
+    "rank": "32",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Lazuli",
+    "rank": "33",
+    "region": "BRZ",
+    "cash": "$500.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Steyr",
+    "rank": "34",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Lucifer",
+    "rank": "35",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Knoi",
+    "rank": "36",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "H R",
+    "rank": "37",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "¥ | Zé do Queijo",
+    "rank": "38",
+    "region": "BRZ",
+    "cash": "$180.00",
+    "top8": "2",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Makoto",
+    "rank": "39",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SnyteD",
+    "rank": "40",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Fridge",
+    "rank": "41",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kunja",
+    "rank": "42",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Anto",
+    "rank": "43",
+    "region": "BRZ",
+    "cash": "$450.00",
+    "top8": "1",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "UchihaSasuke",
+    "rank": "44",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Hanabi",
+    "rank": "45",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Tia Martha",
+    "rank": "46",
+    "region": "BRZ",
+    "cash": "$240.00",
+    "top8": "1",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Neeko",
+    "rank": "47",
+    "region": "BRZ",
+    "cash": "$80.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Denis",
+    "rank": "48",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ToledPedro",
+    "rank": "49",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "J3king",
+    "rank": "50",
+    "region": "BRZ",
+    "cash": "$350.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "PW_",
+    "rank": "51",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Metsu",
+    "rank": "52",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Tryda",
+    "rank": "53",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Lord",
+    "rank": "54",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kurt s2",
+    "rank": "55",
+    "region": "BRZ",
+    "cash": "$125.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Pedrones",
+    "rank": "56",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "CTX | Meck",
+    "rank": "57",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Diniz",
+    "rank": "58",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Akuma",
+    "rank": "59",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Atsushi",
+    "rank": "60",
+    "region": "BRZ",
+    "cash": "$350.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Peerz7",
+    "rank": "61",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Jackblayse",
+    "rank": "62",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ShiniMidori",
+    "rank": "63",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Zaps",
+    "rank": "64",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "CL",
+    "rank": "65",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Eikko",
+    "rank": "66",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Thaiph",
+    "rank": "67",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "LendaMix",
+    "rank": "68",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Klaus",
+    "rank": "69",
+    "region": "BRZ",
+    "cash": "$60.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Bolinha de gorfe",
+    "rank": "70",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ryan",
+    "rank": "71",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Myoto",
+    "rank": "72",
+    "region": "BRZ",
+    "cash": "$100.00",
+    "top8": "1",
+    "top32": "9",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Pedroncio",
+    "rank": "73",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ralsei",
+    "rank": "74",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SPACE",
+    "rank": "75",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "erick",
+    "rank": "76",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Azasuh",
+    "rank": "77",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "zero",
+    "rank": "78",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Shadowteca Darkness",
+    "rank": "79",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "salt",
+    "rank": "80",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Killua",
+    "rank": "81",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "MERCY",
+    "rank": "82",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kazuo",
+    "rank": "83",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "mole420",
+    "rank": "84",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Losbitoo",
+    "rank": "85",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Keylous",
+    "rank": "86",
+    "region": "BRZ",
+    "cash": "$200.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Alcyone",
+    "rank": "87",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ribeiro",
+    "rank": "88",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "beta32",
+    "rank": "89",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Daobiar",
+    "rank": "90",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Lapinhos",
+    "rank": "91",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Leozin",
+    "rank": "92",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Roku",
+    "rank": "93",
+    "region": "BRZ",
+    "cash": "$40.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Vinizin12",
+    "rank": "94",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Levi Ackerman",
+    "rank": "95",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Eric LRC",
+    "rank": "96",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SUETAM",
+    "rank": "97",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Guga",
+    "rank": "98",
+    "region": "BRZ",
+    "cash": "$160.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "DCS",
+    "rank": "99",
+    "region": "BRZ",
+    "cash": "$210.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Luffy",
+    "rank": "100",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "mÖth",
+    "rank": "101",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kydon",
+    "rank": "102",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "FanthoN",
+    "rank": "103",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Tavares",
+    "rank": "104",
+    "region": "BRZ",
+    "cash": "$190.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Chazar",
+    "rank": "105",
+    "region": "BRZ",
+    "cash": "$40.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "lores",
+    "rank": "106",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Leluki",
+    "rank": "107",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Lux",
+    "rank": "108",
+    "region": "BRZ",
+    "cash": "$190.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "V3M_T4NQUIL0",
+    "rank": "109",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Mosbo",
+    "rank": "110",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Pepino",
+    "rank": "111",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "KnG-_Nauu234",
+    "rank": "112",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "01N",
+    "rank": "113",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Catto Unreal",
+    "rank": "114",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Aly",
+    "rank": "115",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Dorg",
+    "rank": "116",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Naza",
+    "rank": "117",
+    "region": "BRZ",
+    "cash": "$440.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Colibri",
+    "rank": "118",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "QwerTy",
+    "rank": "119",
+    "region": "BRZ",
+    "cash": "$500.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kagerume",
+    "rank": "120",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Cláudito",
+    "rank": "121",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SipkyChiru",
+    "rank": "122",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Okami",
+    "rank": "123",
+    "region": "BRZ",
+    "cash": "$400.00",
+    "top8": "1",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "obos",
+    "rank": "124",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Zoddyer",
+    "rank": "125",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Rafa!",
+    "rank": "126",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sputnik",
+    "rank": "127",
+    "region": "BRZ",
+    "cash": "$200.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "DJGHOT",
+    "rank": "128",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Anden D2",
+    "rank": "129",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Telio",
+    "rank": "130",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Horus",
+    "rank": "131",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Neo",
+    "rank": "132",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "NICELuan",
+    "rank": "133",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "MathRed",
+    "rank": "134",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Skygen",
+    "rank": "135",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ender",
+    "rank": "136",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "uMarkola09",
+    "rank": "137",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Edu",
+    "rank": "138",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Pe99tatsu",
+    "rank": "139",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ell",
+    "rank": "140",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Tekvasz",
+    "rank": "141",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Aegon Targaryen",
+    "rank": "142",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Snaker306",
+    "rank": "143",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "juniror",
+    "rank": "144",
+    "region": "BRZ",
+    "cash": "$280.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Velasq",
+    "rank": "145",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Hugo Alves",
+    "rank": "146",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "DarkUs",
+    "rank": "147",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Herock",
+    "rank": "148",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sujirukfuja",
+    "rank": "149",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Mandigaaaaa",
+    "rank": "150",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "robr55",
+    "rank": "151",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "King Juaum",
+    "rank": "152",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Vooltex",
+    "rank": "153",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "bny",
+    "rank": "154",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "serretti",
+    "rank": "155",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "FalKez",
+    "rank": "156",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "lzrmrtnz",
+    "rank": "157",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Zeref",
+    "rank": "158",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "bisss",
+    "rank": "159",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Nyuka",
+    "rank": "160",
+    "region": "BRZ",
+    "cash": "$200.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "KevenGold",
+    "rank": "161",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "tutu_1212",
+    "rank": "162",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Lunar",
+    "rank": "163",
+    "region": "BRZ",
+    "cash": "$390.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kill dlç",
+    "rank": "164",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Yukki",
+    "rank": "165",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Cleiton Rasta",
+    "rank": "166",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Lainheart",
+    "rank": "167",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "twener",
+    "rank": "168",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Nascimento",
+    "rank": "169",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Nork",
+    "rank": "170",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Yuki",
+    "rank": "171",
+    "region": "BRZ",
+    "cash": "$141.17",
+    "top8": "3",
+    "top32": "7",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Hunter-_-Play_YT",
+    "rank": "172",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "e",
+    "rank": "173",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Renato429",
+    "rank": "174",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Zoid",
+    "rank": "175",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Davi",
+    "rank": "176",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "lost",
+    "rank": "177",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Henrii",
+    "rank": "178",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Matheus",
+    "rank": "179",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kaiser",
+    "rank": "180",
+    "region": "BRZ",
+    "cash": "$210.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Midd4y",
+    "rank": "181",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Atsuya",
+    "rank": "182",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Lo Suricato",
+    "rank": "183",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "NEW SAC",
+    "rank": "184",
+    "region": "BRZ",
+    "cash": "$600.00",
+    "top8": "0",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "FyRo",
+    "rank": "185",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Gonel",
+    "rank": "186",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "wrath",
+    "rank": "187",
+    "region": "BRZ",
+    "cash": "$500.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Shinigami",
+    "rank": "188",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Mattos",
+    "rank": "189",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "MaxiS92K",
+    "rank": "190",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Guirv",
+    "rank": "191",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "BlaZen",
+    "rank": "192",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "vini",
+    "rank": "193",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Luuks",
+    "rank": "194",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "walko",
+    "rank": "195",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Seven",
+    "rank": "196",
+    "region": "BRZ",
+    "cash": "$150.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "SILENCIO MINORIA",
+    "rank": "197",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kiritin",
+    "rank": "198",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sacarau",
+    "rank": "199",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "jak",
+    "rank": "200",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Hyudo",
+    "rank": "201",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ivan-",
+    "rank": "202",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "RodrigoOlabiaga",
+    "rank": "203",
+    "region": "BRZ",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Dummy",
+    "rank": "1",
+    "region": "AUS",
+    "cash": "$6,525.00",
+    "top8": "7",
+    "top32": "11",
+    "medals": ["1", "2", "0"]
+}, {
+    "name": "Doggo",
+    "rank": "2",
+    "region": "AUS",
+    "cash": "$12,698.70",
+    "top8": "14",
+    "top32": "14",
+    "medals": ["2", "4", "2"]
+}, {
+    "name": "Kylar Alice",
+    "rank": "3",
+    "region": "AUS",
+    "cash": "$18,544.00",
+    "top8": "18",
+    "top32": "21",
+    "medals": ["14", "0", "2"]
+}, {
+    "name": "Elsom",
+    "rank": "4",
+    "region": "AUS",
+    "cash": "$7,569.25",
+    "top8": "12",
+    "top32": "17",
+    "medals": ["0", "0", "3"]
+}, {
+    "name": "Goddess",
+    "rank": "5",
+    "region": "AUS",
+    "cash": "$6,172.00",
+    "top8": "12",
+    "top32": "16",
+    "medals": ["0", "2", "3"]
+}, {
+    "name": "baka",
+    "rank": "6",
+    "region": "AUS",
+    "cash": "$3,302.05",
+    "top8": "10",
+    "top32": "16",
+    "medals": ["0", "0", "1"]
+}, {
+    "name": "Powar",
+    "rank": "7",
+    "region": "AUS",
+    "cash": "$2,980.00",
+    "top8": "9",
+    "top32": "10",
+    "medals": ["0", "4", "0"]
+}, {
+    "name": "Shadoww",
+    "rank": "8",
+    "region": "AUS",
+    "cash": "$5,138.80",
+    "top8": "9",
+    "top32": "13",
+    "medals": ["0", "1", "1"]
+}, {
+    "name": "Shock",
+    "rank": "9",
+    "region": "AUS",
+    "cash": "$540.00",
+    "top8": "3",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Cheeseface",
+    "rank": "10",
+    "region": "AUS",
+    "cash": "$1,276.70",
+    "top8": "4",
+    "top32": "11",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Rygunduz",
+    "rank": "11",
+    "region": "AUS",
+    "cash": "$1,015.00",
+    "top8": "1",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Amayze",
+    "rank": "12",
+    "region": "AUS",
+    "cash": "$263.25",
+    "top8": "2",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "cayzdaddy",
+    "rank": "13",
+    "region": "AUS",
+    "cash": "$325.00",
+    "top8": "2",
+    "top32": "11",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Dooblakek",
+    "rank": "14",
+    "region": "AUS",
+    "cash": "$430.00",
+    "top8": "0",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "enimateK",
+    "rank": "15",
+    "region": "AUS",
+    "cash": "$420.00",
+    "top8": "1",
+    "top32": "7",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Amarell",
+    "rank": "16",
+    "region": "AUS",
+    "cash": "$660.00",
+    "top8": "6",
+    "top32": "15",
+    "medals": ["0", "1", "0"]
+}, {
+    "name": "Peace",
+    "rank": "17",
+    "region": "AUS",
+    "cash": "$385.00",
+    "top8": "1",
+    "top32": "11",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Beware of Chair",
+    "rank": "18",
+    "region": "AUS",
+    "cash": "$75.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "YaKnow",
+    "rank": "19",
+    "region": "AUS",
+    "cash": "$750.00",
+    "top8": "1",
+    "top32": "10",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "El'Dracque",
+    "rank": "20",
+    "region": "AUS",
+    "cash": "$115.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kircix",
+    "rank": "21",
+    "region": "AUS",
+    "cash": "$370.00",
+    "top8": "4",
+    "top32": "16",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Smash",
+    "rank": "22",
+    "region": "AUS",
+    "cash": "$75.00",
+    "top8": "0",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "bezza",
+    "rank": "23",
+    "region": "AUS",
+    "cash": "$75.00",
+    "top8": "0",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Raven",
+    "rank": "24",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Trankwillity",
+    "rank": "25",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "WetMayonaise",
+    "rank": "26",
+    "region": "AUS",
+    "cash": "$25.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Ryu",
+    "rank": "27",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Doxa",
+    "rank": "28",
+    "region": "AUS",
+    "cash": "$40.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Falcon",
+    "rank": "29",
+    "region": "AUS",
+    "cash": "$225.00",
+    "top8": "0",
+    "top32": "6",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Sayber",
+    "rank": "30",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Arian1302",
+    "rank": "31",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "xUzBrodie-",
+    "rank": "32",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "10",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Lichgo",
+    "rank": "33",
+    "region": "AUS",
+    "cash": "$40.00",
+    "top8": "0",
+    "top32": "10",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Wonky As All Hell",
+    "rank": "34",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "sylva",
+    "rank": "35",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "prodbyanh",
+    "rank": "36",
+    "region": "AUS",
+    "cash": "$315.00",
+    "top8": "2",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Phy",
+    "rank": "37",
+    "region": "AUS",
+    "cash": "$90.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Noahnaut",
+    "rank": "38",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "TeTaniwha",
+    "rank": "39",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "5",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "T-Reqt",
+    "rank": "40",
+    "region": "AUS",
+    "cash": "$50.00",
+    "top8": "0",
+    "top32": "9",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "bidai",
+    "rank": "41",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "jipsy",
+    "rank": "42",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ffatlonzo",
+    "rank": "43",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Batman",
+    "rank": "44",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "AbruptPuppet",
+    "rank": "45",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Dough?",
+    "rank": "46",
+    "region": "AUS",
+    "cash": "$50.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Plasma",
+    "rank": "47",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "WUNNA AOTY",
+    "rank": "48",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Drk",
+    "rank": "49",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "pocky",
+    "rank": "50",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "PokeFanatics",
+    "rank": "51",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Dex1ty",
+    "rank": "52",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "MattthewLXXIII",
+    "rank": "53",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Egg",
+    "rank": "54",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "NexRE55",
+    "rank": "55",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Emeralve",
+    "rank": "56",
+    "region": "AUS",
+    "cash": "$50.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ninja1082",
+    "rank": "57",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "BabaYaga",
+    "rank": "58",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "hazza",
+    "rank": "59",
+    "region": "AUS",
+    "cash": "$75.00",
+    "top8": "0",
+    "top32": "4",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "$ RiCH HiGHROLLER $",
+    "rank": "60",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "PatPost",
+    "rank": "61",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Roaring",
+    "rank": "62",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "TheEndDaGuardian",
+    "rank": "63",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Chicken",
+    "rank": "64",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Medi_Ev1L",
+    "rank": "65",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "breeze",
+    "rank": "66",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "toon722",
+    "rank": "67",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Flop Off",
+    "rank": "68",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "The Sun",
+    "rank": "69",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Zinic",
+    "rank": "70",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Hypka",
+    "rank": "71",
+    "region": "AUS",
+    "cash": "$100.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kero",
+    "rank": "72",
+    "region": "AUS",
+    "cash": "$600.00",
+    "top8": "5",
+    "top32": "6",
+    "medals": ["0", "0", "2"]
+}, {
+    "name": "Willy",
+    "rank": "73",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "oneye",
+    "rank": "74",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "PickleRick",
+    "rank": "75",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Astronaut3005",
+    "rank": "76",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "aLphaaa",
+    "rank": "77",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ShadowFish",
+    "rank": "78",
+    "region": "AUS",
+    "cash": "$870.00",
+    "top8": "1",
+    "top32": "10",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Vale",
+    "rank": "79",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "KingSeanyPops",
+    "rank": "80",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Hydro",
+    "rank": "81",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Xyz Arts",
+    "rank": "82",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Strifey",
+    "rank": "83",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "joddbh",
+    "rank": "84",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "TooNoobieForYou",
+    "rank": "85",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Faceie",
+    "rank": "86",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "IL BASTARDO",
+    "rank": "87",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "CL3M",
+    "rank": "88",
+    "region": "AUS",
+    "cash": "$880.00",
+    "top8": "0",
+    "top32": "8",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Alza",
+    "rank": "89",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "L0m",
+    "rank": "90",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Birddog",
+    "rank": "91",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "xander5982",
+    "rank": "92",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Hammez",
+    "rank": "93",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "CH335Y",
+    "rank": "94",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "WILS0",
+    "rank": "95",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "JayDee",
+    "rank": "96",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Coldlo",
+    "rank": "97",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Kervex",
+    "rank": "98",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Morcaen",
+    "rank": "99",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "JWC_ACE",
+    "rank": "100",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Polar",
+    "rank": "101",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Thibs",
+    "rank": "102",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Claxy",
+    "rank": "103",
+    "region": "AUS",
+    "cash": "$125.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "catfish",
+    "rank": "104",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Allora",
+    "rank": "105",
+    "region": "AUS",
+    "cash": "$1,000.00",
+    "top8": "1",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "XxTysonxX_YT",
+    "rank": "106",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Undetermined",
+    "rank": "107",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Super1or_pxmp-_-",
+    "rank": "108",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Deathy boy",
+    "rank": "109",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Robdog",
+    "rank": "110",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "CorkedWings",
+    "rank": "111",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Galereyer",
+    "rank": "112",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Jimbolushie",
+    "rank": "113",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "NumberedBore7",
+    "rank": "114",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Garfield",
+    "rank": "115",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Rubbish",
+    "rank": "116",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "PUDI PUDI",
+    "rank": "117",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Bucket Hat Nai",
+    "rank": "118",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ttv_protato609_",
+    "rank": "119",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Raven",
+    "rank": "120",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "garbo",
+    "rank": "121",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Spooks",
+    "rank": "122",
+    "region": "AUS",
+    "cash": "$40.00",
+    "top8": "0",
+    "top32": "3",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "lesmaux",
+    "rank": "123",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "VacHunter",
+    "rank": "124",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Memes & Logic",
+    "rank": "125",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Llanfairpwllgwyngyll",
+    "rank": "126",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Parzival",
+    "rank": "127",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Dalebobdob",
+    "rank": "128",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Rite",
+    "rank": "129",
+    "region": "AUS",
+    "cash": "$7,496.50",
+    "top8": "6",
+    "top32": "8",
+    "medals": ["1", "3", "1"]
+}, {
+    "name": "Awata_Kaoruko",
+    "rank": "130",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Cheese",
+    "rank": "131",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "donk",
+    "rank": "132",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "TrixyIl",
+    "rank": "133",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "HerbsInPills",
+    "rank": "134",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ffantee",
+    "rank": "135",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "MrScrTch",
+    "rank": "136",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "CHAN0",
+    "rank": "137",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "empire2829",
+    "rank": "138",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "jaxta",
+    "rank": "139",
+    "region": "AUS",
+    "cash": "$75.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Drago",
+    "rank": "140",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "behpi",
+    "rank": "141",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "liven96",
+    "rank": "142",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "MethJr",
+    "rank": "143",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "Shifu",
+    "rank": "144",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "2",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "ReelManX3",
+    "rank": "145",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "yentai",
+    "rank": "146",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "0",
+    "medals": ["0", "0", "0"]
+}, {
+    "name": "lamo",
+    "rank": "147",
+    "region": "AUS",
+    "cash": "$0.00",
+    "top8": "0",
+    "top32": "1",
+    "medals": ["0", "0", "0"]
+}]

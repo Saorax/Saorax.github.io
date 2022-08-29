@@ -1,0 +1,86 @@
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Player Tournament Database</title>
+	<link rel="icon" href="../../images/35.png" type="image/x-icon">
+
+	<link rel="stylesheet" type="text/css" href="../../style.css">
+	<script>
+		const par = window.location.search;
+		const para = new URLSearchParams(par);
+	</script>
+	<script src="./scripts/jquery.js"></script>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet"
+		integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js"
+		integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous">
+	</script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.min.js"
+		integrity="sha384-ODmDIVzN+pFdexxHEHFBQH3/9/vQ9uori45z4JjnFsRydbmQbmL5t1tQ0culUzyK" crossorigin="anonymous">
+	</script>
+	<script src="./scripts/dat.js" crossorigin="anonymous"></script>
+</head>
+
+<body class="bg-dark text-light">
+	<nav class="flex-column flex-md-row navbar navbar-expand-sm bg-dark navbar-dark"
+		style="background-color: rgb(16 18 19)!important;" id="navbarss">
+		<div class="container-fluid">
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar2"
+				aria-controls="navbar2" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<a class="d-flex mb-2 mb-md-0 text-dark text-decoration-none">
+				<svg class="bi me-2" width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+					<image href="../../images/35.png" width="40" height="40" />
+				</svg>
+			</a>
+			<div class="collapse navbar-collapse" id="navbar2">
+				<ul class="navbar-nav mb-2 mb-sm-0">
+					<li class="nav-item">
+						<a class="nav-link" href="../raybot">Raybot</a>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+							data-bs-toggle="dropdown" aria-expanded="false">
+							Tournament Database
+						</a>
+						<ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDropdown">
+							<li><a class="dropdown-item" href="./index.html">Player Database</a></li>
+							<li><a class="dropdown-item" href="../pr/index.html">Power Rankings</a></li>
+							<li><a class="dropdown-item" href="#">Tourney List</a></li>
+						</ul>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link disabled">Other Stuff</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<p />
+	<div class="bg-faded" id="page_loader">
+		<h2 style="text-align:center">Player Database</h2>
+		<br>
+		<div class="d-flex justify-content-center">
+			<div class="form-floating mb-3">
+				<input type="text" class="form-control-dark" id="searchP">
+				<label for="floatingInput">Search for a player</label>
+			</div>
+		</div>
+		<br>
+		<div class="container-fluid">
+			<div class="container showPlayers" style="display:grid; overflow: auto; max-height: 400px;">
+			</div>
+			<div class="container">
+				<hr />
+			</div>
+			<br>
+			<div class="playerResults">
+			</div>
+		</div>
+	</div>
+
+</body>
+
+</html>
