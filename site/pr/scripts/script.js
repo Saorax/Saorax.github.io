@@ -319,6 +319,17 @@ function editList(type) {
                                 },
                                 total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
                             };
+                            if (tempd.id === 1890840) {
+                                tempd = {
+                                    id: 544695,
+                                    name: "Major",
+                                    socials: {
+                                        twitter: file.entrants[b].socials.twitter,
+                                        twitch: file.entrants[b].socials.twitch
+                                    },
+                                    total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
+                                };
+                            }
                             if (tempd.id === 1164959) {
                                 tempd = {
                                     id: 991917,
@@ -373,6 +384,17 @@ function editList(type) {
                                     },
                                     total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
                                 };
+                                if (tempd.id === 1890840) {
+                                    tempd = {
+                                        id: 544695,
+                                        name: "Major",
+                                        socials: {
+                                            twitter: file.entrants[b].socials[n].twitter,
+                                            twitch: file.entrants[b].socials[n].twitch
+                                        },
+                                        total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
+                                    }
+                                }
                                 if (tempd.id === 1164959) {
                                     tempd = {
                                         id: 991917,
