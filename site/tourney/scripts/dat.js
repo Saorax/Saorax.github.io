@@ -16,7 +16,9 @@ var players;
         await loadPlayer(para.get("playerId"))
     }
 })();
-
+function copyLink(text) {
+    navigator.clipboard.writeText(text);
+}
 $(document).ready(async function () {
     console.log("hi")
     $("#searchP").on("input", function (e) {
@@ -267,12 +269,20 @@ async function tourneyList(type) {
                         let tourney = bigTourney[tourneyId];
                         let placement = typs[i][s][t].data.main.placement;
                         let images = tourney.images.filter(u => u.type == "profile");
+                        if (images.length === 0) {
+                            images = `
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Feather-core-calendar.svg/1024px-Feather-core-calendar.svg.png" style="filter: invert(1);" class="img-fluid rounded-start pb-1" alt="${tourney.event.tournament.name}">
+                            <a href="javascript:void(0)" class="btn btn-outline-info" style="width:100%" onclick="loadTourneyData(${i}, ${s}, ${t})">Load Data</a>`
+                        } else {
+                            images = `
+                            <img src="${images[0].url}" class="img-fluid rounded-start pb-1" alt="${tourney.event.tournament.name}">
+                            <a href="javascript:void(0)" class="btn btn-outline-info" style="width:100%" onclick="loadTourneyData(${i}, ${s}, ${t})">Load Data</a>`
+                        }
                         temData +=
                             `<div class="card border-secondary text-bg-dark text-end mb-3 ms-auto">
                         <div class="row g-0">
                             <div class="col-md-4">
-                                <img src="${images[0].url}" class="img-fluid rounded-start pb-1" alt="${tourney.event.tournament.name}">
-                                <a href="javascript:void(0)" class="btn btn-outline-info" style="width:100%" onclick="loadTourneyData(${i}, ${s}, ${t})">Load Data</a>
+                                ${images}
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
@@ -1502,8 +1512,16 @@ async function loadPlayer(id) {
         "TWITCH": {
             icon: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M2.149 0l-1.612 4.119v16.836h5.731v3.045h3.224l3.045-3.045h4.657l6.269-6.269v-14.686h-21.314zm19.164 13.612l-3.582 3.582h-5.731l-3.045 3.045v-3.045h-4.836v-15.045h17.194v11.463zm-3.582-7.343v6.262h-2.149v-6.262h2.149zm-5.731 0v6.262h-2.149v-6.262h2.149z"/></svg>`,
             url: "https://twitch.tv/"
+        },
+        "SHARE": {
+            icon: `<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+            width="30" height="30"
+            viewBox="0 0 30 30"
+            style=" fill:#FFFFFF;"><path d="M 23 3 A 4 4 0 0 0 19 7 A 4 4 0 0 0 19.09375 7.8359375 L 10.011719 12.376953 A 4 4 0 0 0 7 11 A 4 4 0 0 0 3 15 A 4 4 0 0 0 7 19 A 4 4 0 0 0 10.013672 17.625 L 19.089844 22.164062 A 4 4 0 0 0 19 23 A 4 4 0 0 0 23 27 A 4 4 0 0 0 27 23 A 4 4 0 0 0 23 19 A 4 4 0 0 0 19.986328 20.375 L 10.910156 15.835938 A 4 4 0 0 0 11 15 A 4 4 0 0 0 10.90625 14.166016 L 19.988281 9.625 A 4 4 0 0 0 23 11 A 4 4 0 0 0 27 7 A 4 4 0 0 0 23 3 z"></path></svg>`,
+            url: `https://saorax.github.io/site/tourney/index.html?playerId=${play.id}`
         }
-    }
+    };
+    console.log(socials2["SHARE"].url)
     for (var i = 0; i < play.auth.length; i++) {
         if (play.auth[i].platform !== "DISCORD") {
             socials +=
@@ -1641,7 +1659,7 @@ async function loadPlayer(id) {
         <div class="whoIs player">
             ${img}
             <div class="playerData">
-                <a href="${play.smash.url}" class="text-light" style="font-size: calc(1.3rem + .6vw); text-decoration: none; color: currentColor!important" rel="noopener noreferrer" target="_blank">${play.name} (${play.smash.slug.replace('user/', '')})</a>
+                <div><a href="${play.smash.url}" class="text-light" style="font-size: calc(1.3rem + .6vw); text-decoration: none; color: currentColor!important" rel="noopener noreferrer" target="_blank">${play.name} (${play.smash.slug.replace('user/', '')})</a><a class="text-light" style="font-size: calc(1.2rem + .6vw); text-decoration: none; color: currentColor!important" href="javascript:void(0)" onclick="copyLink('${socials2["SHARE"].url}')"> ${socials2["SHARE"].icon}</a></div>
                 <h5 style="opacity: 0.5;">${tempAl}</h5>
                 <div style="display:flex">${socials}</div>
             </div>
@@ -2756,13 +2774,22 @@ function loadPlayerHistory(playerId) {
         } else {
             setTitle += `${combinedArray[i].setInfo.phaseGroup.phase.name}`
         };
+        let tempImga = ""
+        if (tempTourneyData.images.length === 0) {
+            tempImga = `
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Feather-core-calendar.svg/1024px-Feather-core-calendar.svg.png" style="filter: invert(1);" class="img-fluid rounded-start pb-1" alt="${tempTourneyData.event.tournament.name}">
+            <a href="javascript:void(0)" class="btn btn-outline-info" style="width:100%" onclick="loadSetData(${playerId}, ${i})">Load Set Data</a>`
+        } else {
+            tempImga = `
+            <img src="${tempTourneyData.images.filter(u=>u.type === "profile")[0].url}" class="img-fluid rounded-start pb-1" alt="${tempTourneyData.event.tournament.name}">
+            <a href="javascript:void(0)" class="btn btn-outline-info" style="width:100%" onclick="loadSetData(${playerId}, ${i})">Load Set Data</a>`
+        }
         // Set Length: ${getMatchLength(combinedArray[i].setInfo.completedAt - combinedArray[i].setInfo.startedAt)}
         tempData += `
             <div class="card border-secondary text-bg-dark mb-3" style="text-align: center">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <img src="${tempTourneyData.images.filter(u=>u.type === "profile")[0].url}" class="img-fluid rounded-start pb-1" alt="${tempTourneyData.event.tournament.name}">
-                        <a href="javascript:void(0)" class="btn btn-outline-info" style="width:100%" onclick="loadSetData(${playerId}, ${i})">Load Set Data</a>
+                        ${tempImga}
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
@@ -3355,7 +3382,7 @@ async function changeViewType(type) {
             for (var i = 0; i < tempsss.length; i++) {
                 legendsPlayed += `
             <div class="col" style="padding: unset; width: unset">
-                <div class="card text-white" style="border: none;">
+                <div class="card text-white" style="border: none; background-color: unset">
                     <img src="${tempsss[i].url}" class="card-img" alt="${tempsss[i].name}" width="128" height="128" style="filter: brightness(30%); background-color: rgb(0,0,0,0.5)">
                     <div class="card-img-overlay">
                         <h5 class="card-title">${tempsss[i].name}</h5>
