@@ -79,7 +79,7 @@ async function getTourneys() {
         console.log('Fetch problem show: ' + err.message);
     });
 
-    players = await fetch("./scripts/players.json").then(function (response) {
+    players = await fetch("https://gitlab.com/Saorax/players/-/raw/main/players.json").then(function (response) {
         return response
     }).then(function (data) {
         return data.json()
