@@ -59,7 +59,7 @@ $(document).ready(async function () {
                         <div class="playerData">
                             <a href="javascript:void(0)" class="nav-link2 link-secondary" onclick="loadPlayer(${players[i].id})">${players[i].name} (${players[i].smash.slug.replace("user/", "")})</a>
                             ${tempAl}
-                            <span><strong>${totalTour[0]+totalTour[1]} tournaments played</strong></span>
+                            <span><strong>${totalTour[0]+totalTour[1]+totalTour[2]} tournaments played</strong></span>
                             <br>
                         </div>
                         `
@@ -78,15 +78,36 @@ async function getTourneys() {
     }).catch(function (err) {
         console.log('Fetch problem show: ' + err.message);
     });
-
-    players = await fetch("https://gitlab.com/Saorax/players/-/raw/main/players.json").then(function (response) {
+    let bigs = [[]];
+    let dat1 = await fetch("./scripts/official-players.json").then(function (response) {
         return response
     }).then(function (data) {
         return data.json()
     }).catch(function (err) {
         console.log('Fetch problem show: ' + err.message);
     });
-
+    bigs[0] = dat1[0];
+    let dat2 = await fetch("./scripts/community-players.json").then(function (response) {
+        return response
+    }).then(function (data) {
+        return data.json()
+    }).catch(function (err) {
+        console.log('Fetch problem show: ' + err.message);
+    });
+    for (var com in dat2[0]) {
+        if (!bigs[0][com]) {
+            bigs[0][com] = dat2[0][com]
+        } else {
+            for (var tourn in dat2[0][com].tourneys) {
+                for (var s = 0; s < dat2[0][com].tourneys[tourn].length; s++) {
+                    for (var c = 0; c < dat2[0][com].tourneys[tourn][s].length; c++) {
+                        bigs[0][com].tourneys[tourn][s].push(dat2[0][com].tourneys[tourn][s][c])
+                    }
+                }
+            }
+        }
+    };
+    players = bigs[0];
     char = await fetch(`./scripts/characters.json`, {
         "headers": {
             "accept": "*/*",
@@ -317,7 +338,7 @@ async function tourneyList(type) {
                 };
                 tourneyList.innerHTML += '<hr/>';
                 if (typ[h] === "2v2") {
-                    console.log(prizing/2);
+                    console.log(prizing / 2);
                 } else {
                     console.log(prizing);
                 }
