@@ -16,6 +16,7 @@ var players;
         await loadPlayer(para.get("playerId"))
     }
 })();
+
 function copyLink(text) {
     navigator.clipboard.writeText(text);
 }
@@ -80,7 +81,9 @@ async function getTourneys() {
     }).catch(function (err) {
         console.log('Fetch problem show: ' + err.message);
     });
-    let bigs = [[]];
+    let bigs = [
+        []
+    ];
     let dat1 = await fetch("./scripts/official-players.json").then(function (response) {
         return response
     }).then(function (data) {
@@ -230,12 +233,21 @@ async function tourneyList(type) {
                     let tourney = bigTourney[tourneyId];
                     let placement = typs[i][Math.max(0, Number.parseInt(document.querySelector('input[name="btnradio2"]:checked').id.replace('btnradio', '').replace('v', '')) - 21)][t].data.main.placement;
                     let images = tourney.images.filter(u => u.type == "profile");
+                    let tempImga = ""
+                    if (tourney.images.length === 0) {
+                        tempImga = `
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Feather-core-calendar.svg/1024px-Feather-core-calendar.svg.png" style="filter: invert(1);" class="img-fluid rounded-start pb-1" alt="${tourney.event.tournament.name}">
+            <a href="javascript:void(0)" class="btn btn-outline-info" style="width:100%" onclick="loadTourneyData(${i}, ${Math.max(0, Number.parseInt(document.querySelector('input[name="btnradio2"]:checked').id.replace('btnradio', '').replace('v', '')) - 21)}, ${t})">Load Set Data</a>`
+                    } else {
+                        tempImga = `
+            <img src="${tourney.images.filter(u=>u.type === "profile")[0].url}" class="img-fluid rounded-start pb-1" alt="${tourney.event.tournament.name}">
+            <a href="javascript:void(0)" class="btn btn-outline-info" style="width:100%" onclick="loadTourneyData(${i}, ${Math.max(0, Number.parseInt(document.querySelector('input[name="btnradio2"]:checked').id.replace('btnradio', '').replace('v', '')) - 21)}, ${t})">Load Set Data</a>`
+                    }
                     tempData +=
                         `<div class="card border-secondary text-bg-dark text-end mb-3 ms-auto">
                         <div class="row g-0">
                             <div class="col-md-4">
-                                <img src="${images[0].url}" class="img-fluid rounded-start pb-1" alt="${tourney.event.tournament.name}">
-                                <a href="javascript:void(0)" class="btn btn-outline-info" style="width:100%" onclick="loadTourneyData(${i}, ${Math.max(0, Number.parseInt(document.querySelector('input[name="btnradio2"]:checked').id.replace('btnradio', '').replace('v', '')) - 21)}, ${t})">Load Data</a>
+                                ${tempImga}
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
@@ -325,12 +337,21 @@ async function tourneyList(type) {
                         prizing += data[i].data.main.prizing
                     };
                     let images = tourney.images.filter(u => u.type == "profile");
+                    let tempImga = ""
+                    if (tourney.images.length === 0) {
+                        tempImga = `
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Feather-core-calendar.svg/1024px-Feather-core-calendar.svg.png" style="filter: invert(1);" class="img-fluid rounded-start pb-1" alt="${tourney.event.tournament.name}">
+            <a href="javascript:void(0)" class="btn btn-outline-info" style="width:100%" onclick="loadTourneyData(${document.querySelector('input[name="btnradio1"]:checked').id.replace('btnradio', '')}, ${h}, ${i})">Load Data</a>`
+                    } else {
+                        tempImga = `
+            <img src="${tourney.images.filter(u=>u.type === "profile")[0].url}" class="img-fluid rounded-start pb-1" alt="${tourney.event.tournament.name}">
+            <a href="javascript:void(0)" class="btn btn-outline-info" style="width:100%" onclick="loadTourneyData(${document.querySelector('input[name="btnradio1"]:checked').id.replace('btnradio', '')}, ${h}, ${i})">Load Data</a>`
+                    };
                     tourneyList.innerHTML +=
                         `<div class="card border-secondary text-bg-dark text-end mb-3 ms-auto">
                         <div class="row g-0">
                             <div class="col-md-4">
-                                <img src="${images[0].url}" class="img-fluid rounded-start pb-1" alt="${tourney.event.tournament.name}">
-                                <a href="javascript:void(0)" class="btn btn-outline-info text-light" style="width:100%; color: currentColor!important" onclick="loadTourneyData(${document.querySelector('input[name="btnradio1"]:checked').id.replace('btnradio', '')}, ${h}, ${i})">Load Data</a>
+                                ${tempImga}
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
@@ -347,11 +368,6 @@ async function tourneyList(type) {
                     </div>`;
                 };
                 tourneyList.innerHTML += '<hr/>';
-                if (typ[h] === "2v2") {
-                    console.log(prizing / 2);
-                } else {
-                    console.log(prizing);
-                }
             }
         } else {
             data = typs[document.querySelector('input[name="btnradio1"]:checked').id.replace('btnradio', '')][Math.max(0, Number.parseInt(document.querySelector('input[name="btnradio2"]:checked').id.replace('btnradio', '').replace('v', '')) - 21)]
@@ -363,12 +379,21 @@ async function tourneyList(type) {
                 let tourney = bigTourney[data[i].tourney_id];
                 let placement = data[i].data.main.placement;
                 let images = tourney.images.filter(u => u.type == "profile");
+                let tempImga = ""
+                if (tourney.images.length === 0) {
+                    tempImga = `
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Feather-core-calendar.svg/1024px-Feather-core-calendar.svg.png" style="filter: invert(1);" class="img-fluid rounded-start pb-1" alt="${tourney.event.tournament.name}">
+            <a href="javascript:void(0)" class="btn btn-outline-info" style="width:100%" onclick="loadTourneyData(${document.querySelector('input[name="btnradio1"]:checked').id.replace('btnradio', '')}, ${Math.max(0, Number.parseInt(document.querySelector('input[name="btnradio2"]:checked').id.replace('btnradio', '').replace('v', '')) - 21)}, ${i})">Load Data</a>`
+                } else {
+                    tempImga = `
+            <img src="${tourney.images.filter(u=>u.type === "profile")[0].url}" class="img-fluid rounded-start pb-1" alt="${tourney.event.tournament.name}">
+            <a href="javascript:void(0)" class="btn btn-outline-info" style="width:100%" onclick="loadTourneyData(${document.querySelector('input[name="btnradio1"]:checked').id.replace('btnradio', '')}, ${Math.max(0, Number.parseInt(document.querySelector('input[name="btnradio2"]:checked').id.replace('btnradio', '').replace('v', '')) - 21)}, ${i})">Load Data</a>`
+                };
                 tourneyList.innerHTML +=
                     `<div class="card border-secondary text-bg-dark text-end mb-3 ms-auto">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="${images[0].url}" class="img-fluid rounded-start pb-1" alt="${tourney.event.tournament.name}">
-                            <a href="javascript:void(0)" class="btn btn-outline-info text-light" style="width:100%; color: currentColor!important" onclick="loadTourneyData(${document.querySelector('input[name="btnradio1"]:checked').id.replace('btnradio', '')}, ${Math.max(0, Number.parseInt(document.querySelector('input[name="btnradio2"]:checked').id.replace('btnradio', '').replace('v', '')) - 21)}, ${i})">Load Data</a>
+                            ${tempImga}
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -1346,11 +1371,19 @@ async function loadTourneyData(year, one, two) {
             };
         };
         totalGames[1] = [wins, loss]
-    }
+    };
+    let tempImga = ""
+    if (tourneyData.images.length === 0) {
+        tempImga = `
+            <img alt="${tourneyData.event.tournament.name}" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Feather-core-calendar.svg/1024px-Feather-core-calendar.svg.png" style="filter: invert(1);" class="img-fluid rounded-start tourneyImg2">`
+    } else {
+        tempImga = `
+            <img alt="${tourneyData.event.tournament.name}" src="${tourneyData.images.filter(u=>u.type === "profile")[0].url}" class="img-fluid rounded-start tourneyImg2">`
+    };
     tourney.innerHTML += `
     <div class="d-flex">
         <a class="tourneyImg1">
-            <img alt="${tourneyData.event.tournament.name}" src="${images[0].url}" class="img-fluid rounded-start tourneyImg2">
+            ${tempImga}
         </a>
         <div>
             <a href="https://start.gg/${tourneyData.event.slug}" class="text-light" style="font-size: calc(1.3rem + .6vw); text-decoration: none; color: currentColor!important" rel="noopener noreferrer" target="_blank">${tourneyData.event.tournament.name}</a>
@@ -1380,18 +1413,25 @@ async function loadTourneyData(year, one, two) {
         </div>
     </div>
     <hr/>
-    
+    ${userData.sets.nodes.length !== 0 ? `
     <div class="d-flex justify-content-start" style="max-height: 712px" id="mainTourneyContent">
         <div style="overflow: auto; max-width:500px; padding-right: 0.5rem!important;" id="setsList">
             ${setData}
         </div>
-        
         <div class="px-3" style="width:816px;">
             <div id="tourneySetContent" class="ms-auto" style="text-align:center">
                 <h3>Load set data from the sets on the left</h3>
             </div>
         </div>
-    </div>
+    </div>` : `
+    <div class="d-flex justify-content-start" style="max-height: 712px" id="mainTourneyContent">
+        <div class="px-3" style="width:816px;">
+            <div id="tourneySetContent" class="ms-auto" style="text-align:center">
+                <h3>This tourney has 0 set data</h3>
+            </div>
+        </div>
+    </div>`}
+    
     `
     radioButtons5 = document.getElementsByName("btnradioChan");
     for (let radioButton of radioButtons5) {
@@ -1429,10 +1469,29 @@ async function loadPlayer(id) {
         }).then(res => res.json()).catch(async err => {
             console.log(err);
         });
+
         for (var i in play.tourneys) {
-            play.tourneys[i][0] = play.tourneys[i][0].sort((a, b) => a.data.sets.nodes[0].completedAt - b.data.sets.nodes[0].completedAt);
-            play.tourneys[i][1] = play.tourneys[i][1].sort((a, b) => a.data.sets.nodes[0].completedAt - b.data.sets.nodes[0].completedAt);
-            play.tourneys[i][2] = play.tourneys[i][2].sort((a, b) => a.data.sets.nodes[0].completedAt - b.data.sets.nodes[0].completedAt);
+            play.tourneys[i][0] = play.tourneys[i][0].sort((a, b) => {
+                if (a.data.sets.nodes.length !== 0) {
+                    return a.data.sets.nodes[0].completedAt - b.data.sets.nodes[0].completedAt
+                } else {
+                    return []
+                }
+            });
+            play.tourneys[i][1] = play.tourneys[i][1].sort((a, b) => {
+                if (a.data.sets.nodes.length !== 0) {
+                    return a.data.sets.nodes[0].completedAt - b.data.sets.nodes[0].completedAt
+                } else {
+                    return []
+                }
+            });
+            play.tourneys[i][2] = play.tourneys[i][2].sort((a, b) => {
+                if (a.data.sets.nodes.length !== 0 && b.data.sets.nodes.length !== 0) {
+                    return a.data.sets.nodes[0].completedAt - b.data.sets.nodes[0].completedAt
+                } else {
+                    return []
+                }
+            });
         };
         currentPlay = play;
         if (currentPlay === undefined && char === undefined) {
@@ -1521,7 +1580,6 @@ async function loadPlayer(id) {
             url: `https://saorax.github.io/site/tourney/index.html?playerId=${play.id}`
         }
     };
-    console.log(socials2["SHARE"].url)
     for (var i = 0; i < play.auth.length; i++) {
         if (play.auth[i].platform !== "DISCORD") {
             socials +=
