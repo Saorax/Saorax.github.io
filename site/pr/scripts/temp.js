@@ -18,4 +18,7 @@ for (var i = 0; i < years.length; i++) {
         })
     });
 };
+fs.writeFileSync(`./prTemp.json`, JSON.stringify(tourneys), function (err) {
+    if (err) return console.log(err);
+});
 console.log(tourneys)
