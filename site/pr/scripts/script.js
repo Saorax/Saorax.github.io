@@ -8,6 +8,9 @@ Array.prototype.remove = function (from, to) {
 import data from "./data.json" assert {
     type: "json"
 };
+import prTemp from "./prTemp.json" assert {
+    type: "json"
+};
 import recency from "./lol.json" assert {
     type: "json"
 };
@@ -61,13 +64,13 @@ let day = 1000 * 60 * 60 * 24;
 function tourneyL1() {
     let temp = [];
     let tempDates = [
-        data["power-rankings"][0].sort(function (a, b) {
+        prTemp[0].sort(function (a, b) {
             return b.start - a.start;
         }),
-        data["power-rankings"][1].sort(function (a, b) {
+        prTemp[1].sort(function (a, b) {
             return b.start - a.start;
         }),
-        data["power-rankings"][2].sort(function (a, b) {
+        prTemp[2].sort(function (a, b) {
             return b.start - a.start;
         })
     ];
@@ -166,13 +169,13 @@ function setEvents() {
 };
 async function getSiteData() {
     let tempDates = [
-        data["power-rankings"][0].sort(function (a, b) {
+        prTemp[0].sort(function (a, b) {
             return b.start - a.start;
         }),
-        data["power-rankings"][1].sort(function (a, b) {
+        prTemp[1].sort(function (a, b) {
             return b.start - a.start;
         }),
-        data["power-rankings"][2].sort(function (a, b) {
+        prTemp[2].sort(function (a, b) {
             return b.start - a.start;
         })
     ];
@@ -261,7 +264,6 @@ async function getSiteData() {
             siteData.push(datasets[i])
         };
     });
-
 };
 
 function editList(type) {
@@ -296,62 +298,64 @@ function editList(type) {
                     //console.log(regi);
                     if (regi.gamemode.includes('1v1')) {
                         regi.files1 = regi.files1.filter(u => u.region === tempp.regions[d])[0];
-                        let file = siteData.filter(u => u.url.includes(regi.files1.file))[0].tourneyData;
-                        let isStart = null;
-                        if (time[0] === 0) {
-                            time[0] = file.tourneyStart * 1000;
-                            isStart = true;
-                        };
-                        for (var b = 0; b < file.entrants.length; b++) {
-                            let rece = recency[Math.round((time[0] - file.tourneyStart * 1000) / day)];
-                            if (rece === undefined || rece === 0) {
-                                rece = (-1.08 / Math.PI) * Math.atan((Math.round((time[0] - file.tourneyStart * 1000) / day) - 180) / 40) + 0.54
+                        if (regi.files1 !== undefined) {
+                            let file = siteData.filter(u => u.url.includes(regi.files1.file))[0].tourneyData;
+                            let isStart = null;
+                            if (time[0] === 0) {
+                                time[0] = file.tourneyStart * 1000;
+                                isStart = true;
                             };
-                            if (document.getElementById("addDecay").checked === false) {
-                                rece = 1
-                            }
-                            let tempd = {
-                                id: file.entrants[b].socials.smash_id,
-                                name: file.entrants[b].socials.name,
-                                socials: {
-                                    twitter: file.entrants[b].socials.twitter,
-                                    twitch: file.entrants[b].socials.twitch
-                                },
-                                total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
-                            };
-                            if (tempd.id === 1890840) {
-                                tempd = {
-                                    id: 544695,
-                                    name: "Major",
+                            for (var b = 0; b < file.entrants.length; b++) {
+                                let rece = recency[Math.round((time[0] - file.tourneyStart * 1000) / day)];
+                                if (rece === undefined || rece === 0) {
+                                    rece = (-1.08 / Math.PI) * Math.atan((Math.round((time[0] - file.tourneyStart * 1000) / day) - 180) / 40) + 0.54
+                                };
+                                if (document.getElementById("addDecay").checked === false) {
+                                    rece = 1
+                                }
+                                let tempd = {
+                                    id: file.entrants[b].socials.smash_id,
+                                    name: file.entrants[b].socials.name,
                                     socials: {
                                         twitter: file.entrants[b].socials.twitter,
                                         twitch: file.entrants[b].socials.twitch
                                     },
                                     total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
                                 };
-                            }
-                            if (tempd.id === 1164959) {
-                                tempd = {
-                                    id: 991917,
-                                    name: "Amayze",
-                                    socials: {
-                                        twitter: file.entrants[b].socials.twitter,
-                                        twitch: file.entrants[b].socials.twitch
-                                    },
-                                    total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
+                                if (tempd.id === 1890840) {
+                                    tempd = {
+                                        id: 544695,
+                                        name: "Major",
+                                        socials: {
+                                            twitter: file.entrants[b].socials.twitter,
+                                            twitch: file.entrants[b].socials.twitch
+                                        },
+                                        total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
+                                    };
                                 }
-                            }
-                            if (tempd.id !== 249544 && tempd.id !== 216236 && tempd.id !== 1865176) {
-                                // ((parseInt(sa.total) * big1v1[i].tourney.type) * ((-1.08 / Math.PI) * Math.atan((Math.round((time[0] - time[i]) / day) - 180) / 40) + 0.54)).toFixed(3),
-                                //console.log(temp);
-                                if (tempd.total !== null) {
-                                    let sss = entrants[0].filter(u => u.id == tempd.id);
-                                    if (sss.length === 0) {
-                                        entrants[0].push(tempd)
-                                    } else {
-                                        for (var z = 0; z < entrants[0].length; z++) {
-                                            if (entrants[0][z].id === tempd.id) {
-                                                entrants[0][z].total += tempd.total
+                                if (tempd.id === 1164959) {
+                                    tempd = {
+                                        id: 991917,
+                                        name: "Amayze",
+                                        socials: {
+                                            twitter: file.entrants[b].socials.twitter,
+                                            twitch: file.entrants[b].socials.twitch
+                                        },
+                                        total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
+                                    }
+                                }
+                                if (tempd.id !== 249544 && tempd.id !== 216236 && tempd.id !== 1865176) {
+                                    // ((parseInt(sa.total) * big1v1[i].tourney.type) * ((-1.08 / Math.PI) * Math.atan((Math.round((time[0] - time[i]) / day) - 180) / 40) + 0.54)).toFixed(3),
+                                    //console.log(temp);
+                                    if (tempd.total !== null) {
+                                        let sss = entrants[0].filter(u => u.id == tempd.id);
+                                        if (sss.length === 0) {
+                                            entrants[0].push(tempd)
+                                        } else {
+                                            for (var z = 0; z < entrants[0].length; z++) {
+                                                if (entrants[0][z].id === tempd.id) {
+                                                    entrants[0][z].total += tempd.total
+                                                }
                                             }
                                         }
                                     }
@@ -361,62 +365,64 @@ function editList(type) {
                     };
                     if (regi.gamemode.includes('2v2')) {
                         regi.files2 = regi.files2.filter(u => u.region === tempp.regions[d])[0];
-                        let file = siteData.filter(u => u.url.includes(regi.files2.file))[0].tourneyData;
-                        if (time[1] === 0) {
-                            time[1] = file.tourneyStart * 1000;
-                        };
-                        let isStart = null;
-                        for (var b = 0; b < file.entrants.length; b++) {
-                            for (var n = 0; n < file.entrants[b].socials.length; n++) {
-                                let rece = recency[Math.round((time[1] - file.tourneyStart * 1000) / day)];
-                                if (rece === undefined || rece === 0) {
-                                    rece = (-1.08 / Math.PI) * Math.atan((Math.round((time[1] - file.tourneyStart * 1000) / day) - 180) / 40) + 0.54
-                                };
-                                if (document.getElementById("addDecay").checked === false) {
-                                    rece = 1
-                                }
-                                let tempd = {
-                                    id: file.entrants[b].socials[n].smash_id,
-                                    name: file.entrants[b].socials[n].name,
-                                    socials: {
-                                        twitter: file.entrants[b].socials[n].twitter,
-                                        twitch: file.entrants[b].socials[n].twitch
-                                    },
-                                    total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
-                                };
-                                if (tempd.id === 1890840) {
-                                    tempd = {
-                                        id: 544695,
-                                        name: "Major",
+                        if (regi.files2 !== undefined) {
+                            let file = siteData.filter(u => u.url.includes(regi.files2.file))[0].tourneyData;
+                            if (time[1] === 0) {
+                                time[1] = file.tourneyStart * 1000;
+                            };
+                            let isStart = null;
+                            for (var b = 0; b < file.entrants.length; b++) {
+                                for (var n = 0; n < file.entrants[b].socials.length; n++) {
+                                    let rece = recency[Math.round((time[1] - file.tourneyStart * 1000) / day)];
+                                    if (rece === undefined || rece === 0) {
+                                        rece = (-1.08 / Math.PI) * Math.atan((Math.round((time[1] - file.tourneyStart * 1000) / day) - 180) / 40) + 0.54
+                                    };
+                                    if (document.getElementById("addDecay").checked === false) {
+                                        rece = 1
+                                    }
+                                    let tempd = {
+                                        id: file.entrants[b].socials[n].smash_id,
+                                        name: file.entrants[b].socials[n].name,
                                         socials: {
                                             twitter: file.entrants[b].socials[n].twitter,
                                             twitch: file.entrants[b].socials[n].twitch
                                         },
                                         total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
+                                    };
+                                    if (tempd.id === 1890840) {
+                                        tempd = {
+                                            id: 544695,
+                                            name: "Major",
+                                            socials: {
+                                                twitter: file.entrants[b].socials[n].twitter,
+                                                twitch: file.entrants[b].socials[n].twitch
+                                            },
+                                            total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
+                                        }
                                     }
-                                }
-                                if (tempd.id === 1164959) {
-                                    tempd = {
-                                        id: 991917,
-                                        name: "Amayze",
-                                        socials: {
-                                            twitter: file.entrants[b].socials[n].twitter,
-                                            twitch: file.entrants[b].socials[n].twitch
-                                        },
-                                        total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
+                                    if (tempd.id === 1164959) {
+                                        tempd = {
+                                            id: 991917,
+                                            name: "Amayze",
+                                            socials: {
+                                                twitter: file.entrants[b].socials[n].twitter,
+                                                twitch: file.entrants[b].socials[n].twitch
+                                            },
+                                            total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
+                                        }
                                     }
-                                }
-                                if (tempd.id !== 249544 && tempd.id !== 216236 && tempd.id !== 1865176) {
-                                    // ((parseInt(sa.total) * big1v1[i].tourney.type) * ((-1.08 / Math.PI) * Math.atan((Math.round((time[0] - time[i]) / day) - 180) / 40) + 0.54)).toFixed(3),
-                                    //console.log(temp);
-                                    if (tempd.total !== null) {
-                                        let sss = entrants[1].filter(u => u.id == tempd.id);
-                                        if (sss.length === 0) {
-                                            entrants[1].push(tempd)
-                                        } else {
-                                            for (var z = 0; z < entrants[1].length; z++) {
-                                                if (entrants[1][z].id === tempd.id) {
-                                                    entrants[1][z].total += tempd.total
+                                    if (tempd.id !== 249544 && tempd.id !== 216236 && tempd.id !== 1865176) {
+                                        // ((parseInt(sa.total) * big1v1[i].tourney.type) * ((-1.08 / Math.PI) * Math.atan((Math.round((time[0] - time[i]) / day) - 180) / 40) + 0.54)).toFixed(3),
+                                        //console.log(temp);
+                                        if (tempd.total !== null) {
+                                            let sss = entrants[1].filter(u => u.id == tempd.id);
+                                            if (sss.length === 0) {
+                                                entrants[1].push(tempd)
+                                            } else {
+                                                for (var z = 0; z < entrants[1].length; z++) {
+                                                    if (entrants[1][z].id === tempd.id) {
+                                                        entrants[1][z].total += tempd.total
+                                                    }
                                                 }
                                             }
                                         }
@@ -442,7 +448,7 @@ function editList(type) {
         });
     };
     for (var i = 0; i < entrants.length; i++) {
-        for (var b = 0; b < (document.getElementById("addAll").checked === false && entrants[i].length > 1000 ? 1000 : entrants[i].length); b++) {
+        for (var b = 0; b < (document.getElementById("addAll").checked === false && entrants[i].length > 500 ? 500 : entrants[i].length); b++) {
             full[i] += `
             <tr>
                 <th scope="row">${b+1}</th>
@@ -496,8 +502,8 @@ function getTourneys() {
             }
         };
         temp += '</div></div></div>'
-        for (var d = 0; d < data["power-rankings"][i].length; d++) {
-            tourneyss[i].push(data["power-rankings"][i][d]);
+        for (var d = 0; d < prTemp[i].length; d++) {
+            tourneyss[i].push(prTemp[i][d]);
         };
     };
     temp += "</div>"
