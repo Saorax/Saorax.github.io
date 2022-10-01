@@ -19,7 +19,6 @@
         "Winter Championship 2022",
         "World Championship 2021",
         "World Championship 2021 Last Chance Qualifier",
-        "World Championship 2021 Last Chance Qualifier",
         "Autumn Championship 2021",
         "Summer Championship 2021"
       ]
@@ -27,12 +26,11 @@
       "from": "Summer Championship 2022",
       "to": "Summer Championship 2021",
       "list": [
-        "Spring Championship 2022",
         "Summer Championship 2022",
+        "Spring Championship 2022",
         "OMEN Oasis Championship",
         "Winter Championship 2022",
         "World Championship 2021",
-        "World Championship 2021 Last Chance Qualifier",
         "World Championship 2021 Last Chance Qualifier",
         "Autumn Championship 2021",
         "Summer Championship 2021"
@@ -47,7 +45,6 @@
         "Winter Championship 2022",
         "World Championship 2021",
         "World Championship 2021 Last Chance Qualifier",
-        "World Championship 2021 Last Chance Qualifier",
         "Autumn Championship 2021",
         "Summer Championship 2021",
         "Spring Championship 2021"
@@ -58,6 +55,19 @@
       "to": "Winter Championship 2021",
       "list": [
         "OMEN Oasis Championship",
+        "Winter Championship 2022",
+        "World Championship 2021",
+        "World Championship 2021 Last Chance Qualifier",
+        "Autumn Championship 2021",
+        "Summer Championship 2021",
+        "Spring Championship 2021",
+        "Winter Championship 2021"
+      ]
+    },
+    {
+      "from": "Winter Championship 2022",
+      "to": "Winter Championship 2021",
+      "list": [
         "Winter Championship 2022",
         "World Championship 2021",
         "World Championship 2021 Last Chance Qualifier",

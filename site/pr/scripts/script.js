@@ -3,8 +3,9 @@ Array.prototype.remove = function (from, to) {
     this.length = from < 0 ? this.length + from : from;
     return this.push.apply(this, rest);
 };
-//const prLoss = require("./pr-loss.json");
-//const prWin = require("./pr-win.json");
+import prWin from "./pr-win.json" assert {
+    type: "json"
+};
 import data from "./data.json" assert {
     type: "json"
 };
@@ -12,6 +13,9 @@ import prTemp from "./prTemp.json" assert {
     type: "json"
 };
 import recency from "./lol.json" assert {
+    type: "json"
+};
+import siteData from "./siteData.json" assert {
     type: "json"
 };
 let years = [
@@ -24,10 +28,28 @@ var tourneyss = [
     [],
     []
 ];
-var siteData = [];
-
+let day = 1000 * 60 * 60 * 24;
+let differentRegions = [{
+    region: "AUS",
+    id: 577162
+}];
+let bannedPlayers = [1363312, 249544, 216236, 1865176];
+let combines = [{
+    id: 544695,
+    with: [1890840],
+    name: "Major"
+}, {
+    id: 991917,
+    with: [1164959],
+    name: "Asmodie"
+}, {
+    id: 1164959,
+    with: [991917],
+    name: "Asmodie"
+}];
+let gamemodes = ['1v1', '2v2']
 var tourneySlugs = [];
-
+var detailedData = [];
 function returnText(input) {
     input = input.replaceAll(" -  ", " - ");
     input = input.replaceAll("Brawlhalla Championship ", "")
@@ -59,7 +81,6 @@ function returnText(input) {
     obj.name = input[2] ? input[1] : input[0];
     return obj
 };
-let day = 1000 * 60 * 60 * 24;
 
 function tourneyL1() {
     let temp = [];
@@ -130,7 +151,6 @@ function tourneyL1() {
                             file: tempDates[i][d].title
                         })
                     };
-                    //console.log(tem)
                     temp.push(tem);
                 }
             }
@@ -151,14 +171,8 @@ function setRegionChecks() {
         document.getElementById(`region${regions[i]}`).addEventListener('change', editList);
     }
     document.getElementById('addDecay').addEventListener('change', editList);
+    document.getElementById('difRegion').addEventListener('change', editList);
     document.getElementById("addAll").addEventListener('change', editList);
-}
-
-function getTourneyList(filter) {
-    let tourn = tourneyss
-    if (filter) {
-
-    }
 };
 
 function setEvents() {
@@ -167,106 +181,16 @@ function setEvents() {
         temp.addEventListener('change', editList);
     }
 };
-async function getSiteData() {
-    let tempDates = [
-        prTemp[0].sort(function (a, b) {
-            return b.start - a.start;
-        }),
-        prTemp[1].sort(function (a, b) {
-            return b.start - a.start;
-        }),
-        prTemp[2].sort(function (a, b) {
-            return b.start - a.start;
-        })
-    ];
-    let playerArr = [];
-    for (var i = years.length; i--;) {
-        for (var d = 0; d < tempDates[i].length; d++) {
-            playerArr.push({
-                url: `./scripts/pr-rankings/${years[i]}/${tempDates[i][d].title}`
-            })
-        }
+
+function currentRecency(days) {
+    if (document.getElementById("addDecay").checked === false) {
+        return 1
     };
-
-    function createThrottle(max) {
-        if (typeof max !== 'number') {
-            throw new TypeError('`createThrottle` expects a valid Number')
-        }
-
-        let cur = 0
-        const queue = []
-
-        function throttle(fn) {
-            return new Promise((resolve, reject) => {
-                function handleFn() {
-                    if (cur < max) {
-                        throttle.current = ++cur
-                        fn()
-                            .then(val => {
-                                resolve(val)
-                                throttle.current = --cur
-                                if (queue.length > 0) {
-                                    queue.shift()()
-                                }
-                            })
-                            .catch(err => {
-                                reject(err)
-                                throttle.current = --cur
-                                if (queue.length > 0) {
-                                    queue.shift()()
-                                }
-                            })
-                    } else {
-                        queue.push(handleFn)
-                    }
-                }
-
-                handleFn()
-            })
-        }
-
-        // keep copies of the "state" for retrospection
-        throttle.current = cur
-        throttle.queue = queue
-
-        return throttle
-    };
-    const throttle = createThrottle(30);
-    const promises = playerArr.map(link => throttle(async () => {
-        const res = await fetch(link.url, {
-            "headers": {
-                "accept": "*/*",
-                "accept-language": "en-US,en;q=0.9",
-                "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"98\", \"Opera GX\";v=\"84\"",
-                "sec-ch-ua-mobile": "?0",
-                "sec-ch-ua-platform": "\"Windows\"",
-                "sec-fetch-dest": "empty",
-                "sec-fetch-mode": "cors",
-                "sec-fetch-site": "none"
-            },
-            "referrerPolicy": "strict-origin-when-cross-origin",
-            "body": null,
-            "method": "GET",
-            "mode": "cors",
-            "credentials": "omit"
-        }).then(res => res.json()).catch(err => {
-            console.log(err);
-        });
-        let data = {
-            url: link.url,
-            tourneyData: res
-        };
-        return data;
-    }));
-
-    await Promise.all(promises).then(datasets => {
-        for (var i = 0; i < datasets.length; i++) {
-            siteData.push(datasets[i])
-        };
-    });
+    return 1 / (1 + Math.pow((0.9585 * 2.718281828459045), (1 / 35 * (days) - 5.21))) + 0.006765;
+    //return (-1.08 / Math.PI) * Math.atan((days - 180) / 40) + 0.54
 };
 
-function editList(type) {
+async function editList(type) {
     let full = [
         "", ""
     ];
@@ -277,158 +201,189 @@ function editList(type) {
         []
     ];
     let tourS = ["", ""]
-    let time = [0, 0]
+    let time = [0, 0];
+    let totalTourneys = 0;
     for (var i = 0; i < tourneySlugs.length; i++) {
         let temp = document.getElementById(tourneySlugs[i]);
         if (temp.checked !== false) {
-
+            totalTourneys++;
             let tempp = tourneyL1();
-            tempp = tempp.filter(u => u.slug === tourneySlugs[i])[0];
+            tempp = tempp.filter(u => u.slug === tourneySlugs[i])[0]
             if (tourS[0] === "") {
                 tourS[0] = tempp.name;
             };
             tourS[1] = tempp.name;
-            //console.log(tempp);
-            //console.log(tourneySlugs[i])
             for (var d = 0; d < tempp.regions.length; d++) {
-                //console.log(tempp.regions[d])
                 if (document.getElementById(`region${tempp.regions[d]}`).checked === true) {
                     let regi = tourneyL1();
                     regi = regi.filter(u => u.slug === tourneySlugs[i])[0];
-                    //console.log(regi);
-                    if (regi.gamemode.includes('1v1')) {
-                        regi.files1 = regi.files1.filter(u => u.region === tempp.regions[d])[0];
-                        if (regi.files1 !== undefined) {
-                            let file = siteData.filter(u => u.url.includes(regi.files1.file))[0].tourneyData;
-                            let isStart = null;
-                            if (time[0] === 0) {
-                                time[0] = file.tourneyStart * 1000;
-                                isStart = true;
+                    for (var gg = 0; gg < gamemodes.length; gg++) {
+                        let regiFile = gg === 0 ? regi.files1.filter(u => u.region === tempp.regions[d])[0] : regi.files2.filter(u => u.region === tempp.regions[d])[0];
+                        if (regiFile !== undefined) {
+                            let file = siteData.filter(u => u.url.includes(regiFile.file))[0].tourneyData;
+                            if (time[gg] === 0) {
+                                time[gg] = file.tourneyStart * 1000
                             };
-                            for (var b = 0; b < file.entrants.length; b++) {
-                                let rece = recency[Math.round((time[0] - file.tourneyStart * 1000) / day)];
-                                if (rece === undefined || rece === 0) {
-                                    rece = (-1.08 / Math.PI) * Math.atan((Math.round((time[0] - file.tourneyStart * 1000) / day) - 180) / 40) + 0.54
-                                };
-                                if (document.getElementById("addDecay").checked === false) {
-                                    rece = 1
-                                }
-                                let tempd = {
-                                    id: file.entrants[b].socials.smash_id,
-                                    name: file.entrants[b].socials.name,
-                                    socials: {
-                                        twitter: file.entrants[b].socials.twitter,
-                                        twitch: file.entrants[b].socials.twitch
-                                    },
-                                    total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
-                                };
-                                if (tempd.id === 1890840) {
-                                    tempd = {
-                                        id: 544695,
-                                        name: "Major",
-                                        socials: {
-                                            twitter: file.entrants[b].socials.twitter,
-                                            twitch: file.entrants[b].socials.twitch
-                                        },
-                                        total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
-                                    };
-                                }
-                                if (tempd.id === 1164959) {
-                                    tempd = {
-                                        id: 991917,
-                                        name: "Amayze",
-                                        socials: {
-                                            twitter: file.entrants[b].socials.twitter,
-                                            twitch: file.entrants[b].socials.twitch
-                                        },
-                                        total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
-                                    }
-                                }
-                                if (tempd.id !== 249544 && tempd.id !== 216236 && tempd.id !== 1865176) {
-                                    // ((parseInt(sa.total) * big1v1[i].tourney.type) * ((-1.08 / Math.PI) * Math.atan((Math.round((time[0] - time[i]) / day) - 180) / 40) + 0.54)).toFixed(3),
-                                    //console.log(temp);
-                                    if (tempd.total !== null) {
-                                        let sss = entrants[0].filter(u => u.id == tempd.id);
-                                        if (sss.length === 0) {
-                                            entrants[0].push(tempd)
-                                        } else {
-                                            for (var z = 0; z < entrants[0].length; z++) {
-                                                if (entrants[0][z].id === tempd.id) {
-                                                    entrants[0][z].total += tempd.total
-                                                }
-                                            }
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    };
-                    if (regi.gamemode.includes('2v2')) {
-                        regi.files2 = regi.files2.filter(u => u.region === tempp.regions[d])[0];
-                        if (regi.files2 !== undefined) {
-                            let file = siteData.filter(u => u.url.includes(regi.files2.file))[0].tourneyData;
-                            if (time[1] === 0) {
-                                time[1] = file.tourneyStart * 1000;
-                            };
-                            let isStart = null;
-                            for (var b = 0; b < file.entrants.length; b++) {
-                                for (var n = 0; n < file.entrants[b].socials.length; n++) {
-                                    let rece = recency[Math.round((time[1] - file.tourneyStart * 1000) / day)];
+                            const promises = file.entrants.map(async function (player) {
+                                return player;
+                            });
+
+                            await Promise.all(promises).then(datasets => {
+                                for (var b = 0; b < datasets.length; b++) {
+                                    let rece = recency[Math.round((time[gg] - file.tourneyStart * 1000) / day)];
                                     if (rece === undefined || rece === 0) {
-                                        rece = (-1.08 / Math.PI) * Math.atan((Math.round((time[1] - file.tourneyStart * 1000) / day) - 180) / 40) + 0.54
+                                        rece = currentRecency(Math.round((time[gg] - file.tourneyStart * 1000) / day))
                                     };
-                                    if (document.getElementById("addDecay").checked === false) {
-                                        rece = 1
-                                    }
-                                    let tempd = {
-                                        id: file.entrants[b].socials[n].smash_id,
-                                        name: file.entrants[b].socials[n].name,
-                                        socials: {
-                                            twitter: file.entrants[b].socials[n].twitter,
-                                            twitch: file.entrants[b].socials[n].twitch
-                                        },
-                                        total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
+                                    let tempd = [];
+                                    let loss = [];
+                                    let wins = [];
+                                    for (var l = 0; l < datasets[b].entity.lossPlacement.length; l++) {
+                                        loss.push({
+                                            name: datasets[b].entity.loss[l].name,
+                                            placement: datasets[b].entity.lossPlacement[l]
+                                        })
                                     };
-                                    if (tempd.id === 1890840) {
-                                        tempd = {
-                                            id: 544695,
-                                            name: "Major",
-                                            socials: {
-                                                twitter: file.entrants[b].socials[n].twitter,
-                                                twitch: file.entrants[b].socials[n].twitch
-                                            },
-                                            total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
-                                        }
+                                    let winTemp = datasets[b].entity.wonAgainst;
+                                    for (var w = 0; w < winTemp.length; w++) {
+                                        if (w < 3) {
+                                            wins.push({
+                                                name: winTemp[w].name,
+                                                seed: winTemp[w].seed,
+                                                points: prWin[winTemp[w].seed - 1] !== undefined ? Number.parseFloat(prWin[winTemp[w].seed - 1]) : 0
+                                            });
+                                        } else break;
+                                    };
+                                    let wadt = [datasets[b].loss, 0]
+                                    for (var o = 0; o < wins.length; o++) {
+                                        wadt[1] += wins[o].points;
+                                    };
+                                    let total = rece * file.multiplier * (wadt[0] + wadt[1] + datasets[b].placement);
+                                    if (datasets[b].socials.name === "sssssssssssssssssss") {
+                                        console.log(datasets[b].socials.length)
+                                        console.log(datasets[b].socials.smash_id)
+                                        console.log(file.multiplier * (wadt[0] + wadt[1] + datasets[b].placement));
+                                        console.log(wadt[0] + wadt[1] + datasets[b].placement);
+                                        console.log(wadt);
+                                        console.log(wadt[0] + wadt[1])
+                                        console.log(total);
+                                        console.log(rece)
+                                        console.log('--------')
                                     }
-                                    if (tempd.id === 1164959) {
-                                        tempd = {
-                                            id: 991917,
-                                            name: "Amayze",
+                                    if (gg === 0) {
+                                        let tempdd = {
+                                            id: datasets[b].socials.smash_id,
+                                            name: datasets[b].socials.name,
                                             socials: {
-                                                twitter: file.entrants[b].socials[n].twitter,
-                                                twitch: file.entrants[b].socials[n].twitch
+                                                twitter: datasets[b].socials.twitter,
+                                                twitch: datasets[b].socials.twitch
                                             },
-                                            total: (parseInt(file.entrants[b].total) * file.multiplier) * rece
+                                            played: 1,
+                                            tourneyInfo: [{
+                                                dayt: Math.round((time[gg] - file.tourneyStart * 1000) / day),
+                                                tourney: tempp.name,
+                                                loss: {
+                                                    points: datasets[b].loss,
+                                                    ind: loss
+                                                },
+                                                wins: {
+                                                    points: Number.parseFloat(datasets[b].wins.toFixed(3)),
+                                                    ind: wins
+                                                },
+                                                mainPlacement: datasets[b].entity.placement,
+                                                placement: datasets[b].placement,
+                                                recency: rece,
+                                                multiplier: file.multiplier,
+                                                total: rece * file.multiplier * datasets[b].total
+                                            }],
+                                            placeArr: [datasets[b].entity.placement],
+                                            placement: datasets[b].entity.placement,
+                                            total: total
+                                        };
+                                        for (var cc = 0; cc < combines.length; cc++) {
+                                            if (combines[cc].with.includes(tempdd.id)) {
+                                                tempdd.id = combines[cc].id;
+                                                tempdd.name = combines[cc].name;
+                                            }
+                                        };
+                                        tempd.push(tempdd)
+                                    } else {
+                                        for (var n = 0; n < datasets[b].socials.length; n++) {
+                                            tempd.push({
+                                                id: datasets[b].socials[n].smash_id,
+                                                name: datasets[b].socials[n].name,
+                                                socials: {
+                                                    twitter: datasets[b].socials[n].twitter,
+                                                    twitch: datasets[b].socials[n].twitch
+                                                },
+                                                played: 1,
+                                                tourneyInfo: [{
+                                                    dayt: Math.round((time[gg] - file.tourneyStart * 1000) / day),
+                                                    tourney: tempp.name,
+                                                    loss: {
+                                                        points: datasets[b].loss,
+                                                        ind: loss
+                                                    },
+                                                    wins: {
+                                                        points: Number.parseFloat(datasets[b].wins.toFixed(3)),
+                                                        ind: wins
+                                                    },
+                                                    mainPlacement: datasets[b].entity.placement,
+                                                    placement: datasets[b].placement,
+                                                    recency: rece,
+                                                    multiplier: file.multiplier,
+                                                    total: rece * file.multiplier * datasets[b].total
+                                                }],
+                                                placeArr: [datasets[b].entity.placement],
+                                                placement: datasets[b].entity.placement,
+                                                total: total
+                                            });
+                                            for (var cc = 0; cc < combines.length; cc++) {
+                                                if (combines[cc].with.includes(tempd.id)) {
+                                                    tempd[n].id = combines[cc].id;
+                                                    tempd[n].name = combines[cc].name;
+                                                }
+                                            };
                                         }
-                                    }
-                                    if (tempd.id !== 249544 && tempd.id !== 216236 && tempd.id !== 1865176) {
-                                        // ((parseInt(sa.total) * big1v1[i].tourney.type) * ((-1.08 / Math.PI) * Math.atan((Math.round((time[0] - time[i]) / day) - 180) / 40) + 0.54)).toFixed(3),
-                                        //console.log(temp);
-                                        if (tempd.total !== null) {
-                                            let sss = entrants[1].filter(u => u.id == tempd.id);
-                                            if (sss.length === 0) {
-                                                entrants[1].push(tempd)
-                                            } else {
-                                                for (var z = 0; z < entrants[1].length; z++) {
-                                                    if (entrants[1][z].id === tempd.id) {
-                                                        entrants[1][z].total += tempd.total
-                                                    }
+                                    };
+                                    for (var t = 0; t < tempd.length; t++) {
+                                        if (!bannedPlayers.includes(tempd[t].id)) {
+                                            if (total !== null) {
+                                                let sss = entrants[gg].filter(u => u.id == tempd[t].id);
+                                                if (tourneySlugs[i] === "world-championship-2021-last-chance-qualifier-1v1") {
+                                                    if (b === 0) sss = null;
+                                                };
+                                                if ((document.getElementById("difRegion").checked === true && differentRegions.filter(u => u.id === tempd[t].id).length !== 0)) {
+                                                    sss = null;
+                                                }
+                                                if (sss !== null && sss.length === 0) {
+                                                    entrants[gg].push(tempd[t])
+                                                } else if (sss !== null) {
+                                                    entrants[gg].filter(u => u.id == tempd[t].id)[0].total += total;
+                                                    entrants[gg].filter(u => u.id == tempd[t].id)[0].placeArr.push(tempd[t].placement);
+                                                    entrants[gg].filter(u => u.id == tempd[t].id)[0].played++;
+                                                    entrants[gg].filter(u => u.id == tempd[t].id)[0].tourneyInfo.push({
+                                                        dayt: Math.round((time[gg] - file.tourneyStart * 1000) / day),
+                                                        tourney: tempp.name,
+                                                        loss: {
+                                                            points: datasets[b].loss,
+                                                            ind: loss
+                                                        },
+                                                        wins: {
+                                                            points: datasets[b].wins,
+                                                            ind: wins
+                                                        },
+                                                        mainPlacement: datasets[b].entity.placement,
+                                                        placement: datasets[b].placement,
+                                                        recency: rece,
+                                                        multiplier: file.multiplier,
+                                                        total: Number.parseFloat(total.toFixed(3))
+                                                    })
                                                 }
                                             }
                                         }
                                     }
-                                }
-                            }
+                                };
+                            });
                         }
                     };
                 };
@@ -437,7 +392,12 @@ function editList(type) {
     };
     for (var g = 0; g < entrants.length; g++) {
         for (var v = 0; v < entrants[g].length; v++) {
-            if (isNaN(entrants[g][v].total) === true) {
+            let tems = false;
+            if ((entrants[g][v].played / totalTourneys * 100) < 25 && entrants[g][v].total < 5) {
+                entrants[g].remove(v)
+                tems = true;
+            }
+            if (tems !== true && isNaN(entrants[g][v].total) === true) {
                 entrants[g].remove(v)
             }
         }
@@ -447,20 +407,93 @@ function editList(type) {
             return b.total - a.total;
         });
     };
+    detailedData = [];
     for (var i = 0; i < entrants.length; i++) {
-        for (var b = 0; b < (document.getElementById("addAll").checked === false && entrants[i].length > 500 ? 500 : entrants[i].length); b++) {
+        for (var b = 0; b < (document.getElementById("addAll").checked === false && entrants[i].length > 300 ? 300 : entrants[i].length); b++) {
+            let stata = "";
+            for (var ss = 0; ss < entrants[i][b].tourneyInfo.length; ss++) {
+                let tme = entrants[i][b].tourneyInfo[ss];
+                let lossText = `<span class="tss-zapqqm-body16" style="font-size: 1.1rem">no losses</span>`;
+                if (tme.loss.ind.length !== 0) lossText = "";
+                for (var ll = 0; ll < tme.loss.ind.length; ll++) {
+                    lossText += `${ll === 0 ? "" : "<br>"}
+                    <span>
+                        <span class="mui-thceyd-header20" style="font-size: 1.2rem">${tme.loss.ind[ll].name}</span>
+                        <span class="tss-zapqqm-body16" style="font-size: 1.0rem"> (placed ${ordinal(tme.loss.ind[ll].placement)})</span>
+                    </span>`
+                }
+                let winText = `<span class="tss-zapqqm-body16" style="font-size: 1.1rem">no wins</span>`;
+                if (tme.wins.ind.length !== 0) winText = "";
+                for (var ll = 0; ll < tme.wins.ind.length; ll++) {
+                    winText += `${ll === 0 ? "" : "<br>"}
+                    <span>
+                        <span class="mui-thceyd-header20" style="font-size: 1.2rem">${tme.wins.ind[ll].name}</span>
+                        <span class="tss-zapqqm-body16" style="font-size: 1.0rem"> (seeded ${ordinal(tme.wins.ind[ll].seed)} | <text style="color: #7ab15b">+${tme.wins.ind[ll].points}</text>)</span>
+                    </span>`
+                }
+                stata += `${ss === 0 ? "" : "<br><br>"}
+                <div>
+                    <span>
+                        <span class="mui-thceyd-header20">${tme.tourney}</span>
+                        <span class="tss-zapqqm-body16"> ( x${tme.multiplier.toFixed(2)} )</span>
+                    </span>
+                    <br>
+                    <h4>${tme.dayt === 0 ? "start date" : `${tme.dayt} days`} | ${ordinal(tme.mainPlacement)} place ( <text style="color: #7ab15b">+${tme.placement}</text> )</h4>
+                    <br>
+                    <h4>Wins ( <text style="color: #7ab15b">+${tme.wins.points}</text> )</h4>
+                    <div class="">
+                        ${winText}
+                    </div>
+                    <br>
+                    <h4>Losses ( <text style="color: #7ab15b">+${tme.loss.points}</text> )</h4>
+                    <div class="">
+                        ${lossText}
+                    </div>
+                    <br>
+                    <div>
+                        <h6>Total (no recency & multiplier): <text style="color: #7ab15b">${tme.total*tme.multiplier}</text></h6>
+                        <h6>Total (no recency): <text style="color: #7ab15b">${tme.total}</text></h6>
+                        <h6>Total (recency): <text style="color: #7ab15b">${tme.total*tme.recency}</text></h6>
+                        <h6>Total (recency & multiplier): <text style="color: #7ab15b">${tme.total*tme.recency*tme.multiplier}</text></h6>
+                    </div>
+                </div>
+                `;
+            }
+            detailedData.push({
+                id: entrants[i][b].id,
+                data: stata
+            });
             full[i] += `
             <tr>
-                <th scope="row">${b+1}</th>
+                <th scope="row">${i === 1 && b > 0 && entrants[i][b].total === entrants[i][b-1].total ? b : b+1}</th>
                 <td>${entrants[i][b].socials.twitter !== null ? '<a target="_blank" href="https://twitter.com/'+entrants[i][b].socials.twitter+'"><img src="../../images/twitter.png"></a>' : ""} ${entrants[i][b].socials.twitch !== null ? '<a target="_blank" href="https://twitch.tv/'+entrants[i][b].socials.twitch+'"><img src="../../images/twitch.png"></a>' : ""}</td>
                 <td>${entrants[i][b].name}</td>
                 <td>${entrants[i][b].total}</td>
+                <td>
+                <a href="javascript:void(0)" class="btn btn-secondary bg-dark btn-sm" style="width:100%" onclick="getElementById(\'detailed${i+1}\').innerHTML = detailedData.filter(i => i.id === ${entrants[i][b].id})[${i}].data">Detailed Points >></a>
+                </td>
             </tr>`
         }
     };
+    window.detailedData = detailedData
     customPr.innerHTML = full[0];
     temp2s.innerHTML = full[1];
     document.getElementById("tourneyLength").innerHTML = `${tourS[1]} - ${tourS[0]}`
+};
+
+function ordinal(i) {
+    var j = i % 10,
+        k = i % 100;
+    if (j == 1 && k != 11) {
+        return i + "st";
+    }
+    if (j == 2 && k != 12) {
+        return i + "nd";
+    }
+    if (j == 3 && k != 13) {
+        return i + "rd";
+    }
+    return i + "th";
 };
 
 function tourneyLists() {
@@ -527,33 +560,45 @@ function changePreset(type) {
                 document.getElementById(tourneySlugs[i]).checked = true
             }
         };
-        //dateTemp.length === 1 && dateTemp[0].list.includes(tourneySlugs[i]) === true ? document.getElementById(tourneySlugs[i]).checked = true : document.getElementById(tourneySlugs[i]).checked = false
     };
     editList();
-    //console.log(type)
 };
 
+function detailedDataGet(id, mode) {
+    document.getElementById(`detailed${mode}`).innerHTML = detailedData.filter(i => i.id === id)[0].data
+}
+function getTime() {
+    let date = new Date(1664666507478).toLocaleString().split(" ");
+    return `last updated: ${date[0]} ${date[1].split(":")[0]}:${date[1].split(":")[1]} ${date[2]}`
+}
 (async () => {
+    document.getElementById("lastUpdated").innerHTML = getTime()
+    console.time('tourney list 1')
     tourneyL1();
+    console.timeEnd('tourney list 1')
+    console.time('tourney list 2')
     tourneyLists();
+    console.timeEnd('tourney list 2')
+    console.time('tourney list 3')
     getTourneys();
+    console.timeEnd('tourney list 3')
+    console.time('events')
     setEvents();
+    console.timeEnd('events')
+    console.time('region events')
     setRegionChecks();
-    await getSiteData();
-    editList();
-})();
-(function () {
-    'use strict'
+    console.timeEnd('region events');
+    console.time('main list')
+    await editList();
+    console.timeEnd('main list');
     var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
     tooltipTriggerList.forEach(function (tooltipTriggerEl) {
         new bootstrap.Tooltip(tooltipTriggerEl)
     });
-    var clusterize = new Clusterize({
-        scrollId: 'scrollArea',
-        contentId: 'myPr'
-    });
-    var clusterize1 = new Clusterize({
-        scrollId: 'scrollArea1',
-        contentId: 'officialPr'
-    });
+    const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
+    const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
+})();
+(function () {
+    'use strict'
+
 })()

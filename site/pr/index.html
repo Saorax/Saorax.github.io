@@ -21,7 +21,7 @@
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/0.19.0/clusterize.css" rel="stylesheet">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/clusterize.js/0.19.0/clusterize.min.js"></script>
 	<script type="module" src="./scripts/script.js"></script>
-	
+	<script src="./scripts/jquery.js"></script>
 </head>
 
 <body class="bg-dark text-light">
@@ -63,15 +63,17 @@
 	<p />
 	<div class="bg-faded" id="page_loader">
 		<div>
-			<h3 id="tourneyLength" style="text-align:center">Tourney Start - Tourney End</h3>
-			<div class="d-flex" style="max-height:87%">
+			<div class="d-flex" style="max-height: 92%">
 				<div class="sidebarFilters me-2 noselect" style="overflow:auto; width:25%">
 					<div>
-						<span style="white-space: pre-line; font-size: 1.2rem">Last Updated: 9/26/2022 @ 8:14am EST</span>
+						<h3 style="font-size: 1.2rem; text-align: center;" id="lastUpdated"></h3>
 						<br>
-						<br>
-						<span style="white-space: pre-line">These are ESTIMATED POWER RANKINGS.</span>
-						<span style="white-space: pre-line"><br>They will NOT be 100% accurate, especially past the 200s</span>
+						<h3 style="font-size: 1.1rem; text-align: center;">
+							<span>These are ESTIMATED POWER RANKINGS.</span>
+							<span><br>They will NOT be 100% accurate, especially past PR 150.</span>
+							<br>
+							<span><br>BMG has a weird selection process for PR 150+ that I'm trying to mimic</span>
+						</h3>
 					</div>
 					<div style="border-color:ghostwhite; border-width: 2px; border-style: solid; border-radius: 1rem;">
 						<h2 class="mt-2 ms-2 me-2" style="text-align: center;">Filters</h2>
@@ -86,10 +88,19 @@
 									Date Decay</label>
 							</div>
 							<div class="form-check form-switch">
+								<input class="form-check-input" type="checkbox" id="difRegion"
+									style="font-size: 1.2rem;">
+								<label class="form-check-label" for="difRegion" style="font-size: 1.2rem;"
+									data-bs-toggle="tooltip" data-bs-placement="right"
+									title="Removes users that aren't in their home region (e.g: Dummy showing up in AUS when he's in EU)">Different
+									Regions</label>
+							</div>
+							<div class="form-check form-switch">
 								<input class="form-check-input" type="checkbox" id="addAll" style="font-size: 1.2rem;">
 								<label class="form-check-label" for="addAll" style="font-size: 1.2rem;"
 									data-bs-toggle="tooltip" data-bs-placement="right" data-bs-html="true"
-									title="(NOT RECOMMENDED)<br>Will take longer to get results, and will use a lot of PC resources">Remove 500 player limit</label>
+									title="(NOT RECOMMENDED)<br>Will take longer to get results, and will use a lot of PC resources">Remove
+									300 player limit</label>
 							</div>
 						</div>
 						<hr>
@@ -143,47 +154,96 @@
 						</div>
 					</div>
 				</div>
-				<div class="d-flex justify-content-center" style="width:75%">
-					<div style="overflow:auto; width:50%" id="scrollArea">
-						<table class="table table-dark table-striped table-borderless"
-							style="table-layout: auto">
-							<h3 style="text-align:center">1v1</h3>
-							<thead>
-								<tr>
-									<th scope="col">Rank</th>
-									<th scope="col">Socials</th>
-									<th scope="col">Username</th>
-									<th scope="col">Estimated Points</th>
-								</tr>
-							</thead>
-							<tbody class="table-group-divider" id="myPr">
+				<div class="" style="width:75%">
+					<div class="tab-content" id="myTabContent">
+						<h3 id="tourneyLength" style="text-align:center">start - end</h3>
+						<div class="tab-pane fade show active" id="rankingsya" role="tabpanel"
+							aria-labelledby="profile-tab">
+							<div class="d-flex justify-content-center" style="text-align:center">
+								<div>
+									<ul class="nav nav-tabs mt-auto" id="myTab" role="tablist"
+										style="border-style:unset; font-size:1.7rem;">
+										<li class="nav-item" role="presentation">
+											<button class="nav-link active navTabs" id="ones-tab" data-bs-toggle="tab"
+												data-bs-target="#onesPr" type="button" role="tab" aria-controls="onesPr"
+												aria-selected="true"
+												style="color: rgba(255,255,255,.55)!important; background-color: unset!important">1v1
+												Rankings</button>
+										</li>
+										<li class="nav-item" role="presentation">
+											<button class="nav-link navTabs" id="twos-tab" data-bs-toggle="tab"
+												data-bs-target="#twosPr" type="button" role="tab" aria-controls="twosPr"
+												aria-selected="false"
+												style="color: rgba(255,255,255,.55)!important; background-color: unset!important;">2v2
+												Rankings</button>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="tab-content" style="max-height: 88.7%; overflow:auto">
+								<div class="tab-pane show active" id="onesPr" role="tabpanel" aria-labelledby="ones-tab"
+									style="overflow:unset">
+									<div class="d-flex">
+										<div style="width:60%; overflow: auto; height: 81vh;">
+											<div class="container">
+												<table class="table table-dark table-striped table-borderless"
+													style="table-layout: auto; margin-bottom: unset;">
+													<thead>
+														<tr>
+															<th scope="col">Rank</th>
+															<th scope="col">Socials</th>
+															<th scope="col">Username</th>
+															<th scope="col">Estimated Points</th>
+															<th scope="col">Estimated Points</th>
+														</tr>
+													</thead>
+													<tbody class="table-group-divider" id="myPr"></tbody>
+												</table>
+											</div>
+										</div>
+										<div class="px-3" style="width:40%;">
+											<h3 style="text-align:center">Detailed Points</h3>
+											<div id="detailed1" style="overflow: auto;height: 77vh;">
 
-							</tbody>
-						</table>
-					</div>
-					<div class="vr "></div>
-					<div style="overflow:auto; width:50%" id="scrollArea1">
-						<table class="table table-dark table-striped table-borderless"
-							style="table-layout: auto">
-							<h3 style="text-align:center">2v2</h3>
-							<thead>
-								<tr>
-									<th scope="col">Rank</th>
-									<th scope="col">Socials</th>
-									<th scope="col">Username</th>
-									<th scope="col">Estimated Points</th>
-								</tr>
-							</thead>
-							<tbody class="table-group-divider" id="officialPr">
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="tab-pane show" id="twosPr" role="tabpanel" aria-labelledby="twos-tab"
+									style="overflow:unset">
+									<div class="d-flex">
+										<div style="width:60%; overflow: auto; height: 81vh;">
+											<div class="container">
+												<table class="table table-dark table-striped table-borderless"
+													style="table-layout: auto; margin-bottom: unset;">
+													<thead>
+														<tr>
+															<th scope="col">Rank</th>
+															<th scope="col">Socials</th>
+															<th scope="col">Username</th>
+															<th scope="col">Estimated Points</th>
+															<th scope="col">Estimated Points</th>
+														</tr>
+													</thead>
+													<tbody class="table-group-divider" id="officialPr"></tbody>
+												</table>
+											</div>
+										</div>
+										<div class="px-3" style="width:40%;">
+											<h3 style="text-align:center">Detailed Points</h3>
+											<div id="detailed2" style="overflow: auto;height: 77vh;">
 
-							</tbody>
-						</table>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	<script src="./scripts/d.js"></script>
 </body>
 
 </html>
