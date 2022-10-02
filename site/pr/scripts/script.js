@@ -50,6 +50,7 @@ let combines = [{
 let gamemodes = ['1v1', '2v2']
 var tourneySlugs = [];
 var detailedData = [];
+
 function returnText(input) {
     input = input.replaceAll(" -  ", " - ");
     input = input.replaceAll("Brawlhalla Championship ", "")
@@ -229,9 +230,19 @@ async function editList(type) {
                             });
 
                             await Promise.all(promises).then(datasets => {
-                                for (var b = 0; b < datasets.length; b++) {
+                                for (var v = 0; v < datasets.length; v++) {
+                                    if (isNaN(datasets[v].total) === true) {
+                                        datasets.remove(v)
+                                    }
+                                }
+                                datasets.sort(function (a, b) {
+                                    return Number.parseFloat(b.total) - Number.parseFloat(a.total);
+                                });
+                                let leng = datasets.length > 2000 ? datasets.length/2 : datasets.length;
+                                //let leng = document.getElementById("addAll").checked === false ? datasets.length < 500 ? datasets.length : 500 : datasets.length;
+                                for (var b = 0; b < leng; b++) {
                                     let rece = recency[Math.round((time[gg] - file.tourneyStart * 1000) / day)];
-                                    if (rece === undefined || rece === 0) {
+                                    if (rece === undefined || rece === 0 || rece !== 1) {
                                         rece = currentRecency(Math.round((time[gg] - file.tourneyStart * 1000) / day))
                                     };
                                     let tempd = [];
@@ -282,7 +293,7 @@ async function editList(type) {
                                                 dayt: Math.round((time[gg] - file.tourneyStart * 1000) / day),
                                                 tourney: tempp.name,
                                                 loss: {
-                                                    points: datasets[b].loss,
+                                                    points: datasets[b].loss !== undefined ? datasets[b].loss : 0.7,
                                                     ind: loss
                                                 },
                                                 wins: {
@@ -320,7 +331,7 @@ async function editList(type) {
                                                     dayt: Math.round((time[gg] - file.tourneyStart * 1000) / day),
                                                     tourney: tempp.name,
                                                     loss: {
-                                                        points: datasets[b].loss,
+                                                        points: datasets[b].loss !== undefined ? datasets[b].loss : 0.7,
                                                         ind: loss
                                                     },
                                                     wins: {
@@ -365,7 +376,7 @@ async function editList(type) {
                                                         dayt: Math.round((time[gg] - file.tourneyStart * 1000) / day),
                                                         tourney: tempp.name,
                                                         loss: {
-                                                            points: datasets[b].loss,
+                                                            points: datasets[b].loss !== undefined ? datasets[b].loss : 0.7,
                                                             ind: loss
                                                         },
                                                         wins: {
@@ -407,9 +418,9 @@ async function editList(type) {
             return b.total - a.total;
         });
     };
-    detailedData = [];
+    detailedData = [[],[]];
     for (var i = 0; i < entrants.length; i++) {
-        for (var b = 0; b < (document.getElementById("addAll").checked === false && entrants[i].length > 300 ? 300 : entrants[i].length); b++) {
+        for (var b = 0; b < (document.getElementById("addAll").checked === false ? entrants[i].length < 500 ? entrants[i].length : 500 : entrants[i].length); b++) {
             let stata = "";
             for (var ss = 0; ss < entrants[i][b].tourneyInfo.length; ss++) {
                 let tme = entrants[i][b].tourneyInfo[ss];
@@ -440,26 +451,26 @@ async function editList(type) {
                     <br>
                     <h4>${tme.dayt === 0 ? "start date" : `${tme.dayt} days`} | ${ordinal(tme.mainPlacement)} place ( <text style="color: #7ab15b">+${tme.placement}</text> )</h4>
                     <br>
-                    <h4>Wins ( <text style="color: #7ab15b">+${tme.wins.points}</text> )</h4>
+                    <h4>Wins ( <text style="color: #7ab15b">+${tme.wins.points.toFixed(3)}</text> )</h4>
                     <div class="">
                         ${winText}
                     </div>
                     <br>
-                    <h4>Losses ( <text style="color: #7ab15b">+${tme.loss.points}</text> )</h4>
+                    <h4>Losses ( <text style="color: #7ab15b">+${tme.loss.points.toFixed(3)}</text> )</h4>
                     <div class="">
                         ${lossText}
                     </div>
                     <br>
                     <div>
-                        <h6>Total (no recency & multiplier): <text style="color: #7ab15b">${tme.total*tme.multiplier}</text></h6>
-                        <h6>Total (no recency): <text style="color: #7ab15b">${tme.total}</text></h6>
-                        <h6>Total (recency): <text style="color: #7ab15b">${tme.total*tme.recency}</text></h6>
-                        <h6>Total (recency & multiplier): <text style="color: #7ab15b">${tme.total*tme.recency*tme.multiplier}</text></h6>
+                        <h6>Total (no recency): <text style="color: #7ab15b">${(tme.wins.points+tme.loss.points+tme.placement).toFixed(3)}</text></h6>
+                        <h6>Total (no recency & multiplier): <text style="color: #7ab15b">${((tme.wins.points+tme.loss.points+tme.placement)*tme.multiplier).toFixed(3)}</text></h6>
+                        <h6>Total (recency): <text style="color: #7ab15b">${((tme.wins.points+tme.loss.points+tme.placement)*tme.recency)}</text></h6>
+                        <h6>Total (recency & multiplier): <text style="color: #7ab15b">${((tme.wins.points+tme.loss.points+tme.placement)*tme.multiplier*tme.recency)}</text></h6>
                     </div>
                 </div>
                 `;
             }
-            detailedData.push({
+            detailedData[i].push({
                 id: entrants[i][b].id,
                 data: stata
             });
@@ -470,7 +481,7 @@ async function editList(type) {
                 <td>${entrants[i][b].name}</td>
                 <td>${entrants[i][b].total}</td>
                 <td>
-                <a href="javascript:void(0)" class="btn btn-secondary bg-dark btn-sm" style="width:100%" onclick="getElementById(\'detailed${i+1}\').innerHTML = detailedData.filter(i => i.id === ${entrants[i][b].id})[${i}].data">Detailed Points >></a>
+                <a href="javascript:void(0)" class="btn btn-secondary bg-dark btn-sm" style="width:100%" onclick="console.log(${entrants[i][b].id});getElementById(\'detailed${i+1}\').innerHTML = detailedData[${i}].filter(i => i.id === ${entrants[i][b].id})[0].data">Detailed Points >></a>
                 </td>
             </tr>`
         }
@@ -567,6 +578,7 @@ function changePreset(type) {
 function detailedDataGet(id, mode) {
     document.getElementById(`detailed${mode}`).innerHTML = detailedData.filter(i => i.id === id)[0].data
 }
+
 function getTime() {
     let date = new Date(1664666507478).toLocaleString().split(" ");
     return `last updated: ${date[0]} ${date[1].split(":")[0]}:${date[1].split(":")[1]} ${date[2]}`
