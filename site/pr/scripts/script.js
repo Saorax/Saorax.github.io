@@ -581,7 +581,7 @@ function detailedDataGet(id, mode) {
 }
 
 function getTime() {
-    let date = new Date(1664832903126).toLocaleString().split(" ");
+    let date = new Date(1664836111071).toLocaleString().split(" ");
     return `last updated: ${date[0]} ${date[1].split(":")[0]}:${date[1].split(":")[1]} ${date[2]}`
 }
 (async () => {
