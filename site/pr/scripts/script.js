@@ -42,10 +42,6 @@ let combines = [{
     id: 991917,
     with: [1164959],
     name: "Asmodie"
-}, {
-    id: 1164959,
-    with: [991917],
-    name: "Asmodie"
 }];
 let gamemodes = ['1v1', '2v2']
 var tourneySlugs = [];
@@ -354,7 +350,7 @@ async function editList(type) {
                                                 total: ((datasets[b].loss !== undefined ? Number.parseFloat(datasets[b].loss) : 0.7) + Number.parseFloat(datasets[b].wins.toFixed(3)) + datasets[b].placement) * file.multiplier * rece
                                             });
                                             for (var cc = 0; cc < combines.length; cc++) {
-                                                if (combines[cc].with.includes(tempd.id)) {
+                                                if (combines[cc].with.includes(tempd[n].id)) {
                                                     tempd[n].id = combines[cc].id;
                                                     tempd[n].name = combines[cc].name;
                                                 }
