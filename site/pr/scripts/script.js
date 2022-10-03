@@ -184,11 +184,14 @@ function setEvents() {
 };
 
 function currentRecency(days) {
-    if (document.getElementById("addDecay").checked === false) {
-        return 1
-    };
-    return 1 / (1 + Math.pow((0.9585 * 2.718281828459045), (1 / 35 * (days) - 5.21))) + 0.006765;
-    //return (-1.08 / Math.PI) * Math.atan((days - 180) / 40) + 0.54
+    let tems = recency[days];
+    if (tems === undefined || tems === 0) {
+        console.log(days)
+        return 1 / (1 + Math.pow((0.9585 * 2.718281828459045), (((1 / 35) * days) - 5.21))) + 0.006765;
+    } else {
+        if (document.getElementById("addDecay").checked === false) return 1;
+        return tems
+    }
 };
 
 async function editList(type) {
@@ -225,10 +228,15 @@ async function editList(type) {
                             if (time[gg] === 0) {
                                 time[gg] = file.tourneyStart * 1000
                             };
+                        }
+                    }
+                    for (var gg = 0; gg < gamemodes.length; gg++) {
+                        let regiFile = gg === 0 ? regi.files1.filter(u => u.region === tempp.regions[d])[0] : regi.files2.filter(u => u.region === tempp.regions[d])[0];
+                        if (regiFile !== undefined) {
+                            let file = siteData.filter(u => u.url.includes(regiFile.file))[0].tourneyData;
                             const promises = file.entrants.map(async function (player) {
                                 return player;
                             });
-
                             await Promise.all(promises).then(datasets => {
                                 for (var v = 0; v < datasets.length; v++) {
                                     if (isNaN(datasets[v].total) === true) {
@@ -241,10 +249,7 @@ async function editList(type) {
                                 let leng = datasets.length > 2000 ? datasets.length/2 : datasets.length;
                                 //let leng = document.getElementById("addAll").checked === false ? datasets.length < 500 ? datasets.length : 500 : datasets.length;
                                 for (var b = 0; b < leng; b++) {
-                                    let rece = recency[Math.round((time[gg] - file.tourneyStart * 1000) / day)];
-                                    if (rece === undefined || rece === 0 || rece !== 1) {
-                                        rece = currentRecency(Math.round((time[gg] - file.tourneyStart * 1000) / day))
-                                    };
+                                    let rece = currentRecency(Math.round((time[gg] - file.tourneyStart * 1000) / day));
                                     let tempd = [];
                                     let loss = [];
                                     let wins = [];
@@ -304,11 +309,11 @@ async function editList(type) {
                                                 placement: datasets[b].placement,
                                                 recency: rece,
                                                 multiplier: file.multiplier,
-                                                total: rece * file.multiplier * datasets[b].total
+                                                total: ((datasets[b].loss !== undefined ? Number.parseFloat(datasets[b].loss) : 0.7) + Number.parseFloat(datasets[b].wins.toFixed(3)) + datasets[b].placement) * file.multiplier * rece
                                             }],
                                             placeArr: [datasets[b].entity.placement],
                                             placement: datasets[b].entity.placement,
-                                            total: total
+                                            total: ((datasets[b].loss !== undefined ? Number.parseFloat(datasets[b].loss) : 0.7) + Number.parseFloat(datasets[b].wins.toFixed(3)) + datasets[b].placement) * file.multiplier * rece
                                         };
                                         for (var cc = 0; cc < combines.length; cc++) {
                                             if (combines[cc].with.includes(tempdd.id)) {
@@ -342,11 +347,11 @@ async function editList(type) {
                                                     placement: datasets[b].placement,
                                                     recency: rece,
                                                     multiplier: file.multiplier,
-                                                    total: rece * file.multiplier * datasets[b].total
+                                                    total: ((datasets[b].loss !== undefined ? Number.parseFloat(datasets[b].loss) : 0.7) + Number.parseFloat(datasets[b].wins.toFixed(3)) + datasets[b].placement) * file.multiplier * rece
                                                 }],
                                                 placeArr: [datasets[b].entity.placement],
                                                 placement: datasets[b].entity.placement,
-                                                total: total
+                                                total: ((datasets[b].loss !== undefined ? Number.parseFloat(datasets[b].loss) : 0.7) + Number.parseFloat(datasets[b].wins.toFixed(3)) + datasets[b].placement) * file.multiplier * rece
                                             });
                                             for (var cc = 0; cc < combines.length; cc++) {
                                                 if (combines[cc].with.includes(tempd.id)) {
@@ -369,7 +374,7 @@ async function editList(type) {
                                                 if (sss !== null && sss.length === 0) {
                                                     entrants[gg].push(tempd[t])
                                                 } else if (sss !== null) {
-                                                    entrants[gg].filter(u => u.id == tempd[t].id)[0].total += total;
+                                                    entrants[gg].filter(u => u.id == tempd[t].id)[0].total += ((datasets[b].loss !== undefined ? Number.parseFloat(datasets[b].loss) : 0.7) + Number.parseFloat(datasets[b].wins.toFixed(3)) + datasets[b].placement) * file.multiplier * rece;
                                                     entrants[gg].filter(u => u.id == tempd[t].id)[0].placeArr.push(tempd[t].placement);
                                                     entrants[gg].filter(u => u.id == tempd[t].id)[0].played++;
                                                     entrants[gg].filter(u => u.id == tempd[t].id)[0].tourneyInfo.push({
@@ -387,7 +392,7 @@ async function editList(type) {
                                                         placement: datasets[b].placement,
                                                         recency: rece,
                                                         multiplier: file.multiplier,
-                                                        total: Number.parseFloat(total.toFixed(3))
+                                                        total: ((datasets[b].loss !== undefined ? Number.parseFloat(datasets[b].loss) : 0.7) + Number.parseFloat(datasets[b].wins.toFixed(3)) + datasets[b].placement) * file.multiplier * rece
                                                     })
                                                 }
                                             }
@@ -580,7 +585,7 @@ function detailedDataGet(id, mode) {
 }
 
 function getTime() {
-    let date = new Date(1664666507478).toLocaleString().split(" ");
+    let date = new Date(1664769907544).toLocaleString().split(" ");
     return `last updated: ${date[0]} ${date[1].split(":")[0]}:${date[1].split(":")[1]} ${date[2]}`
 }
 (async () => {
