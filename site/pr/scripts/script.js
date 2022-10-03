@@ -585,7 +585,7 @@ function detailedDataGet(id, mode) {
 }
 
 function getTime() {
-    let date = new Date(1664822800684).toLocaleString().split(" ");
+    let date = new Date(1664832903126).toLocaleString().split(" ");
     return `last updated: ${date[0]} ${date[1].split(":")[0]}:${date[1].split(":")[1]} ${date[2]}`
 }
 (async () => {
@@ -615,7 +615,3 @@ function getTime() {
     const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
     const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
 })();
-(function () {
-    'use strict'
-
-})()
