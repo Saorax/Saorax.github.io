@@ -1021,7 +1021,7 @@ async function loadTourneyData(year, one, two) {
                         wins += phaseData[i].sets[s].self.slots.standing.stats.score.value;
                     }
                 }
-                let playerL = await fetch(`https://saorax.github.io/pl/${phaseData[i].sets[s].opponent.data[0].id}.json`, {
+                let playerL = await fetch(`https://saorax-pl.github.io/players/pl/${phaseData[i].sets[s].opponent.data[0].id}.json`, {
                     "headers": {
                         "accept": "*/*",
                         "accept-language": "en-US,en;q=0.9",
@@ -1284,7 +1284,7 @@ async function loadTourneyData(year, one, two) {
                     }
                 };
                 if (phaseData[i].sets[s].opponent.data.id) {
-                    let playerL = await fetch(`https://saorax.github.io/pl/${phaseData[i].sets[s].opponent.data.id}.json`, {
+                    let playerL = await fetch(`https://saorax-pl.github.io/players/pl/${phaseData[i].sets[s].opponent.data.id}.json`, {
                         "headers": {
                             "accept": "*/*",
                             "accept-language": "en-US,en;q=0.9",
@@ -1450,7 +1450,7 @@ async function loadPlayer(id) {
     playerDiv[0].style.display = "none";
     let play;
     if (currentPlay === undefined) {
-        play = await fetch(`https://saorax.github.io/pl/${id}.json`, {
+        play = await fetch(`https://saorax-pl.github.io/players/pl/${id}.json`, {
             "headers": {
                 "accept": "*/*",
                 "accept-language": "en-US,en;q=0.9",
@@ -1511,7 +1511,7 @@ async function loadPlayer(id) {
         };
     } else {
         if (currentPlay.id !== id) {
-            play = await fetch(`https://saorax.github.io/pl/${id}.json`, {
+            play = await fetch(`https://saorax-pl.github.io/players/pl/${id}.json`, {
                 "headers": {
                     "accept": "*/*",
                     "accept-language": "en-US,en;q=0.9",
@@ -2322,7 +2322,7 @@ async function changeOtherStats(type) {
                 for (var i in playerHistory) {
                     tempLeng1++;
                     playerArr.push({
-                        url: `https://saorax.github.io/pl/${playerHistory[i].smashId}.json`,
+                        url: `https://saorax-pl.github.io/players/pl/${playerHistory[i].smashId}.json`,
                         playerData: playerHistory[i]
                     });
                 };
@@ -3047,7 +3047,7 @@ async function changeViewType(type) {
                         if (tempd.length === 0) {
                             let playerL;
                             if (phaseData[f].sets[g].opponent.data.length === 2) {
-                                playerL = await fetch(`https://saorax.github.io/pl/${phaseData[f].sets[g].opponent.data[0].id}.json`, {
+                                playerL = await fetch(`https://saorax-pl.github.io/players/pl/${phaseData[f].sets[g].opponent.data[0].id}.json`, {
                                     "headers": {
                                         "accept": "*/*",
                                         "accept-language": "en-US,en;q=0.9",
@@ -3074,7 +3074,7 @@ async function changeViewType(type) {
                                     });
                                 }
                             } else {
-                                playerL = await fetch(`https://saorax.github.io/pl/${phaseData[f].sets[g].opponent.data.id}.json`, {
+                                playerL = await fetch(`https://saorax-pl.github.io/players/pl/${phaseData[f].sets[g].opponent.data.id}.json`, {
                                     "headers": {
                                         "accept": "*/*",
                                         "accept-language": "en-US,en;q=0.9",
@@ -3128,7 +3128,7 @@ async function changeViewType(type) {
                         if (phaseData[f].sets[g].opponent.name === userTourneyData[curTourn[0]][curTourn[1]][curTourn[2]].data.main.loss[i].name && phaseData[f].sets[g].winner !== userTourneyData[curTourn[0]][curTourn[1]][curTourn[2]].data.main.entity) {
                             let playerL;
                             if (phaseData[f].sets[g].opponent.data.length === 2) {
-                                playerL = await fetch(`https://saorax.github.io/pl/${phaseData[f].sets[g].opponent.data[0].id}.json`, {
+                                playerL = await fetch(`https://saorax-pl.github.io/players/pl/${phaseData[f].sets[g].opponent.data[0].id}.json`, {
                                     "headers": {
                                         "accept": "*/*",
                                         "accept-language": "en-US,en;q=0.9",
@@ -3155,7 +3155,7 @@ async function changeViewType(type) {
                                     });
                                 }
                             } else {
-                                playerL = await fetch(`https://saorax.github.io/pl/${phaseData[f].sets[g].opponent.data.id}.json`, {
+                                playerL = await fetch(`https://saorax-pl.github.io/players/pl/${phaseData[f].sets[g].opponent.data.id}.json`, {
                                     "headers": {
                                         "accept": "*/*",
                                         "accept-language": "en-US,en;q=0.9",
