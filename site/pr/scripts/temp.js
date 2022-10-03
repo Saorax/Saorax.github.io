@@ -10,13 +10,16 @@ let tourneys = [
     []
 ];
 const prTemp = require("./prTemp.json");
+const recency = require("./lol.json");
 let siteData = [];
+
 function prFiles() {
     for (var i = 0; i < years.length; i++) {
         fs.readdirSync(`./pr-rankings/${years[i]}/`).forEach(function (file) {
             let aha = JSON.parse(fs.readFileSync(`${__dirname}/pr-rankings/${years[i]}/${file}`));
             tourneys[i].push({
                 title: file,
+                entrants: file.entrants.length,
                 start: aha.tourneyStart
             })
         });
@@ -47,7 +50,7 @@ async function getSiteData() {
         }
     };
     const promises = playerArr.map(async function (link) {
-        const res =  JSON.parse(fs.readFileSync(link.url.replace("./scripts/", "./")));
+        const res = JSON.parse(fs.readFileSync(link.url.replace("./scripts/", "./")));
         let data = {
             url: link.url,
             tourneyData: res
@@ -65,7 +68,19 @@ async function getSiteData() {
     });
 };
 
+function recencyTesting() {
+    let balls = 0;
+    for (var i = 0; i < recency.length; i++) {
+        if (recency[i] !== 0) balls++
+        if (recency[i] !== 0 && recency[i] > (1 / (1 + Math.pow((0.9585 * 2.718281828459045), (((1 / 35) * i) - 5.21))) + 0.006765)) {
+            console.log(`day ${i}\n${recency[i]}\n${1 / (1 + Math.pow((0.9585 * 2.718281828459045), (((1 / 35) * i) - 5.21))) + 0.006765}\n${recency[i] - (1 / (1 + Math.pow((0.9585 * 2.718281828459045), (((1 / 35) * i) - 5.21))) + 0.006765)}\n`);
+        }
+    };
+    console.log(balls)
+    console.log(balls/recency.length*100)
+}
 (async () => {
-    prFiles();
-    await getSiteData();
+    //prFiles();
+    //await getSiteData();
+    recencyTesting();
 })();
