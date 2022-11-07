@@ -18,6 +18,9 @@ import recency from "./lol.json" assert {
 import siteData from "./siteData.json" assert {
     type: "json"
 };
+import regionIds from "./regionIds.json" assert {
+    type: "json"
+};
 let years = [
     "2020",
     "2021",
@@ -47,30 +50,52 @@ let gamemodes = ['1v1', '2v2']
 var tourneySlugs = [];
 var detailedData = [];
 
+function regiCheck() {
+    let tempreg = [0,0,0,0,0];
+    let arr = [];
+    if (document.getElementById(`regionNA`).checked === true) tempreg[0] = 1;
+    if (document.getElementById(`regionEU`).checked === true) tempreg[1] = 1;
+    if (document.getElementById(`regionSA`).checked === true) tempreg[2] = 1;
+    if (document.getElementById(`regionSEA`).checked === true) tempreg[3] = 1;
+    if (document.getElementById(`regionAUS`).checked === true) tempreg[4] = 1;
+    for (var i = 0; i < tempreg.length; i++) {
+        if (tempreg[i] === 0) {
+            arr.push(...regionIds[i])
+        }
+    }
+    return arr
+};
 function returnText(input) {
+    let obj = {
+        gamemode: "",
+        name: "",
+        region: "",
+        regionInt: 0
+    };
     input = input.replaceAll(" -  ", " - ");
     input = input.replaceAll("Brawlhalla Championship ", "")
     input = input.replaceAll("Brawlhalla ", "")
     input = input.replaceAll(".json", "")
-    let obj = {
-        gamemode: "",
-        name: "",
-        region: ""
-    };
+
     if (input.includes("(NA)") || input.includes("North America")) {
         obj.region = "NA";
+        obj.regionInt = 0;
         input = input.replaceAll(" (NA)", "");
     } else if (input.includes("(EU)") || input.includes("Europe")) {
         obj.region = "EU";
+        obj.regionInt = 1;
         input = input.replaceAll(" (EU)", "");
     } else if (input.includes("(SA)") || input.includes("South America")) {
         obj.region = "SA";
+        obj.regionInt = 2;
         input = input.replaceAll(" (SA)", "");
     } else if (input.includes("(SEA)") || input.includes("Southeast Asia")) {
         obj.region = "SEA";
+        obj.regionInt = 3;
         input = input.replaceAll(" (SEA)", "");
     } else if (input.includes("(AUS)") || input.includes("Australia")) {
         obj.region = "AUS";
+        obj.regionInt = 4;
         input = input.replaceAll(" (AUS)", "");
     };
     input = input.split(` - `);
@@ -105,24 +130,42 @@ function tourneyL1() {
                 if (ff === true) {
                     for (var f = 0; f < temp.length; f++) {
                         if (temp[f].name === returnText(tempDates[i][d].title).name) {
-                            if (temp[f].regions.includes(returnText(tempDates[i][d].title).region) === false) {
-                                temp[f].regions.push(returnText(tempDates[i][d].title).region);
-
-                            };
-                            if (temp[f].gamemode.includes(returnText(tempDates[i][d].title).gamemode) === false) {
-                                temp[f].gamemode.push(returnText(tempDates[i][d].title).gamemode)
-                            };
-                            if (returnText(tempDates[i][d].title).gamemode === "1v1") {
-                                temp[f].files1.push({
-                                    region: returnText(tempDates[i][d].title).region,
-                                    file: tempDates[i][d].title
-                                });
+                            if (temp[f].name === "Brawlhalla World Championship Expo 2022") {
+                                if (temp[f].gamemode.includes(returnText(tempDates[i][d].title).gamemode) === false) {
+                                    temp[f].gamemode.push(returnText(tempDates[i][d].title).gamemode)
+                                };
+                                if (returnText(tempDates[i][d].title).gamemode === "1v1") {
+                                    temp[f].files1.push({
+                                        region: "ALL",
+                                        file: tempDates[i][d].title
+                                    });
+                                } else {
+                                    temp[f].files2.push({
+                                        region: "ALL",
+                                        file: tempDates[i][d].title
+                                    });
+                                };
                             } else {
-                                temp[f].files2.push({
-                                    region: returnText(tempDates[i][d].title).region,
-                                    file: tempDates[i][d].title
-                                });
-                            };
+                                if (temp[f].regions.includes(returnText(tempDates[i][d].title).region) === false) {
+                                    temp[f].regions.push(returnText(tempDates[i][d].title).region);
+    
+                                };
+                                if (temp[f].gamemode.includes(returnText(tempDates[i][d].title).gamemode) === false) {
+                                    temp[f].gamemode.push(returnText(tempDates[i][d].title).gamemode)
+                                };
+                                if (returnText(tempDates[i][d].title).gamemode === "1v1") {
+                                    temp[f].files1.push({
+                                        region: returnText(tempDates[i][d].title).region,
+                                        file: tempDates[i][d].title
+                                    });
+                                } else {
+                                    temp[f].files2.push({
+                                        region: returnText(tempDates[i][d].title).region,
+                                        file: tempDates[i][d].title
+                                    });
+                                };
+                            }
+                            
                         }
                     };
                 } else {
@@ -135,19 +178,36 @@ function tourneyL1() {
                         regions: [],
                         slug: (returnText(tempDates[i][d].title).name.replaceAll(" ", '-') + '-' + returnText(tempDates[i][d].title).gamemode).toLocaleLowerCase()
                     };
-                    tem.regions.push(returnText(tempDates[i][d].title).region);
-                    tem.gamemode.push(returnText(tempDates[i][d].title).gamemode);
-                    if (returnText(tempDates[i][d].title).gamemode === "1v1") {
-                        tem.files1.push({
-                            region: returnText(tempDates[i][d].title).region,
-                            file: tempDates[i][d].title
-                        })
+                    if (tem.name === "World Championship Expo 2022") {
+                        tem.regions = ["NA", "EU", "SA", "SEA", "AUS"]
+                        tem.gamemode.push(returnText(tempDates[i][d].title).gamemode);
+                        if (returnText(tempDates[i][d].title).gamemode === "1v1") {
+                            tem.files1.push({
+                                region: "ALL",
+                                file: tempDates[i][d].title
+                            })
+                        } else {
+                            tem.files2.push({
+                                region: "ALL",
+                                file: tempDates[i][d].title
+                            })
+                        };
                     } else {
-                        tem.files2.push({
-                            region: returnText(tempDates[i][d].title).region,
-                            file: tempDates[i][d].title
-                        })
-                    };
+                        tem.regions.push(returnText(tempDates[i][d].title).region);
+                        tem.gamemode.push(returnText(tempDates[i][d].title).gamemode);
+                        if (returnText(tempDates[i][d].title).gamemode === "1v1") {
+                            tem.files1.push({
+                                region: returnText(tempDates[i][d].title).region,
+                                file: tempDates[i][d].title
+                            })
+                        } else {
+                            tem.files2.push({
+                                region: returnText(tempDates[i][d].title).region,
+                                file: tempDates[i][d].title
+                            })
+                        };
+                    }
+                    
                     temp.push(tem);
                 }
             }
@@ -213,8 +273,210 @@ async function editList(type) {
                 tourS[0] = tempp.name;
             };
             tourS[1] = tempp.name;
-            for (var d = 0; d < tempp.regions.length; d++) {
-                if (document.getElementById(`region${tempp.regions[d]}`).checked === true) {
+            for (var d = 0; d < (tempp.name === "World Championship Expo 2022" ? 1 : tempp.regions.length); d++) {
+                if (tempp.name === "World Championship Expo 2022") {
+                    let regi = tourneyL1();
+                    regi = regi.filter(u => u.slug === tourneySlugs[i])[0];
+                    for (var gg = 0; gg < gamemodes.length; gg++) {
+                        let regiFile = gg === 0 ? regi.files1.filter(u => u.region === 'ALL')[0] : regi.files2.filter(u => u.region === '')[0];
+                        if (regiFile !== undefined) {
+                            let file = siteData.filter(u => u.url.includes(regiFile.file))[0].tourneyData;
+                            if (time[gg] === 0) {
+                                time[gg] = file.tourneyStart * 1000
+                            };
+                        }
+                    };
+                    for (var gg = 0; gg < gamemodes.length; gg++) {
+                        const regiFile = gg === 0 ? regi.files1.filter(u => u.region === 'ALL')[0] : regi.files2.filter(u => u.region === '')[0];
+                        if (regiFile !== undefined) {
+                            let file = siteData.filter(u => u.url.includes(regiFile.file))[0].tourneyData;
+                            const promises = file.entrants.map(async function (player) {
+                                return player;
+                            });
+                            await Promise.all(promises).then(datasets => {
+                                for (var v = 0; v < datasets.length; v++) {
+                                    if (isNaN(datasets[v].total) === true) {
+                                        datasets.remove(v)
+                                    }
+                                }
+                                datasets.sort(function (a, b) {
+                                    return Number.parseFloat(b.total) - Number.parseFloat(a.total);
+                                });
+                                let leng = datasets.length > 2000 ? datasets.length / 2 : datasets.length;
+                                //let leng = document.getElementById("addAll").checked === false ? datasets.length < 500 ? datasets.length : 500 : datasets.length;
+                                for (var b = 0; b < leng; b++) {
+                                    let rece = currentRecency(Math.round((time[gg] - file.tourneyStart * 1000) / day));
+                                    let tempd = [];
+                                    let loss = [];
+                                    let wins = [];
+                                    for (var l = 0; l < datasets[b].entity.lossPlacement.length; l++) {
+                                        loss.push({
+                                            name: datasets[b].entity.loss[l].name,
+                                            placement: datasets[b].entity.lossPlacement[l]
+                                        })
+                                    };
+                                    let winTemp = datasets[b].entity.wonAgainst;
+                                    for (var w = 0; w < winTemp.length; w++) {
+                                        if (w < 3) {
+                                            wins.push({
+                                                name: winTemp[w].name,
+                                                seed: winTemp[w].seed,
+                                                points: prWin[winTemp[w].seed - 1] !== undefined ? Number.parseFloat(prWin[winTemp[w].seed - 1]) : 0
+                                            });
+                                        } else break;
+                                    };
+                                    let wadt = [datasets[b].loss, 0]
+                                    for (var o = 0; o < wins.length; o++) {
+                                        wadt[1] += wins[o].points;
+                                    };
+                                    let total = rece * file.multiplier * (wadt[0] + wadt[1] + datasets[b].placement);
+                                    if (datasets[b].socials.name === "sssssssssssssssssss") {
+                                        console.log(datasets[b].socials.length)
+                                        console.log(datasets[b].socials.smash_id)
+                                        console.log(file.multiplier * (wadt[0] + wadt[1] + datasets[b].placement));
+                                        console.log(wadt[0] + wadt[1] + datasets[b].placement);
+                                        console.log(wadt);
+                                        console.log(wadt[0] + wadt[1])
+                                        console.log(total);
+                                        console.log(rece)
+                                        console.log('--------')
+                                    };
+                                    var arrIds = [];
+                                    if (i+1 < tourneySlugs.length-1 && document.getElementById(tourneySlugs[i+1]).checked) {
+                                        if (tempp.name === "World Championship Expo 2022") {
+                                            arrIds = regiCheck();
+                                        }
+                                    };
+                                    if (gg === 0) {
+                                        let tempdd = {
+                                            id: datasets[b].socials.smash_id,
+                                            name: datasets[b].socials.name,
+                                            socials: {
+                                                twitter: datasets[b].socials.twitter,
+                                                twitch: datasets[b].socials.twitch
+                                            },
+                                            played: 1,
+                                            tourneyInfo: [{
+                                                dayt: Math.round((time[gg] - file.tourneyStart * 1000) / day),
+                                                tourney: tempp.name,
+                                                loss: {
+                                                    points: datasets[b].loss !== undefined ? datasets[b].loss : 0.7,
+                                                    ind: loss
+                                                },
+                                                wins: {
+                                                    points: Number.parseFloat(datasets[b].wins.toFixed(3)),
+                                                    ind: wins
+                                                },
+                                                mainPlacement: datasets[b].entity.placement,
+                                                placement: datasets[b].placement,
+                                                recency: rece,
+                                                multiplier: file.multiplier,
+                                                total: ((datasets[b].loss !== undefined ? Number.parseFloat(datasets[b].loss) : 0.7) + Number.parseFloat(datasets[b].wins.toFixed(3)) + datasets[b].placement) * file.multiplier * rece
+                                            }],
+                                            placeArr: [datasets[b].entity.placement],
+                                            placement: datasets[b].entity.placement,
+                                            total: ((datasets[b].loss !== undefined ? Number.parseFloat(datasets[b].loss) : 0.7) + Number.parseFloat(datasets[b].wins.toFixed(3)) + datasets[b].placement) * file.multiplier * rece
+                                        };
+                                        if(!arrIds.includes(tempdd.id)) {
+                                            for (var cc = 0; cc < combines.length; cc++) {
+                                                if (combines[cc].with.includes(tempdd.id)) {
+                                                    tempdd.id = combines[cc].id;
+                                                    tempdd.name = combines[cc].name;
+                                                }
+                                            };
+                                            tempd.push(tempdd)
+                                        }
+                                    } else {
+                                        for (var n = 0; n < datasets[b].socials.length; n++) {
+                                            if(!arrIds.includes(datasets[b].socials[n].smash_id)) {
+                                                tempd.push({
+                                                    id: datasets[b].socials[n].smash_id,
+                                                    name: datasets[b].socials[n].name,
+                                                    socials: {
+                                                        twitter: datasets[b].socials[n].twitter,
+                                                        twitch: datasets[b].socials[n].twitch
+                                                    },
+                                                    played: 1,
+                                                    tourneyInfo: [{
+                                                        dayt: Math.round((time[gg] - file.tourneyStart * 1000) / day),
+                                                        tourney: tempp.name,
+                                                        loss: {
+                                                            points: datasets[b].loss !== undefined ? datasets[b].loss : 0.7,
+                                                            ind: loss
+                                                        },
+                                                        wins: {
+                                                            points: Number.parseFloat(datasets[b].wins.toFixed(3)),
+                                                            ind: wins
+                                                        },
+                                                        mainPlacement: datasets[b].entity.placement,
+                                                        placement: datasets[b].placement,
+                                                        recency: rece,
+                                                        multiplier: file.multiplier,
+                                                        total: ((datasets[b].loss !== undefined ? Number.parseFloat(datasets[b].loss) : 0.7) + Number.parseFloat(datasets[b].wins.toFixed(3)) + datasets[b].placement) * file.multiplier * rece
+                                                    }],
+                                                    placeArr: [datasets[b].entity.placement],
+                                                    placement: datasets[b].entity.placement,
+                                                    total: ((datasets[b].loss !== undefined ? Number.parseFloat(datasets[b].loss) : 0.7) + Number.parseFloat(datasets[b].wins.toFixed(3)) + datasets[b].placement) * file.multiplier * rece
+                                                });
+                                                for (var cc = 0; cc < combines.length; cc++) {
+                                                    if (n === 1 && tempd[n] === undefined) {
+                                                        if (combines[cc].with.includes(tempd[n-1].id)) {
+                                                            tempd[n-1].id = combines[cc].id;
+                                                            tempd[n-1].name = combines[cc].name;
+                                                        }
+                                                    } else {
+                                                        if (combines[cc].with.includes(tempd[n].id)) {
+                                                            tempd[n].id = combines[cc].id;
+                                                            tempd[n].name = combines[cc].name;
+                                                        }
+                                                    }
+                                                };
+                                            };
+                                        }
+                                    };
+                                    for (var t = 0; t < tempd.length; t++) {
+                                        if (!bannedPlayers.includes(tempd[t].id)) {
+                                            if (total !== null) {
+                                                let sss = entrants[gg].filter(u => u.id == tempd[t].id);
+                                                if (tourneySlugs[i] === "world-championship-2021-last-chance-qualifier-1v1") {
+                                                    if (b === 0) sss = null;
+                                                };
+                                                if ((document.getElementById("difRegion").checked === true && differentRegions.filter(u => u.id === tempd[t].id).length !== 0)) {
+                                                    sss = null;
+                                                }
+                                                if (sss !== null && sss.length === 0) {
+                                                    entrants[gg].push(tempd[t])
+                                                } else if (sss !== null) {
+                                                    entrants[gg].filter(u => u.id == tempd[t].id)[0].total += ((datasets[b].loss !== undefined ? Number.parseFloat(datasets[b].loss) : 0.7) + Number.parseFloat(datasets[b].wins.toFixed(3)) + datasets[b].placement) * file.multiplier * rece;
+                                                    entrants[gg].filter(u => u.id == tempd[t].id)[0].placeArr.push(tempd[t].placement);
+                                                    entrants[gg].filter(u => u.id == tempd[t].id)[0].played++;
+                                                    entrants[gg].filter(u => u.id == tempd[t].id)[0].tourneyInfo.push({
+                                                        dayt: Math.round((time[gg] - file.tourneyStart * 1000) / day),
+                                                        tourney: tempp.name,
+                                                        loss: {
+                                                            points: datasets[b].loss !== undefined ? datasets[b].loss : 0.7,
+                                                            ind: loss
+                                                        },
+                                                        wins: {
+                                                            points: datasets[b].wins,
+                                                            ind: wins
+                                                        },
+                                                        mainPlacement: datasets[b].entity.placement,
+                                                        placement: datasets[b].placement,
+                                                        recency: rece,
+                                                        multiplier: file.multiplier,
+                                                        total: ((datasets[b].loss !== undefined ? Number.parseFloat(datasets[b].loss) : 0.7) + Number.parseFloat(datasets[b].wins.toFixed(3)) + datasets[b].placement) * file.multiplier * rece
+                                                    })
+                                                }
+                                            }
+                                        }
+                                    }
+                                };
+                            });
+                        }
+                    };
+                } else {
+                    if (document.getElementById(`region${tempp.regions[d]}`).checked === true) {
                     let regi = tourneyL1();
                     regi = regi.filter(u => u.slug === tourneySlugs[i])[0];
                     for (var gg = 0; gg < gamemodes.length; gg++) {
@@ -242,7 +504,7 @@ async function editList(type) {
                                 datasets.sort(function (a, b) {
                                     return Number.parseFloat(b.total) - Number.parseFloat(a.total);
                                 });
-                                let leng = datasets.length > 2000 ? datasets.length/2 : datasets.length;
+                                let leng = datasets.length > 2000 ? datasets.length / 2 : datasets.length;
                                 //let leng = document.getElementById("addAll").checked === false ? datasets.length < 500 ? datasets.length : 500 : datasets.length;
                                 for (var b = 0; b < leng; b++) {
                                     let rece = currentRecency(Math.round((time[gg] - file.tourneyStart * 1000) / day));
@@ -400,6 +662,7 @@ async function editList(type) {
                     };
                 };
             }
+            }
         }
     };
     for (var g = 0; g < entrants.length; g++) {
@@ -419,7 +682,10 @@ async function editList(type) {
             return b.total - a.total;
         });
     };
-    detailedData = [[],[]];
+    detailedData = [
+        [],
+        []
+    ];
     for (var i = 0; i < entrants.length; i++) {
         for (var b = 0; b < (document.getElementById("addAll").checked === false ? entrants[i].length < 500 ? entrants[i].length : 500 : entrants[i].length); b++) {
             let stata = "";

@@ -163,8 +163,8 @@ function getAccu() {
     let time = 0
     let isStart = null;
     for (var g = 0; g < gamemodes.length; g++) {
-        for (var i = 0; i < data.dates[1].list.length; i++) {
-            let tempTourney = regi.filter(u => u.name === data.dates[1].list[i])[0];
+        for (var i = 0; i < data.dates[0].list.length; i++) {
+            let tempTourney = regi.filter(u => u.name === data.dates[0].list[i])[0]; 
             let gamemode = g === 0 ? tempTourney.files1 : tempTourney.files2;
             for (var r = 0; r < regions.length; r++) {
                 let entrants = [];
@@ -487,7 +487,7 @@ async function compareOld() {
                     }
                 };
             };
-            console.log(`${regions[r]} ${gamemodes[i]} summers 2022 (${total})`)
+            console.log(`${regions[r]} ${gamemodes[i]} autumn 2022 (${total})`)
             let tex = "";
             let totalAcc = 0;
             let toTemp = 0;
