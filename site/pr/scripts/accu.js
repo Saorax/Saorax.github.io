@@ -6,7 +6,8 @@ let gamemodes = ['1v1', '2v2'];
 let years = [
     "2020",
     "2021",
-    "2022"
+    "2022",
+    "2023"
 ];
 let day = 1000 * 60 * 60 * 24;
 let prRankings = [

@@ -24,9 +24,11 @@ import regionIds from "./regionIds.json" assert {
 let years = [
     "2020",
     "2021",
-    "2022"
+    "2022",
+    "2023"
 ];
 var tourneyss = [
+    [],
     [],
     [],
     []
@@ -114,6 +116,9 @@ function tourneyL1() {
             return b.start - a.start;
         }),
         prTemp[2].sort(function (a, b) {
+            return b.start - a.start;
+        }),
+        prTemp[3].sort(function (a, b) {
             return b.start - a.start;
         })
     ];

@@ -2,9 +2,11 @@ const fs = require('fs');
 let years = [
     "2020",
     "2021",
-    "2022"
+    "2022",
+    "2023"
 ];
 let tourneys = [
+    [],
     [],
     [],
     []
@@ -15,11 +17,6 @@ let siteData = [];
 
 async function prFiles() {
     for (var i = 0; i < years.length; i++) {
-        let b = [
-            [],
-            [],
-            []
-        ];
         const files = await fs.promises.readdir(`./pr-rankings/${years[i]}/`);
         for (const file of files) {
             let aha = await JSON.parse(fs.readFileSync(`${__dirname}/pr-rankings/${years[i]}/${file}`));
@@ -44,6 +41,9 @@ async function getSiteData() {
             return b.start - a.start;
         }),
         prTemp[2].sort(function (a, b) {
+            return b.start - a.start;
+        }),
+        prTemp[3].sort(function (a, b) {
             return b.start - a.start;
         })
     ];
@@ -98,7 +98,7 @@ async function getPerRegion() {
     const res = JSON.parse(fs.readFileSync("./siteData.json"));
     for (var i = 0; i < res.length; i++) {
         if (retReg(res[i].url) !== 5) {
-            if (res[i].url.includes("2021") || res[i].url.includes("2022") || res[i].url.includes("2020")) {
+            if (res[i].url.includes("2021") || res[i].url.includes("2022") || res[i].url.includes("2020")|| res[i].url.includes("2023")) {
                 for (var e = 0; e < res[i].tourneyData.entrants.length; e++) {
                     let entrant = res[i].tourneyData.entrants[e];
                     if (entrant.socials.smash_id) {

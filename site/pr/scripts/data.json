@@ -9,6 +9,19 @@
     "World Championship Last Chance Qualifier"
   ],
   "dates": [{
+    "from": "Winter Championship 2023",
+    "to": "World Championship 2021 (Online)",
+    "list": [
+      "Winter Championship 2023",
+      "World Championship Expo 2022",
+      "Autumn Championship 2022",
+      "Summer Championship 2022",
+      "Spring Championship 2022",
+      "OMEN Oasis Championship",
+      "Winter Championship 2022",
+      "World Championship 2021"
+    ]
+  },{
     "from": "World Championship 2022 (LAN)",
     "to": "World Championship 2022 (LAN)",
     "list": [
