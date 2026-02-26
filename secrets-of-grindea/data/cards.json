@@ -1,0 +1,434 @@
+[
+  {
+    "id": 0,
+    "name": "Green Slime",
+    "image": "slime_green.png",
+    "dropChance": 500,
+    "baseRate": "0.2%",
+    "thresholds": { "first": 500, "second": 1000, "max": 1500 }
+  },
+  {
+    "id": 1,
+    "name": "Red Slime",
+    "image": "redslime.png",
+    "dropChance": 400,
+    "baseRate": "0.25%",
+    "thresholds": { "first": 400, "second": 800, "max": 1200 }
+  },
+  {
+    "id": 2,
+    "name": "Marino",
+    "image": null,
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 3,
+    "name": "Rabby",
+    "image": "Rabby.png",
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 4,
+    "name": "Mrs. Bee",
+    "image": "bee.png",
+    "dropChance": 100,
+    "baseRate": "1%",
+    "thresholds": { "first": 100, "second": 200, "max": 300 }
+  },
+  {
+    "id": 5,
+    "name": "Bloomo",
+    "image": "bloomi.png",
+    "dropChance": 125,
+    "baseRate": "0.8%",
+    "thresholds": { "first": 125, "second": 250, "max": 375 }
+  },
+  {
+    "id": 11,
+    "name": "Jumpkin",
+    "image": "jumpkin.png",
+    "dropChance": 500,
+    "baseRate": "0.2%",
+    "thresholds": { "first": 500, "second": 1000, "max": 1500 }
+  },
+  {
+    "id": 12,
+    "name": "Lantern Jack",
+    "image": "jacko.png",
+    "dropChance": 200,
+    "baseRate": "0.5%",
+    "thresholds": { "first": 200, "second": 400, "max": 600 }
+  },
+  {
+    "id": 13,
+    "name": "Ghosty",
+    "image": "ghosty.png",
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 14,
+    "name": "Scarecrow",
+    "image": "scarecrow.png",
+    "dropChance": 150,
+    "baseRate": "0.667%",
+    "thresholds": { "first": 150, "second": 300, "max": 450 }
+  },
+  {
+    "id": 15,
+    "name": "Halloweed",
+    "image": "halloweed.png",
+    "dropChance": 100,
+    "baseRate": "1%",
+    "thresholds": { "first": 100, "second": 200, "max": 300 }
+  },
+  {
+    "id": 21,
+    "name": "Boar",
+    "image": "boar.png",
+    "dropChance": 200,
+    "baseRate": "0.5%",
+    "thresholds": { "first": 200, "second": 400, "max": 600 }
+  },
+  {
+    "id": 22,
+    "name": "Wisp",
+    "image": "wisp.png",
+    "dropChance": 150,
+    "baseRate": "0.667%",
+    "thresholds": { "first": 150, "second": 300, "max": 450 }
+  },
+  {
+    "id": 23,
+    "name": "Guardian",
+    "image": "guardian.png",
+    "dropChance": 150,
+    "baseRate": "0.667%",
+    "thresholds": { "first": 150, "second": 300, "max": 450 }
+  },
+  {
+    "id": 24,
+    "name": "Brawler Bot",
+    "image": "brawler.png",
+    "dropChance": 400,
+    "baseRate": "0.25%",
+    "thresholds": { "first": 400, "second": 800, "max": 1200 }
+  },
+  {
+    "id": 25,
+    "name": "Pecko",
+    "image": "pecko.png",
+    "dropChance": 100,
+    "baseRate": "1%",
+    "thresholds": { "first": 100, "second": 200, "max": 300 }
+  },
+  {
+    "id": 30,
+    "name": "Blue Slime",
+    "image": "slime_blue.png",
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 31,
+    "name": "Frostling Rogue",
+    "image": "frostling_rogue.png",
+    "dropChance": 250,
+    "baseRate": "0.4%",
+    "thresholds": { "first": 250, "second": 500, "max": 750 }
+  },
+  {
+    "id": 32,
+    "name": "Frostling Scoundrel",
+    "image": "frostling_scoundrel.png",
+    "dropChance": 250,
+    "baseRate": "0.4%",
+    "thresholds": { "first": 250, "second": 500, "max": 750 }
+  },
+  {
+    "id": 33,
+    "name": "Yeti",
+    "image": "yeti.png",
+    "dropChance": 125,
+    "baseRate": "0.8%",
+    "thresholds": { "first": 125, "second": 250, "max": 375 }
+  },
+  {
+    "id": 34,
+    "name": "Gift",
+    "image": "gift.png",
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 35,
+    "name": "Present",
+    "image": "present.png",
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 37,
+    "name": "Pumpking",
+    "image": null,
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 45,
+    "name": "Summer Knight",
+    "image": "season_knight.png",
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 46,
+    "name": "Autumn Knight",
+    "image": "season_knight.png",
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 47,
+    "name": "Winter Knight",
+    "image": "season_knight.png",
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 48,
+    "name": "Winter Mage",
+    "image": "season_mage.png",
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 49,
+    "name": "Autumn Mage",
+    "image": "season_mage.png",
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 50,
+    "name": "Summer Mage",
+    "image": "season_mage.png",
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 59,
+    "name": "Spinsect",
+    "image": "spinsect.png",
+    "dropChance": 150,
+    "baseRate": "0.667%",
+    "thresholds": { "first": 150, "second": 300, "max": 450 }
+  },
+  {
+    "id": 60,
+    "name": "Shroomie",
+    "image": "mushroom.png",
+    "dropChance": 400,
+    "baseRate": "0.25%",
+    "thresholds": { "first": 400, "second": 800, "max": 1200 }
+  },
+  {
+    "id": 67,
+    "name": "Larvacid",
+    "image": "caterpillar.png",
+    "dropChance": 100,
+    "baseRate": "1%",
+    "thresholds": { "first": 100, "second": 200, "max": 300 }
+  },
+  {
+    "id": 69,
+    "name": "Toxic Tulip",
+    "image": "poisonflower.png",
+    "dropChance": 200,
+    "baseRate": "0.5%",
+    "thresholds": { "first": 200, "second": 400, "max": 600 }
+  },
+  {
+    "id": 73,
+    "name": "Thorn Worm",
+    "image": "thornworm.png",
+    "dropChance": 250,
+    "baseRate": "0.4%",
+    "thresholds": { "first": 250, "second": 500, "max": 750 }
+  },
+  {
+    "id": 74,
+    "name": "Ancient Statue",
+    "image": "ancientstatue.png",
+    "dropChance": 125,
+    "baseRate": "0.8%",
+    "thresholds": { "first": 125, "second": 250, "max": 375 }
+  },
+  {
+    "id": 75,
+    "name": "Plantae Hostilis",
+    "image": "plantaehostilis.png",
+    "dropChance": 250,
+    "baseRate": "0.4%",
+    "thresholds": { "first": 250, "second": 500, "max": 750 }
+  },
+  {
+    "id": 76,
+    "name": "Echo of Madness",
+    "image": "echo.png",
+    "dropChance": 160,
+    "baseRate": "0.625%",
+    "thresholds": { "first": 160, "second": 320, "max": 480 }
+  },
+  {
+    "id": 77,
+    "name": "Monkey",
+    "image": "monkey.png",
+    "dropChance": 200,
+    "baseRate": "0.5%",
+    "thresholds": { "first": 200, "second": 400, "max": 600 }
+  },
+  {
+    "id": 80,
+    "name": "Elder Boar",
+    "image": "boar.png",
+    "dropChance": 200,
+    "baseRate": "0.5%",
+    "thresholds": { "first": 200, "second": 400, "max": 600 }
+  },
+  {
+    "id": 95,
+    "name": "Cacute",
+    "image": "cacute.png",
+    "dropChance": 250,
+    "baseRate": "0.4%",
+    "thresholds": { "first": 250, "second": 500, "max": 750 }
+  },
+  {
+    "id": 96,
+    "name": "Sand Raven",
+    "image": "birdy.png",
+    "dropChance": 150,
+    "baseRate": "0.667%",
+    "thresholds": { "first": 150, "second": 300, "max": 450 }
+  },
+  {
+    "id": 97,
+    "name": "Orange Slime",
+    "image": "slime_orange.png",
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 98,
+    "name": "Solem",
+    "image": "solem.png",
+    "dropChance": 100,
+    "baseRate": "1%",
+    "thresholds": { "first": 100, "second": 200, "max": 300 }
+  },
+  {
+    "id": 102,
+    "name": "Carrot",
+    "image": "veggies.png",
+    "dropChance": 250,
+    "baseRate": "0.4%",
+    "thresholds": { "first": 250, "second": 500, "max": 750 }
+  },
+  {
+    "id": 103,
+    "name": "Tomato",
+    "image": "veggies.png",
+    "dropChance": 250,
+    "baseRate": "0.4%",
+    "thresholds": { "first": 250, "second": 500, "max": 750 }
+  },
+  {
+    "id": 104,
+    "name": "Lettuce",
+    "image": "veggies.png",
+    "dropChance": 250,
+    "baseRate": "0.4%",
+    "thresholds": { "first": 250, "second": 500, "max": 750 }
+  },
+  {
+    "id": 105,
+    "name": "Onion",
+    "image": "veggies.png",
+    "dropChance": 250,
+    "baseRate": "0.4%",
+    "thresholds": { "first": 250, "second": 500, "max": 750 }
+  },
+  {
+    "id": 106,
+    "name": "Living Veggies",
+    "image": "veggies.png",
+    "dropChance": 300,
+    "baseRate": "0.333%",
+    "thresholds": { "first": 300, "second": 600, "max": 900 }
+  },
+  {
+    "id": 108,
+    "name": "Skeleton Warrior",
+    "image": "skeletonwarrior.png",
+    "dropChance": 250,
+    "baseRate": "0.4%",
+    "thresholds": { "first": 250, "second": 500, "max": 750 }
+  },
+  {
+    "id": 109,
+    "name": "Skeleton Wizard",
+    "image": "skeletonmage.png",
+    "dropChance": 180,
+    "baseRate": "0.556%",
+    "thresholds": { "first": 180, "second": 360, "max": 540 }
+  },
+  {
+    "id": 110,
+    "name": "Crabby",
+    "image": "crabby.png",
+    "dropChance": 220,
+    "baseRate": "0.455%",
+    "thresholds": { "first": 220, "second": 440, "max": 660 }
+  },
+  {
+    "id": 111,
+    "name": "Hauntie",
+    "image": "hauntie.png",
+    "dropChance": 240,
+    "baseRate": "0.417%",
+    "thresholds": { "first": 240, "second": 480, "max": 720 }
+  },
+  {
+    "id": 129,
+    "name": "Elder Boar",
+    "image": "boar.png",
+    "dropChance": 200,
+    "baseRate": "0.5%",
+    "thresholds": { "first": 200, "second": 400, "max": 600 }
+  },
+  {
+    "id": 132,
+    "name": "Shruboss",
+    "image": null,
+    "dropChance": 250,
+    "baseRate": "0.4%",
+    "thresholds": { "first": 250, "second": 500, "max": 750 }
+  }
+]
