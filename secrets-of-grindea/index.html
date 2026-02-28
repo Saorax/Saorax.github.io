@@ -3,210 +3,353 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Secrets of Grindea — Card Drop Rates</title>
+  <title>Secrets of Grindea - Card Drop Rates</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
       theme: {
         extend: {
           colors: {
-            grindea: {
-              bg:      '#1a1a2e',
-              panel:   '#16213e',
-              border:  '#0f3460',
-              accent:  '#e94560',
-              gold:    '#f5a623',
-              text:    '#eaeaea',
-              muted:   '#8892a4',
+            g: {
+              bg:     '#1a1a2e',
+              panel:  '#16213e',
+              deep:   '#0d1526',
+              border: '#0f3460',
+              accent: '#e94560',
+              gold:   '#f5a623',
+              text:   '#eaeaea',
+              muted:  '#8892a4',
+              bonus:  '#4ade80',
             }
           },
-          fontFamily: {
-            pixel: ['"Press Start 2P"', 'monospace'],
-          }
+          fontFamily: { pixel: ['"Press Start 2P"', 'monospace'] },
         }
       }
     }
   </script>
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
   <style>
-    body { background-color: #1a1a2e; color: #eaeaea; }
+    * { box-sizing: border-box; }
+    body { background: #1a1a2e; color: #eaeaea; margin: 0; }
+    .card-img { image-rendering: pixelated; image-rendering: crisp-edges; }
+    .mob-card { transition: transform .15s, box-shadow .15s; }
+    .mob-card:hover { transform: translateY(-2px); box-shadow: 0 8px 28px rgba(233,69,96,.22); }
+    .mob-card:hover .card-img { transform: scale(1.06); }
+    .pill { display:inline-flex; align-items:center; justify-content:center;
+            border-radius:4px; font-size:10px; padding:2px 7px; color:#fff;
+            min-width:38px; text-align:center; white-space:nowrap; }
+    .pill-1   { background:#1d4ed8; }
+    .pill-2   { background:#7c3aed; }
+    .pill-max { background:#92400e; }
 
-    .card-img {
-      image-rendering: pixelated;
-      image-rendering: crisp-edges;
+    input, select {
+      background:#0d1526; border:1px solid #0f3460; color:#eaeaea;
+      border-radius:6px; padding:7px 10px; font-size:.8rem; width:100%; outline:none;
     }
-
-    .bar-track { background: #0f3460; border-radius: 9999px; height: 6px; }
-    .bar-fill  { border-radius: 9999px; height: 6px; transition: width 0.4s ease; }
-
-    .mob-card:hover .card-img { transform: scale(1.05); }
-    .mob-card { transition: transform 0.15s, box-shadow 0.15s; }
-    .mob-card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(233,69,96,0.25); }
-
-    .pill-first  { background: #1d4ed8; }
-    .pill-second { background: #7c3aed; }
-    .pill-max    { background: #b45309; }
-
-    [data-tip] { position: relative; cursor: default; }
-    [data-tip]:hover::after {
-      content: attr(data-tip);
-      position: absolute; bottom: 110%; left: 50%; transform: translateX(-50%);
-      background: #0f3460; color: #eaeaea; font-size: 0.7rem;
-      padding: 4px 8px; border-radius: 4px; white-space: nowrap;
-      z-index: 10; pointer-events: none;
-    }
+    input:focus, select:focus { border-color:#e94560; }
+    input::placeholder { color:#8892a4; }
+    select option { background:#16213e; }
+    .sidebar-label { font-size:.65rem; text-transform:uppercase; letter-spacing:.08em; color:#8892a4; margin-bottom:4px; }
+    ::-webkit-scrollbar { width:6px; }
+    ::-webkit-scrollbar-track { background:#0d1526; }
+    ::-webkit-scrollbar-thumb { background:#0f3460; border-radius:3px; }
   </style>
 </head>
-<body class="min-h-screen">
-  <header class="border-b border-grindea-border bg-grindea-panel px-6 py-5">
-    <div class="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center gap-3">
+<body class="min-h-screen flex flex-col">
+
+  <header class="border-b border-g-border bg-g-panel px-5 py-4 shrink-0">
+    <div class="flex items-center gap-3">
       <div>
-        <h1 class="font-pixel text-grindea-accent text-lg sm:text-xl leading-snug">
-          Secrets of Grindea
-        </h1>
-        <p class="text-grindea-gold font-pixel text-xs mt-1">Card Drop Rates</p>
-      </div>
-      <div class="sm:ml-auto flex flex-col sm:flex-row gap-2 items-start sm:items-center">
-        <input
-          id="search"
-          type="text"
-          placeholder="Search enemy…"
-          class="bg-grindea-bg border border-grindea-border rounded px-3 py-1.5 text-sm text-grindea-text placeholder-grindea-muted focus:outline-none focus:border-grindea-accent w-52"
-        />
-        <select
-          id="sort"
-          class="bg-grindea-bg border border-grindea-border rounded px-3 py-1.5 text-sm text-grindea-text focus:outline-none focus:border-grindea-accent"
-        >
-          <option value="name">Sort: Name</option>
-          <option value="rate-asc">Sort: Base Rate ↑</option>
-          <option value="rate-desc">Sort: Base Rate ↓</option>
-          <option value="max-asc">Sort: Max Kills ↑</option>
-          <option value="max-desc">Sort: Max Kills ↓</option>
-        </select>
+        <h1 class="font-pixel text-g-accent text-base sm:text-lg leading-tight">Secrets of Grindea</h1>
+        <p class="font-pixel text-g-gold text-[10px] mt-1.5">Card Drop Rates</p>
       </div>
     </div>
   </header>
 
-  <div class="max-w-7xl mx-auto px-6 py-3">
-    <p class="text-grindea-muted text-xs leading-relaxed">
-      Drop rates extracted directly from game code (<code class="text-grindea-accent">EnemyCodex::Init</code>, v1.40).
-      The formula is exponential - rates increase continuously after the <span class="text-grindea-gold">1st</span> threshold
-      and cap at 70% per kill at the <span class="text-yellow-400">Max</span> threshold (3x base denominator).
-      Thresholds shown are the kill counts where each rate tier begins.
-    </p>
+  <div class="flex flex-col md:flex-row flex-1">
+    <aside class="w-full md:w-64 lg:w-72 shrink-0 bg-g-panel border-b md:border-b-0 md:border-r border-g-border md:sticky md:top-0 md:h-[calc(100vh-65px)] md:overflow-y-auto">
+
+      <button id="mobile-toggle"
+        class="w-full flex items-center justify-between px-5 py-3 text-g-muted text-sm md:hidden">
+        <span class="font-medium">Filters &amp; Search</span>
+        <svg id="toggle-icon" class="w-4 h-4 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+        </svg>
+      </button>
+
+      <div id="sidebar-inner" class="hidden md:flex flex-col gap-5 p-5">
+
+        <div>
+          <p class="sidebar-label">Search</p>
+          <input id="search" type="text" placeholder="Enemy name…" />
+        </div>
+
+        <div>
+          <p class="sidebar-label">Sort by</p>
+          <select id="sort">
+            <option value="id">Game Order (ID)</option>
+            <option value="name">Name A-Z</option>
+            <option value="rate-asc">Base Rate: High first</option>
+            <option value="rate-desc">Base Rate: Low first</option>
+            <option value="kills-asc">Max Kills: Low first</option>
+            <option value="kills-desc">Max Kills: High first</option>
+          </select>
+        </div>
+
+        <div>
+          <p class="sidebar-label">Area</p>
+          <select id="filter-area">
+            <option value="">All areas</option>
+            <option value="Pumpkin Woods">Pumpkin Woods</option>
+            <option value="Evergrind">Evergrind</option>
+            <option value="Pillar Mountains">Pillar Mountains</option>
+            <option value="Flying Fortress">Flying Fortress</option>
+            <option value="Hallo Forest">Hallo Forest</option>
+            <option value="Winterland">Winterland</option>
+            <option value="Season Change">Season Change</option>
+            <option value="Mount Bloom">Mount Bloom</option>
+            <option value="Tai Ming">Tai Ming</option>
+            <option value="Desert">Desert</option>
+            <option value="Ghost Ship">Ghost Ship</option>
+            <option value="Story">Story</option>
+          </select>
+        </div>
+
+        <div>
+          <p class="sidebar-label">Base Rate</p>
+          <select id="filter-rate">
+            <option value="">All rates</option>
+            <option value="100">1% (1 in 100)</option>
+            <option value="125">0.8% (1 in 125)</option>
+            <option value="150">0.667% (1 in 150)</option>
+            <option value="160">0.625% (1 in 160)</option>
+            <option value="180">0.556% (1 in 180)</option>
+            <option value="200">0.5% (1 in 200)</option>
+            <option value="220">0.455% (1 in 220)</option>
+            <option value="240">0.417% (1 in 240)</option>
+            <option value="250">0.4% (1 in 250)</option>
+            <option value="300">0.333% (1 in 300)</option>
+            <option value="400">0.25% (1 in 400)</option>
+            <option value="500">0.2% (1 in 500)</option>
+          </select>
+        </div>
+
+        <div>
+          <p class="sidebar-label">Unverified</p>
+          <label class="flex items-center gap-2 text-sm text-g-text cursor-pointer select-none">
+            <input id="hidden-toggle" type="checkbox" class="accent-pink-500 w-3.5 h-3.5" />
+            Show unverified cards
+          </label>
+        </div>
+
+        <div class="pt-3 border-t border-g-border">
+          <p class="sidebar-label mb-2">Threshold tiers</p>
+          <div class="space-y-2 text-[11px] text-g-muted">
+            <div class="flex items-center gap-2"><span class="pill pill-1">1st</span> N kills - bonus begins</div>
+            <div class="flex items-center gap-2"><span class="pill pill-2">2nd</span> 2N kills - larger bonus</div>
+            <div class="flex items-center gap-2"><span class="pill pill-max">Max</span> 3N kills - near-guarantee</div>
+          </div>
+          <p class="text-[10px] text-g-muted mt-3 leading-relaxed">
+            N = base denominator. The exponential bonus starts at ~N/3 kills, peaks at the 3N guarantee point.
+          </p>
+        </div>
+
+        <div id="result-count" class="text-[11px] text-g-muted pt-1 border-t border-g-border"></div>
+      </div>
+    </aside>
+
+    <main class="flex-1 p-4 sm:p-5 overflow-y-auto">
+      <div id="grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-4"></div>
+      <p id="empty" class="hidden text-g-muted text-center py-20 text-sm">No enemies match your filters.</p>
+    </main>
   </div>
 
-  <main class="max-w-7xl mx-auto px-6 pb-12">
-    <div id="grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4"></div>
-    <p id="empty" class="hidden text-grindea-muted text-center py-16 text-sm">No enemies match your search.</p>
-  </main>
-
   <template id="tmpl">
-    <article class="mob-card bg-grindea-panel border border-grindea-border rounded-xl overflow-hidden flex flex-col">
-      <div class="flex justify-center items-center bg-grindea-bg pt-5 pb-3 px-4" style="min-height:130px">
-        <img class="card-img transition-transform duration-200" style="max-height:110px; max-width:110px;" src="" alt="" />
+    <article class="mob-card bg-g-panel border border-g-border rounded-xl overflow-hidden flex flex-col">
+
+      <div class="relative flex justify-center items-center bg-g-deep pt-5 pb-3 px-4" style="min-height:110px">
+        <img class="card-img transition-transform duration-200" style="max-height:88px;max-width:88px;" src="" alt="" />
+        <span class="area-badge absolute top-2 left-2 text-[9px] bg-g-border text-g-muted px-1.5 py-0.5 rounded"></span>
       </div>
 
-      <div class="px-4 pb-4 pt-3 flex flex-col gap-3 flex-1">
+      <div class="px-4 pb-4 pt-3 flex flex-col gap-2 flex-1">
         <div class="flex items-start justify-between gap-2">
-          <h2 class="enemy-name text-grindea-text font-semibold text-sm leading-tight"></h2>
-          <span
-            class="base-rate shrink-0 text-grindea-gold font-pixel text-xs"
-            data-tip="Base drop rate (1 in N per kill)"
-          ></span>
+          <h2 class="enemy-name text-g-text font-semibold text-sm leading-snug"></h2>
+          <span class="base-rate shrink-0 font-pixel text-g-gold text-[10px] mt-0.5"></span>
         </div>
-        <div class="space-y-2 text-xs text-grindea-muted">
-          <div class="flex items-center gap-2">
-            <span class="pill-first text-white rounded px-1.5 py-0.5 text-[10px] shrink-0 w-14 text-center">1st</span>
-            <div class="bar-track flex-1">
-              <div class="bar-fill pill-first" style="width:33%"></div>
-            </div>
-            <span class="first-kills w-16 text-right tabular-nums text-grindea-text"></span>
-          </div>
-          <div class="flex items-center gap-2">
-            <span class="pill-second text-white rounded px-1.5 py-0.5 text-[10px] shrink-0 w-14 text-center">2nd</span>
-            <div class="bar-track flex-1">
-              <div class="bar-fill pill-second" style="width:66%"></div>
-            </div>
-            <span class="second-kills w-16 text-right tabular-nums text-grindea-text"></span>
-          </div>
-          <div class="flex items-center gap-2">
-            <span class="pill-max text-white rounded px-1.5 py-0.5 text-[10px] shrink-0 w-14 text-center">Max</span>
-            <div class="bar-track flex-1">
-              <div class="bar-fill pill-max" style="width:100%"></div>
-            </div>
-            <span class="max-kills w-16 text-right tabular-nums text-grindea-text"></span>
-          </div>
-        </div>
-        <p class="text-grindea-muted text-[10px]">
+
+        <div class="flex items-center text-[10px] text-g-muted">
           <span class="denom"></span>
-        </p>
+        </div>
+
+        <div class="bonus-section rounded-md bg-g-deep px-3 py-2 text-[11px] leading-snug">
+          <span class="text-[9px] text-g-muted uppercase tracking-wider block mb-0.5">Card bonus</span>
+          <span class="bonus-text text-g-bonus font-medium"></span>
+        </div>
+
+        <div class="space-y-1.5 mt-1">
+          <div class="flex items-center gap-2 text-[11px]">
+            <span class="pill pill-1 shrink-0">1st</span>
+            <span class="first-kills tabular-nums text-g-text shrink-0" style="min-width:66px"></span>
+            <span class="first-rate text-g-muted text-right ml-auto shrink-0"></span>
+          </div>
+          <div class="flex items-center gap-2 text-[11px]">
+            <span class="pill pill-2 shrink-0">2nd</span>
+            <span class="second-kills tabular-nums text-g-text shrink-0" style="min-width:66px"></span>
+            <span class="second-rate text-g-muted text-right ml-auto shrink-0"></span>
+          </div>
+          <div class="flex items-center gap-2 text-[11px]">
+            <span class="pill pill-max shrink-0">Max</span>
+            <span class="max-kills tabular-nums text-g-text shrink-0" style="min-width:66px"></span>
+            <span class="max-rate text-g-muted text-right ml-auto shrink-0"></span>
+          </div>
+        </div>
+
       </div>
     </article>
   </template>
 
   <script>
-    const IMAGES = 'images/cards/';
+    const IMAGES      = 'images/cards/';
     const PLACEHOLDER = IMAGES + 'placeholder.png';
+    const EXP_A       = 0.0110392568938781;
 
-    let data = [];
+    const AREA_COLORS = {
+      'Pumpkin Woods':   '#166534',
+      'Evergrind':       '#1e3a5f',
+      'Pillar Mountains':'#374151',
+      'Flying Fortress': '#075985',
+      'Hallo Forest':    '#6b21a8',
+      'Winterland':      '#1e3a8a',
+      'Season Change':   '#854d0e',
+      'Mount Bloom':     '#064e3b',
+      'Tai Ming':        '#7c2d12',
+      'Collector\'s HQ': '#581c87',
+      'Desert':          '#78350f',
+      'Ghost Ship':      '#111827',
+      'Arcadia':         '#b45309',
+      'Story':           '#4c0519',
+    };
 
-    async function init() {
-      const res = await fetch('data/cards.json');
-      data = await res.json();
-      render(data);
+    function rateAt(n, kills) {
+      const grace     = Math.floor(n * 0.33);
+      const guarantee = n * 3;
+      if (kills < grace) return 1 / n;
+      const arg = EXP_A * (kills - grace - guarantee) / (guarantee / 500);
+      return Math.min(1 / n + Math.exp(arg), 0.7);
     }
 
+    function fmtRate(r) {
+      const pct = r * 100;
+      if (pct >= 10)  return pct.toFixed(1) + '%';
+      if (pct >= 1)   return pct.toFixed(2) + '%';
+      return pct.toFixed(3) + '%';
+    }
+
+    let rawData = [];
+    let showHidden = false;
+
     function render(items) {
-      const grid = document.getElementById('grid');
+      const grid  = document.getElementById('grid');
       const empty = document.getElementById('empty');
-      const tmpl = document.getElementById('tmpl');
+      const count = document.getElementById('result-count');
       grid.innerHTML = '';
+
+      count.textContent = items.length + ' card' + (items.length !== 1 ? 's' : '') + ' shown';
 
       if (!items.length) { empty.classList.remove('hidden'); return; }
       empty.classList.add('hidden');
 
+      const tmpl = document.getElementById('tmpl');
+
       for (const mob of items) {
+        const n     = mob.dropChance;
+        const r1    = rateAt(n, mob.thresholds.first);
+        const r2    = rateAt(n, mob.thresholds.second);
+        const rMax  = rateAt(n, mob.thresholds.max);
         const clone = tmpl.content.cloneNode(true);
-        const article = clone.querySelector('article');
 
         const img = clone.querySelector('img');
         img.src = mob.image ? IMAGES + mob.image : PLACEHOLDER;
         img.alt = mob.name;
         img.onerror = () => { img.src = PLACEHOLDER; };
 
+        const areaBadge = clone.querySelector('.area-badge');
+        areaBadge.textContent = mob.area ? mob.area.join(' · ') : '';
+        if (mob.area && mob.area.length && AREA_COLORS[mob.area[0]]) {
+          areaBadge.style.background = AREA_COLORS[mob.area[0]];
+          areaBadge.style.color = '#d1d5db';
+          areaBadge.style.border = 'none';
+        }
+
         clone.querySelector('.enemy-name').textContent = mob.name;
-        clone.querySelector('.base-rate').textContent = mob.baseRate;
-        clone.querySelector('.first-kills').textContent = mob.thresholds.first.toLocaleString() + ' kills';
+        clone.querySelector('.base-rate').textContent  = mob.baseRate;
+        clone.querySelector('.denom').textContent      = '1 in ' + n + ' per kill';
+
+        const bonusSec  = clone.querySelector('.bonus-section');
+        const bonusText = clone.querySelector('.bonus-text');
+        if (mob.cardBonus) {
+          bonusText.textContent = mob.cardBonus;
+        } else {
+          bonusSec.style.opacity = '0.4';
+          bonusText.textContent = 'Bonus unknown';
+        }
+
+        clone.querySelector('.first-kills').textContent  = mob.thresholds.first.toLocaleString() + ' kills';
         clone.querySelector('.second-kills').textContent = mob.thresholds.second.toLocaleString() + ' kills';
-        clone.querySelector('.max-kills').textContent = mob.thresholds.max.toLocaleString() + ' kills';
-        clone.querySelector('.denom').textContent = `1 in ${mob.dropChance} chance per kill`;
+        clone.querySelector('.max-kills').textContent    = mob.thresholds.max.toLocaleString() + ' kills';
+        clone.querySelector('.first-rate').textContent   = fmtRate(r1) + '/kill';
+        clone.querySelector('.second-rate').textContent  = fmtRate(r2) + '/kill';
+        clone.querySelector('.max-rate').textContent     = fmtRate(rMax) + '/kill' + (rMax >= 0.699 ? ' ★' : '');
 
         grid.appendChild(clone);
       }
     }
 
-    function filtered() {
-      const q = document.getElementById('search').value.toLowerCase().trim();
-      const sort = document.getElementById('sort').value;
-      let items = q ? data.filter(m => m.name.toLowerCase().includes(q)) : [...data];
-
+    function getFiltered() {
+      const q          = document.getElementById('search').value.toLowerCase().trim();
+      const sort       = document.getElementById('sort').value;
+      const rateFilter = document.getElementById('filter-rate').value;
+      const areaFilter = document.getElementById('filter-area').value;
+      let items = [...rawData];
+      if (!showHidden)  items = items.filter(m => !m.hidden);
+      if (q)          items = items.filter(m => m.name.toLowerCase().includes(q));
+      if (rateFilter) items = items.filter(m => m.dropChance === parseInt(rateFilter));
+      if (areaFilter) items = items.filter(m => m.area && m.area.includes(areaFilter));
       items.sort((a, b) => {
-        if (sort === 'name')       return a.name.localeCompare(b.name);
-        if (sort === 'rate-asc')   return a.dropChance - b.dropChance;
-        if (sort === 'rate-desc')  return b.dropChance - a.dropChance;
-        if (sort === 'max-asc')    return a.thresholds.max - b.thresholds.max;
-        if (sort === 'max-desc')   return b.thresholds.max - a.thresholds.max;
+        if (sort === 'id')          return a.id - b.id;
+        if (sort === 'name')        return a.name.localeCompare(b.name);
+        if (sort === 'rate-asc')    return a.dropChance - b.dropChance;
+        if (sort === 'rate-desc')   return b.dropChance - a.dropChance;
+        if (sort === 'kills-asc')   return a.thresholds.max - b.thresholds.max;
+        if (sort === 'kills-desc')  return b.thresholds.max - a.thresholds.max;
         return 0;
       });
-
       return items;
     }
 
-    document.getElementById('search').addEventListener('input', () => render(filtered()));
-    document.getElementById('sort').addEventListener('change', () => render(filtered()));
+    function refresh() { render(getFiltered()); }
 
-    init();
+    document.getElementById('search').addEventListener('input', refresh);
+    document.getElementById('sort').addEventListener('change', refresh);
+    document.getElementById('filter-rate').addEventListener('change', refresh);
+    document.getElementById('filter-area').addEventListener('change', refresh);
+    document.getElementById('hidden-toggle').addEventListener('change', e => {
+      showHidden = e.target.checked;
+      refresh();
+    });
+
+    const toggle     = document.getElementById('mobile-toggle');
+    const inner      = document.getElementById('sidebar-inner');
+    const toggleIcon = document.getElementById('toggle-icon');
+    toggle.addEventListener('click', () => {
+      inner.classList.toggle('hidden');
+      toggleIcon.style.transform = !inner.classList.contains('hidden') ? 'rotate(180deg)' : '';
+    });
+
+    fetch('data/cards.json')
+      .then(r => r.json())
+      .then(d => { rawData = d; refresh(); });
   </script>
 </body>
 </html>

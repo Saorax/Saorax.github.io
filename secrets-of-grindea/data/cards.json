@@ -1,434 +1,650 @@
-[
-  {
-    "id": 0,
-    "name": "Green Slime",
-    "image": "slime_green.png",
-    "dropChance": 500,
-    "baseRate": "0.2%",
-    "thresholds": { "first": 500, "second": 1000, "max": 1500 }
-  },
-  {
-    "id": 1,
-    "name": "Red Slime",
-    "image": "redslime.png",
-    "dropChance": 400,
-    "baseRate": "0.25%",
-    "thresholds": { "first": 400, "second": 800, "max": 1200 }
-  },
-  {
-    "id": 2,
-    "name": "Marino",
-    "image": null,
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 3,
-    "name": "Rabby",
-    "image": "Rabby.png",
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 4,
-    "name": "Mrs. Bee",
-    "image": "bee.png",
-    "dropChance": 100,
-    "baseRate": "1%",
-    "thresholds": { "first": 100, "second": 200, "max": 300 }
-  },
-  {
-    "id": 5,
-    "name": "Bloomo",
-    "image": "bloomi.png",
-    "dropChance": 125,
-    "baseRate": "0.8%",
-    "thresholds": { "first": 125, "second": 250, "max": 375 }
-  },
-  {
-    "id": 11,
-    "name": "Jumpkin",
-    "image": "jumpkin.png",
-    "dropChance": 500,
-    "baseRate": "0.2%",
-    "thresholds": { "first": 500, "second": 1000, "max": 1500 }
-  },
-  {
-    "id": 12,
-    "name": "Lantern Jack",
-    "image": "jacko.png",
-    "dropChance": 200,
-    "baseRate": "0.5%",
-    "thresholds": { "first": 200, "second": 400, "max": 600 }
-  },
-  {
-    "id": 13,
-    "name": "Ghosty",
-    "image": "ghosty.png",
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 14,
-    "name": "Scarecrow",
-    "image": "scarecrow.png",
-    "dropChance": 150,
-    "baseRate": "0.667%",
-    "thresholds": { "first": 150, "second": 300, "max": 450 }
-  },
-  {
-    "id": 15,
-    "name": "Halloweed",
-    "image": "halloweed.png",
-    "dropChance": 100,
-    "baseRate": "1%",
-    "thresholds": { "first": 100, "second": 200, "max": 300 }
-  },
-  {
-    "id": 21,
-    "name": "Boar",
-    "image": "boar.png",
-    "dropChance": 200,
-    "baseRate": "0.5%",
-    "thresholds": { "first": 200, "second": 400, "max": 600 }
-  },
-  {
-    "id": 22,
-    "name": "Wisp",
-    "image": "wisp.png",
-    "dropChance": 150,
-    "baseRate": "0.667%",
-    "thresholds": { "first": 150, "second": 300, "max": 450 }
-  },
-  {
-    "id": 23,
-    "name": "Guardian",
-    "image": "guardian.png",
-    "dropChance": 150,
-    "baseRate": "0.667%",
-    "thresholds": { "first": 150, "second": 300, "max": 450 }
-  },
-  {
-    "id": 24,
-    "name": "Brawler Bot",
-    "image": "brawler.png",
-    "dropChance": 400,
-    "baseRate": "0.25%",
-    "thresholds": { "first": 400, "second": 800, "max": 1200 }
-  },
-  {
-    "id": 25,
-    "name": "Pecko",
-    "image": "pecko.png",
-    "dropChance": 100,
-    "baseRate": "1%",
-    "thresholds": { "first": 100, "second": 200, "max": 300 }
-  },
-  {
-    "id": 30,
-    "name": "Blue Slime",
-    "image": "slime_blue.png",
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 31,
-    "name": "Frostling Rogue",
-    "image": "frostling_rogue.png",
-    "dropChance": 250,
-    "baseRate": "0.4%",
-    "thresholds": { "first": 250, "second": 500, "max": 750 }
-  },
-  {
-    "id": 32,
-    "name": "Frostling Scoundrel",
-    "image": "frostling_scoundrel.png",
-    "dropChance": 250,
-    "baseRate": "0.4%",
-    "thresholds": { "first": 250, "second": 500, "max": 750 }
-  },
-  {
-    "id": 33,
-    "name": "Yeti",
-    "image": "yeti.png",
-    "dropChance": 125,
-    "baseRate": "0.8%",
-    "thresholds": { "first": 125, "second": 250, "max": 375 }
-  },
-  {
-    "id": 34,
-    "name": "Gift",
-    "image": "gift.png",
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 35,
-    "name": "Present",
-    "image": "present.png",
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 37,
-    "name": "Pumpking",
-    "image": null,
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 45,
-    "name": "Summer Knight",
-    "image": "season_knight.png",
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 46,
-    "name": "Autumn Knight",
-    "image": "season_knight.png",
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 47,
-    "name": "Winter Knight",
-    "image": "season_knight.png",
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 48,
-    "name": "Winter Mage",
-    "image": "season_mage.png",
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 49,
-    "name": "Autumn Mage",
-    "image": "season_mage.png",
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 50,
-    "name": "Summer Mage",
-    "image": "season_mage.png",
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 59,
-    "name": "Spinsect",
-    "image": "spinsect.png",
-    "dropChance": 150,
-    "baseRate": "0.667%",
-    "thresholds": { "first": 150, "second": 300, "max": 450 }
-  },
-  {
-    "id": 60,
-    "name": "Shroomie",
-    "image": "mushroom.png",
-    "dropChance": 400,
-    "baseRate": "0.25%",
-    "thresholds": { "first": 400, "second": 800, "max": 1200 }
-  },
-  {
-    "id": 67,
-    "name": "Larvacid",
-    "image": "caterpillar.png",
-    "dropChance": 100,
-    "baseRate": "1%",
-    "thresholds": { "first": 100, "second": 200, "max": 300 }
-  },
-  {
-    "id": 69,
-    "name": "Toxic Tulip",
-    "image": "poisonflower.png",
-    "dropChance": 200,
-    "baseRate": "0.5%",
-    "thresholds": { "first": 200, "second": 400, "max": 600 }
-  },
-  {
-    "id": 73,
-    "name": "Thorn Worm",
-    "image": "thornworm.png",
-    "dropChance": 250,
-    "baseRate": "0.4%",
-    "thresholds": { "first": 250, "second": 500, "max": 750 }
-  },
-  {
-    "id": 74,
-    "name": "Ancient Statue",
-    "image": "ancientstatue.png",
-    "dropChance": 125,
-    "baseRate": "0.8%",
-    "thresholds": { "first": 125, "second": 250, "max": 375 }
-  },
-  {
-    "id": 75,
-    "name": "Plantae Hostilis",
-    "image": "plantaehostilis.png",
-    "dropChance": 250,
-    "baseRate": "0.4%",
-    "thresholds": { "first": 250, "second": 500, "max": 750 }
-  },
-  {
-    "id": 76,
-    "name": "Echo of Madness",
-    "image": "echo.png",
-    "dropChance": 160,
-    "baseRate": "0.625%",
-    "thresholds": { "first": 160, "second": 320, "max": 480 }
-  },
-  {
-    "id": 77,
-    "name": "Monkey",
-    "image": "monkey.png",
-    "dropChance": 200,
-    "baseRate": "0.5%",
-    "thresholds": { "first": 200, "second": 400, "max": 600 }
-  },
-  {
-    "id": 80,
-    "name": "Elder Boar",
-    "image": "boar.png",
-    "dropChance": 200,
-    "baseRate": "0.5%",
-    "thresholds": { "first": 200, "second": 400, "max": 600 }
-  },
-  {
-    "id": 95,
-    "name": "Cacute",
-    "image": "cacute.png",
-    "dropChance": 250,
-    "baseRate": "0.4%",
-    "thresholds": { "first": 250, "second": 500, "max": 750 }
-  },
-  {
-    "id": 96,
-    "name": "Sand Raven",
-    "image": "birdy.png",
-    "dropChance": 150,
-    "baseRate": "0.667%",
-    "thresholds": { "first": 150, "second": 300, "max": 450 }
-  },
-  {
-    "id": 97,
-    "name": "Orange Slime",
-    "image": "slime_orange.png",
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 98,
-    "name": "Solem",
-    "image": "solem.png",
-    "dropChance": 100,
-    "baseRate": "1%",
-    "thresholds": { "first": 100, "second": 200, "max": 300 }
-  },
-  {
-    "id": 102,
-    "name": "Carrot",
-    "image": "veggies.png",
-    "dropChance": 250,
-    "baseRate": "0.4%",
-    "thresholds": { "first": 250, "second": 500, "max": 750 }
-  },
-  {
-    "id": 103,
-    "name": "Tomato",
-    "image": "veggies.png",
-    "dropChance": 250,
-    "baseRate": "0.4%",
-    "thresholds": { "first": 250, "second": 500, "max": 750 }
-  },
-  {
-    "id": 104,
-    "name": "Lettuce",
-    "image": "veggies.png",
-    "dropChance": 250,
-    "baseRate": "0.4%",
-    "thresholds": { "first": 250, "second": 500, "max": 750 }
-  },
-  {
-    "id": 105,
-    "name": "Onion",
-    "image": "veggies.png",
-    "dropChance": 250,
-    "baseRate": "0.4%",
-    "thresholds": { "first": 250, "second": 500, "max": 750 }
-  },
-  {
-    "id": 106,
-    "name": "Living Veggies",
-    "image": "veggies.png",
-    "dropChance": 300,
-    "baseRate": "0.333%",
-    "thresholds": { "first": 300, "second": 600, "max": 900 }
-  },
-  {
-    "id": 108,
-    "name": "Skeleton Warrior",
-    "image": "skeletonwarrior.png",
-    "dropChance": 250,
-    "baseRate": "0.4%",
-    "thresholds": { "first": 250, "second": 500, "max": 750 }
-  },
-  {
-    "id": 109,
-    "name": "Skeleton Wizard",
-    "image": "skeletonmage.png",
-    "dropChance": 180,
-    "baseRate": "0.556%",
-    "thresholds": { "first": 180, "second": 360, "max": 540 }
-  },
-  {
-    "id": 110,
-    "name": "Crabby",
-    "image": "crabby.png",
-    "dropChance": 220,
-    "baseRate": "0.455%",
-    "thresholds": { "first": 220, "second": 440, "max": 660 }
-  },
-  {
-    "id": 111,
-    "name": "Hauntie",
-    "image": "hauntie.png",
-    "dropChance": 240,
-    "baseRate": "0.417%",
-    "thresholds": { "first": 240, "second": 480, "max": 720 }
-  },
-  {
-    "id": 129,
-    "name": "Elder Boar",
-    "image": "boar.png",
-    "dropChance": 200,
-    "baseRate": "0.5%",
-    "thresholds": { "first": 200, "second": 400, "max": 600 }
-  },
-  {
-    "id": 132,
-    "name": "Shruboss",
-    "image": null,
-    "dropChance": 250,
-    "baseRate": "0.4%",
-    "thresholds": { "first": 250, "second": 500, "max": 750 }
-  }
+﻿[{
+        "id": 0,
+        "name": "Green Slime",
+        "image": "slime_green.png",
+        "dropChance": 500,
+        "baseRate": "0.2%",
+        "thresholds": {
+            "first": 500,
+            "second": 1000,
+            "max": 1500
+        },
+        "area": ["Pumpkin Woods", "Evergrind", "Pillar Mountains"],
+        "cardBonus": "Items and coins gravitate towards you faster and from greater range"
+    },
+    {
+        "id": 1,
+        "name": "Red Slime",
+        "image": "redslime.png",
+        "dropChance": 400,
+        "baseRate": "0.25%",
+        "thresholds": {
+            "first": 400,
+            "second": 800,
+            "max": 1200
+        },
+        "area": ["Evergrind"],
+        "cardBonus": "Environmental slowing effects are 30% weaker on you"
+    },
+    {
+        "id": 2,
+        "name": "Marino",
+        "image": null,
+        "dropChance": 300,
+        "baseRate": "0.333%",
+        "thresholds": {
+            "first": 300,
+            "second": 600,
+            "max": 900
+        },
+        "area": ["Winterland"],
+        "hidden": true,
+        "cardBonus": "Your basic attack has a 5% chance to chill enemies"
+    },
+    {
+        "id": 3,
+        "name": "Rabby",
+        "image": "Rabby.png",
+        "dropChance": 300,
+        "baseRate": "0.333%",
+        "thresholds": {
+            "first": 300,
+            "second": 600,
+            "max": 900
+        },
+        "area": ["Pumpkin Woods", "Evergrind", "Pillar Mountains"],
+        "cardBonus": "+3 Attack Speed and Cast Speed"
+    },
+    {
+        "id": 4,
+        "name": "Mrs. Bee",
+        "image": "bee.png",
+        "dropChance": 100,
+        "baseRate": "1%",
+        "thresholds": {
+            "first": 100,
+            "second": 200,
+            "max": 300
+        },
+        "area": ["Pillar Mountains"],
+        "cardBonus": "+25 Max Shield HP"
+    },
+    {
+        "id": 5,
+        "name": "Bloomo",
+        "image": "bloomi.png",
+        "dropChance": 125,
+        "baseRate": "0.8%",
+        "thresholds": {
+            "first": 125,
+            "second": 250,
+            "max": 375
+        },
+        "area": ["Evergrind"],
+        "cardBonus": "+50 Max HP"
+    },
+    {
+        "id": 11,
+        "name": "Jumpkin",
+        "image": "jumpkin.png",
+        "dropChance": 500,
+        "baseRate": "0.2%",
+        "thresholds": {
+            "first": 500,
+            "second": 1000,
+            "max": 1500
+        },
+        "area": ["Hallo Forest"],
+        "cardBonus": "+15 ATK"
+    },
+    {
+        "id": 12,
+        "name": "Lantern Jack",
+        "image": "jacko.png",
+        "dropChance": 200,
+        "baseRate": "0.5%",
+        "thresholds": {
+            "first": 200,
+            "second": 400,
+            "max": 600
+        },
+        "area": ["Hallo Forest"],
+        "cardBonus": "+15 MATK"
+    },
+    {
+        "id": 13,
+        "name": "Ghosty",
+        "image": "ghosty.png",
+        "dropChance": 300,
+        "baseRate": "0.333%",
+        "thresholds": {
+            "first": 300,
+            "second": 600,
+            "max": 900
+        },
+        "area": ["Hallo Forest"],
+        "cardBonus": "+3 Crit Chance"
+    },
+    {
+        "id": 14,
+        "name": "Scarecrow",
+        "image": "scarecrow.png",
+        "dropChance": 150,
+        "baseRate": "0.667%",
+        "thresholds": {
+            "first": 150,
+            "second": 300,
+            "max": 450
+        },
+        "area": ["Hallo Forest"],
+        "cardBonus": "+4 DEF"
+    },
+    {
+        "id": 15,
+        "name": "Halloweed",
+        "image": "halloweed.png",
+        "dropChance": 100,
+        "baseRate": "1%",
+        "thresholds": {
+            "first": 100,
+            "second": 200,
+            "max": 300
+        },
+        "area": ["Hallo Forest"],
+        "cardBonus": "Health Orbs restore 15% more HP"
+    },
+    {
+        "id": 21,
+        "name": "Boar",
+        "image": "boar.png",
+        "dropChance": 200,
+        "baseRate": "0.5%",
+        "thresholds": {
+            "first": 200,
+            "second": 400,
+            "max": 600
+        },
+        "area": ["Evergrind"],
+        "cardBonus": "+15% movement speed while charging a skill"
+    },
+    {
+        "id": 22,
+        "name": "Wisp",
+        "image": "wisp.png",
+        "dropChance": 150,
+        "baseRate": "0.667%",
+        "thresholds": {
+            "first": 150,
+            "second": 300,
+            "max": 450
+        },
+        "area": ["Flying Fortress"],
+        "cardBonus": "Projectiles blocked by your shield deal 20% less damage"
+    },
+    {
+        "id": 23,
+        "name": "Guardian",
+        "image": "guardian.png",
+        "dropChance": 150,
+        "baseRate": "0.667%",
+        "thresholds": {
+            "first": 150,
+            "second": 300,
+            "max": 450
+        },
+        "area": ["Flying Fortress"],
+        "cardBonus": "+5 ATK, MATK, and DEF"
+    },
+    {
+        "id": 24,
+        "name": "Brawler Bot",
+        "image": "brawler.png",
+        "dropChance": 400,
+        "baseRate": "0.25%",
+        "thresholds": {
+            "first": 400,
+            "second": 800,
+            "max": 1200
+        },
+        "area": ["Flying Fortress"],
+        "cardBonus": "+4 Attack Speed"
+    },
+    {
+        "id": 25,
+        "name": "Pecko",
+        "image": "pecko.png",
+        "dropChance": 100,
+        "baseRate": "1%",
+        "thresholds": {
+            "first": 100,
+            "second": 200,
+            "max": 300
+        },
+        "area": ["Flying Fortress"],
+        "cardBonus": "+100 Max HP"
+    },
+    {
+        "id": 30,
+        "name": "Blue Slime",
+        "image": "slime_blue.png",
+        "dropChance": 300,
+        "baseRate": "0.333%",
+        "thresholds": {
+            "first": 300,
+            "second": 600,
+            "max": 900
+        },
+        "area": ["Winterland"],
+        "cardBonus": "Chill and Freeze effects you cause last 15% longer"
+    },
+    {
+        "id": 31,
+        "name": "Frostling Rogue",
+        "image": "frostling_rogue.png",
+        "dropChance": 250,
+        "baseRate": "0.4%",
+        "thresholds": {
+            "first": 250,
+            "second": 500,
+            "max": 750
+        },
+        "area": ["Winterland"],
+        "cardBonus": "Hitting enemies may cause them to drop coins"
+    },
+    {
+        "id": 32,
+        "name": "Frostling Scoundrel",
+        "image": "frostling_scoundrel.png",
+        "dropChance": 250,
+        "baseRate": "0.4%",
+        "thresholds": {
+            "first": 250,
+            "second": 500,
+            "max": 750
+        },
+        "area": ["Winterland"],
+        "cardBonus": "Projectiles deal 5% less damage to you"
+    },
+    {
+        "id": 33,
+        "name": "Yeti",
+        "image": "yeti.png",
+        "dropChance": 125,
+        "baseRate": "0.8%",
+        "thresholds": {
+            "first": 125,
+            "second": 250,
+            "max": 375
+        },
+        "area": ["Winterland"],
+        "cardBonus": "Your basic attack has a 5% chance to chill enemies"
+    },
+    {
+        "id": 34,
+        "name": "Gift",
+        "image": "gift.png",
+        "dropChance": 300,
+        "baseRate": "0.333%",
+        "thresholds": {
+            "first": 300,
+            "second": 600,
+            "max": 900
+        },
+        "area": ["Winterland"],
+        "cardBonus": "5% discount in all shops"
+    },
+    {
+        "id": 35,
+        "name": "Present",
+        "image": "present.png",
+        "dropChance": 300,
+        "baseRate": "0.333%",
+        "thresholds": {
+            "first": 300,
+            "second": 600,
+            "max": 900
+        },
+        "area": ["Winterland"],
+        "cardBonus": "All enemies have a chance to drop something special"
+    },
+    {
+        "id": 37,
+        "name": "Pumpking",
+        "image": null,
+        "dropChance": 300,
+        "baseRate": "0.333%",
+        "thresholds": {
+            "first": 300,
+            "second": 600,
+            "max": 900
+        },
+        "area": ["Hallo Forest"],
+        "hidden": true,
+        "cardBonus": "+3 Crit Chance"
+    },
+    {
+        "id": 54,
+        "name": "Mage of Seasons Card",
+        "image": "season_mage.png",
+        "dropChance": 300,
+        "baseRate": "0.333%",
+        "thresholds": {
+            "first": 300,
+            "second": 600,
+            "max": 900
+        },
+        "area": ["Season Change"],
+        "cardBonus": "+5 MATK, +5 Max EP, +5 Cast Speed"
+    },
+    {
+        "id": 55,
+        "name": "Knight of Seasons Card",
+        "image": "season_knight.png",
+        "dropChance": 300,
+        "baseRate": "0.333%",
+        "thresholds": {
+            "first": 300,
+            "second": 600,
+            "max": 900
+        },
+        "area": ["Season Change"],
+        "cardBonus": "+5 ATK, +4 DEF, +3 Attack Speed"
+    },
+    {
+        "id": 59,
+        "name": "Spinsect",
+        "image": "spinsect.png",
+        "dropChance": 150,
+        "baseRate": "0.667%",
+        "thresholds": {
+            "first": 150,
+            "second": 300,
+            "max": 450
+        },
+        "area": ["Mount Bloom"],
+        "cardBonus": "+5 DEF"
+    },
+    {
+        "id": 60,
+        "name": "Shroomie",
+        "image": "mushroom.png",
+        "dropChance": 400,
+        "baseRate": "0.25%",
+        "thresholds": {
+            "first": 400,
+            "second": 800,
+            "max": 1200
+        },
+        "area": ["Mount Bloom"],
+        "cardBonus": "While Blind, Crit Chance is increased by 25"
+    },
+    {
+        "id": 67,
+        "name": "Larvacid",
+        "image": "caterpillar.png",
+        "dropChance": 100,
+        "baseRate": "1%",
+        "thresholds": {
+            "first": 100,
+            "second": 200,
+            "max": 300
+        },
+        "area": ["Mount Bloom"],
+        "cardBonus": "When below 20% HP, Attack Speed and Cast Speed +10"
+    },
+    {
+        "id": 69,
+        "name": "Toxic Tulip",
+        "image": "poisonflower.png",
+        "dropChance": 200,
+        "baseRate": "0.5%",
+        "thresholds": {
+            "first": 200,
+            "second": 400,
+            "max": 600
+        },
+        "area": ["Mount Bloom"],
+        "cardBonus": "Debuffs inflicted on you have 15% shorter duration"
+    },
+    {
+        "id": 73,
+        "name": "Thorn Worm",
+        "image": "thornworm.png",
+        "dropChance": 250,
+        "baseRate": "0.4%",
+        "thresholds": {
+            "first": 250,
+            "second": 500,
+            "max": 750
+        },
+        "area": ["Tai Ming"],
+        "cardBonus": "Enemies hitting you with melee attacks take reflected damage"
+    },
+    {
+        "id": 74,
+        "name": "Ancient Statue",
+        "image": "ancientstatue.png",
+        "dropChance": 125,
+        "baseRate": "0.8%",
+        "thresholds": {
+            "first": 125,
+            "second": 250,
+            "max": 375
+        },
+        "area": ["Tai Ming"],
+        "cardBonus": "+6 DEF"
+    },
+    {
+        "id": 75,
+        "name": "Plantae Hostilis",
+        "image": "plantaehostilis.png",
+        "dropChance": 250,
+        "baseRate": "0.4%",
+        "thresholds": {
+            "first": 250,
+            "second": 500,
+            "max": 750
+        },
+        "area": ["Tai Ming"],
+        "cardBonus": "+5 Max EP"
+    },
+    {
+        "id": 76,
+        "name": "Echo of Madness",
+        "image": "echo.png",
+        "dropChance": 160,
+        "baseRate": "0.625%",
+        "thresholds": {
+            "first": 160,
+            "second": 320,
+            "max": 480
+        },
+        "area": ["Tai Ming"],
+        "cardBonus": "Deal increased damage to enemies with high DEF"
+    },
+    {
+        "id": 77,
+        "name": "Monkey",
+        "image": "monkey.png",
+        "dropChance": 200,
+        "baseRate": "0.5%",
+        "thresholds": {
+            "first": 200,
+            "second": 400,
+            "max": 600
+        },
+        "area": ["Tai Ming"],
+        "cardBonus": "Increased drop rate for edible items (honey, bananas, etc.)"
+    },
+    {
+        "id": 80,
+        "name": "Elite Boar",
+        "image": "boar.png",
+        "dropChance": 200,
+        "baseRate": "0.5%",
+        "thresholds": {
+            "first": 200,
+            "second": 400,
+            "max": 600
+        },
+        "area": ["Tai Ming"],
+        "hidden": true,
+        "cardBonus": "+15% movement speed while charging a skill"
+    },
+    {
+        "id": 95,
+        "name": "Cacute",
+        "image": "cacute.png",
+        "dropChance": 250,
+        "baseRate": "0.4%",
+        "thresholds": {
+            "first": 250,
+            "second": 500,
+            "max": 750
+        },
+        "area": ["Desert"],
+        "cardBonus": "Wand projectiles travel faster and farther"
+    },
+    {
+        "id": 96,
+        "name": "Sand Raven",
+        "image": "birdy.png",
+        "dropChance": 150,
+        "baseRate": "0.667%",
+        "thresholds": {
+            "first": 150,
+            "second": 300,
+            "max": 450
+        },
+        "area": ["Desert"],
+        "cardBonus": "Slowing effects impair you 15% less"
+    },
+    {
+        "id": 97,
+        "name": "Orange Slime",
+        "image": "slime_orange.png",
+        "dropChance": 300,
+        "baseRate": "0.333%",
+        "thresholds": {
+            "first": 300,
+            "second": 600,
+            "max": 900
+        },
+        "area": ["Desert"],
+        "cardBonus": "Basic attacks grant +1 Attack Speed for 5s (stacks up to 10x)"
+    },
+    {
+        "id": 98,
+        "name": "Solem",
+        "image": "solem.png",
+        "dropChance": 100,
+        "baseRate": "1%",
+        "thresholds": {
+            "first": 100,
+            "second": 200,
+            "max": 300
+        },
+        "area": ["Desert"],
+        "cardBonus": "Your shield can survive one extra hit every 20 seconds"
+    },
+    {
+        "id": 106,
+        "name": "Living Veggies",
+        "image": "veggies.png",
+        "dropChance": 300,
+        "baseRate": "0.333%",
+        "thresholds": {
+            "first": 300,
+            "second": 600,
+            "max": 900
+        },
+        "area": ["Desert"],
+        "cardBonus": "+5% Potion recharge rate"
+    },
+    {
+        "id": 108,
+        "name": "Skeleton Warrior",
+        "image": "skeletonwarrior.png",
+        "dropChance": 250,
+        "baseRate": "0.4%",
+        "thresholds": {
+            "first": 250,
+            "second": 500,
+            "max": 750
+        },
+        "area": ["Ghost Ship"],
+        "cardBonus": "Basic attacks deal 5% more damage"
+    },
+    {
+        "id": 109,
+        "name": "Skeleton Wizard",
+        "image": "skeletonmage.png",
+        "dropChance": 180,
+        "baseRate": "0.556%",
+        "thresholds": {
+            "first": 180,
+            "second": 360,
+            "max": 540
+        },
+        "area": ["Ghost Ship"],
+        "cardBonus": "EP Regen increased by 20% while charging spells"
+    },
+    {
+        "id": 110,
+        "name": "Crabby",
+        "image": "crabby.png",
+        "dropChance": 220,
+        "baseRate": "0.455%",
+        "thresholds": {
+            "first": 220,
+            "second": 440,
+            "max": 660
+        },
+        "area": ["Ghost Ship"],
+        "cardBonus": "+10 DEF while shielding"
+    },
+    {
+        "id": 111,
+        "name": "Hauntie",
+        "image": "hauntie.png",
+        "dropChance": 240,
+        "baseRate": "0.417%",
+        "thresholds": {
+            "first": 240,
+            "second": 480,
+            "max": 720
+        },
+        "area": ["Ghost Ship"],
+        "cardBonus": "2% chance to dodge attacks"
+    },
+    {
+        "id": 129,
+        "name": "Elder Boar",
+        "image": "boar.png",
+        "dropChance": 200,
+        "baseRate": "0.5%",
+        "thresholds": {
+            "first": 200,
+            "second": 400,
+            "max": 600
+        },
+        "area": ["Story"],
+        "hidden": true,
+        "cardBonus": null
+    },
+    {
+        "id": 132,
+        "name": "Shruboss",
+        "image": null,
+        "dropChance": 250,
+        "baseRate": "0.4%",
+        "thresholds": {
+            "first": 250,
+            "second": 500,
+            "max": 750
+        },
+        "area": ["Mount Bloom"],
+        "hidden": true,
+        "cardBonus": null
+    }
 ]
