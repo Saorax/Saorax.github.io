@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Color Scheme Luminance</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <section class="panel">
+        <h1>Color Scheme Luminance</h1>
+        <div class="controls">
+          <label for="neutral">Neutral HEX</label>
+          <div class="input-row">
+            <input id="neutral" type="text" value="CF1F31" maxlength="6" />
+            <input id="neutralPicker" type="color" value="#CF1F31" aria-label="Neutral color picker" />
+            <button id="generate" type="button">Generate</button>
+          </div>
+          <p id="error" class="error" aria-live="polite"></p>
+        </div>
+
+        <div class="preview-wrap">
+          <div class="tile-grid" id="tileGrid"></div>
+        </div>
+
+        <section class="meta">
+          <h2>Luminance Averages</h2>
+          <p class="meta-sub">Average luminance delta of all current Brawlhalla Color Swaps variables</p>
+          <div class="avg-grid">
+            <div class="avg-card"><span>VL</span><strong>+71</strong></div>
+            <div class="avg-card"><span>Lt</span><strong>+37</strong></div>
+            <div class="avg-card"><span>Dk</span><strong>-41</strong></div>
+            <div class="avg-card"><span>VD</span><strong>-67</strong></div>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+  </html>
